@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:11Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611283" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611283</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Comment on &quot;The Free Will Theorem&quot;</dc:title>
+ <dc:creator>Tumulka, Roderich</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In a recent paper [quant-ph/0604079], Conway and Kochen claim to have
+established that theories of the GRW type, i.e., of spontaneous wave function
+collapse, cannot be made relativistic. On the other hand, relativistic GRW-type
+theories have already been presented, in my recent paper [quant-ph/0406094] and
+by Dowker and Henson [J. Statist. Phys. 115: 1327 (2004), quant-ph/0209051].
+Here, I elucidate why these are not excluded by the arguments of Conway and
+Kochen.
+</dc:description>
+ <dc:description>Comment: 10 pages LaTeX, no figures; v2 minor improvements</dc:description>
+ <dc:date>2006-11-29</dc:date>
+ <dc:date>2006-12-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611283</dc:identifier>
+ <dc:identifier>Found. Phys. 37 (2007) 186-197</dc:identifier>
+ <dc:identifier>doi:10.1007/s10701-006-9098-0</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

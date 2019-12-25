@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:25Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310144" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310144</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum Cryptography: Security Criteria Reexamined</dc:title>
+ <dc:creator>Kaszlikowski, Dagomir</dc:creator>
+ <dc:creator>Gopinathan, Ajay</dc:creator>
+ <dc:creator>Liang, Yeong Cherng</dc:creator>
+ <dc:creator>Kwek, L. C.</dc:creator>
+ <dc:creator>Englert, Berthold-Georg</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We find that the generally accepted security criteria are flawed for a whole
+class of protocols for quantum cryptography. This is so because a standard
+assumption of the security analysis, namely that the so-called square-root
+measurement is optimal for eavesdropping purposes, is not true in general.
+There are rather large parameter regimes in which the optimal measurement
+extracts substantially more information than the square-root measurement.
+</dc:description>
+ <dc:description>Comment: 4 pages, 4 figures. No substantial changes. Updated version as
+  published in PRA</dc:description>
+ <dc:date>2003-10-23</dc:date>
+ <dc:date>2004-09-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310144</dc:identifier>
+ <dc:identifier>Physical Review A, vol. 70, art. 032306 (5 pages) (2004)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.70.032306</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

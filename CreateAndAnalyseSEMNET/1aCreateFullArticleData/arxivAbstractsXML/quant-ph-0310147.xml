@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:29Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310147" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310147</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Representations of Coherent States in Non-orthogonal Bases</dc:title>
+ <dc:creator>Ali, S. Twareque</dc:creator>
+ <dc:creator>Roknizadeh, R.</dc:creator>
+ <dc:creator>Tavassoly, M. K.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  Starting with the canonical coherent states, we demonstrate that all the
+so-called nonlinear coherent states, used in the physical literature, as well
+as large classes of other generalized coherent states, can be obtained by
+changes of bases in the underlying Hilbert space. This observation leads to an
+interesting duality between pairs of generalized coherent states, bringing into
+play a Gelfand triple of (rigged) Hilbert spaces. Moreover, it is shown that in
+each dual pair of families of nonlinear coherent states, at least one family is
+related to a (generally) non-unitary projective representation of the
+Weyl-Heisenberg group, which can then be thought of as characterizing the dual
+pair.
+</dc:description>
+ <dc:date>2003-10-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310147</dc:identifier>
+ <dc:identifier>doi:10.1088/0305-4470/37/15/009</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

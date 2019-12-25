@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:23:21Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0506269" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0506269</identifier>
+ <datestamp>2009-11-11</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Linear Optics C-Phase gate made simple</dc:title>
+ <dc:creator>Kiesel, Nikolai</dc:creator>
+ <dc:creator>Schmid, Christian</dc:creator>
+ <dc:creator>Weber, Ulrich</dc:creator>
+ <dc:creator>Ursin, Rupert</dc:creator>
+ <dc:creator>Weinfurter, Harald</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Linear optics quantum logic gates are the best tool to generate multi-photon
+entanglement. Simplifying a recent approach [Phys. Rev. A 65, 062324; Phys.
+Rev. A 66, 024308] we were able to implement the conditional phase gate with
+only one second order interference at a polarization dependent beam splitter,
+thereby significantly increasing its stability. The improved quality of the
+gate is evaluated by analysing its entangling capability and by performing full
+process tomography. The achieved results ensure that this device is well suited
+for implementation in various multi photon quantum information protocols.
+</dc:description>
+ <dc:description>Comment: 5 pages, 4 figures</dc:description>
+ <dc:date>2005-06-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0506269</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.95.210505</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

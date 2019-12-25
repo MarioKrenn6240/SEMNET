@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:03:43Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0409216" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0409216</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Stairway Quantum Computer</dc:title>
+ <dc:creator>Vlasov, Alexander Yu.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In the paper is considered stairway-like design of quantum computer, i.e.,
+array of double quantum dots or wells. The model is quite general to include
+wide variety of physical systems from coupled quantum dots in experiments with
+solid state qubits, to very complex one, like DNA molecule. At the same time it
+is concrete enough, to describe main physical principles for implementation of
+universal set of quantum gates, initialization, measurement, decoherence, etc.
+</dc:description>
+ <dc:description>Comment: LaTeX, 17 pages, 23 eps files (color figures)</dc:description>
+ <dc:date>2004-09-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0409216</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

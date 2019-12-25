@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:23Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310143" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310143</identifier>
+ <datestamp>2015-06-26</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spheroidal analysis of the generalized MIC-Kepler system</dc:title>
+ <dc:creator>Mardoyan, Levon</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  This paper deals with the dynamical system that generalizes the MIC-Kepler
+system. It is shown that the Schr\&quot;{o}dinger equation for this generalized
+MIC-Kepler system can be separated in prolate spheroidal coordinates. The
+coefficients of the interbasis expansions between three bases (spherical,
+parabolic and spheroidal) are studied in detail. It is found that the
+coefficients for this expansion of the parabolic basis in terms of the
+spherical basis, and vice-versa, can be expresses through the Clebsch-Gordan
+coefficients for the group SU(2) analytically continued to real values of their
+arguments. The coefficients for the expansions of the prolate spheroidal basis
+in terms of the spherical and parabolic bases are proved to satisfy three-term
+recursion relations.
+</dc:description>
+ <dc:description>Comment: 12 pages</dc:description>
+ <dc:date>2003-10-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310143</dc:identifier>
+ <dc:identifier>Phys.Atom.Nucl. 68 (2005) 1746-1755; Yad.Fiz. 68 (2005) 1808-1816</dc:identifier>
+ <dc:identifier>doi:10.1134/1.2121925</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

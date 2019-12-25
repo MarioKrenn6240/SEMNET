@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:52Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410019" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410019</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Giant nonlinearity and entanglement of single photons in photonic
+  bandgap structures</dc:title>
+ <dc:creator>Friedler, I.</dc:creator>
+ <dc:creator>Kurizki, G.</dc:creator>
+ <dc:creator>Petrosyan, D.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Giantly enhanced cross-phase modulation with suppressed spectral broadening
+is predicted between optically-induced dark-state polaritons whose propagation
+is strongly affected by photonic bandgaps of spatially periodic media with
+multilevel dopants. This mechanism is shown to be capable of fully entangling
+two single-photon pulses with high fidelity.
+</dc:description>
+ <dc:description>Comment: 7 pages, 1 figure</dc:description>
+ <dc:date>2004-10-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410019</dc:identifier>
+ <dc:identifier>doi:10.1209/epl/i2004-10260-0</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

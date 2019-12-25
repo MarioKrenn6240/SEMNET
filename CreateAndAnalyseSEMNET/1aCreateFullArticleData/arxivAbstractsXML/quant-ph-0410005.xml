@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:33Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410005" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410005</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum Information Processing and Entanglement in Solid State Devices</dc:title>
+ <dc:creator>Kawabata, Shiro</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  Control over electron-spin states, such as coherent manipulation, filtering
+and measurement promises access to new technologies in conventional as well as
+in quantum computation and quantum communication. In this paper, we review
+recent theoretical proposal of using electron spins in quantum confined
+structures as qubits. We also present a theoretical proposal for testing Bell's
+inequality in nano-electronics devices. We show that the entanglement of two
+electron spins can be detected in the spin filter effect in the nanostructure
+semiconductor / ferromagnetic semiconductor / semiconductor junction. In
+particular, we show how to test Bell's inequality via the measurement of the
+current-current correlation function in this setup.
+</dc:description>
+ <dc:description>Comment: 7 pages, 5 figures</dc:description>
+ <dc:date>2004-10-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410005</dc:identifier>
+ <dc:identifier>Science and Technology of Advanced Materials 5 (2004) 295-299</dc:identifier>
+ <dc:identifier>doi:10.1016/j.stam.2003.11.011</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

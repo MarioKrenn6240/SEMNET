@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:08Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611281" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611281</identifier>
+ <datestamp>2015-06-26</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Decoherence Control in Open Quantum System via Classical Feedback</dc:title>
+ <dc:creator>Ganesan, Narayan</dc:creator>
+ <dc:creator>Tarn, Tzyh Jong</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In this work we propose a novel strategy using techniques from systems theory
+to completely eliminate decoherence and also provide conditions under which it
+can be done so. A novel construction employing an auxiliary system, the bait,
+which is instrumental to decoupling the system from the environment is
+presented. Our approach to decoherence control in contrast to other approaches
+in the literature involves the bilinear input affine model of quantum control
+system which lends itself to various techniques from classical control theory,
+but with non-trivial modifications to the quantum regime. The elegance of this
+approach yields interesting results on open loop decouplability and Decoherence
+Free Subspaces(DFS). Additionally, the feedback control of decoherence may be
+related to disturbance decoupling for classical input affine systems, which
+entails careful application of the methods by avoiding all the quantum
+mechanical pitfalls. In the process of calculating a suitable feedback the
+system has to be restructured due to its tensorial nature of interaction with
+the environment, which is unique to quantum systems. The results are
+qualitatively different and superior to the ones obtained via master equations.
+Finally, a methodology to synthesize feedback parameters itself is given, that
+technology permitting, could be implemented for practical 2-qubit systems to
+perform decoherence free Quantum Computing.
+</dc:description>
+ <dc:description>Comment: 17 pages, 4 Figs</dc:description>
+ <dc:date>2006-11-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611281</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.75.032323</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

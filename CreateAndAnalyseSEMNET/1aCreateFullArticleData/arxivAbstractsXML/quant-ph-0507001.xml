@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:09:55Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0507001" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0507001</identifier>
+ <datestamp>2015-06-26</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Undecidable classical properties of observers</dc:title>
+ <dc:creator>Aerts, Sven</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  A property of a system is called actual, if the observation of the test that
+pertains to that property, yields an affirmation with certainty. We formalize
+the act of observation by assuming that the outcome correlates with the state
+of the observed system and is codified as an actual property of the state of
+the observer at the end of the measurement interaction. For an actual property,
+the observed outcome has to affirm that property with certainty, hence in this
+case the correlation needs to be perfect. A property is called classical if
+either the property or its negation is actual. It is shown by a diagonal
+argument that there exist classical properties of an observer that he cannot
+observe perfectly. Because states are identified with the collection of
+properties that are actual for that state, it follows that no observer can
+perfectly observe his own state. Implications for the quantum measurement
+problem are briefly discussed.
+</dc:description>
+ <dc:description>Comment: 12 pages, Worked out version of the first part of a talk given at the
+  IQSA conference in Denver, 2004. To appear in Int. J. Theor. Phys</dc:description>
+ <dc:date>2005-06-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0507001</dc:identifier>
+ <dc:identifier>doi:10.1007/s10773-005-9008-9</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

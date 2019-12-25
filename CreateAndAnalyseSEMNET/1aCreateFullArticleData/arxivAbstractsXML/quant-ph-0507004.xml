@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:09:59Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0507004" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0507004</identifier>
+ <datestamp>2009-11-11</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Large N Scaling Behavior of the Lipkin-Meshkov-Glick Model</dc:title>
+ <dc:creator>Leyvraz, F</dc:creator>
+ <dc:creator>Heiss, WD</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We introduce a novel semiclassical approach to the Lipkin model. In this way
+the well-known phase transition arising at the critical value of the coupling
+is intuitively understood. New results -- showing for strong couplings the
+existence of a threshold energy which separates deformed from undeformed states
+as well as the divergence of the density of states at the threshold energy --
+are explained straightforwardly and in quantitative terms by the appearance of
+a double well structure in a classical system corresponding to the Lipkin
+model. Previously unnoticed features of the eigenstates near the threshold
+energy are also predicted and found to hold.
+</dc:description>
+ <dc:description>Comment: 4 pages, 2 figures, to appear in PRL</dc:description>
+ <dc:date>2005-07-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0507004</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.95.050402</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:23:19Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0506267" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0506267</identifier>
+ <datestamp>2009-11-11</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optimal estimation of group transformations using entanglement</dc:title>
+ <dc:creator>Chiribella, G.</dc:creator>
+ <dc:creator>D'Ariano, G. M.</dc:creator>
+ <dc:creator>Sacchi, M. F.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We derive the optimal input states and the optimal quantum measurements for
+estimating the unitary action of a given symmetry group, showing how the
+optimal performance is obtained with a suitable use of entanglement. Optimality
+is defined in a Bayesian sense, as minimization of the average value of a given
+cost function. We introduce a class of cost functions that generalizes the
+Holevo class for phase estimation, and show that for states of the optimal form
+all functions in such a class lead to the same optimal measurement. A first
+application of the main result is the complete proof of the optimal efficiency
+in the transmission of a Cartesian reference frame. As a second application, we
+derive the optimal estimation of a completely unknown two-qubit maximally
+entangled state, provided that N copies of the state are available. In the
+limit of large N, the fidelity of the optimal estimation is shown to be
+1-3/(4N).
+</dc:description>
+ <dc:description>Comment: 11 pages, no figures</dc:description>
+ <dc:date>2005-06-30</dc:date>
+ <dc:date>2005-08-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0506267</dc:identifier>
+ <dc:identifier>Phys. Rev. A 72 042338 (2005)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.72.042338</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

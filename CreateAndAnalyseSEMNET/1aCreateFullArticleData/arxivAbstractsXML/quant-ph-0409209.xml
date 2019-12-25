@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:03:34Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0409209" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0409209</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the use of the group SO(4,2) in atomic and molecular physics</dc:title>
+ <dc:creator>Kibler, Maurice Robert</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  In this paper the dynamical noninvariance group SO(4,2) for a hydrogen-like
+atom is derived through two different approaches. The first one is by an
+established traditional ascent process starting from the symmetry group SO(3).
+This approach is presented in a mathematically oriented original way with a
+special emphasis on maximally superintegrable systems, N-dimensional extension
+and little groups. The second approach is by a new symmetry descent process
+starting from the noninvariance dynamical group Sp(8,R) for a four-dimensional
+harmonic oscillator. It is based on the little known concept of a Lie algebra
+under constraints and corresponds in some sense to a symmetry breaking
+mechanism. This paper ends with a brief discussion of the interest of SO(4,2)
+for a new group-theoretical approach to the periodic table of chemical
+elements. In this connection, a general ongoing programme based on the use of a
+complete set of commuting operators is briefly described. It is believed that
+the present paper could be useful not only to the atomic and molecular
+community but also to people working in theoretical and mathematical physics.
+</dc:description>
+ <dc:description>Comment: 31 pages</dc:description>
+ <dc:date>2004-09-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0409209</dc:identifier>
+ <dc:identifier>Molecular Physics 102 (2004) 1221</dc:identifier>
+ <dc:identifier>doi:10.1080/00268970410001728690</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

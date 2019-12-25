@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:00Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611275" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611275</identifier>
+ <datestamp>2007-10-29</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum Thermodynamic Cycles and quantum heat engines</dc:title>
+ <dc:creator>Quan, H. T.</dc:creator>
+ <dc:creator>Liu, Yu-xi</dc:creator>
+ <dc:creator>Sun, C. P.</dc:creator>
+ <dc:creator>Nori, Franco</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In order to describe quantum heat engines, here we systematically study
+isothermal and isochoric processes for quantum thermodynamic cycles. Based on
+these results the quantum versions of both the Carnot heat engine and the Otto
+heat engine are defined without ambiguities. We also study the properties of
+quantum Carnot and Otto heat engines in comparison with their classical
+counterparts. Relations and mappings between these two quantum heat engines are
+also investigated by considering their respective quantum thermodynamic
+processes. In addition, we discuss the role of Maxwell's demon in quantum
+thermodynamic cycles. We find that there is no violation of the second law,
+even in the existence of such a demon, when the demon is included correctly as
+part of the working substance of the heat engine.
+</dc:description>
+ <dc:description>Comment: 17 pages, 9 figures, 4 tables</dc:description>
+ <dc:date>2006-11-28</dc:date>
+ <dc:date>2007-04-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611275</dc:identifier>
+ <dc:identifier>Phys. Rev. E 76. 031105 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevE.76.031105</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

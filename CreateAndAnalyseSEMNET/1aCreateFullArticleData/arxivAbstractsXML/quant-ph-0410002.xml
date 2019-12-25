@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:29Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410002" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410002</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Modeling and Simulations of a Single-Spin Measurement using MRFM</dc:title>
+ <dc:creator>Berman, G. P.</dc:creator>
+ <dc:creator>Borgonovi, F.</dc:creator>
+ <dc:creator>Gorshkov, V. N.</dc:creator>
+ <dc:creator>Tsifrinovich, V. I.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:subject>Condensed Matter - Other Condensed Matter</dc:subject>
+ <dc:description>  We review the quantum theory of a single spin magnetic resonance force
+microscopy (MRFM). We concentrate on the novel technique called oscillating
+cantilever-driven adiabatic reversals (OSCAR), which has been used for a single
+spin detection (Dan Rugar, Talk on the 2004 IEEE NTC Quantum Device Technology
+Workshop). First we describe the quantum dynamics of the cantilever-spin system
+using simple estimates in the spirit of the mean field approximation. Then we
+present the results of our computer simulations of the Schrodinger equation for
+the wave function of the cantilever-spin system and of the master equation for
+the density matrix of the system. We demonstrate that the cantilever behaves
+like a quasi-classical measurement device which detects the spin projection
+along the effective magnetic field. We show that the OSCAR technique provides
+continuous monitoring of the single spin, which could be used to detect the
+mysterious quantum collapses of the wave function of the cantilever-spin
+system.
+</dc:description>
+ <dc:description>Comment: 8 pages, 7 figures</dc:description>
+ <dc:date>2004-09-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410002</dc:identifier>
+ <dc:identifier>doi:10.1109/TNANO.2004.840143</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

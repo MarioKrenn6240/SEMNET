@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:50:56Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611272" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611272</identifier>
+ <datestamp>2007-07-04</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Improving information/disturbance and estimation/distortion trade-offs
+  with non universal protocols</dc:title>
+ <dc:creator>Olivares, Stefano</dc:creator>
+ <dc:creator>Paris, Matteo G. A.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We analyze in details a conditional measurement scheme based on linear
+optical components, feed-forward loop and homodyne detection. The scheme may be
+used to achieve two different tasks. On the one hand it allows the extraction
+of information with minimum disturbance about a set of coherent states. On the
+other hand, it represents a nondemolitive measurement scheme for the
+annihilation operator, i.e. an indirect measurement of the Q-function. We
+investigate the information/disturbance trade-off for state inference and
+introduce the estimation/distortion trade-off to assess estimation of the
+Q-function. For coherent states chosen from a Gaussian set we evaluate both
+information/disturbance and estimation/distortion trade-offs and found that non
+universal protocols may be optimized in order to achieve better performances
+than universal ones. For Fock number states we prove that universal protocols
+do not exist and evaluate the estimation/distortion trade-off for a thermal
+distribution.
+</dc:description>
+ <dc:description>Comment: 10 pages, 6 figures; published version</dc:description>
+ <dc:date>2006-11-28</dc:date>
+ <dc:date>2007-07-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611272</dc:identifier>
+ <dc:identifier>J. Phys. A 40, 7945 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1088/1751-8113/40/28/S05</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

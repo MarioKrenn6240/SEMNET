@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:15Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611286" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611286</identifier>
+ <datestamp>2009-03-18</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Intrinsic unsharpness and approximate repeatability of quantum
+  measurements</dc:title>
+ <dc:creator>Carmeli, C.</dc:creator>
+ <dc:creator>Heinonen, T.</dc:creator>
+ <dc:creator>Toigo, A.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The intrinsic unsharpness of a quantum observable is studied by introducing
+the notion of resolution width. This quantification of accuracy is shown to be
+closely connected with the possibility of making approximately repeatable
+measurements. As a case study, the intrinsic unsharpness and approximate
+repeatability of position and momentum measurements are examined in detail.
+</dc:description>
+ <dc:description>Comment: Proposition 22 has been modified and some minor corrections has been
+  made</dc:description>
+ <dc:date>2006-11-29</dc:date>
+ <dc:date>2006-12-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611286</dc:identifier>
+ <dc:identifier>J. Phys. A: Math. Theor. 40 (2007) 1303-1323.</dc:identifier>
+ <dc:identifier>doi:10.1088/1751-8113/40/6/008</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

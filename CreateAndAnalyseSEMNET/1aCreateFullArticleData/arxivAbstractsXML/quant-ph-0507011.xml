@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:10:08Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0507011" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0507011</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Realism in the Realized Popper's Experiment</dc:title>
+ <dc:creator>Hunter, Geoffrey</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The realization of Karl Popper's EPR-like experiment by Shih and Kim
+(published 1999) produced the result that Popper hoped for: no ``action at a
+distance'' on one photon of an entangled pair when a measurement is made on the
+other photon. This experimental result is interpretable in local realistic
+terms: each photon has a definite position and transverse momentum most of the
+time; the position measurement on one photon (localization within a slit)
+disturbs the transverse momentum of that photon in a non-predictable way in
+accordance with the uncertainty principle; however, there is no effect on the
+other photon (the photon that is not in a slit) no action at a distance. The
+position measurement (localization within a slit) of the one photon destroys
+the entanglement between the photons; i.e. decoherence occurs.
+</dc:description>
+ <dc:description>Comment: 6 pages as published in the AIP Proceedings</dc:description>
+ <dc:date>2005-07-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0507011</dc:identifier>
+ <dc:identifier>AIP Proceedings of the 2002 MRST Conference, Waterloo, Ontario</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

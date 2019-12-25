@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:01Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611276" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611276</identifier>
+ <datestamp>2010-01-18</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Efficient Dynamic Nuclear Polarization at High Magnetic Fields</dc:title>
+ <dc:creator>Morley, Gavin W.</dc:creator>
+ <dc:creator>van Tol, Johan</dc:creator>
+ <dc:creator>Ardavan, Arzhang</dc:creator>
+ <dc:creator>Porfyrakis, Kyriakos</dc:creator>
+ <dc:creator>Zhang, Jinying</dc:creator>
+ <dc:creator>Briggs, G. Andrew D.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Physics - Chemical Physics</dc:subject>
+ <dc:description>  By applying a new technique for dynamic nuclear polarization involving
+simultaneous excitation of electronic and nuclear transitions, we have enhanced
+the nuclear polarization of the nitrogen nuclei in 15N@C60 by a factor of 1000
+at a fixed temperature of 3 K and a magnetic field of 8.6 T, more than twice
+the maximum enhancement reported to date. This methodology will allow the
+initialization of the nuclear qubit in schemes exploiting N@C60 molecules as
+components of a quantum information processing device.
+</dc:description>
+ <dc:description>Comment: 9 pages, 5 figures</dc:description>
+ <dc:date>2006-11-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611276</dc:identifier>
+ <dc:identifier>Phys.Rev.Lett.98:220501,2007</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.98.220501</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

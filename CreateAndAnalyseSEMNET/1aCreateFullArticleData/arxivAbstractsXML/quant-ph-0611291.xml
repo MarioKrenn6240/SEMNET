@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:22Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611291" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611291</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Strong electromagnetically induced transparency in atomic media with
+  large residual Doppler broadening</dc:title>
+ <dc:creator>de Araujo, Luis E. E.</dc:creator>
+ <dc:creator>Carvalho, Silvania A.</dc:creator>
+ <dc:creator>Soares, Luciano S.</dc:creator>
+ <dc:creator>Soares, Antonio A.</dc:creator>
+ <dc:creator>Mirage, Armando</dc:creator>
+ <dc:creator>Pereira, Daniel</dc:creator>
+ <dc:creator>Cruz, Flavio C.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Electromagnetically induced transparency and coherent population trapping
+were observed in a hot (1000 K) calcium vapor embedded into an electrical gas
+discharge. Unexpectedly large transparencies (of up to 70%) were observed under
+very unfavorable conditions: probe wavelength shorter than the coupling
+wavelength, and coupling Rabi frequency significantly smaller than the residual
+Doppler linewidth of the two photon transition. We developed a theoretical
+model that shows that the observed results are due to the combined effects of a
+strong probe beam and a small open character of the atomic system. Coherent
+population trapping also manifests itself as a change in the impedance of the
+gas discharge, and the phenomenon can be probed with high sensitivity via the
+optogalvanic effect.
+</dc:description>
+ <dc:description>Comment: 5 pages, 3 figures</dc:description>
+ <dc:date>2006-11-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611291</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

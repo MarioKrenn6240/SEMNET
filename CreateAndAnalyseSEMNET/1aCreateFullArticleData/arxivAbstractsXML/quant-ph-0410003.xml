@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:30Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410003" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410003</identifier>
+ <datestamp>2015-06-26</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum Diagonalization Method in the Tavis-Cummings Model</dc:title>
+ <dc:creator>Fujii, Kazuyuki</dc:creator>
+ <dc:creator>Higashida, Kyoko</dc:creator>
+ <dc:creator>Kato, Ryosuke</dc:creator>
+ <dc:creator>Suzuki, Tatsuo</dc:creator>
+ <dc:creator>Wada, Yukako</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  To obtain the explicit form of evolution operator in the Tavis-Cummings model
+we must calculate the term ${e}^{-itg(S_{+}\otimes a+S_{-}\otimes
+a^{\dagger})}$ explicitly which is very hard. In this paper we try to make the
+quantum matrix $A\equiv S_{+}\otimes a+S_{-}\otimes a^{\dagger}$ diagonal to
+calculate ${e}^{-itgA}$ and, moreover, to know a deep structure of the model.
+  For the case of one, two and three atoms we give such a diagonalization which
+is first nontrivial examples as far as we know, and reproduce the calculations
+of ${e}^{-itgA}$ given in quant-ph/0404034. We also give a hint to an
+application to a noncommutative differential geometry.
+  However, a quantum diagonalization is not unique and is affected by some
+ambiguity arising from the noncommutativity of operators in quantum physics.
+  Our method may open a new point of view in Mathematical Physics or Quantum
+Physics.
+</dc:description>
+ <dc:description>Comment: Latex files, 21 pages; minor changes. To appear in International
+  Journal of Geometric Methods in Modern Physics</dc:description>
+ <dc:date>2004-09-30</dc:date>
+ <dc:date>2005-01-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410003</dc:identifier>
+ <dc:identifier>Int.J.Geom.Meth.Mod.Phys. 2 (2005) 425-440</dc:identifier>
+ <dc:identifier>doi:10.1142/S021988780500065X</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

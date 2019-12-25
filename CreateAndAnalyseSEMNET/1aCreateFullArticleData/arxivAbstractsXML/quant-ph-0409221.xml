@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:03:50Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0409221" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0409221</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum Gloves</dc:title>
+ <dc:creator>Collins, D.</dc:creator>
+ <dc:creator>Diosi, L.</dc:creator>
+ <dc:creator>Gisin, N.</dc:creator>
+ <dc:creator>Massar, S.</dc:creator>
+ <dc:creator>Popescu, S.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The slogan &quot;information is physical&quot; has been so successful that it led to
+some excess. Classical and quantum information can be thought of independently
+of any physical implementation. Pure information tasks can be realized using
+such abstract c- and qu-bits, but physical tasks require appropriate physical
+realizations of c- or qu-bits. As illustration we consider the problem of
+communicating chirality. We discuss in detail the physical resources this
+necessitates, and introduce the natural concept of &quot;quantum gloves&quot;, i.e.
+rotationally invariant quantum states that encode as much as possible the
+concept of chirality and nothing more.
+</dc:description>
+ <dc:description>Comment: 9 pages</dc:description>
+ <dc:date>2004-09-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0409221</dc:identifier>
+ <dc:identifier>Phys. Rev. A 72, 022304 (2005)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.72.022304</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

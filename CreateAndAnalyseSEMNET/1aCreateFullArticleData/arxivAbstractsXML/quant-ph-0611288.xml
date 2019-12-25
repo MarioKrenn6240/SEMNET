@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:18Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611288" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611288</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Comment on &quot;Position-dependent effective mass Dirac equations with PT-
+  symmetric and non - PT- symmetric potentials&quot; [J. Phys. A: Math. Gen. 39
+  (2006) 11877--11887]</dc:title>
+ <dc:creator>Mustafa, Omar</dc:creator>
+ <dc:creator>Mazharimousavi, S. Habib</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Jia and Dutra (J. Phys. A: Math. Gen. 39 (2006) 11877) have considered the
+one-dimensional non-Hermitian complexified potentials with real spectra in the
+context of position-dependent mass in Dirac equation. In their second example,
+a smooth step shape mass distribution is considered and a non-Hermitian non -
+PT- symmetric Lorentz vector potential is obtained. They have mapped this
+problem into an exactly solvable Rosen-Morse Schrodinger model and claimed that
+the energy spectrum is real. The energy spectrum they have reported is pure
+imaginary or at best forms an empty set. Their claim on the reality of the
+energy spectrum is fragile, therefore.
+</dc:description>
+ <dc:description>Comment: 3 pages, 1 figure. To appear in J. Phys. A</dc:description>
+ <dc:date>2006-11-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611288</dc:identifier>
+ <dc:identifier>J. Phys. A: Math. Theor. 40, 863 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1088/1751-8113/40/4/N01</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

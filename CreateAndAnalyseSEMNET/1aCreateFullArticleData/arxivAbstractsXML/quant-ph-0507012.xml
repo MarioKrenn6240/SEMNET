@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:10:10Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0507012" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0507012</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Abelian and non-Abelian geometric phases in adiabatic open quantum
+  systems</dc:title>
+ <dc:creator>Sarandy, M. S.</dc:creator>
+ <dc:creator>Lidar, D. A.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  We introduce a self-consistent framework for the analysis of both Abelian and
+non-Abelian geometric phases associated with open quantum systems, undergoing
+cyclic adiabatic evolution. We derive a general expression for geometric
+phases, based on an adiabatic approximation developed within an inherently
+open-systems approach. This expression provides a natural generalization of the
+analogous one for closed quantum systems, and we prove that it satisfies all
+the properties one might expect of a good definition of a geometric phase,
+including gauge invariance. A striking consequence is the emergence of a finite
+time interval for the observation of geometric phases. The formalism is
+illustrated via the canonical example of a spin-1/2 particle in a
+time-dependent magnetic field. Remarkably, the geometric phase in this case is
+immune to dephasing and spontaneous emission in the renormalized Hamiltonian
+eigenstate basis. This result positively impacts holonomic quantum computing.
+</dc:description>
+ <dc:description>Comment: v3: 10 pages, 2 figures. Substantially expanded version. Includes a
+  proof of gauge invariance of the non-Abelian geometric phase, and an appendix
+  on the left and right eigenvectors of the superoperator in the Jordan form</dc:description>
+ <dc:date>2005-07-01</dc:date>
+ <dc:date>2006-04-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0507012</dc:identifier>
+ <dc:identifier>Phys. Rev. A 73, 062101 (2006)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.73.062101</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

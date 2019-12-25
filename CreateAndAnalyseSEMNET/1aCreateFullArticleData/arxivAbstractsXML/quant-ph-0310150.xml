@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:33Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310150" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310150</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Determination of continuous variable entanglement by purity measurements</dc:title>
+ <dc:creator>Adesso, Gerardo</dc:creator>
+ <dc:creator>Serafini, Alessio</dc:creator>
+ <dc:creator>Illuminati, Fabrizio</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  We classify the entanglement of two--mode Gaussian states according to their
+degree of total and partial mixedness. We derive exact bounds that determine
+maximally and minimally entangled states for fixed global and marginal
+purities. This characterization allows for an experimentally reliable estimate
+of continuous variable entanglement based on measurements of purity.
+</dc:description>
+ <dc:description>Comment: 4 pages, 3 EPS figures. Final version</dc:description>
+ <dc:date>2003-10-23</dc:date>
+ <dc:date>2004-02-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310150</dc:identifier>
+ <dc:identifier>Phys.Rev.Lett. 92 (2004) 087901</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.92.087901</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

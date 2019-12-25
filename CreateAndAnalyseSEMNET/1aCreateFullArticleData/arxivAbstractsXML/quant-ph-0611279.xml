@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:06Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611279" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611279</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Cartoon Computation: Quantum-like computing without quantum mechanics</dc:title>
+ <dc:creator>Aerts, Diederik</dc:creator>
+ <dc:creator>Czachor, Marek</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present a computational framework based on geometric structures. No
+quantum mechanics is involved, and yet the algorithms perform tasks analogous
+to quantum computation. Tensor products and entangled states are not needed --
+they are replaced by sets of basic shapes. To test the formalism we solve in
+geometric terms the Deutsch-Jozsa problem, historically the first example that
+demonstrated the potential power of quantum computation. Each step of the
+algorithm has a clear geometric interpetation and allows for a cartoon
+representation.
+</dc:description>
+ <dc:description>Comment: version accepted in J. Phys.A (Letter to the Editor)</dc:description>
+ <dc:date>2006-11-28</dc:date>
+ <dc:date>2007-02-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611279</dc:identifier>
+ <dc:identifier>J. Phys. A: Math. Theor. 40 (2007) F259-F266</dc:identifier>
+ <dc:identifier>doi:10.1088/1751-8113/40/13/F01</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

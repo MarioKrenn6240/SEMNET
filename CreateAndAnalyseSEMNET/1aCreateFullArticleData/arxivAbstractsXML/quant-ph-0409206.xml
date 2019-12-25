@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:03:30Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0409206" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0409206</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum mechanical description of Stern-Gerlach experiments</dc:title>
+ <dc:creator>Potel, G.</dc:creator>
+ <dc:creator>Barranco, F.</dc:creator>
+ <dc:creator>Cruz-Barrios, S.</dc:creator>
+ <dc:creator>G&#xf3;mez-Camacho, J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The motion of neutral particles with magnetic moments in an inhomogeneous
+magnetic field is described in a quantum mechanical framework. The validity of
+the semi-classical approximations which are generally used to describe these
+phenomena is discussed. Approximate expressions for the evolution operator are
+derived and compared to the exact calculations. Focusing and spin-flip
+phenomena are predicted. The reliability of Stern-Gerlach experiments to
+measure spin projections is assessed in this framework.
+</dc:description>
+ <dc:description>Comment: 12 pages, 7 eps figures included, revtex, submitted to PRA</dc:description>
+ <dc:date>2004-09-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0409206</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.71.052106</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

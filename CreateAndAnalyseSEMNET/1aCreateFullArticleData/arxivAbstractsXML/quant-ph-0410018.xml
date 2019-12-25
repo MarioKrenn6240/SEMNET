@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:51Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410018" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410018</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optimal feedback control for the rapid preparation of a single qubit</dc:title>
+ <dc:creator>Jacobs, Kurt</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We consider the use of feedback control during a measurement to increase the
+rate at which a single qubit is purified, and more generally the rate at which
+near-pure states may be prepared. We derive the optimal bang-bang algorithm for
+rapid state preparation from an initially completely mixed state when the
+measurement basis is unrestricted, and evaluate its performance numerically. We
+also consider briefly the case in which the measurement basis is fixed with
+respect to the state to be prepared, and describe the qualitative structure of
+the optimal bang-bang algorithm.
+</dc:description>
+ <dc:description>Comment: 8 pages, revtex4, 3 eps figures</dc:description>
+ <dc:date>2004-10-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410018</dc:identifier>
+ <dc:identifier>Proc. of SPIE 5468, 355 (2004)</dc:identifier>
+ <dc:identifier>doi:10.1117/12.547012</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

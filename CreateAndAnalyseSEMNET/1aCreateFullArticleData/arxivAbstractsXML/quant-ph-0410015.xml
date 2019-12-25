@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:47Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410015" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410015</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Bell's theorem: Critique of proofs with and without inequalities</dc:title>
+ <dc:creator>Hess, Karl</dc:creator>
+ <dc:creator>Philipp, Walter</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Most of the standard proofs of the Bell theorem are based on the Kolmogorov
+axioms of probability theory. We show that these proofs contain mathematical
+steps that cannot be reconciled with the Kolmogorov axioms. Specifically we
+demonstrate that these proofs ignore the conclusion of a theorem of Vorob'ev on
+the consistency of joint distributions. As a consequence Bell's theorem stated
+in its full generality remains unproven, in particular, for extended parameter
+spaces that are still objective local and that include instrument parameters
+that are correlated by both time and instrument settings. Although the Bell
+theorem correctly rules out certain small classes of hidden variables, for
+these extended parameter spaces the standard proofs come to a halt. The
+Greenberger-Horne-Zeilinger (GHZ) approach is based on similar fallacious
+arguments. For this case we are able to present an objective local computer
+experiment that simulates the experimental test of GHZ performed by Pan,
+Bouwmeester, Daniell, Weinfurter and Zeilinger and that directly contradicts
+their claim that Einstein-local elements of reality can neither explain the
+results of quantum mechanical theory nor their experimental results.
+</dc:description>
+ <dc:description>Comment: 13 pages</dc:description>
+ <dc:date>2004-10-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410015</dc:identifier>
+ <dc:identifier>doi:10.1063/1.1874568</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

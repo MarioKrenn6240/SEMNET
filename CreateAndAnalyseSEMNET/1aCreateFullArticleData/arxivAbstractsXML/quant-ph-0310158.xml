@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:44Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310158" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310158</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum-Mechanical Dualities on the Torus</dc:title>
+ <dc:creator>Isidro, J. M.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  On classical phase spaces admitting just one complex-differentiable
+structure, there is no indeterminacy in the choice of the creation operators
+that create quanta out of a given vacuum. In these cases the notion of a
+quantum is universal, i.e., independent of the observer on classical phase
+space. Such is the case in all standard applications of quantum mechanics.
+However, recent developments suggest that the notion of a quantum may not be
+universal. Transformations between observers that do not agree on the notion of
+an elementary quantum are called dualities. Classical phase spaces admitting
+more than one complex-differentiable structure thus provide a natural framework
+to study dualities in quantum mechanics. As an example we quantise a classical
+mechanics whose phase space is a torus and prove explicitly that it exhibits
+dualities.
+</dc:description>
+ <dc:description>Comment: New examples added, some precisions made</dc:description>
+ <dc:date>2003-10-27</dc:date>
+ <dc:date>2004-03-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310158</dc:identifier>
+ <dc:identifier>Mod.Phys.Lett. A19 (2004) 1733-1744</dc:identifier>
+ <dc:identifier>doi:10.1142/S0217732304014860</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

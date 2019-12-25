@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:50:57Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611273" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611273</identifier>
+ <datestamp>2007-10-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A direct approach to fault-tolerance in measurement-based quantum
+  computation via teleportation</dc:title>
+ <dc:creator>Silva, Marcus</dc:creator>
+ <dc:creator>Danos, Vincent</dc:creator>
+ <dc:creator>Kashefi, Elham</dc:creator>
+ <dc:creator>Ollivier, Harold</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We discuss a simple variant of the one-way quantum computing model [R.
+Raussendorf and H.-J. Briegel, PRL 86, 5188, 2001], called the Pauli
+measurement model, where measurements are restricted to be along the eigenbases
+of the Pauli X and Y operators, while auxiliary qubits can be prepared both in
+the $\ket{+_{\pi\over 4}}:={1/\sqrt{2}}(\ket{0}+e^{i{\pi\over 4}}\ket{1})$
+state, and the usual $\ket{+}:={1/ \sqrt{2}}(\ket{0}+\ket{1})$ state. We prove
+the universality of this quantum computation model, and establish a
+standardization procedure which permits all entanglement and state preparation
+to be performed at the beginning of computation. This leads us to develop a
+direct approach to fault-tolerance by simple transformations of the
+entanglement graph and preparation operations, while error correction is
+performed naturally via syndrome-extracting teleportations.
+</dc:description>
+ <dc:description>Comment: (v1) 5 pages, 2 figures (v2) Changed style file, 10 pages, 2 figures.
+  New title. Added references to work by Fujii and Yamamoto (quant-ph/0611160),
+  as well as prior work by R. Raussendorf and collaborators on topological
+  codes. Minor revisions throughout. Submitted version</dc:description>
+ <dc:date>2006-11-28</dc:date>
+ <dc:date>2007-01-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611273</dc:identifier>
+ <dc:identifier>New J. Phys. 9 192 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1088/1367-2630/9/6/192</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

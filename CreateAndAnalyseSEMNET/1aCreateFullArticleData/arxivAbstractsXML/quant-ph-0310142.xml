@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:22Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310142" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310142</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Cloning of orthogonal mixed states entails irreversibility</dc:title>
+ <dc:creator>Horodecki, Michal</dc:creator>
+ <dc:creator>De, Aditi Sen</dc:creator>
+ <dc:creator>Sen, Ujjwal</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Orthogonal pure states can be cloned as well as deleted. However if there is
+an initial disorder in the system, that is for orthogonal mixed states, one
+cannot perform deletion. And cloning, in such cases, necessarily produces an
+irreversibility, in the form of leakage of information into the environment.
+</dc:description>
+ <dc:description>Comment: 1.25 pages, no figures, RevTeX4</dc:description>
+ <dc:date>2003-10-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310142</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

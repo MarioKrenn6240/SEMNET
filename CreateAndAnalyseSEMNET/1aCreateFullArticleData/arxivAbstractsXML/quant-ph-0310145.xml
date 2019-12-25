@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:26Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310145" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310145</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Depurification by Lorentz boosts</dc:title>
+ <dc:creator>Kosinski, P.</dc:creator>
+ <dc:creator>Maslanka, P.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We consider a particle of half-integer spin which is nonrelativistic in the
+rest frame. Assuming the particle is completely polarized along third axis we
+calculate the Bloch vector as seen by a moving observer. The result for its
+length is expressed in terms of dispersion of some vector operator linear in
+momentum. The relation with the localization properties is discussed.
+</dc:description>
+ <dc:description>Comment: 5 pages</dc:description>
+ <dc:date>2003-10-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310145</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physleta.2004.07.001</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:03:40Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0409214" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0409214</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum phase-space analysis of the pendular cavity</dc:title>
+ <dc:creator>Olsen, M. K.</dc:creator>
+ <dc:creator>Melo, A. B.</dc:creator>
+ <dc:creator>Dechoum, K.</dc:creator>
+ <dc:creator>Khoury, A. Z.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We perform a quantum mechanical analysis of the pendular cavity, using the
+positive-P representation, showing that the quantum state of the moving mirror,
+a macroscopic object, has noticeable effects on the dynamics. This system has
+previously been proposed as a candidate for the quantum-limited measurement of
+small displacements of the mirror due to radiation pressure, for the production
+of states with entanglement between the mirror and the field, and even for
+superposition states of the mirror. However, when we treat the oscillating
+mirror quantum mechanically, we find that it always oscillates, has no
+stationary steady-state, and exhibits uncertainties in position and momentum
+which are typically larger than the mean values. This means that previous
+linearised fluctuation analyses which have been used to predict these highly
+quantum states are of limited use. We find that the achievable accuracy in
+measurement is far worse than the standard quantum limit due to thermal noise,
+which, for typical experimental parameters, is overwhelming even at 2 mK.
+</dc:description>
+ <dc:description>Comment: 25 pages, 6 figures To be published in Phys. Rev. A</dc:description>
+ <dc:date>2004-09-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0409214</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.70.043815</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

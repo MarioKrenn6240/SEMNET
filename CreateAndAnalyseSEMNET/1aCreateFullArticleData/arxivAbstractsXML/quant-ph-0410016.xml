@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:48Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410016" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410016</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Remote Preparation and Distribution of Bipartite Entangled States</dc:title>
+ <dc:creator>Gour, Gilad</dc:creator>
+ <dc:creator>Sanders, Barry C.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We prove a powerful theorem for tripartite remote entanglement distribution
+protocols that establishes an upper bound on the amount of entanglement of
+formation that can be created between two single-qubit nodes of a quantum
+network. Our theorem also provides an operational interpretation of concurrence
+as a type of entanglement capacity.
+</dc:description>
+ <dc:description>Comment: 5 pages, to appear in the Physical Review Letters</dc:description>
+ <dc:date>2004-10-01</dc:date>
+ <dc:date>2004-11-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410016</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 93, 260501 (2004)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.93.260501</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

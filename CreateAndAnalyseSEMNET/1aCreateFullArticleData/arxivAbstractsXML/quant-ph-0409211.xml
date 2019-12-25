@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:03:36Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0409211" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0409211</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Time-resolved homodyne characterization of individual
+  quadrature-entangled pulses</dc:title>
+ <dc:creator>Wenger, Jerome</dc:creator>
+ <dc:creator>Ourjoumtsev, Alexei</dc:creator>
+ <dc:creator>Tualle-Brouri, Rosa</dc:creator>
+ <dc:creator>Grangier, Philippe</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We describe a simple and efficient setup to generate and characterize
+femtosecond quadrature-entangled pulses. Quantum correlations equivalent to
+about 2.5 dB squeezing are efficiently and easily reached using the
+non-degenerate parametric amplification of femtosecond pulses through a
+single-pass in a thin (0.1 mm) potassium niobate crystal. The entangled pulses
+are then individually sampled to characterize the non-separability and the
+entropy of formation of the states. The complete experiment is analysed in the
+time-domain, from the pulsed source of quadrature entanglement to the
+time-resolved homodyne detection. This particularity allows for applications in
+quantum communication protocols using continuous-variable entanglement.
+</dc:description>
+ <dc:description>Comment: 7 pages, 5 figures</dc:description>
+ <dc:date>2004-09-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0409211</dc:identifier>
+ <dc:identifier>Eur. Phys. J. D 32, 391-396 (2005)</dc:identifier>
+ <dc:identifier>doi:10.1140/epjd/e2004-00190-3</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

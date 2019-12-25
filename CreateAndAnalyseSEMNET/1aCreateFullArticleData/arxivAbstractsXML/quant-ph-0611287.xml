@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:17Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611287" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611287</identifier>
+ <datestamp>2011-11-09</datestamp>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>From the Mendeleev periodic table to particle physics and back to the
+  periodic table</dc:title>
+ <dc:creator>Kibler, M. R.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  We briefly describe in this paper the passage from Mendeleev's chemistry
+(1869) to atomic physics (in the 1900's), nuclear physics (in the 1932's) and
+particle physics (from 1953 to 2006). We show how the consideration of
+symmetries, largely used in physics since the end of the 1920's, gave rise to a
+new format of the periodic table in the 1970's. More specifically, this paper
+is concerned with the application of the group SO(4,2)xSU(2) to the periodic
+table of chemical elements. It is shown how the Madelung rule of the atomic
+shell model can be used for setting up a periodic table that can be further
+rationalized via the group SO(4,2)xSU(2) and some of its subgroups. Qualitative
+results are obtained from this nonstandard table.
+</dc:description>
+ <dc:description>Comment: 15 pages; accepted for publication in Foundations of Chemistry
+  (special issue to commemorate the one hundredth anniversary of the death of
+  Mendeleev who died in 1907); version 2: 16 pages; some sentences added;
+  acknowledgment and references added; misprints corrected</dc:description>
+ <dc:date>2006-11-29</dc:date>
+ <dc:date>2007-11-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611287</dc:identifier>
+ <dc:identifier>Foundations of Chemistry 9 (2007) 221-234</dc:identifier>
+ <dc:identifier>doi:10.1007/s10698-007-9039-9</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

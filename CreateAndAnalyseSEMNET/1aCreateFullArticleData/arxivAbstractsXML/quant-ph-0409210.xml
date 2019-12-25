@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:03:35Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0409210" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0409210</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Experimental study of the momentum correlation of a pseudo-thermal field
+  in the photon counting regime</dc:title>
+ <dc:creator>Scarcelli, Giuliano</dc:creator>
+ <dc:creator>Valencia, Alejandra</dc:creator>
+ <dc:creator>Shih, Yanhua</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Thermal (or pseudo-thermal) radiation has been recently proposed for imaging
+and interference types of experiments to simulate entangled states. We report
+an experimental study on the momentum correlation properties of a
+pseudo-thermal field in the photon counting regime. The characterization and
+understanding of such a light source in the context of two photon physics,
+especially its similarities and differences compared to entangled two-photon
+states, is useful in gaining knowledge of entanglement and may help us to
+assess the real potential of applications of chaotic light in this context.
+</dc:description>
+ <dc:description>Comment: to appear in Phys. Rev. A</dc:description>
+ <dc:date>2004-09-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0409210</dc:identifier>
+ <dc:identifier>Phys. Rev. A 70, 051802(R) (2004)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.70.051802</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

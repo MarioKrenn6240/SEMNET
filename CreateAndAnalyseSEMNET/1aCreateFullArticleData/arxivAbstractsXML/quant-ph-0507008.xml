@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:10:04Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0507008" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0507008</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Explicit Spin Coordinates</dc:title>
+ <dc:creator>Hunter, Geoffrey</dc:creator>
+ <dc:creator>Schlifer, Ian</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The recently established existence of spherical harmonic functions,
+$Y_\ell^{m}(\theta,\phi)$ for half-odd-integer values of $\ell$ and $m$, allows
+for the introduction into quantum chemistry of explicit electron
+spin-coordinates; i.e. spherical polar angles $\theta_s, \phi_s$, that specify
+the orientation of the spin angular momentum vector in space. In this
+coordinate representation the spin angular momentum operators, $S^2, S_z$, are
+represented by the usual differential operators in spherical polar coordinates
+(commonly used for $L^2, L_z$), and their electron-spin eigenfunctions are
+$\sqrt{\sin\theta_s} \exp(\pm\phi_s/2)$. This eigenfunction representation has
+the pedagogical advantage over the abstract spin eigenfunctions, $\alpha,
+\beta,$ that ``integration over spin coordinates'' is a true integration (over
+the angles $\theta_s, \phi_s$). In addition they facilitate construction of
+many electron wavefunctions in which the electron spins are neither parallel
+nor antiparallel, but inclined at an intermediate angle. In particular this may
+have application to the description of EPR correlation experiments.
+</dc:description>
+ <dc:description>Comment: 7 Pages: submitted to the International Journal of Quantum Chemistry</dc:description>
+ <dc:date>2005-07-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0507008</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>
