@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:44:43Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1435" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1435</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the failure of subadditivity of the Wigner-Yanase entropy</dc:title>
+ <dc:creator>Seiringer, Robert</dc:creator>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  It was recently shown by Hansen that the Wigner-Yanase entropy is, for
+general states of quantum systems, not subadditive with respect to
+decomposition into two subsystems, although this property is known to hold for
+pure states. We investigate the question whether the weaker property of
+subadditivity for pure states with respect to decomposition into more than two
+subsystems holds. This property would have interesting applications in quantum
+chemistry. We show, however, that it does not hold in general, and provide a
+counterexample.
+</dc:description>
+ <dc:description>Comment: LaTeX2e, 4 pages</dc:description>
+ <dc:date>2007-04-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1435</dc:identifier>
+ <dc:identifier>Lett. Math. Phys. 80, 285-288 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1007/s11005-007-0159-x</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

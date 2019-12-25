@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:44:38Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1154" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1154</identifier>
+ <datestamp>2009-09-29</datestamp>
+ <setSpec>physics:gr-qc</setSpec>
+ <setSpec>physics:hep-ph</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Information, information processing and gravity</dc:title>
+ <dc:creator>Hsu, Stephen D. H.</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  I discuss fundamental limits placed on information and information processing
+by gravity. Such limits arise because both information and its processing
+require energy, while gravitational collapse (formation of a horizon or black
+hole) restricts the amount of energy allowed in a finite region. Specifically,
+I use a criterion for gravitational collapse called the hoop conjecture. Once
+the hoop conjecture is assumed a number of results can be obtained directly:
+the existence of a fundamental uncertainty in spatial distance of order the
+Planck length, bounds on information (entropy) in a finite region, and a bound
+on the rate of information processing in a finite region. In the final section
+I discuss some cosmological issues related to the total amount of information
+in the universe, and note that almost all detailed aspects of the late universe
+are determined by the randomness of quantum outcomes. This paper is based on a
+talk presented at a 2007 Bellairs Research Institute (McGill University)
+workshop on black holes and quantum information.
+</dc:description>
+ <dc:description>Comment: 7 pages, 5 figures, revtex</dc:description>
+ <dc:date>2007-04-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1154</dc:identifier>
+ <dc:identifier>Int.J.Mod.Phys.A22:2895-2908,2007</dc:identifier>
+ <dc:identifier>doi:10.1142/S0217751X07036853</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

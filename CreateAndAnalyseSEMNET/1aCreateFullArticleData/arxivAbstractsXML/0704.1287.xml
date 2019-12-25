@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:52Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1287" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1287</identifier>
+ <datestamp>2008-07-29</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Realizable Hamiltonians for Universal Adiabatic Quantum Computers</dc:title>
+ <dc:creator>Biamonte, Jacob D.</dc:creator>
+ <dc:creator>Love, Peter J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  It has been established that local lattice spin Hamiltonians can be used for
+universal adiabatic quantum computation. However, the 2-local model
+Hamiltonians used in these proofs are general and hence do not limit the types
+of interactions required between spins. To address this concern, the present
+paper provides two simple model Hamiltonians that are of practical interest to
+experimentalists working towards the realization of a universal adiabatic
+quantum computer. The model Hamiltonians presented are the simplest known
+QMA-complete 2-local Hamiltonians. The 2-local Ising model with 1-local
+transverse field which has been realized using an array of technologies, is
+perhaps the simplest quantum spin model but is unlikely to be universal for
+adiabatic quantum computation. We demonstrate that this model can be rendered
+universal and QMA-complete by adding a tunable 2-local transverse XX coupling.
+We also show the universality and QMA-completeness of spin models with only
+1-local Z and X fields and 2-local ZX interactions.
+</dc:description>
+ <dc:description>Comment: Paper revised and extended to improve clarity; to appear in Physical
+  Review A</dc:description>
+ <dc:date>2007-04-10</dc:date>
+ <dc:date>2008-06-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1287</dc:identifier>
+ <dc:identifier>Phys. Rev. A 78, 012352 (2008).</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.78.012352</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

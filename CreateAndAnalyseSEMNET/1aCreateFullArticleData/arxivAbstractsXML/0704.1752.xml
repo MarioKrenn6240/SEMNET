@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:44:46Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1752" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1752</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Van der Waals interaction between a microparticle and a single-wall
+  carbon nanotube</dc:title>
+ <dc:creator>Blagov, E. V.</dc:creator>
+ <dc:creator>Klimchitskaya, G. L.</dc:creator>
+ <dc:creator>Mostepanenko, V. M.</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The Lifshitz-type formulas describing the free energy and the force of the
+van der Waals interaction between an atom (molecule) and a single-wall carbon
+nanotube are obtained. The single-wall nanotube is considered as a cylindrical
+sheet carrying a two-dimensional free electron gas with appropriate boundary
+conditions on the electromagnetic field. The obtained formulas are used to
+calculate the van der Waals free energy and force between a hydrogen atom
+(molecule) and single-wall carbon nanotubes of different radia. Comparison
+studies of the van der Waals interaction of hydrogen atoms with single- and
+multi-wall carbon nanotubes show that depending on atom-nanotube separation
+distance the idealization of graphite dielectric permittivity is already
+applicable to nanotubes with only two or three walls.
+</dc:description>
+ <dc:description>Comment: 16 pages, 5 figures, to appear in Physical Review B</dc:description>
+ <dc:date>2007-04-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1752</dc:identifier>
+ <dc:identifier>Phys. Rev. B, v.75, N23, 235413-(1-8), 2007</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.75.235413</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

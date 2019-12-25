@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:03Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1464" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1464</identifier>
+ <datestamp>2009-06-09</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Distributed quantum information processing with minimal local resources</dc:title>
+ <dc:creator>Campbell, Earl T.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present a protocol for growing graph states, the resource for one-way
+quantum computing, when the available entanglement mechanism is highly
+imperfect. The distillation protocol is frugal in its use of ancilla qubits,
+requiring only a single ancilla qubit when the noise is dominated by one Pauli
+error, and two for a general noise model. The protocol works with such scarce
+local resources by never post-selecting on the measurement outcomes of
+purification rounds. We find that such a strategy causes fidelity to follow a
+biased random walk, and that a target fidelity is likely to be reached more
+rapidly than for a comparable post-selecting protocol. An analysis is presented
+of how imperfect local operations limit the attainable fidelity. For example, a
+single Pauli error rate of 20% can be distilled down to $\sim 10$ times the
+imperfection in local operations.
+</dc:description>
+ <dc:description>Comment: 4 pages of main paper with an additional 1 page appendix, 5 figures.
+  Please contact me with any comments</dc:description>
+ <dc:date>2007-04-11</dc:date>
+ <dc:date>2007-10-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1464</dc:identifier>
+ <dc:identifier>Phys. Rev. A (Rapid Comm) 76, 040302(R) (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.040302</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:32Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1864" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1864</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>High purity bright single photon source</dc:title>
+ <dc:creator>Neergaard-Nielsen, J. S.</dc:creator>
+ <dc:creator>Nielsen, B. Melholt</dc:creator>
+ <dc:creator>Takahashi, H.</dc:creator>
+ <dc:creator>Vistnes, A. I.</dc:creator>
+ <dc:creator>Polzik, E. S.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Using cavity-enhanced non-degenerate parametric downconversion, we have built
+a frequency tunable source of heralded single photons with a narrow bandwidth
+of 8 MHz, making it compatible with atomic quantum memories. The photon state
+is 70% pure single photon as characterized by a tomographic measurement and
+reconstruction of the quantum state, revealing a clearly negative Wigner
+function. Furthermore, it has a spectral brightness of ~1,500 photons/s per MHz
+bandwidth, making it one of the brightest single photon sources available. We
+also investigate the correlation function of the down-converted fields using a
+combination of two very distinct detection methods; photon counting and
+homodyne measurement.
+</dc:description>
+ <dc:description>Comment: 9 pages, 4 figures; minor changes, added reference</dc:description>
+ <dc:date>2007-04-14</dc:date>
+ <dc:date>2007-06-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1864</dc:identifier>
+ <dc:identifier>Opt. Express 15, 7940-7949 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1364/OE.15.007940</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

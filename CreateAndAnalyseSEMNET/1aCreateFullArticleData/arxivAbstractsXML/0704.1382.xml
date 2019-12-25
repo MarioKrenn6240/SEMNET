@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:44:42Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1382" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1382</identifier>
+ <datestamp>2007-09-27</datestamp>
+ <setSpec>nlin</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Effects of atomic interactions on Quantum Accelerator Modes</dc:title>
+ <dc:creator>Rebuzzini, Laura</dc:creator>
+ <dc:creator>Artuso, Roberto</dc:creator>
+ <dc:creator>Fishman, Shmuel</dc:creator>
+ <dc:creator>Guarneri, Italo</dc:creator>
+ <dc:subject>Nonlinear Sciences - Chaotic Dynamics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We consider the influence of the inclusion of interatomic interactions on the
+delta-kicked accelerator model. Our analysis concerns in particular quantum
+accelerator modes, namely quantum ballistic transport near quantal resonances.
+The atomic interaction is modelled by a Gross-Pitaevskii cubic nonlinearity,
+and we address both attractive (focusing) and repulsive (defocusing) cases. The
+most remarkable effect is enhancement or damping of the accelerator modes,
+depending on the sign of the nonlinear parameter. We provide arguments showing
+that the effect persists beyond mean-field description, and lies within the
+experimentally accessible parameter range.
+</dc:description>
+ <dc:description>Comment: 4 pages, 6 figures</dc:description>
+ <dc:date>2007-04-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1382</dc:identifier>
+ <dc:identifier>Phys. Rev. A 76, 031603(R) (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.031603</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

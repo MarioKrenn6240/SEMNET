@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:06Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1471" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1471</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Generalized PT-Symmetric Sinh-Gordon Potential Solvable within
+  Quantum Hamilton-Jacobi Formalism</dc:title>
+ <dc:creator>Yesiltas, Ozlem</dc:creator>
+ <dc:creator>Ocak, S. Bilge</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The generalized Sinh-Gordon potential is solved within quantum Hamiltonian
+Jacobi approach in the framework of PT symmetry. The quasi exact solutions of
+energy eigenvalues and eigenfunctions of the generalized Sinh-Gordon potential
+are found for n=0,1 states.
+</dc:description>
+ <dc:description>Comment: 10 pages appear to in IJTP</dc:description>
+ <dc:date>2007-04-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1471</dc:identifier>
+ <dc:identifier>doi:10.1007/s10773-007-9462-7</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

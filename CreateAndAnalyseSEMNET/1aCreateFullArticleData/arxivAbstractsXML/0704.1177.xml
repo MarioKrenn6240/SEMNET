@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:42Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1177" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1177</identifier>
+ <datestamp>2009-02-12</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Temperature effects on quantum cloning of states and entanglement</dc:title>
+ <dc:creator>Baghbanzadeh, S.</dc:creator>
+ <dc:creator>Rezakhani, A. T.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Performances of the symmetric universal and phase-covariant cloning
+transformations and entanglement cloners -- qubit case -- are investigated when
+the initial state of the hardware or the original state to be cloned is weakly
+coupled to a thermal environment. Different behaviors of each of these
+transformations are analyzed and contrasted with the ideal cases.
+</dc:description>
+ <dc:date>2007-04-09</dc:date>
+ <dc:date>2009-01-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1177</dc:identifier>
+ <dc:identifier>Phys. Lett. A 373, 821 (2009)</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physleta.2008.12.050</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

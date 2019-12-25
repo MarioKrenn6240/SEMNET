@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:41Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1172" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1172</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Disentanglement in a quantum critical environment</dc:title>
+ <dc:creator>Sun, Zhe</dc:creator>
+ <dc:creator>Wang, Xiaoguang</dc:creator>
+ <dc:creator>Sun, C. P.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We study the dynamical process of disentanglement of two qubits and two
+qutrits coupled to an Ising spin chain in a transverse field, which exhibits a
+quantum phase transition. We use the concurrence and negativity to quantify
+entanglement of two qubits and two qutrits, respectively. Explicit connections
+between the concurrence (negativity) and the decoherence factors are given for
+two initial states, the pure maximally entangled state and the mixed Werner
+state. We find that the concurrence and negativity decay exponentially with
+fourth power of time in the vicinity of critical point of the environmental
+system.
+</dc:description>
+ <dc:description>Comment: 8 pages, 6 figures</dc:description>
+ <dc:date>2007-04-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1172</dc:identifier>
+ <dc:identifier>Phys. Rev. A 75, 062312 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.75.062312</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:27Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1737" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1737</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum memory for images - a quantum hologram</dc:title>
+ <dc:creator>Vasilyev, Denis V.</dc:creator>
+ <dc:creator>Sokolov, Ivan V.</dc:creator>
+ <dc:creator>Polzik, Eugene S.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Matter-light quantum interface and quantum memory for light are important
+ingredients of quantum information protocols, such as quantum networks,
+distributed quantum computation, etc. In this Letter we present a spatially
+multimode scheme for quantum memory for light, which we call a quantum
+hologram. Our approach uses a multi-atom ensemble which has been shown to be
+efficient for a single spatial mode quantum memory. Due to the multi-atom
+nature of the ensemble it is capable of storing many spatial modes, a feature
+critical for the present proposal. A quantum hologram has a higher storage
+capacity compared to a classical hologram, and is capable of storing quantum
+features of an image, such as multimode superposition and entangled quantum
+states, something that a standard hologram is unable to achieve. Due to optical
+parallelism, the information capacity of the quantum hologram will obviously
+exceed that of a single-mode scheme.
+</dc:description>
+ <dc:description>Comment: 5 pages, 3 figures</dc:description>
+ <dc:date>2007-04-13</dc:date>
+ <dc:date>2007-09-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1737</dc:identifier>
+ <dc:identifier>Phys. Rev. A 77, 020302(R) (2008)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.77.020302</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

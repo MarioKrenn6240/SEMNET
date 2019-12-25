@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:21Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1686" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1686</identifier>
+ <datestamp>2007-11-08</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Effect of atomic beam alignment on photon correlation measurements in
+  cavity QED</dc:title>
+ <dc:creator>Horvath, L.</dc:creator>
+ <dc:creator>Carmichael, H. J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Quantum trajectory simulations of a cavity QED system comprising an atomic
+beam traversing a standing-wave cavity are carried out. The delayed photon
+coincident rate for forwards scattering is computed and compared with the
+measurements of Rempe et al. [Phys. Rev. Lett. 67, 1727 (1991)] and Foster et
+al. [Phys. Rev. A 61, 053821 (2000)]. It is shown that a moderate atomic beam
+misalignment can account for the degradation of the predicted correlation. Fits
+to the experimental data are made in the weak-field limit with a single
+adjustable parameter--the atomic beam tilt from perpendicular to the cavity
+axis. Departures of the measurement conditions from the weak-field limit are
+discussed.
+</dc:description>
+ <dc:description>Comment: 15 pages and 13 figures</dc:description>
+ <dc:date>2007-04-12</dc:date>
+ <dc:date>2007-11-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1686</dc:identifier>
+ <dc:identifier>Phys. Rev. A 76, 043821 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.043821</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

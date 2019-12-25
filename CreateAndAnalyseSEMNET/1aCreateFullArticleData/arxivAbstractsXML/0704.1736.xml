@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:26Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1736" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1736</identifier>
+ <datestamp>2012-02-22</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Parallelizing Quantum Circuits</dc:title>
+ <dc:creator>Broadbent, Anne</dc:creator>
+ <dc:creator>Kashefi, Elham</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present a novel automated technique for parallelizing quantum circuits via
+forward and backward translation to measurement-based quantum computing
+patterns and analyze the trade off in terms of depth and space complexity. As a
+result we distinguish a class of polynomial depth circuits that can be
+parallelized to logarithmic depth while adding only polynomial many auxiliary
+qubits. In particular, we provide for the first time a full characterization of
+patterns with flow of arbitrary depth, based on the notion of influencing paths
+and a simple rewriting system on the angles of the measurement. Our method
+leads to insightful knowledge for constructing parallel circuits and as
+applications, we demonstrate several constant and logarithmic depth circuits.
+Furthermore, we prove a logarithmic separation in terms of quantum depth
+between the quantum circuit model and the measurement-based model.
+</dc:description>
+ <dc:description>Comment: 34 pages, 14 figures; depth complexity, measurement-based quantum
+  computing and parallel computing</dc:description>
+ <dc:date>2007-04-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1736</dc:identifier>
+ <dc:identifier>Theoretical Computer Science, Volume 410, Issue 26, 2009</dc:identifier>
+ <dc:identifier>doi:10.1016/j.tcs.2008.12.046</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

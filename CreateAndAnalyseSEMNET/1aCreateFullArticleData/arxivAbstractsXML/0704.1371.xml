@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:01Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1371" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1371</identifier>
+ <datestamp>2009-02-17</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Tight bound on coherent states quantum key distribution with heterodyne
+  detection</dc:title>
+ <dc:creator>Lodewyck, Jerome</dc:creator>
+ <dc:creator>Grangier, Philippe</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We propose a new upper bound for the eavesdropper's information in the direct
+and reverse reconciliated coherent states quantum key distribution protocols
+with heterodyne detection. This bound is derived by maximizing the leaked
+information over the symplectic group of transformations that spans every
+physical Gaussian attack on individual pulses. We exhibit four different
+attacks that reach this bound, which shows that this bound is tight. Finally,
+we compare the secret key rate obtained with this new bound to the homodyne
+rate.
+</dc:description>
+ <dc:description>Comment: 8 pages, 3 figures</dc:description>
+ <dc:date>2007-04-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1371</dc:identifier>
+ <dc:identifier>Phys. Rev. A 76, 022332 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.022332</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

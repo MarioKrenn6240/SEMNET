@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:10Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1506" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1506</identifier>
+ <datestamp>2011-02-08</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Measuring two-photon orbital angular momentum entanglement</dc:title>
+ <dc:creator>Calvo, G. F.</dc:creator>
+ <dc:creator>Pic&#xf3;n, A.</dc:creator>
+ <dc:creator>Bramon, A.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We put forward an approach to estimate the amount of bipartite spatial
+entanglement of down-converted photon states correlated in orbital angular
+momentum and the magnitude of the transverse (radial) wave vectors. Both
+degrees of freedom are properly considered in our framework, which only
+requires azimuthal local linear optical transformations and mode selection
+analysis with two fiber detectors. The coincidence distributions predicted by
+our approach give an excellent fit to the distributions measured in a recent
+experiment aimed to show the very high-dimensional transverse entanglement of
+twin photons from a down-conversion source. Our estimate for the Schmidt number
+is substantially lower but still confirms the presence of high-dimensional
+entanglement.
+</dc:description>
+ <dc:description>Comment: Extended paper of a published version in PRA, with some extra
+  appendices</dc:description>
+ <dc:date>2007-04-12</dc:date>
+ <dc:date>2007-04-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1506</dc:identifier>
+ <dc:identifier>Phys. Rev. A 75, 012319 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.75.012319</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

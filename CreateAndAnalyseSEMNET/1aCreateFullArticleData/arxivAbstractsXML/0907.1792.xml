@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T13:24:50Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0907.1792" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0907.1792</identifier>
+ <datestamp>2009-07-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Tunneling times with covariant measurements</dc:title>
+ <dc:creator>Kiukas, J.</dc:creator>
+ <dc:creator>Ruschhaupt, A.</dc:creator>
+ <dc:creator>Werner, R. F.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We consider the time delay of massive, non-relativistic, one-dimensional
+particles due to a tunneling potential. In this setting the well-known Hartman
+effect asserts that often the sub-ensemble of particles going through the
+tunnel seems to cross the tunnel region instantaneously. An obstacle to the
+utilization of this effect for getting faster signals is the exponential
+damping by the tunnel, so there seems to be a trade-off between speedup and
+intensity. In this paper we prove that this trade-off is never in favor of
+faster signals: the probability for a signal to reach its destination before
+some deadline is always reduced by the tunnel, for arbitrary incoming states,
+arbitrary positive and compactly supported tunnel potentials, and arbitrary
+detectors. More specifically, we show this for several different ways to define
+``the same incoming state'' and ''the same detector'' when comparing the
+settings with and without tunnel potential. The arrival time measurements are
+expressed in the time-covariant approach, but we also allow the detection to be
+a localization measurement at a later time.
+</dc:description>
+ <dc:description>Comment: 12 pages, 2 figures</dc:description>
+ <dc:date>2009-07-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0907.1792</dc:identifier>
+ <dc:identifier>Found. Phys. 39: 829-846 (2009)</dc:identifier>
+ <dc:identifier>doi:10.1007/s10701-009-9275-z</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

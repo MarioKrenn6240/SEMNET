@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:44Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1180" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1180</identifier>
+ <datestamp>2010-09-02</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Full Additivity of the Entanglement of Formation</dc:title>
+ <dc:creator>Paz-Silva, Gerardo A.</dc:creator>
+ <dc:creator>Reina, John H.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present a general strategy that allows a more flexible method for the
+construction of fully additive multipartite entanglement monotones than the
+ones so far reported in the literature of axiomatic entanglement measures.
+Within this framework we give a proof of a conjecture of outstanding
+implications in information theory: the full additivity of the Entanglement of
+Formation.
+</dc:description>
+ <dc:description>Comment: Paper withdrawn. The result regarding the additivity of EoF was not
+  as general as initially considered. Apologies to our colleagues</dc:description>
+ <dc:date>2007-04-09</dc:date>
+ <dc:date>2010-08-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1180</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

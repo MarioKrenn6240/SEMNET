@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T17:51:52Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0907.1937" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0907.1937</identifier>
+ <datestamp>2015-05-13</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Analogue of Electromagnetically Induced Transparency in a Terahertz
+  Metamaterial</dc:title>
+ <dc:creator>Chiam, Sher-Yi</dc:creator>
+ <dc:creator>Bettiol, Andrew A</dc:creator>
+ <dc:creator>Singh, Ranjan</dc:creator>
+ <dc:creator>Zhang, Weili</dc:creator>
+ <dc:creator>Rockstuhl, Carsten</dc:creator>
+ <dc:creator>Lederer, Falk</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We experimentally demonstrate at terahertz frequencies that a planar
+metamaterial exhibits a spectral response resembling electromagnetically
+induced transparency. The metamaterial unit cell consists of a split ring
+surrounded by another closed ring where their dimensions are such that their
+excitable lowest order modes have identical resonance frequencies but very
+different life times. Terahertz time-domain spectroscopy verifies that the
+interference of these two resonances results in a narrow transparency window
+located within a broad opaque region. In contrast to previous studies this
+enhanced transmission is achieved by independently exciting two resonances in
+which their coupling to the radiation field, and thus their linewidth, differs
+strongly. Rigorous numerical simulations prove that the transparency window is
+associated with a large group index and low losses, making the design
+potentially useful for slow light applications. This experiment opens an avenue
+to explore quantum mechanical phenomena using localized resonances in metallic
+structures,
+</dc:description>
+ <dc:date>2009-07-10</dc:date>
+ <dc:date>2009-08-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0907.1937</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.80.153103</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

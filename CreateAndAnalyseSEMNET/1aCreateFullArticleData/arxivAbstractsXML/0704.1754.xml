@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:28Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1754" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1754</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The No-Broadcasting Theorem and its Classical Counterpart</dc:title>
+ <dc:creator>Kalev, A.</dc:creator>
+ <dc:creator>Hen, I.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Although it is widely accepted that `no-broadcasting' -- the nonclonability
+of quantum information -- is a fundamental principle of quantum mechanics, an
+impossibility theorem for the broadcasting of general density matrices has not
+yet been formulated. In this paper, we present a general proof for the
+no-broadcasting theorem, which applies to arbitrary density matrices. The proof
+relies on entropic considerations, and as such can also be directly linked to
+its classical counterpart, which applies to probabilistic distributions of
+statistical ensembles.
+</dc:description>
+ <dc:description>Comment: 4 pages</dc:description>
+ <dc:date>2007-04-13</dc:date>
+ <dc:date>2008-05-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1754</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.100.210502</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

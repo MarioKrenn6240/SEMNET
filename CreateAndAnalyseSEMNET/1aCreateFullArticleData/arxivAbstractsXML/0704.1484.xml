@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:09Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1484" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1484</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>One-time pad booster for Internet</dc:title>
+ <dc:creator>Barbosa, Geraldo A.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  One-time pad encrypted files can be sent through Internet channels using
+current Internet protocols. However, the need for renewing shared secret keys
+make this method unpractical. This work shows how users can use a fast physical
+random generator based on fluctuations of a light field and the Internet
+channel to directly boost key renewals. The transmitted signals are
+deterministic but carries imprinted noise that cannot be eliminated by the
+attacker. Thus, a one-time pad for Internet can be made practical. Security is
+achieved without third parties and not relying on the difficulty of factoring
+numbers in primes. An informational fragility to be avoided is discussed.
+Information-theoretic analysis is presented and bounds for secure operation are
+determined.
+</dc:description>
+ <dc:description>Comment: 5 pgs, 2 figs. Submitted to PLA on January 15, 2007</dc:description>
+ <dc:date>2007-04-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1484</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

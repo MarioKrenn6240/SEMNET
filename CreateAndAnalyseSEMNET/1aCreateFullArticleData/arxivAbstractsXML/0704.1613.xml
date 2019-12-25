@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:19Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1613" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1613</identifier>
+ <datestamp>2008-11-26</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Reply to ``Comment on `On the inconsistency of the Bohm-Gadella theory
+  with quantum mechanics'''</dc:title>
+ <dc:creator>de la Madrid, R.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  In this reply, we show that when we apply standard distribution theory to the
+Lippmann-Schwinger equation, the resulting spaces of test functions would
+comply with the Hardy axiom only if classic results of Paley and Wiener, of
+Gelfand and Shilov, and of the theory of ultradistributions were wrong. As
+well, we point out several differences between the ``standard method'' of
+constructing rigged Hilbert spaces in quantum mechanics and the method used in
+Time Asymmetric Quantum Theory.
+</dc:description>
+ <dc:description>Comment: 13 pages</dc:description>
+ <dc:date>2007-04-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1613</dc:identifier>
+ <dc:identifier>J.Phys.A40:4671-4681,2007</dc:identifier>
+ <dc:identifier>doi:10.1088/1751-8113/40/17/N02</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

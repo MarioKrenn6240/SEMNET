@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:14:21Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1134" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1134</identifier>
+ <datestamp>2008-07-29</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Experimental and theoretical study of light scattering by individual
+  mature red blood cells by use of scanning flow cytometry and discrete dipole
+  approximation</dc:title>
+ <dc:creator>Yurkin, Maxim A.</dc:creator>
+ <dc:creator>Semyanov, Konstantin A.</dc:creator>
+ <dc:creator>Tarasov, Peter A.</dc:creator>
+ <dc:creator>Chernyshev, Andrei V.</dc:creator>
+ <dc:creator>Hoekstra, Alfons G.</dc:creator>
+ <dc:creator>Maltsev, Valeri P.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Physics - Medical Physics</dc:subject>
+ <dc:description>  Elastic light scattering by mature red blood cells (RBCs) was theoretically
+and experimentally analyzed with the discrete dipole approximation (DDA) and
+the scanning flow cytometry (SFC), respectively. SFC permits measurement of
+angular dependence of light-scattering intensity (indicatrix) of single
+particles. A mature RBC is modeled as a biconcave disk in DDA simulations of
+light scattering. We have studied the effect of RBC orientation related to the
+direction of the incident light upon the indicatrix. Numerical calculations of
+indicatrices for several aspect ratios and volumes of RBC have been carried
+out. Comparison of the simulated indicatrices and indicatrices measured by SFC
+showed good agreement, validating the biconcave disk model for a mature RBC. We
+simulated the light-scattering output signals from the SFC with the DDA for
+RBCs modeled as a disk-sphere and as an oblate spheroid. The biconcave disk,
+the disk-sphere, and the oblate spheroid models have been compared for two
+orientations, i.e. face-on and rim-on incidence. Only the oblate spheroid model
+for rim-on incidence gives results similar to the rigorous biconcave disk
+model.
+</dc:description>
+ <dc:description>Comment: 13 pages, 9 figures</dc:description>
+ <dc:date>2007-04-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1134</dc:identifier>
+ <dc:identifier>Appl. Opt. 44(25):5249-5256 (2005)</dc:identifier>
+ <dc:identifier>doi:10.1364/AO.44.005249</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

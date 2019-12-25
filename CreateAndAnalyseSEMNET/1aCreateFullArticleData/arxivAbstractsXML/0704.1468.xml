@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:05Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1468" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1468</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Generation of Entanglement Outside of the Light Cone</dc:title>
+ <dc:creator>Franson, J. D.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The Feynman propagator has nonzero values outside of the forward light cone.
+That does not allow messages to be transmitted faster than the speed of light,
+but it is shown here that it does allow entanglement and mutual information to
+be generated at space-like separated points. These effects can be interpreted
+as being due to the propagation of virtual photons outside of the light cone or
+as a transfer of pre-existing entanglement from the quantum vacuum. The
+differences between these two interpretations are discussed.
+</dc:description>
+ <dc:description>Comment: 25 pages, 7 figures. Additional references and figure</dc:description>
+ <dc:date>2007-04-11</dc:date>
+ <dc:date>2007-12-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1468</dc:identifier>
+ <dc:identifier>Journal of Modern Optics 55, 2117-2140 (2008).</dc:identifier>
+ <dc:identifier>doi:10.1080/09500340801983129</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

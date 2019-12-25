@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:55:55Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0808.2040" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0808.2040</identifier>
+ <datestamp>2008-08-15</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Impossibility Proofs and Quantum Bit Commitment</dc:title>
+ <dc:creator>Yuen, Horace P.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The nature and scope of various impossibility proofs as they relate to
+real-world situations are discussed. In particular, it is shown in words
+without technical symbols how secure quantum bit commitment protocols may be
+obtained with testing that exploits the multiple possibilities of cheating
+entanglement formation.
+</dc:description>
+ <dc:description>Comment: 11 pages, 1 figure</dc:description>
+ <dc:date>2008-08-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0808.2040</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

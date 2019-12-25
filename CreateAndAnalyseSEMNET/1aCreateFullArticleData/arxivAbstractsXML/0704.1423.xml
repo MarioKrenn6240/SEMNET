@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T20:09:37Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1423" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1423</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Momentum distributions in time-dependent density functional theory:
+  Product phase approximation for non-sequential double ionization in strong
+  laser fields</dc:title>
+ <dc:creator>Wilken, F.</dc:creator>
+ <dc:creator>Bauer, D.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  We investigate the possibility to deduce momentum space properties from
+time-dependent density functional calculations. Electron and ion momentum
+distributions after double ionization of a model Helium atom in a strong
+few-cycle laser pulse are studied. We show that, in this case, the choice of
+suitable functionals for the observables is considerably more important than
+the choice of the correlation potential in the time-dependent Kohn-Sham
+equations. By comparison with the solution of the time-dependent Schroedinger
+equation, the insufficiency of functionals neglecting electron correlation is
+demonstrated. We construct a functional of the Kohn-Sham orbitals, which in
+principle yields the exact momentum distributions of the electrons and the ion.
+The product-phase approximation is introduced, which reduces the problem of
+approximating this functional significantly.
+</dc:description>
+ <dc:description>Comment: 8 pages, 5 figures, RevTeX4</dc:description>
+ <dc:date>2007-04-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1423</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.023409</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

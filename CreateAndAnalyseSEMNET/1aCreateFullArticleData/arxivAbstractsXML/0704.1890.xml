@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:44:47Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1890" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1890</identifier>
+ <datestamp>2011-01-25</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Computation and visualization of Casimir forces in arbitrary geometries:
+  non-monotonic lateral forces and failure of proximity-force approximations</dc:title>
+ <dc:creator>Rodriguez, Alejandro</dc:creator>
+ <dc:creator>Ibanescu, Mihai</dc:creator>
+ <dc:creator>Iannuzzi, Davide</dc:creator>
+ <dc:creator>Capasso, Federico</dc:creator>
+ <dc:creator>Joannopoulos, John D.</dc:creator>
+ <dc:creator>Johnson, Steven G.</dc:creator>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present a method of computing Casimir forces for arbitrary geometries,
+with any desired accuracy, that can directly exploit the efficiency of standard
+numerical-electromagnetism techniques. Using the simplest possible
+finite-difference implementation of this approach, we obtain both agreement
+with past results for cylinder-plate geometries, and also present results for
+new geometries. In particular, we examine a piston-like problem involving two
+dielectric and metallic squares sliding between two metallic walls, in two and
+three dimensions, respectively, and demonstrate non-additive and non-monotonic
+changes in the force due to these lateral walls.
+</dc:description>
+ <dc:description>Comment: Accepted for publication in Physical Review Letters. (Expected
+  publication: Vol. 99 (8) 2007)</dc:description>
+ <dc:date>2007-04-14</dc:date>
+ <dc:date>2007-08-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1890</dc:identifier>
+ <dc:identifier>Physical Review Letters, Vol. 99, No. 8, 80401 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.99.080401</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

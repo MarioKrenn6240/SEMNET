@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:55:59Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0808.2117" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0808.2117</identifier>
+ <datestamp>2008-08-18</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Local Hamiltonians in Quantum Computation</dc:title>
+ <dc:creator>Nagaj, Daniel</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In this thesis, I investigate aspects of local Hamiltonians in quantum
+computing. First, I focus on the Adiabatic Quantum Computing model, based on
+evolution with a time dependent Hamiltonian. I show that to succeed using AQC,
+the Hamiltonian involved must have local structure, which leads to a result
+about eigenvalue gaps from information theory. I also improve results about
+simulating quantum circuits with AQC. Second, I look at classically simulating
+time evolution with local Hamiltonians and finding their ground state
+properties. I give a numerical method for finding the ground state of
+translationally invariant Hamiltonians on an infinite tree. This method is
+based on imaginary time evolution within the Matrix Product State ansatz, and
+uses a new method for bringing the state back to the ansatz after each
+imaginary time step. I then use it to investigate the phase transition in the
+transverse field Ising model on the Bethe lattice. Third, I focus on locally
+constrained quantum problems Local Hamiltonian and Quantum Satisfiability and
+prove several new results about their complexity. Finally, I define a
+Hamiltonian Quantum Cellular Automaton, a continuous-time model of computation
+which doesn't require control during the computation process, only preparation
+of product initial states. I construct two of these, showing that time
+evolution with a simple, local, translationally invariant and time-independent
+Hamiltonian can be used to simulate quantum circuits.
+</dc:description>
+ <dc:description>Comment: Ph.D. Thesis, June 2008, MIT, 176 pages</dc:description>
+ <dc:date>2008-08-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0808.2117</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

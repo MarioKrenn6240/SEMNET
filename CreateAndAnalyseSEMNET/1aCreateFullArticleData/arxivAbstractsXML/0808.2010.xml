@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:55:54Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0808.2010" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0808.2010</identifier>
+ <datestamp>2013-05-29</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Dynamical Quantum Memories</dc:title>
+ <dc:creator>He, Q. Y.</dc:creator>
+ <dc:creator>Reid, M. D.</dc:creator>
+ <dc:creator>Giacobino, E.</dc:creator>
+ <dc:creator>Cviklinski, J.</dc:creator>
+ <dc:creator>Drummond, P. D</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We propose a dynamical approach to quantum memories using an
+oscillator-cavity model. This overcomes the known difficulties of achieving
+high quantum input-output fidelity with storage times long compared to the
+input signal duration. We use a generic model of the memory response, which is
+applicable to any linear storage medium ranging from a superconducting device
+to an atomic medium. The temporal switching or gating of the device may either
+be through a control field changing the coupling, or through a variable
+detuning approach, as in more recent quantum memory experiments. An exact
+calculation of the temporal memory response to an external input is carried
+out. This shows that there is a mode-matching criterion which determines the
+optimum input and output mode shape. This optimum pulse shape can be modified
+by changing the gate characteristics. In addition, there is a critical coupling
+between the atoms and the cavity that allows high fidelity in the presence of
+long storage times. The quantum fidelity is calculated both for the coherent
+state protocol, and for a completely arbitrary input state with a bounded total
+photon number. We show how a dynamical quantum memory can surpass the relevant
+classical memory bound, while retaining a relatively long storage time.
+</dc:description>
+ <dc:description>Comment: 16 pages, 9 figures</dc:description>
+ <dc:date>2008-08-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0808.2010</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.79.022310</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

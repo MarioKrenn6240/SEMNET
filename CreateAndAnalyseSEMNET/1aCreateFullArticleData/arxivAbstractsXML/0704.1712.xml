@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:23Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1712" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1712</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Borromean Entanglement Revisited</dc:title>
+ <dc:creator>Sugita, Ayumu</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  An interesting analogy between quantum entangled states and topological links
+was suggested by Aravind. In particular, he emphasized a connection between the
+Greenberger-Horne-Zeilinger (GHZ) state and the Borromean rings. However, he
+made the connection in a way that depends on the choice of measurement basis.
+We reconsider it in a basis-independent way by using the reduced density
+matrix.
+</dc:description>
+ <dc:description>Comment: Proceedings of the International Workshop on &quot;Knot Theory for
+  Scientic Objects&quot; held in Osaka (Japan), March 8-10, 2006. 10 pages, 5
+  figures</dc:description>
+ <dc:date>2007-04-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1712</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T20:44:45Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0907.1867" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0907.1867</identifier>
+ <datestamp>2015-05-13</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Lifshitz Point in the Phase Diagram of Resonantly Interacting
+  $^6Li$-$^{40}K$ Mixtures</dc:title>
+ <dc:creator>Gubbels, K. B.</dc:creator>
+ <dc:creator>Baarsma, J. E.</dc:creator>
+ <dc:creator>Stoof, H. T. C.</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:description>  We consider a strongly interacting ${}^{6}$Li-${}^{40}$K mixture, which is
+imbalanced both in the masses and the densities of the two fermionic species.
+At present, it is the experimentalist's favorite for reaching the superfluid
+regime. We construct an effective thermodynamic potential that leads to
+excellent agreement with Monte Carlo results for the normal state. We use it to
+determine the universal phase diagram of the mixture in the unitarity limit,
+where we find, in contrast to the mass-balanced case, the presence of a
+Lifshitz point. This point is characterized by the effective mass of the Cooper
+pairs becoming negative, which signals an instability towards a supersolid
+phase.
+</dc:description>
+ <dc:description>Comment: Replaced with published version</dc:description>
+ <dc:date>2009-07-10</dc:date>
+ <dc:date>2009-11-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0907.1867</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 103, 195301 (2009)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.103.195301</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

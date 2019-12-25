@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:17Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1605" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1605</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Total Quantum Zeno Effect beyond Zeno Time</dc:title>
+ <dc:creator>Mundarain, D.</dc:creator>
+ <dc:creator>Orszag, M.</dc:creator>
+ <dc:creator>Stephany, J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In this work we show that is possible to obtain Total Quantum Zeno Effect in
+an unstable systems for times larger than the correlation time of the bath. The
+effect is observed for some particular systems in which one can chose
+appropriate observables which frequent measurements freeze the system into the
+initial state. For a two level system in a squeezed bath one can show that
+there are two bath dependent observables displaying Total Zeno Effect when the
+system is initialized in some particular states. We show also that these states
+are intelligent states of two conjugate observables associated to the
+electromagnetic fluctuations of the bath.
+</dc:description>
+ <dc:description>Comment: 6 pages, 3 figures, Contributed to Quantum Optics III, Pucon, Chile,
+  November 2006</dc:description>
+ <dc:date>2007-04-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1605</dc:identifier>
+ <dc:identifier>doi:10.1088/1742-6596/84/1/012015</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

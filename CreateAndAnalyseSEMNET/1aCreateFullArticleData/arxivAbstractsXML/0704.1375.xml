@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:02Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1375" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1375</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Decrease of entanglement by local operations in the D\&quot;ur-Cirac method</dc:title>
+ <dc:creator>Ota, Yukihiro</dc:creator>
+ <dc:creator>Yoshida, Motoyuki</dc:creator>
+ <dc:creator>Ohba, Ichiro</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  One cannot always obtain information about entanglement by the D\&quot;ur-Cirac
+(DC) method. The impracticality is attributed to the decrease of entanglement
+by local operations in the DC method. We show that, even in 2--qubit systems,
+there exist states whose entangled property the DC method never evaluates. The
+class of such states in 2--qubit systems is completely characterized by the
+value of the fully entangled fraction. Actually, a state whose fully entangled
+fraction is less than or equal to 1/2 is always transformed into a separable
+state by local operations in the DC method, even if it has negative partial
+transposition.
+</dc:description>
+ <dc:description>Comment: 5 pages</dc:description>
+ <dc:date>2007-04-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1375</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:55:47Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0808.1988" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0808.1988</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A tunable narrowband entangled photon pair source for resonant
+  single-photon single-atom interaction</dc:title>
+ <dc:creator>Haase, Albrecht</dc:creator>
+ <dc:creator>Piro, Nicolas</dc:creator>
+ <dc:creator>Eschner, J&#xfc;rgen</dc:creator>
+ <dc:creator>Mitchell, Morgan W.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present a tunable, frequency-stabilized, narrow-bandwidth source of
+frequency-degenerate, entangled photon pairs. The source is based on
+spontaneous parametric downconversion (SPDC) in periodically-poled KTiOPO4
+(PPKTP). Its wavelength can be stabilized to 850 or 854 nm, thus allowing to
+address two D-P transitions in 40Ca+ ions. Its output bandwidth of 22 MHz
+coincides with the absorption bandwidth of the calcium ions. Its spectral power
+density is 1.0 generated pairs/(s MHz mW).
+</dc:description>
+ <dc:description>Comment: 3 pages, 3 figures</dc:description>
+ <dc:date>2008-08-14</dc:date>
+ <dc:date>2008-08-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0808.1988</dc:identifier>
+ <dc:identifier>doi:10.1364/OL.34.000055</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

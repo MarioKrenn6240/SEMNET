@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T13:24:55Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0907.1884" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0907.1884</identifier>
+ <datestamp>2009-07-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Error rates of Belavkin weighted quantum measurements and a converse to
+  Holevo's asymptotic optimality theorem</dc:title>
+ <dc:creator>Tyson, Jon</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We compare several instances of pure-state Belavkin weighted square-root
+measurements from the standpoint of minimum-error discrimination of quantum
+states. The quadratically weighted measurement is proven superior to the
+so-called &quot;pretty good measurement&quot; (PGM) in a number of respects: (1) Holevo's
+quadratic weighting unconditionally outperforms the PGM in the case of
+two-state ensembles, with equality only in trivial cases. (2) A converse of a
+theorem of Holevo is proven, showing that a weighted measurement is
+asymptotically optimal only if it is quadratically weighted. Counterexamples
+for three states are constructed. The cube-weighted measurement of Ballester,
+Wehner, and Winter is also considered. Sufficient optimality conditions for
+various weights are compared.
+</dc:description>
+ <dc:date>2009-07-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0907.1884</dc:identifier>
+ <dc:identifier>Phys. Rev. A 79, 032343 (2009)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.79.032343</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

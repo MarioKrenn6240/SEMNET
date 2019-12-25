@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T17:51:49Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0907.1871" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0907.1871</identifier>
+ <datestamp>2009-07-13</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Tunable magnetic response of metamaterials</dc:title>
+ <dc:creator>Xiao, Shumin</dc:creator>
+ <dc:creator>Chettiar, Uday K.</dc:creator>
+ <dc:creator>Kildishev, Alexander V.</dc:creator>
+ <dc:creator>Drachev, Vladimir</dc:creator>
+ <dc:creator>Khoo, I. C.</dc:creator>
+ <dc:creator>Shalaev, Vladimir M.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We demonstrate a thermally tunable optical metamaterial with negative
+permeability working in the visible range. By covering coupled metallic
+nanostrips with aligned nematic liquid crystals (NLCs), the magnetic response
+wavelength of the metamaterial is effectively tuned through control of the
+ambient temperature, changing the refractive index of LC via phase transitions.
+By increasing the ambient temperature from 20 degree to 50 degree, the magnetic
+response wavelength shifts from 650nm to 632nm. Numerical simulations confirm
+our tests and match the experimental observations well.
+</dc:description>
+ <dc:date>2009-07-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0907.1871</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

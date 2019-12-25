@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:55:49Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0808.1994" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0808.1994</identifier>
+ <datestamp>2008-10-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Short seed extractors against quantum storage</dc:title>
+ <dc:creator>Ta-Shma, Amnon</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Some, but not all, extractors resist adversaries with limited quantum
+storage. In this paper we show that Trevisan's extractor has this property,
+thereby showing an extractor against quantum storage with logarithmic seed
+length.
+</dc:description>
+ <dc:date>2008-08-14</dc:date>
+ <dc:date>2008-10-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0808.1994</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

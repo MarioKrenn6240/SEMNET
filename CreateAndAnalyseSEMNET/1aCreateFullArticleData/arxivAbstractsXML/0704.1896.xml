@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:37Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1896" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1896</identifier>
+ <datestamp>2011-03-15</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Path Distinguishability in Double Scattering of Light by Atoms</dc:title>
+ <dc:creator>Miniatura, Christian</dc:creator>
+ <dc:creator>M&#xfc;ller, Cord A.</dc:creator>
+ <dc:creator>Lu, Yin</dc:creator>
+ <dc:creator>Wang, Guangquan</dc:creator>
+ <dc:creator>Englert, Berthold-Georg</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Wave-particle duality finds a natural application for electrons or light
+propagating in disordered media where coherent corrections to transport are
+given by two-wave interference. For scatterers with internal degrees of
+freedom, these corrections are observed to be much smaller than would be
+expected for structureless scatterers. By examining the basic example of the
+scattering of one photon by two spin-1/2 atoms--a case-study for coherent
+backscattering--we demonstrate that the loss of interference strength is
+associated with which-path information stored by the scattering atoms.
+</dc:description>
+ <dc:description>Comment: 4 pages, 1 figure; version 2: address correction</dc:description>
+ <dc:date>2007-04-15</dc:date>
+ <dc:date>2007-04-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1896</dc:identifier>
+ <dc:identifier>Physical Review A 76 (2007) 022101 (4 pages)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.022101</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

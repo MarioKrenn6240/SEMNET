@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T13:24:53Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0907.1848" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0907.1848</identifier>
+ <datestamp>2010-10-12</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Estimating Purity and Entropy in Stabilizer State Experiments</dc:title>
+ <dc:creator>Wunderlich, Harald</dc:creator>
+ <dc:creator>Plenio, Martin B.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Many experiments in quantum information aim at creating graph states.
+Quantifying the purity of an experimentally achieved graph state could in
+principle be accomplished using full-state tomography. This method requires a
+number of measurement settings growing exponentially with the number of
+constituents involved. Thus, full-state tomography becomes experimentally
+infeasible even for a moderate number of qubits.
+  In this paper we present a method to estimate the purity of experimentally
+achieved graph states with simple measurements. The observables we consider are
+the stabilizers of the underlying graph. Then, we formulate the problem as:
+&quot;What is the state with the least purity that is compatible with the
+measurement data?&quot; We solve this problem analytically and compare the obtained
+bounds with results from full-state tomography for simulated data.
+</dc:description>
+ <dc:description>Comment: submitted to International Journal of Quantum Information - Special
+  Issue on Distributed Quantum Computing</dc:description>
+ <dc:date>2009-07-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0907.1848</dc:identifier>
+ <dc:identifier>Int. J. Quant. Inf. 8, 325 (2010)</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:56:02Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0808.2149" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0808.2149</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Entangled state for constructing generalized phase space representation
+  and its statistical behavior</dc:title>
+ <dc:creator>Hu, Li-yun</dc:creator>
+ <dc:creator>Fan, Hong-yi</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Based on the conception of quantum entanglement of Einstein-Podolsky-Rosen we
+construct generalized phase space representation associated with the entangled
+state |Gamma&gt;_{e}, which is endowed with definite physical meaning. The set of
+states make up a complete and non-orthogonal representation. The Weyl ordered
+form of |Gamma&gt;_{ee}_&lt;Gamma| is derived which clearly exhibit the statistical
+behavior of marginal distribution of |Gamma&gt;_{ee}_&lt;Gamma|.The minimum
+uncertainty relation obeyed by |Gamma&gt;_{e} is also demonstrated.
+</dc:description>
+ <dc:description>Comment: 13 pages, no figures</dc:description>
+ <dc:date>2008-08-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0808.2149</dc:identifier>
+ <dc:identifier>doi:10.1063/1.2827480</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>
