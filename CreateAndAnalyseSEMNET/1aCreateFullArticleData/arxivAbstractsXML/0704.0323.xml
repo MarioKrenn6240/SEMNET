@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:32Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0323" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0323</identifier>
+ <datestamp>2012-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>General sequential quantum cloning</dc:title>
+ <dc:creator>Dang, Gui-Fang</dc:creator>
+ <dc:creator>Fan, Heng</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Some multipartite quantum states can be generated in a sequential manner
+which may be implemented by various physical setups like microwave and optical
+cavity QED, trapped ions, and quantum dots etc. We analyze the general N to M
+qubits Universal Quantum Cloning Machine (UQCM) within a sequential generation
+scheme. We show that the N to M sequential UQCM is available. The case of
+d-level quantum states sequential cloning is also presented.
+</dc:description>
+ <dc:description>Comment: 4 pages</dc:description>
+ <dc:date>2007-04-03</dc:date>
+ <dc:date>2007-04-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0323</dc:identifier>
+ <dc:identifier>J.Phys.A 41, 155303 (2008)</dc:identifier>
+ <dc:identifier>doi:10.1088/1751-8113/41/15/155303</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

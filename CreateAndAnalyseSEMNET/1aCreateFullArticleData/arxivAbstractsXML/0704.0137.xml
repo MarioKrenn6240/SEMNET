@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:23Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0137" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0137</identifier>
+ <datestamp>2009-05-15</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Topological defects, geometric phases, and the angular momentum of light</dc:title>
+ <dc:creator>Tiwari, S C</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Recent reports on the intriguing features of vector vortex bearing beams are
+analyzed using geometric phases in optics. It is argued that the spin
+redirection phase induced circular birefringence is the origin of topological
+phase singularities arising in the inhomogeneous polarization patterns. A
+unified picture of recent results is presented based on this proposition.
+Angular momentum shift within the light beam (OAM) has exact equivalence with
+the angular momentum holonomy associated with the geometric phase consistent
+with our conjecture.
+</dc:description>
+ <dc:description>Comment: No figures</dc:description>
+ <dc:date>2007-04-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0137</dc:identifier>
+ <dc:identifier>Optik-International Journal for Light and Electron Optics, 120,
+  414-417 (2009)</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:13:57Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0037" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0037</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The discrete dipole approximation for simulation of light scattering by
+  particles much larger than the wavelength</dc:title>
+ <dc:creator>Yurkin, Maxim A.</dc:creator>
+ <dc:creator>Maltsev, Valeri P.</dc:creator>
+ <dc:creator>Hoekstra, Alfons G.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:description>  In this manuscript we investigate the capabilities of the Discrete Dipole
+Approximation (DDA) to simulate scattering from particles that are much larger
+than the wavelength of the incident light, and describe an optimized publicly
+available DDA computer program that processes the large number of dipoles
+required for such simulations. Numerical simulations of light scattering by
+spheres with size parameters x up to 160 and 40 for refractive index m=1.05 and
+2 respectively are presented and compared with exact results of the Mie theory.
+Errors of both integral and angle-resolved scattering quantities generally
+increase with m and show no systematic dependence on x. Computational times
+increase steeply with both x and m, reaching values of more than 2 weeks on a
+cluster of 64 processors. The main distinctive feature of the computer program
+is the ability to parallelize a single DDA simulation over a cluster of
+computers, which allows it to simulate light scattering by very large
+particles, like the ones that are considered in this manuscript. Current
+limitations and possible ways for improvement are discussed.
+</dc:description>
+ <dc:description>Comment: 13 pages, 10 figures</dc:description>
+ <dc:date>2007-03-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0037</dc:identifier>
+ <dc:identifier>J.Quant.Spectrosc.Radiat.Transf. 106, 546-557 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1016/j.jqsrt.2007.01.033</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

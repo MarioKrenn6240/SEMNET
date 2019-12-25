@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:37Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0376" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0376</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Environmental noise reduction for holonomic quantum gates</dc:title>
+ <dc:creator>Parodi, Daniele</dc:creator>
+ <dc:creator>Sassetti, Maura</dc:creator>
+ <dc:creator>Solinas, Paolo</dc:creator>
+ <dc:creator>Zangh&#xec;, Nino</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  We study the performance of holonomic quantum gates, driven by lasers, under
+the effect of a dissipative environment modeled as a thermal bath of
+oscillators. We show how to enhance the performance of the gates by suitable
+choice of the loop in the manifold of the controllable parameters of the laser.
+For a simplified, albeit realistic model, we find the surprising result that
+for a long time evolution the performance of the gate (properly estimated in
+terms of average fidelity) increases. On the basis of this result, we compare
+holonomic gates with the so-called stimulated Raman adiabatic passage (STIRAP)
+gates.
+</dc:description>
+ <dc:description>Comment: 7 pages, 2 figures, to appear in Phys. Rev. A</dc:description>
+ <dc:date>2007-04-03</dc:date>
+ <dc:date>2007-07-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0376</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.012337</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

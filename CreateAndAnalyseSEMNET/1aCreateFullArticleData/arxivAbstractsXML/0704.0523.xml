@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:57Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0523" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0523</identifier>
+ <datestamp>2007-10-03</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum superpositions and entanglement of thermal states at high
+  temperatures and their applications to quantum information processing</dc:title>
+ <dc:creator>Jeong, Hyunseok</dc:creator>
+ <dc:creator>Ralph, Timothy C.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We study characteristics of superpositions and entanglement of thermal states
+at high temperatures and discuss their applications to quantum information
+processing. We introduce thermal-state qubits and thermal-Bell states, which
+are a generalization of pure-state qubits and Bell states to thermal mixtures.
+A scheme is then presented to discriminate between the four thermal-Bell states
+without photon number resolving detection but with Kerr nonlinear interactions
+and two single-photon detectors. This enables one to perform quantum
+teleportation and gate operations for quantum computation with thermal-state
+qubits.
+</dc:description>
+ <dc:description>Comment: 12 pages, 11 figures, minor corrections, to be published in Phys.
+  Rev. A</dc:description>
+ <dc:date>2007-04-04</dc:date>
+ <dc:date>2007-07-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0523</dc:identifier>
+ <dc:identifier>Phys. Rev. A 76, 042103 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.042103</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

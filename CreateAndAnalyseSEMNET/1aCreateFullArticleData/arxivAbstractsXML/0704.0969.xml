@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:28Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0969" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0969</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Necessary and Sufficient Conditions of Separability for Bipartite
+  Pure States in Infinite Dimensional Hilbert Spaces</dc:title>
+ <dc:creator>Hu, Su</dc:creator>
+ <dc:creator>Yu, Zongwen</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In this paper, we present the necessary and sufficient conditions of
+separability for bipartite pure states in infinite dimensional Hilbert spaces.
+Let $M$ be the matrix of the amplitudes of $\ket\psi$, we prove $M$ is a
+compact operator. We also prove $\ket\psi$ is separable if and only if $M$ is a
+bounded linear operator with rank 1, that is the image of $M$ is a one
+dimensional Hilbert space. So we have related the separability for bipartite
+pure states in infinite dimensional Hilbert spaces to an important class of
+bounded linear operators in Functional analysis which has many interesting
+properties.
+</dc:description>
+ <dc:description>Comment: 4 pages</dc:description>
+ <dc:date>2007-04-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0969</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

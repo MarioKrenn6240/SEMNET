@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:36Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1069" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1069</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optical Zeno Gate: Bounds for Fault Tolerant Operation</dc:title>
+ <dc:creator>Leung, Patrick M.</dc:creator>
+ <dc:creator>Ralph, Timothy C.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In principle the Zeno effect controlled-sign gate of Franson et al's (PRA 70,
+062302, 2004) is a deterministic two-qubit optical gate. However, when
+realistic values of photon loss are considered its fidelity is significantly
+reduced. Here we consider the use of measurement based quantum processing
+techniques to enhance the operation of the Zeno gate. With the help of quantum
+teleportation, we show that it is possible to achieve a Zeno CNOT gate (GC-Zeno
+gate) that gives (near) unit fidelity and moderate probability of success of
+0.76 with a one-photon to two-photon transmission ratio $\kappa=10^4$. We
+include some mode-mismatch effects and estimate the bounds on the mode overlap
+and $\kappa$ for which fault tolerant operation would be possible.
+</dc:description>
+ <dc:description>Comment: 5 pages</dc:description>
+ <dc:date>2007-04-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1069</dc:identifier>
+ <dc:identifier>doi:10.1088/1367-2630/9/7/224</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

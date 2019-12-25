@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:12Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0763" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0763</identifier>
+ <datestamp>2008-06-18</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Coherent control of atomic tunneling</dc:title>
+ <dc:creator>Martin, John</dc:creator>
+ <dc:creator>Braun, Daniel</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We study the tunneling of a two-level atom in a double well potential while
+the atom is coupled to a single electromagnetic field mode of a cavity. The
+coupling between internal and external degrees of freedom, due to the
+mechanical effect on the atom from photon emission into the cavity mode, can
+dramatically change the tunneling behavior. We predict that in general the
+tunneling process becomes quasiperiodic. In a certain regime of parameters a
+collapse and revival of the tunneling occurs. Accessing the internal degrees of
+freedom of the atom with a laser allows to coherently manipulate the atom
+position, and in particular to prepare the atom in one of the two wells. The
+effects described should be observable with atoms in an optical double well
+trap.
+</dc:description>
+ <dc:description>Comment: 6 pages revtex, 4 figures, extended version including numerical
+  results taking into account higher vibrationnal levels</dc:description>
+ <dc:date>2007-04-05</dc:date>
+ <dc:date>2007-11-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0763</dc:identifier>
+ <dc:identifier>J. Phys. B: At. Mol. Opt. Phys. 41, 115502 (2008)</dc:identifier>
+ <dc:identifier>doi:10.1088/0953-4075/41/11/115502</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

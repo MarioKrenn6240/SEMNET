@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:37Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1080" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1080</identifier>
+ <datestamp>2011-02-16</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The solutions of the N-identical quantum harmonic oscillators
+  interacting with each other through the harmonic potential</dc:title>
+ <dc:creator>Channuie, Phongpichit</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  This paper has been withdrawn by the author due to some mistakes
+</dc:description>
+ <dc:description>Comment: This paper has been withdrawn</dc:description>
+ <dc:date>2007-04-09</dc:date>
+ <dc:date>2011-02-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1080</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

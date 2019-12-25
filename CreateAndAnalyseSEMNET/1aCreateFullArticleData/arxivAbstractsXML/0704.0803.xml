@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:19Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0803" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0803</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Geometric Phase and Superconducting Flux Quantization</dc:title>
+ <dc:creator>Simmons, Walter A.</dc:creator>
+ <dc:creator>Pakvasa, Sandip S.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In a ring of s-wave superconducting material the magnetic flux is quantized
+in units of $\Phi_0 = \frac{h}{2e}$. It is well known from the theory of
+Josephson junctions that if the ring is interrupted with a piece of d-wave
+material, then the flux is quantized in one-half of those units due to a
+additional phase shift of $\pi$. We reinterpret this phenomenon in terms of
+geometric phase.
+  We consider an idealized hetero-junction superconductor with pure s-wave and
+pure d-wave electron pairs. We find, for this idealized configuration, that the
+phase shift of $\pi$ follows from the discontinuity in the geometric phase and
+is thus a fundamental consequence of quantum mechanics.
+</dc:description>
+ <dc:description>Comment: 5 pages, pdf format</dc:description>
+ <dc:date>2007-04-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0803</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

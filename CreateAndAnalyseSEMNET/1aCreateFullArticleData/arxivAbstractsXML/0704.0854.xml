@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:14:19Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0854" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0854</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Polarization properties of subwavelength hole arrays consisting of
+  rectangular holes</dc:title>
+ <dc:creator>Ren, Xi-Feng</dc:creator>
+ <dc:creator>Zhang, Pei</dc:creator>
+ <dc:creator>Guo, Guo-Ping</dc:creator>
+ <dc:creator>Huang, Yun-Feng</dc:creator>
+ <dc:creator>Wang, Zhi-Wei</dc:creator>
+ <dc:creator>Guo, Guang-Can</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  Influence of hole shape on extraordinary optical transmission was
+investigated using hole arrays consisting of rectangular holes with different
+aspect ratio. It was found that the transmission could be tuned continuously by
+rotating the hole array. Further more, a phase was generated in this process,
+and linear polarization states could be changed to elliptical polarization
+states. This phase was correlated with the aspect ratio of the holes. An
+intuitional model was presented to explain these results.
+</dc:description>
+ <dc:description>Comment: 8 pages, 4 figures</dc:description>
+ <dc:date>2007-04-06</dc:date>
+ <dc:date>2008-06-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0854</dc:identifier>
+ <dc:identifier>Appl.Phys.B 91 601(2008)</dc:identifier>
+ <dc:identifier>doi:10.1007/s00340-008-3027-1</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

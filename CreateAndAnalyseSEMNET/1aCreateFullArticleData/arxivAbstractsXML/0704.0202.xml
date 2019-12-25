@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:26Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0202" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0202</identifier>
+ <datestamp>2007-09-20</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Towards Minimal Resources of Measurement-based Quantum Computation</dc:title>
+ <dc:creator>Perdrix, Simon</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We improve the upper bound on the minimal resources required for
+measurement-based quantum computation. Minimizing the resources required for
+this model is a key issue for experimental realization of a quantum computer
+based on projective measurements. This new upper bound allows also to reply in
+the negative to the open question about the existence of a trade-off between
+observable and ancillary qubits in measurement-based quantum computation.
+</dc:description>
+ <dc:description>Comment: 8 pages</dc:description>
+ <dc:date>2007-04-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0202</dc:identifier>
+ <dc:identifier>New J. Phys. 9 206 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1088/1367-2630/9/6/206</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T20:09:33Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0855" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0855</identifier>
+ <datestamp>2015-05-13</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Three dimensional cooling and trapping with a narrow line</dc:title>
+ <dc:creator>Chaneliere, Thierry</dc:creator>
+ <dc:creator>He, Ling Xiang</dc:creator>
+ <dc:creator>Kaiser, Robin</dc:creator>
+ <dc:creator>Wilkowski, David</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  The intercombination line of Strontium at 689nm is successfully used in laser
+cooling to reach the photon recoil limit with Doppler cooling in a
+magneto-optical traps (MOT). In this paper we present a systematic study of the
+loading efficiency of such a MOT. Comparing the experimental results to a
+simple model allows us to discuss the actual limitation of our apparatus. We
+also study in detail the final MOT regime emphasizing the role of gravity on
+the position, size and temperature along the vertical and horizontal
+directions. At large laser detuning, one finds an unusual situation where
+cooling and trapping occur in the presence of a high bias magnetic field.
+</dc:description>
+ <dc:date>2007-04-06</dc:date>
+ <dc:date>2007-08-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0855</dc:identifier>
+ <dc:identifier>doi:10.1140/epjd/e2007-00329-8</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

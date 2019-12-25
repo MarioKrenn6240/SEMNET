@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:44:21Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0147" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0147</identifier>
+ <datestamp>2007-06-26</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A POVM view of the ensemble approach to polarization optics</dc:title>
+ <dc:creator>Sudha</dc:creator>
+ <dc:creator>Rao, A. V. Gopala</dc:creator>
+ <dc:creator>Devi, A. R. Usha</dc:creator>
+ <dc:creator>Rajagopal, A. K.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Physics - Classical Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Statistical ensemble formalism of Kim, Mandel and Wolf (J. Opt. Soc. Am. A 4,
+433 (1987)) offers a realistic model for characterizing the effect of
+stochastic non-image forming optical media on the state of polarization of
+transmittedlight. With suitable choice of the Jones ensemble, various Mueller
+transformations - some of which have been unknown so far - are deduced. It is
+observed that the ensemble approach is formally identical to the positive
+operator valued measures (POVM) on the quantum density matrix. This
+observation, in combination with the recent suggestion by Ahnert and Payne
+(Phys. Rev. A 71, 012330, (2005)) - in the context of generalized quantum
+measurement on single photon polarization states - that linear optics elements
+can be employed in setting up all possible POVMs, enables us to propose a way
+of realizing different types of Mueller devices.
+</dc:description>
+ <dc:description>Comment: 14 pages, 1 table; RevTeX</dc:description>
+ <dc:date>2007-04-02</dc:date>
+ <dc:date>2007-06-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0147</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

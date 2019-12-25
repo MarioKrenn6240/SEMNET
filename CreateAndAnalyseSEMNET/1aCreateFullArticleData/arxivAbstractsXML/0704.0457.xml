@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:44:31Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0457" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0457</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum analysis of a linear DC SQUID mechanical displacement detector</dc:title>
+ <dc:creator>Blencowe, M. P.</dc:creator>
+ <dc:creator>Buks, E.</dc:creator>
+ <dc:subject>Condensed Matter - Superconductivity</dc:subject>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We provide a quantum analysis of a DC SQUID mechanical displacement detector
+within the sub-critical Josephson current regime. A segment of the SQUID loop
+forms the mechanical resonator and motion of the latter is transduced
+inductively through changes in the flux threading the loop. Expressions are
+derived for the detector signal response and noise, which are used to evaluate
+the position and force detection sensitivity. We also investigate cooling of
+the mechanical resonator due to back reaction noise from the detector.
+</dc:description>
+ <dc:description>Comment: 33 pages, 4 figures, published version</dc:description>
+ <dc:date>2007-04-03</dc:date>
+ <dc:date>2007-07-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0457</dc:identifier>
+ <dc:identifier>Physical Review B 76, 014511 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.76.014511</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

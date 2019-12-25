@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:15:15Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0681" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0681</identifier>
+ <datestamp>2012-08-10</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Monitoring spatially heterogeneous dynamics in a drying colloidal thin
+  film</dc:title>
+ <dc:creator>Zakharov, P.</dc:creator>
+ <dc:creator>Scheffold, F.</dc:creator>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Physics - Instrumentation and Detectors</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We report on a new type of experiment that enables us to monitor spatially
+and temporally heterogeneous dynamic properties in complex fluids. Our approach
+is based on the analysis of near-field speckles produced by light diffusely
+reflected from the superficial volume of a strongly scattering medium. By
+periodic modulation of an incident speckle beam we obtain pixel-wise ensemble
+averages of the structure function coefficient, a measure of the dynamic
+activity. To illustrate the application of our approach we follow the different
+stages in the drying process of a colloidal thin film. We show that we can
+access ensemble averaged dynamic properties on length scales as small as ten
+micrometers over the full field of view.
+</dc:description>
+ <dc:description>Comment: To appear in Soft Materials</dc:description>
+ <dc:date>2007-04-05</dc:date>
+ <dc:date>2010-05-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0681</dc:identifier>
+ <dc:identifier>Soft Materials, 8(2):102-113, (2010)</dc:identifier>
+ <dc:identifier>doi:10.1080/15394451003708549</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

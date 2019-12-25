@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T20:09:34Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0856" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0856</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Approximate Selection Rule for Orbital Angular Momentum in Atomic
+  Radiative Transitions</dc:title>
+ <dc:creator>Khriplovich, I. B.</dc:creator>
+ <dc:creator>Matvienko, D. V.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Physics - Classical Physics</dc:subject>
+ <dc:description>  We demonstrate that radiative transitions with \Delta l = - 1 are strongly
+dominating for all values of n and l, except small region where l &lt;&lt; n.
+</dc:description>
+ <dc:description>Comment: 5 pages, 1 figure</dc:description>
+ <dc:date>2007-04-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0856</dc:identifier>
+ <dc:identifier>Phys. Lett. A 368 (2007) 348</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physleta.2007.04.031</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

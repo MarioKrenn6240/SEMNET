@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:51Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0495" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0495</identifier>
+ <datestamp>2007-07-02</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Veldkamp Space of Two-Qubits</dc:title>
+ <dc:creator>Saniga, Metod</dc:creator>
+ <dc:creator>Planat, Michel</dc:creator>
+ <dc:creator>Pracna, Petr</dc:creator>
+ <dc:creator>Havlicek, Hans</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  Given a remarkable representation of the generalized Pauli operators of
+two-qubits in terms of the points of the generalized quadrangle of order two,
+W(2), it is shown that specific subsets of these operators can also be
+associated with the points and lines of the four-dimensional projective space
+over the Galois field with two elements - the so-called Veldkamp space of W(2).
+An intriguing novelty is the recognition of (uni- and tri-centric) triads and
+specific pentads of the Pauli operators in addition to the &quot;classical&quot; subsets
+answering to geometric hyperplanes of W(2).
+</dc:description>
+ <dc:description>Comment: 7 pages, 3 figures, 2 tables; Version 2 - math nomenclature
+  fine-tuned and two references added; Version 3 - published in SIGMA
+  (Symmetry, Integrability and Geometry: Methods and Applications) at
+  http://www.emis.de/journals/SIGMA/</dc:description>
+ <dc:date>2007-04-04</dc:date>
+ <dc:date>2007-07-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0495</dc:identifier>
+ <dc:identifier>SIGMA 3 (2007) 075, 7 pages</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

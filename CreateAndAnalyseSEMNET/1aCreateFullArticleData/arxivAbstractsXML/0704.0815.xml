@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:22Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0815" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0815</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Exchange of quantum states between coupled oscillators</dc:title>
+ <dc:creator>Portes Jr., D.</dc:creator>
+ <dc:creator>Rodrigues, H.</dc:creator>
+ <dc:creator>Duarte, S. B.</dc:creator>
+ <dc:creator>Baseia, B.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Exchange of quantum states between two interacting harmonic oscillator along
+their evolution time is discussed. It is analyzed the conditions for such
+exchange starting from a generic initial state and demonstrating that the
+effect occurs exactly only for the particular states C0|0&gt;+Cn|N&gt;, which
+includes the interesting qubits components |0&gt;,|1&gt;. It is also determined the
+relation between the coupling constant and characteristic frequencies of the
+oscillators to have the complete exchange.
+</dc:description>
+ <dc:description>Comment: 10 pages, no figure, Latex file</dc:description>
+ <dc:date>2007-04-05</dc:date>
+ <dc:date>2007-04-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0815</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

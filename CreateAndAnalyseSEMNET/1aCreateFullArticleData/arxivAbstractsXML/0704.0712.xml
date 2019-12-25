@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T20:09:29Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0712" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0712</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Interference effects in above-threshold ionization from diatomic
+  molecules: determining the internuclear separation</dc:title>
+ <dc:creator>Hetzheim, H.</dc:creator>
+ <dc:creator>Faria, C. Figueira de Morisson</dc:creator>
+ <dc:creator>Becker, W.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  We calculate angle-resolved above-threshold ionization spectra for diatomic
+molecules in linearly polarized laser fields, employing the strong-field
+approximation. The interference structure resulting from the individual
+contributions of the different scattering scenarios is discussed in detail,
+with respect to the dependence on the internuclear distance and molecular
+orientation. We show that, in general, the contributions from the processes in
+which the electron is freed at one center and rescatters off the other obscure
+the interference maxima and minima obtained from single-center processes.
+However, around the boundary of the energy regions for which rescattering has a
+classical counterpart, such processes play a negligible role and very clear
+interference patterns are observed. In such energy regions, one is able to
+infer the internuclear distance from the energy difference between adjacent
+interference minima.
+</dc:description>
+ <dc:description>Comment: 10 pages, 8 figures; discussions slightly modified and an additional
+  figure inserted for clarity</dc:description>
+ <dc:date>2007-04-05</dc:date>
+ <dc:date>2007-06-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0712</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.023418</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

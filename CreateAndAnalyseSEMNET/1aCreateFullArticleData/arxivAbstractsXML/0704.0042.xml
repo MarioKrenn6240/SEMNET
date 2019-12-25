@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:18Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0042" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0042</identifier>
+ <datestamp>2010-04-26</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>General System theory, Like-Quantum Semantics and Fuzzy Sets</dc:title>
+ <dc:creator>Licata, Ignazio</dc:creator>
+ <dc:subject>Physics - General Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  It is outlined the possibility to extend the quantum formalism in relation to
+the requirements of the general systems theory. It can be done by using a
+quantum semantics arising from the deep logical structure of quantum theory. It
+is so possible taking into account the logical openness relationship between
+observer and system. We are going to show how considering the truth-values of
+quantum propositions within the context of the fuzzy sets is here more useful
+for systemics . In conclusion we propose an example of formal quantum
+coherence.
+</dc:description>
+ <dc:description>Comment: 12 pages,3 figures</dc:description>
+ <dc:date>2007-03-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0042</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

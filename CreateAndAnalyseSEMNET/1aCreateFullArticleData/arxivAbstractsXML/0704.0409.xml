@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:43Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0409" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0409</identifier>
+ <datestamp>2007-09-25</datestamp>
+ <setSpec>nlin</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the over-barrier reflection in quantum mechanics with multiple
+  degrees of freedom</dc:title>
+ <dc:creator>Levkov, D. G.</dc:creator>
+ <dc:creator>Panin, A. G.</dc:creator>
+ <dc:creator>Sibiryakov, S. M.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Nonlinear Sciences - Chaotic Dynamics</dc:subject>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Physics - Chemical Physics</dc:subject>
+ <dc:description>  We present an analytic example of two dimensional quantum mechanical system,
+where the exponential suppression of the probability of over-barrier reflection
+changes non-monotonically with energy. The suppression is minimal at certain
+&quot;optimal&quot; energies where reflection occurs with exponentially larger
+probability than at other energies.
+</dc:description>
+ <dc:description>Comment: Journal version. Introduction expanded, references added</dc:description>
+ <dc:date>2007-04-03</dc:date>
+ <dc:date>2007-09-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0409</dc:identifier>
+ <dc:identifier>Phys. Rev. A 76, 032114 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.032114</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

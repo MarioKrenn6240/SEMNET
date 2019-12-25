@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:04Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0641" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0641</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum engineering of photon states with entangled atomic ensembles</dc:title>
+ <dc:creator>Porras, D.</dc:creator>
+ <dc:creator>Cirac, J. I.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We propose and analyze a new method to produce single and entangled photons
+which does not require cavities. It relies on the collective enhancement of
+light emission as a consequence of the presence of entanglement in atomic
+ensembles. Light emission is triggered by a laser pulse, and therefore our
+scheme is deterministic. Furthermore, it allows one to produce a variety of
+photonic entangled states by first preparing certain atomic states using simple
+sequences of quantum gates. We analyze the feasibility of our scheme, and
+particularize it to: ions in linear traps, atoms in optical lattices, and in
+cells at room temperature.
+</dc:description>
+ <dc:description>Comment: 6 pages, 3 figures</dc:description>
+ <dc:date>2007-04-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0641</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

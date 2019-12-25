@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:36Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0373" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0373</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Reality of linear and angular momentum expectation values in bound
+  states</dc:title>
+ <dc:creator>Roy, Utpal</dc:creator>
+ <dc:creator>Ghosh, Suranjana</dc:creator>
+ <dc:creator>Shreecharan, T.</dc:creator>
+ <dc:creator>Bhattacharya, Kaushik</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  In quantum mechanics textbooks the momentum operator is defined in the
+Cartesian coordinates and rarely the form of the momentum operator in spherical
+polar coordinates is discussed. Consequently one always generalizes the
+Cartesian prescription to other coordinates and falls in a trap. In this work
+we introduce the difficulties one faces when the question of the momentum
+operator in spherical polar coordinate comes. We have tried to point out most
+of the elementary quantum mechanical results, related to the momentum operator,
+which has coordinate dependence. We explicitly calculate the momentum
+expectation values in various bound states and show that the expectation value
+really turns out to be zero, a consequence of the fact that the momentum
+expectation value is real. We comment briefly on the status of the angular
+variables in quantum mechanics and the problems related in interpreting them as
+dynamical variables. At the end, we calculate the Heisenberg's equation of
+motion for the radial component of the momentum for the Hydrogen atom.
+</dc:description>
+ <dc:description>Comment: 18 pages</dc:description>
+ <dc:date>2007-04-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0373</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

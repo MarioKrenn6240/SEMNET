@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:40Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0397" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0397</identifier>
+ <datestamp>2007-06-07</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Conditional generation of path-entangled optical NOON states</dc:title>
+ <dc:creator>Nielsen, Anne E. B.</dc:creator>
+ <dc:creator>Molmer, Klaus</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We propose a measurement protocol to generate path-entangled NOON states
+conditionally from two pulsed type II optical parametric oscillators. We
+calculate the fidelity of the produced states and the success probability of
+the protocol. The trigger detectors are assumed to have finite dead time, and
+for short pulse trigger fields they are modeled as on/off detectors with finite
+efficiency. Continuous-wave operation of the parametric oscillators is also
+considered.
+</dc:description>
+ <dc:description>Comment: 7 pages, 5 figures, v2: added references and minor changes</dc:description>
+ <dc:date>2007-04-03</dc:date>
+ <dc:date>2007-06-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0397</dc:identifier>
+ <dc:identifier>Phys. Rev. A 75, 063803 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.75.063803</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

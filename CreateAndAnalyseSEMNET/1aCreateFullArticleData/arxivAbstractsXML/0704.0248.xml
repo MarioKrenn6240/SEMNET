@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:14:06Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0248" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0248</identifier>
+ <datestamp>2008-02-04</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Rigorous Time-Domain Analysis of Full--Wave Electromagnetic Cloaking
+  (Invisibility)</dc:title>
+ <dc:creator>Weder, Ricardo</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  There is currently a great deal of interest in the theoretical and practical
+possibility of cloaking objects from the observation by electromagnetic waves.
+The basic idea of these invisibility devices \cite{glu1, glu2, le},\cite{pss1}
+is to use anisotropic {\it transformation media} whose permittivity and
+permeability $\var^{\lambda\nu}, \mu^{\lambda\nu}$, are obtained from the ones,
+$\var_0^{\lambda\nu}, \mu^{\lambda\nu}_0$, of isotropic media, by singular
+transformations of coordinates. In this paper we study electromagnetic cloaking
+in the time-domain using the formalism of time-dependent scattering theory.
+This formalism allows us to settle in an unambiguous way the mathematical
+problems posed by the singularities of the inverse of the permittivity and the
+permeability of the {\it transformation media} on the boundary of the cloaked
+objects. We write Maxwell's equations in Schr\&quot;odinger form with the
+electromagnetic propagator playing the role of the Hamiltonian. We prove that
+the electromagnetic propagator outside of the cloaked objects is essentially
+self-adjoint. Moreover, the unique self-adjoint extension is unitarily
+equivalent to the electromagnetic propagator in the medium
+$\var_0^{\lambda\nu}, \mu^{\lambda\nu}_0$. Using this fact, and since the
+coordinate transformation is the identity outside of a ball, we prove that the
+scattering operator is the identity. Our results give a rigorous proof that the
+construction of \cite{glu1, glu2, le}, \cite{pss1} perfectly cloaks passive and
+active devices from observation by electromagnetic waves. Furthermore, we prove
+cloaking for general anisotropic materials. In particular, our results prove
+that it is possible to cloak objects inside general crystals.
+</dc:description>
+ <dc:description>Comment: The presentation of the results has been simplified. Comments and
+  references have been added</dc:description>
+ <dc:date>2007-04-02</dc:date>
+ <dc:date>2008-02-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0248</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

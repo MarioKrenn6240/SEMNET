@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:17Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0800" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0800</identifier>
+ <datestamp>2007-11-26</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum Auctions</dc:title>
+ <dc:creator>Hogg, Tad</dc:creator>
+ <dc:creator>Harsha, Pavithra</dc:creator>
+ <dc:creator>Chen, Kay-Yut</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present a quantum auction protocol using superpositions to represent bids
+and distributed search to identify the winner(s). Measuring the final quantum
+state gives the auction outcome while simultaneously destroying the
+superposition. Thus non-winning bids are never revealed. Participants can use
+entanglement to arrange for correlations among their bids, with the assurance
+that this entanglement is not observable by others. The protocol is useful for
+information hiding applications, such as partnership bidding with allocative
+externality or concerns about revealing bidding preferences. The protocol
+applies to a variety of auction types, e.g., first or second price, and to
+auctions involving either a single item or arbitrary bundles of items (i.e.,
+combinatorial auctions). We analyze the game-theoretical behavior of the
+quantum protocol for the simple case of a sealed-bid quantum, and show how a
+suitably designed adiabatic search reduces the possibilities for bidders to
+game the auction. This design illustrates how incentive rather that
+computational constraints affect quantum algorithm choices.
+</dc:description>
+ <dc:description>Comment: 38 pages, 3 figures</dc:description>
+ <dc:date>2007-04-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0800</dc:identifier>
+ <dc:identifier>Intl. J. of Quantum Information 5:751-780 (2007)</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

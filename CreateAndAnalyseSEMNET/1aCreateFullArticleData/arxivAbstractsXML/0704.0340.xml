@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:33Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0340" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0340</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Phonon-mediated decay of an atom in a surface-induced potential</dc:title>
+ <dc:creator>Kien, Fam Le</dc:creator>
+ <dc:creator>Gupta, S. Dutta</dc:creator>
+ <dc:creator>Hakuta, K.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We study phonon-mediated transitions between translational levels of an atom
+in a surface-induced potential. We present a general master equation governing
+the dynamics of the translational states of the atom. In the framework of the
+Debye model, we derive compact expressions for the rates for both upward and
+downward transitions. Numerical calculations for the transition rates are
+performed for a deep silica-induced potential allowing for a large number of
+bound levels as well as free states of a cesium atom. The total absorption rate
+is shown to be determined mainly by the bound-to-bound transitions for deep
+bound levels and by bound-to-free transitions for shallow bound levels.
+Moreover, the phonon emission and absorption processes can be orders of
+magnitude larger for deep bound levels as compared to the shallow bound ones.
+We also study various types of transitions from free states. We show that, for
+thermal atomic cesium with temperature in the range from 100 $\mu$K to 400
+$\mu$K in the vicinity of a silica surface with temperature of 300 K, the
+adsorption (free-to-bound decay) rate is about two times larger than the
+heating (free-to-free upward decay) rate, while the cooling (free-to-free
+downward decay) rate is negligible.
+</dc:description>
+ <dc:description>Comment: 14 pages, 15 figures</dc:description>
+ <dc:date>2007-04-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0340</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

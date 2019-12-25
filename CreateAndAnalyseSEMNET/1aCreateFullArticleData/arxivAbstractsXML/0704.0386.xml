@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:39Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0386" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0386</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum non-local effects with Bose-Einstein condensates</dc:title>
+ <dc:creator>Lalo&#xeb;, Franck</dc:creator>
+ <dc:creator>Mullin, William J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Other Condensed Matter</dc:subject>
+ <dc:description>  We study theoretically the properties of two Bose-Einstein condensates in
+different spin states, represented by a double Fock state. Individual
+measurements of the spins of the particles are performed in transverse
+directions, giving access to the relative phase of the condensates. Initially,
+this phase is completely undefined, and the first measurements provide random
+results. But a fixed value of this phase rapidly emerges under the effect of
+the successive quantum measurements, giving rise to a quasi-classical situation
+where all spins have parallel transverse orientations. If the number of
+measurements reaches its maximum (the number of particles), quantum effects
+show up again, giving rise to violations of Bell type inequalities. The
+violation of BCHSH inequalities with an arbitrarily large number of spins may
+be comparable (or even equal) to that obtained with two spins.
+</dc:description>
+ <dc:description>Comment: version published, with a shorter abstract to fit into the 9 lines of
+  PRL, one more reference, and minor changes</dc:description>
+ <dc:date>2007-04-03</dc:date>
+ <dc:date>2007-10-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0386</dc:identifier>
+ <dc:identifier>Physical Review Letters 99 (2007) 150401</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.99.150401</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

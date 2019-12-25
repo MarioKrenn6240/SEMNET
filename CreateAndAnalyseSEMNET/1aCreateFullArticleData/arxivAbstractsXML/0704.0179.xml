@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:25Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0179" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0179</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Experimental nonclassicality of single-photon-added thermal light states</dc:title>
+ <dc:creator>Zavatta, Alessandro</dc:creator>
+ <dc:creator>Parigi, Valentina</dc:creator>
+ <dc:creator>Bellini, Marco</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We report the experimental realization and tomographic analysis of novel
+quantum light states obtained by exciting a classical thermal field by a single
+photon. Such states, although completely incoherent, possess a tunable degree
+of quantumness which is here exploited to put to a stringent experimental test
+some of the criteria proposed for the proof and the measurement of state
+non-classicality. The quantum character of the states is also given in quantum
+information terms by evaluating the amount of entanglement that they can
+produce.
+</dc:description>
+ <dc:description>Comment: 7 pages, 6 figures, accepted for publication in Phys. Rev. A</dc:description>
+ <dc:date>2007-04-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0179</dc:identifier>
+ <dc:identifier>PHYSICAL REVIEW A 75, 052106 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.75.052106</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

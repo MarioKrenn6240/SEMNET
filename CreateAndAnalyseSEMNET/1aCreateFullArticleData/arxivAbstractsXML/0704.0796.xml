@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:16Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0796" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0796</identifier>
+ <datestamp>2008-11-26</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:astro-ph</setSpec>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:hep-ph</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A density tensor hierarchy for open system dynamics: retrieving the
+  noise</dc:title>
+ <dc:creator>Adler, Stephen L.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Astrophysics</dc:subject>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  We introduce a density tensor hierarchy for open system dynamics, that
+recovers information about fluctuations lost in passing to the reduced density
+matrix. For the case of fluctuations arising from a classical probability
+distribution, the hierarchy is formed from expectations of products of pure
+state density matrix elements, and can be compactly summarized by a simple
+generating function. For the case of quantum fluctuations arising when a
+quantum system interacts with a quantum environment in an overall pure state,
+the corresponding hierarchy is defined as the environmental trace of products
+of system matrix elements of the full density matrix. Only the lowest member of
+the quantum noise hierarchy is directly experimentally measurable. The unit
+trace and idempotence properties of the pure state density matrix imply descent
+relations for the tensor hierarchies, that relate the order $n$ tensor, under
+contraction of appropriate pairs of tensor indices, to the order $n-1$ tensor.
+As examples to illustrate the classical probability distribution formalism, we
+consider a quantum system evolving by It\^o stochastic and by jump process
+Schr\&quot;odinger equations. As examples to illustrate the corresponding trace
+formalism in the quantum fluctuation case, we consider collisional Brownian
+motion of an infinite mass Brownian particle, and the weak coupling Born-Markov
+master equation. In different specializations, the latter gives the hierarchies
+generalizing the quantum optical master equation and the Caldeira--Leggett
+master equation. As a further application of the density tensor, we contrast
+stochastic Schr\&quot;odinger equations that reduce and that do not reduce the state
+vector, and discuss why a quantum system coupled to a quantum environment
+behaves like the latter.
+</dc:description>
+ <dc:description>Comment: TeX, 58 pages v2: minor editing and typos corrected; v3: some
+  significant revisions and shortening; v4: has final corrections in published
+  version</dc:description>
+ <dc:date>2007-04-05</dc:date>
+ <dc:date>2007-07-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0796</dc:identifier>
+ <dc:identifier>J.Phys.A40:8959-8990,2007</dc:identifier>
+ <dc:identifier>doi:10.1088/1751-8113/40/30/020</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

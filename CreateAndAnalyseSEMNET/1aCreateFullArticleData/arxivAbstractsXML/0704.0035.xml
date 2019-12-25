@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:13:55Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0035" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0035</identifier>
+ <datestamp>2008-07-29</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Convergence of the discrete dipole approximation. II. An extrapolation
+  technique to increase the accuracy</dc:title>
+ <dc:creator>Yurkin, Maxim A.</dc:creator>
+ <dc:creator>Maltsev, Valeri P.</dc:creator>
+ <dc:creator>Hoekstra, Alfons G.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:description>  We propose an extrapolation technique that allows accuracy improvement of the
+discrete dipole approximation computations. The performance of this technique
+was studied empirically based on extensive simulations for 5 test cases using
+many different discretizations. The quality of the extrapolation improves with
+refining discretization reaching extraordinary performance especially for
+cubically shaped particles. A two order of magnitude decrease of error was
+demonstrated. We also propose estimates of the extrapolation error, which were
+proven to be reliable. Finally we propose a simple method to directly separate
+shape and discretization errors and illustrated this for one test case.
+</dc:description>
+ <dc:description>Comment: 17 pages, 8 figures</dc:description>
+ <dc:date>2007-03-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0035</dc:identifier>
+ <dc:identifier>J.Opt.Soc.Am.A 23(10): 2592-2601 (2006)</dc:identifier>
+ <dc:identifier>doi:10.1364/JOSAA.23.002592</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

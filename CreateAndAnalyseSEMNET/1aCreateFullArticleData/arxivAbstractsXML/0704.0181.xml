@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:14:02Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0181" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0181</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Genetic Optimization of Photonic Bandgap Structures</dc:title>
+ <dc:creator>Goh, Joel</dc:creator>
+ <dc:creator>Fushman, Ilya</dc:creator>
+ <dc:creator>Englund, Dirk</dc:creator>
+ <dc:creator>Vuckovic, Jelena</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:description>  We investigate the use of a Genetic Algorithm (GA) to design a set of
+photonic crystals (PCs) in one and two dimensions. Our flexible design
+methodology allows us to optimize PC structures which are optimized for
+specific objectives. In this paper, we report the results of several such
+GA-based PC optimizations. We show that the GA performs well even in very
+complex design spaces, and therefore has great potential for use as a robust
+design tool in present and future applications.
+</dc:description>
+ <dc:description>Comment: 9 pages, 20 figures</dc:description>
+ <dc:date>2007-04-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0181</dc:identifier>
+ <dc:identifier>doi:10.1364/OE.15.008218</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

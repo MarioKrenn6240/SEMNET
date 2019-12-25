@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:44:24Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0228" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0228</identifier>
+ <datestamp>2008-11-26</datestamp>
+ <setSpec>physics:astro-ph</setSpec>
+ <setSpec>physics:gr-qc</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Einstein vs Maxwell: Is gravitation a curvature of space, a field in
+  flat space, or both?</dc:title>
+ <dc:creator>Nieuwenhuizen, Theo M.</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>Astrophysics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Starting with a field theoretic approach in Minkowski space, the
+gravitational energy momentum tensor is derived from the Einstein equations in
+a straightforward manner. This allows to present them as {\it acceleration
+tensor} = const. $\times$ {\it total energy momentum tensor}. For flat space
+cosmology the gravitational energy is negative and cancels the material energy.
+In the relativistic theory of gravitation a bimetric coupling between the
+Riemann and Minkowski metrics breaks general coordinate invariance. The case of
+a positive cosmological constant is considered. A singularity free version of
+the Schwarzschild black hole is solved analytically. In the interior the
+components of the metric tensor quickly die out, but do not change sign,
+leaving the role of time as usual. For cosmology the $\Lambda$CDM model is
+covered, while there appears a form of inflation at early times. Here both the
+total energy and the zero point energy vanish.
+</dc:description>
+ <dc:description>Comment: 5 pages, 1 figure</dc:description>
+ <dc:date>2007-04-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0228</dc:identifier>
+ <dc:identifier>Europhys.Lett.78:10010,2007</dc:identifier>
+ <dc:identifier>doi:10.1209/0295-5075/78/10010</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

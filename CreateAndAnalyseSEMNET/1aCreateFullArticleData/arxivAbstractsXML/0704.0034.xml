@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:44:18Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0034" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0034</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>q-bio</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Origin of adaptive mutants: a quantum measurement?</dc:title>
+ <dc:creator>Ogryzko, Vasily</dc:creator>
+ <dc:subject>Quantitative Biology - Populations and Evolution</dc:subject>
+ <dc:subject>Quantitative Biology - Cell Behavior</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  This is a supplement to the paper arXiv:q-bio/0701050, containing the text of
+correspondence sent to Nature in 1990.
+</dc:description>
+ <dc:description>Comment: 5 pages</dc:description>
+ <dc:date>2007-03-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0034</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

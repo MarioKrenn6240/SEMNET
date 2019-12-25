@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:31Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1037" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1037</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Controlled collisions of a single atom and ion guided by movable
+  trapping potentials</dc:title>
+ <dc:creator>Idziaszek, Z.</dc:creator>
+ <dc:creator>Calarco, T.</dc:creator>
+ <dc:creator>Zoller, P.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We consider a system composed of a trapped atom and a trapped ion. The ion
+charge induces in the atom an electric dipole moment, which attracts it with an
+r^{-4} dependence at large distances. In the regime considered here, the
+characteristic range of the atom-ion interaction is comparable or larger than
+the characteristic size of the trapping potential, which excludes the
+application of the contact pseudopotential. The short-range part of the
+interaction is described in the framework of quantum-defect theory, by
+introducing some short-range parameters, which can be related to the s-wave
+scattering length. When the separation between traps is changed we observe
+trap-induced shape resonances between molecular bound states and vibrational
+states of the external trapping potential. Our analysis is extended to
+quasi-one-dimensional geometries, when the scattering exhibit
+confinement-induced resonances, similar to the ones studied before for
+short-range interactions. For quasi-one-dimensional systems we investigate the
+effects of coupling between the center of mass and relative motion, which
+occurs for different trapping frequencies of atom and ion traps. Finally, we
+show how the two types of resonances can be employed for quantum state control
+and spectroscopy of atom-ion molecules.
+</dc:description>
+ <dc:description>Comment: 17 pages, 16 figures</dc:description>
+ <dc:date>2007-04-08</dc:date>
+ <dc:date>2007-07-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1037</dc:identifier>
+ <dc:identifier>Phys. Rev. A 76, 033409 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.033409</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

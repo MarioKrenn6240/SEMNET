@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:15Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0771" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0771</identifier>
+ <datestamp>2011-08-12</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Suppression of 1/f noise in one-qubit systems</dc:title>
+ <dc:creator>Kuopanportti, Pekko</dc:creator>
+ <dc:creator>Mottonen, Mikko</dc:creator>
+ <dc:creator>Bergholm, Ville</dc:creator>
+ <dc:creator>Saira, Olli-Pentti</dc:creator>
+ <dc:creator>Zhang, Jun</dc:creator>
+ <dc:creator>Whaley, K. Birgitta</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We investigate the generation of quantum operations for one-qubit systems
+under classical noise with 1/f^\alpha power spectrum, where 2&gt;\alpha &gt; 0. We
+present an efficient way to approximate the noise with a discrete multi-state
+Markovian fluctuator. With this method, the average temporal evolution of the
+qubit density matrix under 1/f^\alpha noise can be feasibly determined from
+recently derived deterministic master equations. We obtain qubit operations
+such as quantum memory and the NOT}gate to high fidelity by a gradient based
+optimization algorithm. For the NOT gate, the computed fidelities are
+qualitatively similar to those obtained earlier for random telegraph noise. In
+the case of quantum memory however, we observe a nonmonotonic dependency of the
+fidelity on the operation time, yielding a natural access rate of the memory.
+</dc:description>
+ <dc:description>Comment: 8 pages, 7 figures</dc:description>
+ <dc:date>2007-04-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0771</dc:identifier>
+ <dc:identifier>Phys. Rev. A 77, 032334 (2008)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.77.032334</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>
