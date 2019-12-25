@@ -1,5 +1,6 @@
 # Predicting research trends with semantic and neural networks with an application in quantum physics
 Code for the paper: https://arxiv.org/abs/1906.06843
+by Mario Krenn (mario.krenn@univie.ac.at) and Anton Zeilinger
 
 ## CreateAndAnalyseSEMNET
 Contains a simple example, how to start from APS and arXiv files to create a Semantic Networks, calculate network theoretic properties, and make predictions
