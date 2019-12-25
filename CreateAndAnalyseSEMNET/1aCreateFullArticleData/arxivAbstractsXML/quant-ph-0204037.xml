@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:26:18Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0204037" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0204037</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>About quantum mechanics interpretation</dc:title>
+ <dc:creator>Kyriakos, Alexander G.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  There is a certainty that the modern (Copenhagen's) interpretation of quantum
+mechanics is correct. However, the some physicist had the opinion that the
+modern quantum mechanics is a phenomenological theory. The suggested theory is
+the new quantum mechanics interpretation that is entirely according to the
+modern interpretation and gives a number of results, which naturally explain
+the postulates of the modern quantum mechanics.
+</dc:description>
+ <dc:description>Comment: PDF, 21 pages, 2 figures</dc:description>
+ <dc:date>2002-04-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0204037</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

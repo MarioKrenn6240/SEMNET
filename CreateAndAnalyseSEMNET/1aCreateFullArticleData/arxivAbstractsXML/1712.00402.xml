@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T15:07:05Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00402" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00402</identifier>
+ <datestamp>2017-12-22</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Super Periodic Potential</dc:title>
+ <dc:creator>Hasan, Mohammd</dc:creator>
+ <dc:creator>Mandal, Bhabani Prasad</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  In this paper we introduce the concept of super periodic potential (SPP) of
+arbitrary order $n$, $n \in I^{+}$, in one dimension. General theory of wave
+propagation through SPP of order $n$ is presented and the reflection and
+transmission coefficients are derived in their closed analytical form by
+transfer matrix formulation. We present scattering features of super periodic
+rectangular potential and super periodic delta potential as special cases of
+SPP. It is found that the symmetric self-similarity is the special case of
+super periodicity. Thus by identifying a symmetric fractal potential as special
+cases of SPP, one can obtain the tunnelling amplitude for a particle from such
+fractal potential. By using the formalism of SPP we obtain the close form
+expression of tunnelling amplitude of a particle for general Cantor and
+Smith-Volterra-Cantor potentials.
+</dc:description>
+ <dc:description>Comment: 35 pages, 18 Figs</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00402</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

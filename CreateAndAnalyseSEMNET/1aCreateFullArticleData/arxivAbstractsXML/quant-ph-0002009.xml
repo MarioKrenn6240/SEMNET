@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:22:41Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0002009" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0002009</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Information - the Fundamental Notion of Quantum Theory</dc:title>
+ <dc:creator>Pospiech, Gesche</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In this article a notion of information is presented which stresses the
+contextuality of quantum objects and their measurement. Mathematically this is
+reached by a quantification of the quantum mechanical surplus knowledge which
+has been introduced by Weizsacker. This new formulation gives insight into
+relation between single quantum objects and ensembles of quantum objects. The
+goal is to provide an explanatory concept for teaching purposes, the
+description of quantum processes and measurement with aid of information.
+</dc:description>
+ <dc:description>Comment: 10 pages, submitted to European Journal of Physics</dc:description>
+ <dc:date>2000-02-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0002009</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

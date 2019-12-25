@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:22:32Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0002002" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0002002</identifier>
+ <datestamp>2009-11-06</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Upper Bound on the region of Separable States near the Maximally Mixed
+  State</dc:title>
+ <dc:creator>Deuar, P.</dc:creator>
+ <dc:creator>Munro, W. J.</dc:creator>
+ <dc:creator>Nemoto, K.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  A lower bound on the amount of noise that must be added to a GHZ-like
+entangled state to make it separable (also called the random robustness) is
+found using the transposition condition. The bound is applicable to arbitrary
+numbers of subsystems, and dimensions of Hilbert space, and is shown to be
+exact for qubits. The new bound is compared to previous such bounds on this
+quantity, and found to be stronger in all cases. It implies that increasing the
+number of subsystems, rather than increasing their Hilbert space dimension is a
+more effective way of increasing entanglement. An explicit decomposition into
+an ensemble of separable states, when the state is not entangled,is given for
+the case of qubits.
+</dc:description>
+ <dc:description>Comment: 2 figures. accepted J. Opt. B: Quantum Semiclass. Opt. (2000)</dc:description>
+ <dc:date>2000-01-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0002002</dc:identifier>
+ <dc:identifier>J. Opt. B: Quantum Semiclass. Opt. 2, 225 (2000).</dc:identifier>
+ <dc:identifier>doi:10.1088/1464-4266/2/3/302</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

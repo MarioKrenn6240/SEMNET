@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:28:04Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0001119" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0001119</identifier>
+ <datestamp>2009-11-06</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum tunneling dynamics using hydrodynamic trajectories</dc:title>
+ <dc:creator>Bittner, Eric R.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In this paper we compute quantum trajectories arising from Bohm's causal
+description of quantum mechanics. Our computational methodology is based upon a
+finite-element moving least-squares method (MWLS) presented recently by Wyatt
+and co-workers (Lopreore and Wyatt, Phys. Rev. Lett. {\bf 82}, 5190 (1999)).
+This method treats the &quot;particles&quot; in the quantum Hamilton-Jacobi equation as
+Lagrangian fluid elements which carry the phase, $S$, and density,
+  $\rho$, required to reconstruct the quantum wavefunctions. Here, we compare
+results obtained via the MWLS procedure to exact results obtained either
+analytically or by numerical solution of the time dependent Schr\&quot;odinger
+equation. Two systems are considered: firstly, dynamics in a harmonic well and
+secondly tunneling dynamics in a double well potential. In the case of
+tunneling in the double well potential, the quantum potential acts to lower the
+barrier separating the right and left hand sides of the well permitting
+trajectories to pass from one side to another.
+  However, as probability density passes from one side to the other, the
+effective barrier begins to rise and eventually will segregate trajectories in
+one side from the other. We note that the MWLS trajectories exhibited long time
+stability in the purely harmonic cases. However, this stability was not evident
+in the barrier crossing dynamics. Comparisons to exact trajectories obtained
+via wave packet calculations indicate that the MWLS trajectories tend to
+underestimate the effects of constructive and destructive interference effects.
+</dc:description>
+ <dc:description>Comment: 8 pages, 7 figures</dc:description>
+ <dc:date>2000-01-31</dc:date>
+ <dc:date>2000-02-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0001119</dc:identifier>
+ <dc:identifier>doi:10.1063/1.481607</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

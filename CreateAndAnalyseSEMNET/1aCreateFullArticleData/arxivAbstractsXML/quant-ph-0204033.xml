@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:26:12Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0204033" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0204033</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Cosmic Digital Code and Quantum Mechanics</dc:title>
+ <dc:creator>Chung, Ding-Yu</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  This paper posits that the cosmic digital code as the law of all physical
+laws contains two mutually exclusive values: attachment space attaching to
+object and detachment space detaching from object. However, the cosmic physical
+system could not start with mutually exclusive attachment space and detachment
+space at the same time in the beginning. The way out of this impasse is that
+the complete cosmic system consists of both the cosmic physical system and the
+unphysical cosmic digital code. The unphysical cosmic digital code allows the
+coexistence of attachment space and detachment space at the same time. The
+cosmic digital code behaves as gene in organism, and the cosmic physical system
+behaves as organ. Under different conditions and times, different spaces in the
+cosmic digital code are activated to generate different spaces in the cosmic
+physical systems with different physical laws for different universes in the
+multivese. All universes start from the primitive multiverse, which only has
+attachment space attaching to 10D string without the four force fields. During
+the big bang in our universe, detachment space emerged to detach particle from
+its four force fields. Such detachment, however, cannot be completely and
+permanently detached, because particle still attaches to its force fields. The
+result is hybrid space, combining both attachment space and detachment space in
+coherent state, such as particle and its force fields. Hybrid space is the
+space for wavefunction whose probability density is proportional to attachment
+space, and inversely proportional to detachment space. The collapse of
+wavefunction in decoherent state is the separation of attachment space and
+detachment space in such way that attachment space attaches to particle, and
+detachment space separately detaches from all probability density.
+</dc:description>
+ <dc:description>Comment: 7 pages</dc:description>
+ <dc:date>2002-04-06</dc:date>
+ <dc:date>2005-04-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0204033</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

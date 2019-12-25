@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:26:19Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0204038" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0204038</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Trading quantum for classical resources in quantum data compression</dc:title>
+ <dc:creator>Hayden, Patrick</dc:creator>
+ <dc:creator>Jozsa, Richard</dc:creator>
+ <dc:creator>Winter, Andreas</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We study the visible compression of a source E of pure quantum signal states,
+or, more formally, the minimal resources per signal required to represent
+arbitrarily long strings of signals with arbitrarily high fidelity, when the
+compressor is given the identity of the input state sequence as classical
+information. According to the quantum source coding theorem, the optimal
+quantum rate is the von Neumann entropy S(E) qubits per signal.
+  We develop a refinement of this theorem in order to analyze the situation in
+which the states are coded into classical and quantum bits that are quantified
+separately. This leads to a trade--off curve Q(R), where Q(R) qubits per signal
+is the optimal quantum rate for a given classical rate of R bits per signal.
+  Our main result is an explicit characterization of this trade--off function
+by a simple formula in terms of only single signal, perfect fidelity encodings
+of the source. We give a thorough discussion of many further mathematical
+properties of our formula, including an analysis of its behavior for group
+covariant sources and a generalization to sources with continuously
+parameterized states. We also show that our result leads to a number of
+corollaries characterizing the trade--off between information gain and state
+disturbance for quantum sources. In addition, we indicate how our techniques
+also provide a solution to the so--called remote state preparation problem.
+Finally, we develop a probability--free version of our main result which may be
+interpreted as an answer to the question: ``How many classical bits does a
+qubit cost?'' This theorem provides a type of dual to Holevo's theorem, insofar
+as the latter characterizes the cost of coding classical bits into qubits.
+</dc:description>
+ <dc:description>Comment: 51 pages, 7 figures</dc:description>
+ <dc:date>2002-04-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0204038</dc:identifier>
+ <dc:identifier>J. Math. Phys. Vol. 43 No. 9 pp. 4404-4444 (2002)</dc:identifier>
+ <dc:identifier>doi:10.1063/1.1497184</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

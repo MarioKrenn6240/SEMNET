@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T15:07:03Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00397" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00397</identifier>
+ <datestamp>2018-02-22</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Comparing experiments on quantum traversal time with the predictions of
+  a space-time-symmetric formalism</dc:title>
+ <dc:creator>Ximenes, Ricardo</dc:creator>
+ <dc:creator>Parisio, Fernando</dc:creator>
+ <dc:creator>Dias, Eduardo O.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The question of how long a particle takes to pass through a potential barrier
+is still a controversial topic in quantum mechanics. Arguably, the main
+theoretical problem in obtaining estimates for measurable times is the fact
+that previously defined time operators, that remained within the borders of
+standard quantum mechanics, present some kind of pathology. Recently, a time
+operator acting on an additional Hilbert space has been shown to support both
+Hermiticity and canonical relation with an energy observable. The theory is
+built in a framework which treats space and time as symmetrically as possible,
+in the nonrelativistic regime. In this work, we use this formalism to derive a
+closed analytic expression for the traversal time of a quantum particle
+impinging on a constant-potential barrier. We test our theory in the specific
+experimental scenario of a realization by Rafagni et al [Appl. Phys. Lett. {\bf
+58}, 774 (1991)]. The proposed approach displays a much better performance in
+comparison with the B\&quot;uttiker-Landauer and the phase-time approximations.
+</dc:description>
+ <dc:description>Comment: 6 pages, 1 figure</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:date>2018-02-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00397</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

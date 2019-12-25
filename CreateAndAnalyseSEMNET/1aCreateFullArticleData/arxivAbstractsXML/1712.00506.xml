@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T15:07:12Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00506" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00506</identifier>
+ <datestamp>2017-12-05</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Nonclassical photon pairs from warm atomic vapor using a single driving
+  laser</dc:title>
+ <dc:creator>Podhora, L.</dc:creator>
+ <dc:creator>Ob&#x161;il, P.</dc:creator>
+ <dc:creator>Straka, I.</dc:creator>
+ <dc:creator>Je&#x17e;ek, M.</dc:creator>
+ <dc:creator>Slodi&#x10d;ka, L.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  Generation of nonclassical light is an essential tool for quantum optics
+research and applications in quantum information technology. We present
+realization of the source of nonclassically correlated photon pairs based on
+the process of spontaneous four-wave-mixing in warm atomic vapor. Atoms are
+excited only by a single laser beam in retro-reflected configuration and
+narrowband frequency filtering is employed for selection of correlated photon
+pairs. Nonclassicality of generated light fields is proved by analysis of their
+statistical properties. Measured parameters of the presented source promise
+further applicability for efficient interaction with atomic ensembles.
+</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00506</dc:identifier>
+ <dc:identifier>Optics Express Vol. 25, Issue 25, pp. 31230-31238 (2017)</dc:identifier>
+ <dc:identifier>doi:10.1364/OE.25.031230</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

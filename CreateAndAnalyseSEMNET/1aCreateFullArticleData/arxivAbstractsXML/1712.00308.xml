@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T15:18:00Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00308" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00308</identifier>
+ <datestamp>2017-12-04</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Anyonic statistics of quantum impurities in two dimensions</dc:title>
+ <dc:creator>Yakaboylu, Enderalp</dc:creator>
+ <dc:creator>Lemeshko, Mikhail</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Condensed Matter - Other Condensed Matter</dc:subject>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We demonstrate that identical impurities interacting with a two-dimensional
+many-particle environment obey anyonic statistics. In particular, we find that
+due to the many-body interactions between the impurities and the bath, each of
+the impurities can be viewed as a flux-tube-charged-particle composite
+described by fractional &quot;dressed&quot; statistics. This amounts to a novel
+configuration with emerging anyons, which is fundamentally different from the
+previously studied fractional quantum Hall and Kitaev model settings. The
+proposed setup paves the way to realizing anyons using electrons interacting
+with superfluid helium or lattice phonons, as well as using atomic impurities
+in ultracold gases.
+</dc:description>
+ <dc:description>Comment: 5 pages, 1 figure</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00308</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

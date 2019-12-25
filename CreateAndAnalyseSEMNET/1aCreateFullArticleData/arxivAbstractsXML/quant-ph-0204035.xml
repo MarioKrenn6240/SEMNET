@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:26:15Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0204035" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0204035</identifier>
+ <datestamp>2009-11-07</datestamp>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Matching Weak Coupling and Quasiclassical Expansions For Dual QES
+  Problems</dc:title>
+ <dc:creator>Kavic, Michael</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  Certain quasi-exactly solvable systems exhibit an energy reflection property
+that relates the energy levels of a potential or of a pair of potentials. We
+investigate two sister potentials and show the existence of this energy
+reflection relationship between the two potentials. We establish a relationship
+between the lowest energy edge in the first potential using the weak coupling
+expansion and the highest energy level in the sister potential using a WKB
+approximation carried out to higher order.
+</dc:description>
+ <dc:description>Comment: 8 pages, 2 figures; typos corrected</dc:description>
+ <dc:date>2002-04-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0204035</dc:identifier>
+ <dc:identifier>Int.J.Mod.Phys. A17 (2002) 4661-4668</dc:identifier>
+ <dc:identifier>doi:10.1142/S0217751X02010777</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

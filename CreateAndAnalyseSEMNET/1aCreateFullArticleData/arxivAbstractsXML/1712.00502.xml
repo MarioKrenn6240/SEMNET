@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T15:07:11Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00502" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00502</identifier>
+ <datestamp>2017-12-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Analysing correlated noise on the surface code using adaptive decoding
+  algorithms</dc:title>
+ <dc:creator>Nickerson, Naomi H.</dc:creator>
+ <dc:creator>Brown, Benjamin J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Laboratory hardware is rapidly progressing towards a state where quantum
+error-correcting codes can be realised. As such, we must learn how to deal with
+the complex nature of the noise that may occur in real physical systems. Single
+qubit Pauli errors are commonly used to study the behaviour of error-correcting
+codes, but in general we might expect the environment to introduce correlated
+errors to a system. Given some knowledge of structures that errors commonly
+take, it may be possible to adapt the error-correction procedure to compensate
+for this noise, but performing full state tomography on a physical system to
+analyse this structure quickly becomes impossible as the size increases beyond
+a few qubits. Here we develop and test new methods to analyse correlated errors
+by making use of a parametrised families of decoding algorithms. We demonstrate
+our method numerically using a diffusive noise model. We show that information
+can be learnt about the parameters of the noise model, and additionally that
+the logical error rates can be improved. We conclude by discussing how our
+method could be utilised in a practical setting.
+</dc:description>
+ <dc:description>Comment: 11 pages, 8 figures, comments welcome; v2 - minor typos corrected
+  some references added</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:date>2017-12-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00502</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

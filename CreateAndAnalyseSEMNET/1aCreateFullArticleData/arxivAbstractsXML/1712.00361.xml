@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-03-01T15:56:44Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00361" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00361</identifier>
+ <datestamp>2017-12-04</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Beyond backscattering: Optical neuroimaging by BRAD</dc:title>
+ <dc:creator>Eugui, Pablo</dc:creator>
+ <dc:creator>Lichtenegger, Antonia</dc:creator>
+ <dc:creator>Augustin, Marco</dc:creator>
+ <dc:creator>Harper, Danielle J.</dc:creator>
+ <dc:creator>Muck, Martina</dc:creator>
+ <dc:creator>Roetzer, Thomas</dc:creator>
+ <dc:creator>Wartak, Andreas</dc:creator>
+ <dc:creator>Konegger, Thomas</dc:creator>
+ <dc:creator>Widhalm, Georg</dc:creator>
+ <dc:creator>Hitzenberger, Christoph K.</dc:creator>
+ <dc:creator>Woehrer, Adelheid</dc:creator>
+ <dc:creator>Baumann, Bernhard</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Physics - Biological Physics</dc:subject>
+ <dc:description>  Optical coherence tomography (OCT) is a powerful technology for rapid
+volumetric imaging in biomedicine. The bright field imaging approach of
+conventional OCT systems is based on the detection of directly backscattered
+light, thereby waiving the wealth of information contained in the angular
+scattering distribution. Here we demonstrate that the unique features of
+few-mode fibers (FMF) enable simultaneous bright and dark field (BRAD) imaging
+for OCT. As backscattered light is picked up by the different modes of a FMF
+depending upon the angular scattering pattern, we obtain access to the
+directional scattering signatures of different tissues by decoupling
+illumination and detection paths. We exploit the distinct modal propagation
+properties of the FMF in concert with the long coherence lengths provided by
+modern wavelength-swept lasers to achieve multiplexing of the different modal
+responses into a combined OCT tomogram. We demonstrate BRAD sensing for
+distinguishing differently sized microparticles and showcase the performance of
+BRAD-OCT imaging with enhanced contrast for ex vivo tumorous tissue in
+glioblastoma and neuritic plaques in Alzheimer's disease.
+</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00361</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

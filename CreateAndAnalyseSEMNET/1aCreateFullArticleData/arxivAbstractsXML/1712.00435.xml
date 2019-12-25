@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T15:07:06Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00435" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00435</identifier>
+ <datestamp>2018-02-21</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Coherent spin dynamics of ytterbium ions in yttrium orthosilicate</dc:title>
+ <dc:creator>Lim, Hee-Jin</dc:creator>
+ <dc:creator>Welinski, Sacha</dc:creator>
+ <dc:creator>Ferrier, Alban</dc:creator>
+ <dc:creator>Goldner, Philippe</dc:creator>
+ <dc:creator>Morton, J. J. L.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We investigate the electron and nuclear spin coherence properties of
+ytterbium ($\mathrm{Yb}^{3+}$) ions with non-zero nuclear spin, within an
+yttrium orthosilicate (Y$_2$SiO$_5$) crystal, with a view to their potential
+application in quantum memories or repeaters. We find electron spin-lattice
+relaxation times are maximised at low magnetic field ($&lt;100$ mT) where
+$g~\sim6$, reaching 5 s at 2.5 K, while coherence times are maximised when
+addressing ESR transitions at higher fields where $g\sim0.7$ where a Hahn echo
+measurement yields $T_2$ up to 73 $\mu$s. Dynamical decoupling (XY16) can be
+used to suppress spectral diffusion and extend the coherence lifetime to over
+0.5 ms, close to the limit of instantaneous diffusion. Using Davies
+electron-nuclear-double-resonance (ENDOR), we performed coherent control of the
+$^{173}\mathrm{Yb}^{3+}$ nuclear spin and studied its relaxation dynamics. At
+around 4.5 K we measure a nuclear spin $T_1$ and $T_2$ of 4 and 0.35 ms,
+respectively, about 4 and 14 times longer than the corresponding times for the
+electron spin.
+</dc:description>
+ <dc:description>Comment: 9 pages, 8 figures</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00435</dc:identifier>
+ <dc:identifier>Phys. Rev. B 97, 064409 (2018)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.97.064409</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

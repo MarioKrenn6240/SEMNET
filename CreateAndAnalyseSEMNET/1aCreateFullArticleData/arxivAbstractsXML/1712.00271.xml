@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T15:17:59Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00271" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00271</identifier>
+ <datestamp>2017-12-04</datestamp>
+ <setSpec>physics:gr-qc</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Minimum length uncertainty relations for a dark energy Universe</dc:title>
+ <dc:creator>Lake, Matthew J.</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We introduce a dark energy-modified minimum length uncertainty relation
+(DE-MLUR) or dark energy uncertainty principle (DE-UP) for short. The new
+relation is structurally similar to the MLUR introduced by K{\' a}rolyh{\' a}zy
+(1968), and reproduced by Ng and van Dam (1994) using alternative arguments,
+but with a number of important differences. These include a dependence on the
+de Sitter horizon, which may be expressed in terms of the cosmological constant
+as $l_{\rm dS} \sim 1/\sqrt{\Lambda}$. Applying the DE-UP to both charged and
+neutral particles, we obtain estimates of two limiting mass scales, expressed
+in terms of the fundamental constants $\left\{G,c,\hbar,\Lambda, e\right\}$.
+Evaluated numerically, the charged particle limit corresponds to the order of
+magnitude value of the electron mass ($m_e$), while the neutral particle limit
+is consistent with current experimental bounds on the mass of the electron
+neutrino ($m_{\nu_e}$). Possible cosmological consequences of the DE-UP are
+briefly discussed and we note that these lead naturally to a holographic
+relation between the bulk and the boundary of the Universe, which strongly
+implies {\it time-variation} of the ratio $e^2/m_e$. Low and high energy
+regimes in which dark energy effects may dominate canonical quantum behaviour
+at the present epoch are identified and the possibility of testing the model
+using table-top measurements of partial decoherence is briefly discussed.
+</dc:description>
+ <dc:description>Comment: 36 pages, 3 figures, 1 table, 1 appendix</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00271</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

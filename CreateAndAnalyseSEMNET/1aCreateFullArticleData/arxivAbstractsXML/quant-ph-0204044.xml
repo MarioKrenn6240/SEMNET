@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:26:27Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0204044" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0204044</identifier>
+ <datestamp>2009-11-07</datestamp>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Energy and Efficiency of Adiabatic Quantum Search Algorithms</dc:title>
+ <dc:creator>Das, Saurya</dc:creator>
+ <dc:creator>Kobes, Randy</dc:creator>
+ <dc:creator>Kunstatter, Gabor</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  We present the results of a detailed analysis of a general, unstructured
+adiabatic quantum search of a data base of $N$ items. In particular we examine
+the effects on the computation time of adding energy to the system. We find
+that by increasing the lowest eigenvalue of the time dependent Hamiltonian {\it
+temporarily} to a maximum of $\propto \sqrt{N}$, it is possible to do the
+calculation in constant time. This leads us to derive the general theorem which
+provides the adiabatic analogue of the $\sqrt{N}$ bound of conventional quantum
+searches. The result suggests that the action associated with the oracle term
+in the time dependent Hamiltonian is a direct measure of the resources required
+by the adiabatic quantum search.
+</dc:description>
+ <dc:description>Comment: 6 pages, Revtex, 1 figure. Theorem modified, references and comments
+  added, sections introduced, typos corrected. Version to appear in J. Phys. A</dc:description>
+ <dc:date>2002-04-08</dc:date>
+ <dc:date>2003-02-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0204044</dc:identifier>
+ <dc:identifier>J. Phys. A: Math. Gen. 36 (2003) 1-7</dc:identifier>
+ <dc:identifier>doi:10.1088/0305-4470/36/11/313</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

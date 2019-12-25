@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T15:07:14Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00610" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00610</identifier>
+ <datestamp>2017-12-05</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>General Solution of the Schr\&quot;odinger Equation with Potential Field
+  Quantization</dc:title>
+ <dc:creator>Erbil, Hasan H&#xfc;seyin</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  It has been found a simple procedure for the general solution of the
+time-independent Schr\&quot;odinger equation (SE) with the help of quantization of
+potential area in one dimension without making any approximation. Energy values
+are not dependent on wave functions, so to find the energy values; it is enough
+to find the classic turning points of the potential function. Two different
+solutions were obtained, namely, symmetric and antisymmetric at bound states.
+These normalized wave functions are always periodic. It is enough to take the
+integral of the square root of the potential energy function to find the
+normalized wave functions. If these calculations cannot be made analytically,
+it should then be performed by numerical methods. SE has been solved for a
+particle in many one-dimension and the spherical symmetric central potential
+well as examples. It has been found their energies and normalized wave
+functions as examples. These solutions were also applied to the theories of
+scattering and alpha decay. The results obtained with the experimental values
+were compared with the calculated values. One has been seen to be very fit.
+</dc:description>
+ <dc:date>2017-12-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00610</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

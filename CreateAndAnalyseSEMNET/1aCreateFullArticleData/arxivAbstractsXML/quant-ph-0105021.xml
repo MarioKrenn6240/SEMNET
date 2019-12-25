@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:17:50Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0105021" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0105021</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spin-orbit pendulum in Dirac oscillator</dc:title>
+ <dc:creator>Turek, M.</dc:creator>
+ <dc:creator>Rozmej, P.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The dynamics of wavepackets in a relativistic Dirac oscillator (DO) is
+considered. A comparison to nonrelativistic spin-orbit pendulum effect is
+discussed. Particular relativistic effects, like Zitterbewegung in spin motion,
+are found in Dirac representation. This trembling motion disappears in
+Foldy-Wouthuysen representation. A substantial difference between the dynamics
+of wavepackets corresponding to circular and linear orbits of a particle is
+obtained and discussed.
+</dc:description>
+ <dc:description>Comment: LaTeX2e, 12 pages, 3 postscript figures, 6 jpeg figures</dc:description>
+ <dc:date>2001-05-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0105021</dc:identifier>
+ <dc:identifier>Zeszyty Naukowe Politechniki Zielonogorskiej, Vol. 126, (2001)
+  p.83-102</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

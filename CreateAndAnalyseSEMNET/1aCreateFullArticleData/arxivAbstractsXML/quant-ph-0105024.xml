@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:17:54Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0105024" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0105024</identifier>
+ <datestamp>2009-11-07</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>NMR C-NOT gate through Aharanov-Anandan's phase shift</dc:title>
+ <dc:creator>Wang, Xiang-Bin</dc:creator>
+ <dc:creator>Matsumoto, Keiji</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Recently, it is proposed to do quantum computation through the Berry's
+phase(adiabatic cyclic geometric phase) shift with NMR (Jones et al, Nature,
+403, 869(2000)). This geometric quantum gate is hopefully to be fault tolerant
+to certain types of errors because of the geometric property of the Berry
+phase. Here we give a scheme to realize the NMR C-NOT gate through
+Aharonov-Anandan's phase(non-adiabatic cyclic phase) shift on the dynamic phase
+free evolution loop.
+  In our scheme, the gate is run non-adiabatically, thus it is less affected by
+the decoherence. And, in the scheme we have chosen the the zero dynamic phase
+time evolution loop in obtaining the gepmetric phase shift, we need not take
+any extra operation to cancel the dynamic phase.
+</dc:description>
+ <dc:description>Comment: 5 pages, 1 figure</dc:description>
+ <dc:date>2001-05-07</dc:date>
+ <dc:date>2001-05-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0105024</dc:identifier>
+ <dc:identifier>J. Phys. A: Math. Gen. 34, L631(2001)</dc:identifier>
+ <dc:identifier>doi:10.1088/0305-4470/34/44/105</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

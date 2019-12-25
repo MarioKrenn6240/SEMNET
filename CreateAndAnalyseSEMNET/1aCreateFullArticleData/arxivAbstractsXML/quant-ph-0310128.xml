@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:03Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310128" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310128</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Finite Size Universe or Perfect Squash Problem v2</dc:title>
+ <dc:creator>Turko, Ludwik</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  We give a physical notion to all self-adjoint extensions of the operator
+$id/dx$ in the finite interval. It appears that these extensions realize
+different non-unitary equivalent representations of CCR and are related to the
+momentum operator viewed from different inertial systems. This leads to the
+generalization of Galilei equivalence principle and gives a new insight into
+quantum correspondence rule. It is possible to get transformation laws of wave
+function under Galilei transformation for any scalar potential. This
+generalizes mass superselection rule. There is also given a new and general
+interpretation of a momentum representation of wave function. It appears that
+consistent treatment of this problem leads to the time-dependent interactions
+and to the abrupt switching-off of the interaction.
+</dc:description>
+ <dc:description>Comment: 15 pages, Accepted for publication in Journal of Mathematical Physics</dc:description>
+ <dc:date>2003-10-20</dc:date>
+ <dc:date>2004-06-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310128</dc:identifier>
+ <dc:identifier>J.Math.Phys. 45 (2004) 3659-3675</dc:identifier>
+ <dc:identifier>doi:10.1063/1.1782671</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

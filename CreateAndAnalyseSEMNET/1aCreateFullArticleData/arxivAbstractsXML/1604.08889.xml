@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-03-01T17:32:35Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1604.08889" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08889</identifier>
+ <datestamp>2016-07-06</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Polarization-selective branching of stop gaps in three-dimensional
+  photonic crystals</dc:title>
+ <dc:creator>Priya</dc:creator>
+ <dc:creator>Nair, Rajesh V.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We study the direction- and wavelength-dependent polarization anisotropy in
+light scattering at the air-photonic crystal interface as a function of angle
+of incidence for TE and TM polarized light. This is done using optical
+reflectivity measurements at high-symmetry points in the Brillouin zone of a
+three-dimensional photonic crystal with fcc symmetry. Polarized reflectivity
+measurements indicate the presence of stop gap branching for TE polarization,
+which is absent for TM polarization till the Brewster angle at K point. In
+contrast, stop gap branching is present for both TE and TM polarizations at W
+point due to the intricate mixing of crystal planes. This characteristic
+behavior signifies the inevitable role of energy exchange in the stop gap
+branching. The measured polarization anisotropy shows a prominent shift in the
+Brewster angle for on-resonance wavelength as compared to the off-resonance
+along both K and W points, and that, in accordance with theory. Our results
+have implications in polarization-induced light scattering in sub-wavelength
+photonic structures like plasmonic crystals, and meta-materials.
+</dc:description>
+ <dc:description>Comment: 15 pages, 7 figures</dc:description>
+ <dc:date>2016-04-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1604.08889</dc:identifier>
+ <dc:identifier>Phys. Rev. A 93, 063850 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.063850</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

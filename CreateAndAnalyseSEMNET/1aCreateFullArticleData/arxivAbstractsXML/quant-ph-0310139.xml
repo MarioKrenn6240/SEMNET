@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:18Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310139" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310139</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Entanglement and squeezing in a two-mode system: theory and experiment</dc:title>
+ <dc:creator>Josse, Vincent</dc:creator>
+ <dc:creator>Dantan, Aurelien</dc:creator>
+ <dc:creator>Bramati, Alberto</dc:creator>
+ <dc:creator>Giacobino, Elisabeth</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We report on the generation of non separable beams produced via the
+interaction of a linearly polarized beam with a cloud of cold cesium atoms
+placed in an optical cavity. We convert the squeezing of the two linear
+polarization modes into quadrature entanglement and show how to find out the
+best entanglement generated in a two-mode system using the inseparability
+criterion for continuous variable [Duan et al., Phys. Rev. Lett. 84, 2722
+(2000)]. We verify this method experimentally with a direct measurement of the
+inseparability using two homodyne detections. We then map this entanglement
+into a polarization basis and achieve polarization entanglement.
+</dc:description>
+ <dc:description>Comment: submitted to J. Opt. B for a Special Issue on Foundations of Quantum
+  Optics</dc:description>
+ <dc:date>2003-10-22</dc:date>
+ <dc:date>2003-11-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310139</dc:identifier>
+ <dc:identifier>Journal of Optics B 6 (2004) 532</dc:identifier>
+ <dc:identifier>doi:10.1088/1464-4266/6/6/011</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

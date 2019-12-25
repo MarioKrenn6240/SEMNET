@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:08Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310132" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310132</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Special relativity and reduced spin density matrices</dc:title>
+ <dc:creator>Gonera, Cezary</dc:creator>
+ <dc:creator>Kosinski, Piotr</dc:creator>
+ <dc:creator>Maslanka, Pawel</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We derive the general formula for Lorentz-transformed spin density matrix. It
+is shown that an appropriate Lorentz transformation can prduce totally
+unpolarized state out of pure one. Further properties, as depurification by an
+arbitrary Lorentz boost and its relation to the localization properties are
+also discussed.
+</dc:description>
+ <dc:description>Comment: 7 pages</dc:description>
+ <dc:date>2003-10-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310132</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.70.034102</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

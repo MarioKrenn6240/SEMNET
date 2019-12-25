@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T15:18:06Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00453" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00453</identifier>
+ <datestamp>2017-12-05</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Braiding Majorana Zero Modes through high frequency virtual tunneling</dc:title>
+ <dc:creator>Gorantla, Pranay</dc:creator>
+ <dc:creator>Sensarma, Rajdeep</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Condensed Matter - Superconductivity</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Braiding of non-Abelian Majorana anyons is a first step towards using them in
+quantum computing. We propose a new protocol for braiding Majorana zero modes
+formed at the edges of nanowires with strong spin orbit coupling and proximity
+induced superconductivity. Our protocol uses high frequency virtual tunneling
+between the ends of the nanowires in a tri-junction, which lead to an effective
+low frequency coarse grained dynamics for the system, to perform the braid. The
+braiding operation is immune to amplitude noises in the drives, and depends on
+relative phase between two drives, which can be controlled by usual phase
+locking techniques. We also show how our proposal can be scaled to a network of
+qubits using a honeycomb lattice geometry.
+</dc:description>
+ <dc:description>Comment: 7 pages, 4 figures</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00453</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

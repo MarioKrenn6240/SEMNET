@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:22:34Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0002004" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0002004</identifier>
+ <datestamp>2009-11-06</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>All Optical Cellular Quantum Computer having Ancilla Bits for Operations
+  in Each Cell</dc:title>
+ <dc:creator>Ohshima, Toshio</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  A quantum cellular network with a qubit and ancilla bits in each cell is
+proposed. The whole circuit works only with the help of external optical pulse
+sequences. In the operation, some of the ancilla bits are activated, and
+autonomous single- and two-qubit operations are made. In the sleep mode of a
+cell, the decoherence of the qubit is negligibly small. Since only two cells at
+most are active at once, the coherence can be maintained for a sufficiently
+long time for practical purposes. A device structure using a quantum dot array
+with possible operation and measurement schemes is also proposed.
+</dc:description>
+ <dc:description>Comment: 14 pages, 5 figures RevTeX ;a single sentense is modified for the
+  clarity</dc:description>
+ <dc:date>2000-02-01</dc:date>
+ <dc:date>2000-02-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0002004</dc:identifier>
+ <dc:identifier>Phys. Rev. A 62, 062316 (2000)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.62.062316</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

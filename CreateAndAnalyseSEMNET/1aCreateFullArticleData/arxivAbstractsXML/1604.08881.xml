@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-03-01T17:32:34Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1604.08881" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08881</identifier>
+ <datestamp>2016-08-24</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Monolithic AlGaAs second-harmonic nanoantennas</dc:title>
+ <dc:creator>Gili, V. F.</dc:creator>
+ <dc:creator>Carletti, L.</dc:creator>
+ <dc:creator>Locatelli, A.</dc:creator>
+ <dc:creator>Rocco, D.</dc:creator>
+ <dc:creator>Finazzi, M.</dc:creator>
+ <dc:creator>Ghirardini, L.</dc:creator>
+ <dc:creator>Favero, I.</dc:creator>
+ <dc:creator>Gomez, C.</dc:creator>
+ <dc:creator>Lema&#xee;tre, A.</dc:creator>
+ <dc:creator>Celebrano, M.</dc:creator>
+ <dc:creator>De Angelis, C.</dc:creator>
+ <dc:creator>Leo, G.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We demonstrate monolithic aluminum gallium arsenide (AlGaAs) optical
+anoantennas. Using a selective oxidation technique, we fabricate such epitaxial
+semiconductor nanoparticles on an aluminum oxide substrate. Second harmonic
+generation from an AlGaAs nanocylinder of height h=400 nm and varying radius
+pumped with femtosecond pulses delivered at 1554-nm wavelength has been
+measured, revealing a peak conversion efficiency exceeding 10-5 for
+nanocylinders with an otpimized geometry.
+</dc:description>
+ <dc:date>2016-04-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1604.08881</dc:identifier>
+ <dc:identifier>Opt. Express 24, 15965-15971 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1364/OE.24.015965</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

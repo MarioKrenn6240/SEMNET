@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:28:02Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0001118" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0001118</identifier>
+ <datestamp>2009-11-06</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Induced coherence with and without induced emission</dc:title>
+ <dc:creator>Wiseman, H. M.</dc:creator>
+ <dc:creator>Molmer, K.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We analyze signal coherence in the setup of Wang, Zou and Mandel, where two
+optical downconverters have indistinct idler modes. Quantum interference,
+caused by indistinguishability of paths, has a visibility proportional to the
+transmission amplitude between idlers. Classical interference, caused by
+induced emission, may be complete for any finite transmission.
+</dc:description>
+ <dc:description>Comment: 3 pages, including 2 postscript figures</dc:description>
+ <dc:date>2000-01-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0001118</dc:identifier>
+ <dc:identifier>Physics Letters A 270, 245-248 (2000)</dc:identifier>
+ <dc:identifier>doi:10.1016/S0375-9601(00)00314-5</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

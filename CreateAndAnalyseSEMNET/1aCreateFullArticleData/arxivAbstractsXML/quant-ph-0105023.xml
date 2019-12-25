@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:17:52Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0105023" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0105023</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>High efficiency Nondistortion Quantum Interrogation of atoms in quantum
+  superpositions</dc:title>
+ <dc:creator>Zhou, Xingxiang</dc:creator>
+ <dc:creator>Zhou, Zheng-Wei</dc:creator>
+ <dc:creator>Guo, Guang-Can</dc:creator>
+ <dc:creator>Feldman, Marc J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We consider the nondistortion quantum interrogation (NQI) of an atom prepared
+in a quantum superposition. By manipulating the polarization of the probe
+photon and making connections to interaction free measurements of opaque
+objects, we show that nondistortion interrogation of an atom in a quantum
+superposition can be done with efficiency approaching unity. However, if any
+component of the atom's superposition is completely transparent to the probe
+wave function, a nondistortion interrogation of the atom is impossible.
+</dc:description>
+ <dc:description>Comment: 4 pages, 3 figures</dc:description>
+ <dc:date>2001-05-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0105023</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

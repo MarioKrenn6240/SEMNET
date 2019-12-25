@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T21:15:53Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1604.08867" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08867</identifier>
+ <datestamp>2016-08-24</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Light trapping in an ensemble of point-like impurity centers in
+  Fabry-Perot cavity</dc:title>
+ <dc:creator>Kuraptsev, A. S.</dc:creator>
+ <dc:creator>Sokolov, I. M.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We report the development of quantum microscopic theory of quasi-resonant
+dipole-dipole interaction in the ensembles of impurity atoms imbedded into
+transparent dielectric and located into Fabry-Perot cavity. On the basis of the
+general approach we study the simultaneous influence of the cavity and resonant
+dipole-dipole interaction on the shape of the line of atomic transition as well
+as on light trapping in dense impurity ensembles. We analyze this influence
+depending on the size of the ensemble, its density, as well as on r.m.s.
+deviation of the transition frequency shifts caused by the symmetry disturbance
+of the internal fields of the dielectric medium. Obtained results are compared
+with the case when the cavity is absent. We show that the cavity can
+essentially modify cooperative polyatomic effects.
+</dc:description>
+ <dc:description>Comment: 11 pages, 4 figures</dc:description>
+ <dc:date>2016-04-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1604.08867</dc:identifier>
+ <dc:identifier>Phys. Rev. A 94, 022511 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.94.022511</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:17:47Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0105019" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0105019</identifier>
+ <datestamp>2009-11-07</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Partial recovery of entanglement in bipartite entanglement
+  transformations</dc:title>
+ <dc:creator>Bandyopadhyay, Somshubhro</dc:creator>
+ <dc:creator>Roychowdhury, Vwani</dc:creator>
+ <dc:creator>Vatan, Farrokh</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Any deterministic bipartite entanglement transformation involving finite
+copies of pure states and carried out using local operations and classical
+communication (LOCC) results in a net loss of entanglement. We show that for
+almost all such transformations, partial recovery of lost entanglement is
+achievable by using $2 \times 2$ auxiliary entangled states, no matter how
+large the dimensions of the parent states are. For the rest of the special
+cases of deterministic LOCC transformations, we show that the dimension of the
+auxiliary entangled state depends on the presence of equalities in the
+majorization relations of the parent states. We show that genuine recovery is
+still possible using auxiliary states in dimensions less than that of the
+parent states for all patterns of majorization relations except only one
+special case.
+</dc:description>
+ <dc:description>Comment: Significantly revised version; proofs have been completely rewritten
+  to make them more accessible. To appear in Physical Review A [Rapid
+  Communications]</dc:description>
+ <dc:date>2001-05-05</dc:date>
+ <dc:date>2002-04-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0105019</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.65.040303</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

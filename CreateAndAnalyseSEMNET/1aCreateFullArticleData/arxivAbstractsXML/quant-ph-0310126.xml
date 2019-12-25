@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:00Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310126" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310126</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum algorithms for phase space tomography</dc:title>
+ <dc:creator>Paz, Juan Pablo</dc:creator>
+ <dc:creator>Roncaglia, Augusto J.</dc:creator>
+ <dc:creator>Saraceno, Marcos</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present efficient circuits that can be used for the phase space tomography
+of quantum states. The circuits evaluate individual values or selected averages
+of the Wigner, Kirkwood and Husimi distributions. These quantum gate arrays can
+be programmed by initializing appropriate computational states. The Husimi
+circuit relies on a subroutine that is also interesting in its own right: the
+efficient preparation of a coherent state, which is the ground state of the
+Harper Hamiltonian.
+</dc:description>
+ <dc:description>Comment: 9 pages, 14 figures. To appear in Phys. Rev. A</dc:description>
+ <dc:date>2003-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310126</dc:identifier>
+ <dc:identifier>Phys. Rev. A 69, 032312 (2004)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.69.032312</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

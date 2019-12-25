@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:15Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310137" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310137</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Multipartite entanglement, quantum-error-correcting codes, and
+  entangling power of quantum evolutions</dc:title>
+ <dc:creator>Scott, A. J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We investigate the average bipartite entanglement, over all possible
+divisions of a multipartite system, as a useful measure of multipartite
+entanglement. We expose a connection between such measures and
+quantum-error-correcting codes by deriving a formula relating the weight
+distribution of the code to the average entanglement of encoded states.
+Multipartite entangling power of quantum evolutions is also investigated.
+</dc:description>
+ <dc:description>Comment: 13 pages, 1 figure</dc:description>
+ <dc:date>2003-10-21</dc:date>
+ <dc:date>2004-01-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310137</dc:identifier>
+ <dc:identifier>Phys. Rev. A 69, 052330 (2004)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.69.052330</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

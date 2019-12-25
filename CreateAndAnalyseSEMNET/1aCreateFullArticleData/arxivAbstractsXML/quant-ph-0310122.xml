@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:55Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310122" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310122</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Inequivalent classes of closed three-level systems</dc:title>
+ <dc:creator>Klimov, Andre B.</dc:creator>
+ <dc:creator>de Guise, Hubert</dc:creator>
+ <dc:creator>Sanchez-Soto, Luis L.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We show here that the $\Lambda$ and V configurations of three-level atomic
+systems, while they have recently been shown to be equivalent for many
+important physical quantities when driven with classical fields [M. B. Plenio,
+Phys. Rev. A \textbf{62}, 015802 (2000)], are no longer equivalent when coupled
+via a quantum field. We analyze the physical origin of such behavior and show
+how the equivalence between these two configurations emerges in the
+semiclassical limit.
+</dc:description>
+ <dc:description>Comment: 4 pages, 1 figure. To appear as Brief Report in Physical Review A</dc:description>
+ <dc:date>2003-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310122</dc:identifier>
+ <dc:identifier>Phys. Rev. A 68, 065801 (2003)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.68.065801</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

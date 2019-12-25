@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:22:30Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0002001" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0002001</identifier>
+ <datestamp>2009-11-06</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optimal States for Bell inequality Violations using Quadrature Phase
+  Homodyne Measurements</dc:title>
+ <dc:creator>Munro, W. J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We identify what ideal correlated photon number states are to required to
+maximize the discrepancy between local realism and quantum mechanics when a
+quadrature homodyne phase measurement is used. Various Bell inequality tests
+are considered.
+</dc:description>
+ <dc:description>Comment: 6 pages, 5 Figures</dc:description>
+ <dc:date>2000-01-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0002001</dc:identifier>
+ <dc:identifier>Phys. Rev. A. {\bf 59}, 4197 (1999)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.59.4197</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

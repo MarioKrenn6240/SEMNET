@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:51Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310119" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310119</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Grandma's local realistic theory for the Greenberger-Horne-Zeilinger
+  experiment</dc:title>
+ <dc:creator>Lan, Boon Leong</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  A realistic theory is constructed for the GHZ experiment. It is shown that
+the theory is local and it reproduces all the probabilistic predictions of
+quantum theory. This local realistic theory shows that GHZ had formulated
+Einstein's locality or no-action-at-a-distance principle incorrectly in their
+local realistic theory for the experiment.
+</dc:description>
+ <dc:date>2003-10-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310119</dc:identifier>
+ <dc:identifier>J. Russian Laser Research, v26, 530-533 (2005)</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>
