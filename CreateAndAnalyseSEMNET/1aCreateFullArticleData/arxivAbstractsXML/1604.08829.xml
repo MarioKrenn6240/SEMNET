@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-03-01T14:24:13Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1604.08829" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08829</identifier>
+ <datestamp>2016-08-17</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Engineering interactions and anyon statistics by multicolor
+  lattice-depth modulations</dc:title>
+ <dc:creator>Cardarelli, Lorenzo</dc:creator>
+ <dc:creator>Greschner, Sebastian</dc:creator>
+ <dc:creator>Santos, Luis</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  We show that a multicolor modulation of the depth of an optical lattice
+allows for a flexible independent control of correlated hopping,
+occupation-dependent gauge fields, effective on-site interactions without
+Feshbach resonances, and nearest-neighbor interactions. As a result, the
+lattice-depth modulation opens the possibility of engineering with minimal
+experimental complexity a broad class of lattice models in current experiments
+with ultra-cold atoms, including Hubbard models with correlated hopping,
+peculiar extended models, and two-component anyon-Hubbard models.
+</dc:description>
+ <dc:description>Comment: 5 pages, 4 figures</dc:description>
+ <dc:date>2016-04-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1604.08829</dc:identifier>
+ <dc:identifier>Phys. Rev. A 94, 023615 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.94.023615</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

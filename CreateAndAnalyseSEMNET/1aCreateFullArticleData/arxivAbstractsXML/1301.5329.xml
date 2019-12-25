@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T20:42:23Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1301.5329" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1301.5329</identifier>
+ <datestamp>2013-05-16</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Expansion dynamics of interacting bosons in homogeneous lattices in one
+  and two dimensions</dc:title>
+ <dc:creator>Ronzheimer, Jens Philipp</dc:creator>
+ <dc:creator>Schreiber, Michael</dc:creator>
+ <dc:creator>Braun, Simon</dc:creator>
+ <dc:creator>Hodgman, Sean S.</dc:creator>
+ <dc:creator>Langer, Stephan</dc:creator>
+ <dc:creator>McCulloch, Ian P.</dc:creator>
+ <dc:creator>Heidrich-Meisner, Fabian</dc:creator>
+ <dc:creator>Bloch, Immanuel</dc:creator>
+ <dc:creator>Schneider, Ulrich</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  We experimentally and numerically investigate the expansion of initially
+localized ultracold bosons in homogeneous one- and two-dimensional optical
+lattices. We find that both dimensionality and interaction strength crucially
+influence these non-equilibrium dynamics. While the atoms expand ballistically
+in all integrable limits, deviations from these limits dramatically suppress
+the expansion and lead to the appearance of almost bimodal cloud shapes,
+indicating diffusive dynamics in the center surrounded by ballistic wings. For
+strongly interacting bosons, we observe a dimensional crossover of the dynamics
+from ballistic in the one-dimensional hard-core case to diffusive in two
+dimensions, as well as a similar crossover when higher occupancies are
+introduced into the system.
+</dc:description>
+ <dc:description>Comment: 6 pages, 4 figures + supplementary material; V3: Published version</dc:description>
+ <dc:date>2013-01-22</dc:date>
+ <dc:date>2013-05-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1301.5329</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 110, 205301 (2013)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.110.205301</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

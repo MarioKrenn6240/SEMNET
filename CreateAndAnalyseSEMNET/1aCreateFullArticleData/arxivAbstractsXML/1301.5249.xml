@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T18:14:51Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1301.5249" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1301.5249</identifier>
+ <datestamp>2015-06-12</datestamp>
+ <setSpec>physics:nlin</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Higher-Order Nonlinear Schrodinger equation with derivative non-Kerr
+  nonlinear terms: A model for sub-10fs pulse propagation</dc:title>
+ <dc:creator>Choudhuri, Amitava</dc:creator>
+ <dc:creator>Porsezian, K.</dc:creator>
+ <dc:subject>Nonlinear Sciences - Exactly Solvable and Integrable Systems</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We analytically solved the higher-order nonlinear Schrodinger (HNLS) equation
+with non-Kerr nonlinearity under some parametric conditions and investigated
+explicitly bright and dark solitary wave solutions. Periodic wave solutions are
+also presented. The functional form of the bright and dark solitons presented
+are different from fundamental known sech(.) and tanh(.) respectively. We have
+estimated theoretically the size of the derivative non-Kerr nonlinear
+coefficients of the HNLS equation that agreed the reality of the waveguide made
+of highly nonlinear optical materials, could be used as the model parameters
+for sub-10fs pulse propagation.
+</dc:description>
+ <dc:description>Comment: 5 pages, 3 figures</dc:description>
+ <dc:date>2013-01-22</dc:date>
+ <dc:date>2013-02-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1301.5249</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.88.033808</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

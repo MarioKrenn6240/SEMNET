@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T17:51:01Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1505.00761" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.00761</identifier>
+ <datestamp>2015-12-09</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Carrier-Envelope Phase Control of a 10 Hz, 25 TW Laser for High-Flux XUV
+  Continuum Generation</dc:title>
+ <dc:creator>Cunningham, Eric</dc:creator>
+ <dc:creator>Wu, Yi</dc:creator>
+ <dc:creator>Chang, Zenghu</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  A novel scheme for stabilizing the carrier-envelope phase (CEP) of
+low-repetition rate lasers was demonstrated using a 350 mJ, 14 fs Ti:Sapphire
+laser operating at 10 Hz. The influence of the CEP on the generation of a
+continuum in the extreme ultraviolet (XUV) was observed.
+</dc:description>
+ <dc:description>Comment: 4 pages, 3 figures</dc:description>
+ <dc:date>2015-05-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1505.00761</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4936156</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

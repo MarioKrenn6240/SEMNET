@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T11:48:45Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1006.3702" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1006.3702</identifier>
+ <datestamp>2013-05-29</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Exploring Quantum Control Landscapes: Topology, Features, and
+  Optimization Scaling</dc:title>
+ <dc:creator>Moore, Katharine W.</dc:creator>
+ <dc:creator>Rabitz, Herschel</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Quantum optimal control experiments and simulations have successfully
+manipulated the dynamics of systems ranging from atoms to biomolecules.
+Surprisingly, these collective works indicate that the effort (i.e., the number
+of algorithmic iterations) required to find an optimal control field appears to
+be essentially invariant to the complexity of the system. The present work
+explores this matter in a series of systematic optimizations of the
+state-to-state transition probability on model quantum systems with the number
+of states $N$ ranging from 5 through 100. The optimizations occur over a
+landscape defined by the transition probability as a function of the control
+field. Previous theoretical studies on the topology of quantum control
+landscapes established that they should be free of sub-optimal traps under
+reasonable physical conditions. The simulations in this work include nearly
+5000 individual optimization test cases, all of which confirm this prediction
+by fully achieving optimal population transfer of at least 99.9% upon careful
+attention to numerical procedures to ensure that the controls are free of
+constraints. Collectively, the simulation results additionally show invariance
+of required search effort to system dimension $N$. This behavior is
+rationalized in terms of the structural features of the underlying control
+landscape. The very attractive observed scaling with system complexity may be
+understood by considering the distance traveled on the control landscape during
+a search and the magnitude of the control landscape slope. Exceptions to this
+favorable scaling behavior can arise when the initial control field fluence is
+too large or when the target final state recedes from the initial state as $N$
+increases.
+</dc:description>
+ <dc:description>Comment: 10 figures</dc:description>
+ <dc:date>2010-06-18</dc:date>
+ <dc:date>2011-06-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1006.3702</dc:identifier>
+ <dc:identifier>Phys. Rev. A 84, 012109 (2011)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.84.012109</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

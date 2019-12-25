@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:13:58Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1107.1225" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1107.1225</identifier>
+ <datestamp>2011-08-25</datestamp>
+ <setSpec>physics:hep-ph</setSpec>
+ <setSpec>physics:nucl-ex</setSpec>
+ <setSpec>physics:nucl-th</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Comment on &quot;Nuclear structure corrections in muonic deuterium&quot;</dc:title>
+ <dc:creator>Miller, Gerald A.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>Nuclear Experiment</dc:subject>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:description>  A recent letter [1] investigated the effects of deuteron polarizability in
+the mu D atom. The importance of understanding this atom has been heightened
+because of the possible light it could shed on the proton radius puzzle. Here
+we confirm, clarify, and emphasize the significance of the result [1] that the
+effects of the third Zemach moment are canceled by part of the deuteron
+polarizability effects. 1. K. Pachucki, Phys. Rev. Lett. 106, 193007 (2011)
+</dc:description>
+ <dc:description>Comment: 1 page, 0 figures This paper has been withdrawn due to a
+  misinterpretation of published work</dc:description>
+ <dc:date>2011-07-06</dc:date>
+ <dc:date>2011-08-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1107.1225</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

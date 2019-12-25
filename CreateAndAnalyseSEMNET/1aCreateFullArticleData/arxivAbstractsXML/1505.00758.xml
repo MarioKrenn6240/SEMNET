@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T16:30:45Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1505.00758" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.00758</identifier>
+ <datestamp>2015-08-21</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Low-noise optical lattices for ultracold $^6$Li</dc:title>
+ <dc:creator>Blatt, S.</dc:creator>
+ <dc:creator>Mazurenko, A.</dc:creator>
+ <dc:creator>Parsons, M. F.</dc:creator>
+ <dc:creator>Chiu, C. S.</dc:creator>
+ <dc:creator>Huber, F.</dc:creator>
+ <dc:creator>Greiner, M.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We demonstrate stable, long-term trapping of fermionic $^6$Li atoms in an
+optical lattice with MHz trap frequencies for use in a quantum gas microscope.
+Adiabatic release from the optical lattice in the object plane of a
+high-numerical-aperture imaging system allows a measurement of the population
+distribution among the lowest three bands in both radial directions with atom
+numbers as low as $7\times 10^2$. We measure exponential ground band heating
+rates as low as 0.014(1) s$^{-1}$ corresponding to a radial ground state $1/e$
+lifetime of 71(5) s, fundamentally limited by scattering of lattice photons.
+For all lattice depths above 2 recoil, we find radial ground state lifetimes
+$\ge 1.6 \times 10^6$ recoil times.
+</dc:description>
+ <dc:description>Comment: 5 pages, 4 figures, 3 pages supplemental material</dc:description>
+ <dc:date>2015-05-04</dc:date>
+ <dc:date>2015-08-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1505.00758</dc:identifier>
+ <dc:identifier>Phys. Rev. A 92, 021402 (2015)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.92.021402</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T21:15:48Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1604.08765" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08765</identifier>
+ <datestamp>2016-07-20</datestamp>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Holographic Quenches with a Gap</dc:title>
+ <dc:creator>da Silva, Emilia</dc:creator>
+ <dc:creator>Lopez, Esperanza</dc:creator>
+ <dc:creator>Mas, Javier</dc:creator>
+ <dc:creator>Serantes, Alexandre</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In order to holographically model quenches with a gapped final hamiltonian,
+we consider a gravity-scalar theory in anti-de Sitter space with an infrared
+hard wall. We allow a time dependent profile for the scalar field at the wall.
+This induces an energy exchange between bulk and wall and generates an
+oscillating scalar pulse. We argue that such backgrounds are the counterpart of
+quantum revivals in the dual field theory. We perform a qualitative comparison
+with the quench dynamics of the massive Schwinger model, which has been
+recently analyzed using tensor network techniques. Agreement is found provided
+the width of the oscillating scalar pulse is inversely linked to the energy
+density communicated by the quench. We propose this to be a general feature of
+holographic quenches.
+</dc:description>
+ <dc:description>Comment: 19 pages, 17 figures</dc:description>
+ <dc:date>2016-04-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1604.08765</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP06(2016)172</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

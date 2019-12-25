@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T10:43:00Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1409.1231" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1409.1231</identifier>
+ <datestamp>2015-09-25</datestamp>
+ <setSpec>physics:gr-qc</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Jerusalem Lectures on Black Holes and Quantum Information</dc:title>
+ <dc:creator>Harlow, Daniel</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In these lectures I give an introduction to the quantum physics of black
+holes, including recent developments based on quantum information theory such
+as the firewall paradox and its various cousins. I also give an introduction to
+holography and the AdS/CFT correspondence, focusing on those aspects which are
+relevant for the black hole information problem.
+</dc:description>
+ <dc:description>Comment: v1: a lot of pages and figures. v2: still a lot of pages and figures,
+  now with typos corrected. v3: version accepted to reviews of modern physics.
+  more typo corrections, and a rewrite of section 4.6 for clarity. v4:
+  Dedication to Jacob Bekenstein added, as well as a few references</dc:description>
+ <dc:date>2014-09-03</dc:date>
+ <dc:date>2015-09-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1409.1231</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

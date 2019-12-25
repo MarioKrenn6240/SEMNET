@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T17:52:28Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1107.1242" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1107.1242</identifier>
+ <datestamp>2015-05-28</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Negative Refraction and Superconductivity</dc:title>
+ <dc:creator>Amariti, Antonio</dc:creator>
+ <dc:creator>Forcella, Davide</dc:creator>
+ <dc:creator>Mariotti, Alberto</dc:creator>
+ <dc:creator>Siani, Massimo</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Condensed Matter - Superconductivity</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We discuss exotic properties of charged hydrodynamical systems, in the broken
+superconducting phase, probed by electromagnetic waves. Motivated by general
+arguments from hydrodynamics, we observe that negative refraction, namely the
+propagation in opposite directions of the phase velocities and of the energy
+flux, is expected for low enough frequencies. We corroborate this general idea
+by analyzing a holographic superconductor in the AdS/CFT correspondence, where
+the response functions can be explicitly computed. We study the dual
+gravitational theory both in the probe and in the backreacted case. We find
+that, while in the first case the refractive index is positive at every
+frequency, in the second case there is negative refraction at low enough
+frequencies. This is in agreement with hydrodynamic considerations.
+</dc:description>
+ <dc:description>Comment: 26 pages, 28 figures</dc:description>
+ <dc:date>2011-07-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1107.1242</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP10(2011)104</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

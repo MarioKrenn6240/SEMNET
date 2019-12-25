@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T10:33:49Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1409.1149" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1409.1149</identifier>
+ <datestamp>2015-10-28</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Nearby states in non-Hermitian quantum systems</dc:title>
+ <dc:creator>Eleuch, Hichem</dc:creator>
+ <dc:creator>Rotter, Ingrid</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In part I, the formalism for the description of open quantum systems (that
+are embedded into a common well-defined environment) by means of a
+non-Hermitian Hamilton operator $\ch$ is sketched. Eigenvalues and
+eigenfunctions are parametrically controlled. Using a 2$\times$2 model, we
+study the eigenfunctions of $\ch$ at and near to the singular exceptional
+points (EPs) at which two eigenvalues coalesce and the corresponding
+eigenfunctions differ from one another by only a phase. In part II, we provide
+the results of an analytical study for the eigenvalues of three crossing
+states. These crossing points are of measure zero. Then we show numerical
+results for the influence of a nearby (&quot;third&quot;) state onto an EP. Since the
+wavefunctions of the two crossing states are mixed in a finite parameter range
+around an EP, three states of a physical system will never cross in one point.
+Instead, the wavefunctions of all three states are mixed in a finite parameter
+range in which the ranges of the influence of different EPs overlap. We may
+relate these results to dynamical phase transitions observed recently in
+different experimental studies. The states on both sides of the phase
+transition are non-analytically connected.
+</dc:description>
+ <dc:description>Comment: Change of the title; Partition into two parts; Published in Eur.
+  Phys. J. D 69, 229 (2015) and D 69, 230 (2015)</dc:description>
+ <dc:date>2014-09-03</dc:date>
+ <dc:date>2015-10-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1409.1149</dc:identifier>
+ <dc:identifier>doi:10.1140/epjd/e2015-60389-7</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:13:57Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1107.1212" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1107.1212</identifier>
+ <datestamp>2015-05-28</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>An analytical model of Faraday rotation in hot alkali metal vapours</dc:title>
+ <dc:creator>Kemp, Stefan L</dc:creator>
+ <dc:creator>Hughes, Ifan G</dc:creator>
+ <dc:creator>Cornish, Simon L</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  We report a thorough investigation into the absorptive and dispersive
+properties of hot caesium vapour, culminating in the development of a simple
+analytical model for off-resonant Faraday rotation. The model, applicable to
+all hot alkali metal vapours, is seen to predict the rotation observed in
+caesium, at temperatures as high as 115 $^{\circ}$C, to within 1% accuracy for
+probe light detuned by greater than 2 GHz from the $D_{2}$ lines. We also
+demonstrate the existence of a weak probe intensity limit, below which the
+effect of hyperfine pumping is negligible. Following the identification of this
+regime we validate a more comprehensive model for the absorption and dispersion
+in the vicinity of the $D_{2}$ lines, implemented in the form of a computer
+code. We demonstrate the ability of this model to predict Doppler-broadened
+spectra to within 0.5% rms deviation for temperatures up to 50 $^{\circ}$C.
+</dc:description>
+ <dc:description>Comment: 7 pages, 6 figures</dc:description>
+ <dc:date>2011-07-06</dc:date>
+ <dc:date>2011-07-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1107.1212</dc:identifier>
+ <dc:identifier>doi:10.1088/0953-4075/44/23/235004</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-15T15:09:29Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1203.1220" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1203.1220</identifier>
+ <datestamp>2013-01-08</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optically guided beam splitter for propagating matter waves</dc:title>
+ <dc:creator>Gattobigio, Giovanni Luca</dc:creator>
+ <dc:creator>Couvert, Antoine</dc:creator>
+ <dc:creator>Reinaudi, Gael</dc:creator>
+ <dc:creator>Georgeot, Bertrand</dc:creator>
+ <dc:creator>Guery-Odelin, David</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We study experimentally and theoretically a beam splitter setup for guided
+atomic matter waves. The matter wave is a guided atom laser that can be tuned
+from quasi-monomode to a regime where many transverse modes are populated, and
+propagates in a horizontal dipole beam until it crosses another horizontal beam
+at 45$^{\rm o}$. We show that depending on the parameters of this $X$
+configuration, the atoms can all end up in one of the two beams (the system
+behaves as a perfect guide switch), or be split between the four available
+channels (the system behaves as a beam splitter). The splitting regime results
+from a chaotic scattering dynamics. The existence of these different regimes
+turns out to be robust against small variations of the parameters of the
+system. From numerical studies, we also propose a scheme that provides a robust
+and controlled beam splitter in two channels only.
+</dc:description>
+ <dc:date>2012-03-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1203.1220</dc:identifier>
+ <dc:identifier>Physical Review Letters 109 (2012) 030403</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.109.030403</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

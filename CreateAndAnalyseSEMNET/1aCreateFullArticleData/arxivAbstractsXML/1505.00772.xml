@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T16:30:46Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1505.00772" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.00772</identifier>
+ <datestamp>2015-05-05</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Computing energy density in one dimension</dc:title>
+ <dc:creator>Huang, Yichen</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We study the problem of computing energy density in one-dimensional quantum
+systems. We show that the ground-state energy per site or per bond can be
+computed in time (i) independent of the system size and subexponential in the
+desired precision if the ground state satisfies area laws for the Renyi
+entanglement entropy (this is the first rigorous formulation of the folklore
+that area laws imply efficient matrix-product-state algorithms); (ii)
+independent of the system size and polynomial in the desired precision if the
+system is gapped. As a by-product, we prove that in the presence of area laws
+(or even an energy gap) the ground state can be approximated by a positive
+semidefinite matrix product operator of bond dimension independent of the
+system size and subpolynomial in the desired precision of local properties.
+</dc:description>
+ <dc:date>2015-05-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1505.00772</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:52:51Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1301.5345" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1301.5345</identifier>
+ <datestamp>2014-04-07</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum dynamics and kinematics from a statistical model selected by the
+  principle of Locality</dc:title>
+ <dc:creator>Budiyono, Agung</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Quantum mechanics predicts correlation between spacelike separated events
+which is widely argued to violate the principle of Local Causality. By
+contrast, here we shall show that the Schr\&quot;odinger equation with Born's
+statistical interpretation of wave function and uncertainty relation can be
+derived from a statistical model of microscopic stochastic deviation from
+classical mechanics which is selected uniquely, up to a free parameter, by the
+principle of Local Causality. Quantization is thus argued to be physical and
+Planck constant acquires an interpretation as the average stochastic deviation
+from classical mechanics in a microscopic time scale. Unlike canonical
+quantization, the resulting quantum system always has a definite configuration
+all the time as in classical mechanics, fluctuating randomly along a continuous
+trajectory. The average of the relevant physical quantities over the
+distribution of the configuration are shown to be equal numerically to the
+quantum mechanical average of the corresponding Hermitian operators over a
+quantum state.
+</dc:description>
+ <dc:description>Comment: 33 pages, no figure, major changes, accepted for publication in
+  International Journal of Theoretical Physics</dc:description>
+ <dc:date>2013-01-20</dc:date>
+ <dc:date>2013-11-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1301.5345</dc:identifier>
+ <dc:identifier>Int. J. Theor. Phys. 53, 1276 (2014)</dc:identifier>
+ <dc:identifier>doi:10.1007/s10773-013-1925-4</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

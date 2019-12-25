@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T16:22:53Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1505.00907" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.00907</identifier>
+ <datestamp>2015-08-18</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Potential capacities of quantum channels</dc:title>
+ <dc:creator>Winter, Andreas</dc:creator>
+ <dc:creator>Yang, Dong</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We introduce the notion of potential capacities of quantum channels in an
+operational way and provide upper bounds for these quantities, which quantify
+the ultimate limit of usefulness of a channel for a given task in the best
+possible context.
+  Unfortunately, except for a few isolated cases, potential capacities seem to
+be as hard to compute as their &quot;plain&quot; analogues. We thus study upper bounds on
+some potential capacities: For the classical capacity, we give an upper bound
+in terms of the entanglement of formation. To establish a bound for the quantum
+and private capacity, we first &quot;lift&quot; the channel to a Hadamard channel and
+then prove that the quantum and private capacity of Hadamard channel is
+strongly additive, implying that for these channels, potential and plain
+capacity are equal. Employing these upper bounds we show that if a channel is
+noisy, however close it is to the noiseless channel, then it cannot be
+activated into the noiseless channel by any other contextual channel; this
+conclusion holds for all the three capacities.
+  Although it is of less importance, we also discuss the so-called
+environment-assisted quantum capacity, because we are able to characterize its
+&quot;potential&quot; version.
+</dc:description>
+ <dc:description>Comment: 15 pages; in v2 minor changes, typos fixed and new references added;
+  in v3 extended reference to &quot;quantum value added&quot; precedent of potential
+  capacities; v4 has new results on fair pricing of quantum channels wrt to
+  quantum and private communication</dc:description>
+ <dc:date>2015-05-05</dc:date>
+ <dc:date>2015-08-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1505.00907</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

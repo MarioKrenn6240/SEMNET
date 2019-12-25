@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T13:25:04Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0907.1974" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0907.1974</identifier>
+ <datestamp>2009-11-15</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Feasible scheme for measuring experimentally the speed of the response
+  of quantum states to the change of the boundary condition</dc:title>
+ <dc:creator>He, Guang Ping</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  When the boundary condition of a quantum system changes, how fast will it
+affect the state of the system? Here we show that if the response takes place
+immediately, then it can allow superluminal signal transfer. Else if the
+response propagates in space with a finite speed, then it could give a simple
+explanation why our world shows classicality on the macroscopic scale.
+Furthermore, determining the exact value of this speed can either clarify the
+doubts on static experiments for testing Bell's inequality, or support the
+pilot-wave interpretation of quantum mechanics. We propose an experimental
+scheme for measuring this speed, which can be implemented with state-of-art
+technology, e.g., single-electron biprism interference.
+</dc:description>
+ <dc:description>Comment: Title changed to suit the content more faithfully. The proposed
+  experimental scheme remains unchanged. Added suggested specifications for
+  implementing the scheme with single-electron biprism interference</dc:description>
+ <dc:date>2009-07-11</dc:date>
+ <dc:date>2009-11-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0907.1974</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

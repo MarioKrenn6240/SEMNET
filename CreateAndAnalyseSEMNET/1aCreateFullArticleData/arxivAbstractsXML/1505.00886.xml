@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T17:51:04Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1505.00886" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.00886</identifier>
+ <datestamp>2015-07-08</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spatial bandlimitedness of scattered electromagnetic fields</dc:title>
+ <dc:creator>Khankhoje, Uday K.</dc:creator>
+ <dc:creator>Shah, Kushal</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:description>  In this tutorial paper, we consider the problem of electromagnetic scattering
+by a bounded two-dimensional dielectric object, and discuss certain interesting
+properties of the scattered field. Using the electric field integral equation,
+along with the techniques of Fourier theory and the properties of Bessel
+functions, we show analytically and numerically, that in the case of transverse
+electric polarization, the scattered fields are spatially bandlimited. Further,
+we derive an upper bound on the number of incidence angles that are useful as
+constraints in an inverse problem setting (determining permittivity given
+measurements of the scattered field). We also show that the above results are
+independent of the dielectric properties of the scattering object and depend
+only on geometry. Though these results have previously been derived in the
+literature using the framework of functional analysis, our approach is
+conceptually far easier. Implications of these results on the inverse problem
+are also discussed.
+</dc:description>
+ <dc:date>2015-05-05</dc:date>
+ <dc:date>2015-07-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1505.00886</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

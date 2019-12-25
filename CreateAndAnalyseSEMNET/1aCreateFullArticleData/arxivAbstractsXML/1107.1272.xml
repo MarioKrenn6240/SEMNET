@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T20:33:29Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1107.1272" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1107.1272</identifier>
+ <datestamp>2012-11-01</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:hep-lat</setSpec>
+ <setSpec>physics:hep-ph</setSpec>
+ <setSpec>physics:nucl-th</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Topological phases for bound states moving in a finite volume</dc:title>
+ <dc:creator>Bour, Shahin</dc:creator>
+ <dc:creator>K&#xf6;nig, Sebastian</dc:creator>
+ <dc:creator>Lee, Dean</dc:creator>
+ <dc:creator>Hammer, H. -W.</dc:creator>
+ <dc:creator>Mei&#xdf;ner, Ulf-G.</dc:creator>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:subject>High Energy Physics - Lattice</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  We show that bound states moving in a finite periodic volume have an energy
+correction which is topological in origin and universal in character. The
+topological volume corrections contain information about the number and mass of
+the constituents of the bound states. These results have broad applications to
+lattice calculations involving nucleons, nuclei, hadronic molecules, and cold
+atoms. We illustrate and verify the analytical results with several numerical
+lattice calculations.
+</dc:description>
+ <dc:description>Comment: 4 pages, 1 figure, version to appear in Phys. Rev. D Rapid
+  Communications</dc:description>
+ <dc:date>2011-07-06</dc:date>
+ <dc:date>2011-11-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1107.1272</dc:identifier>
+ <dc:identifier>Phys. Rev. D 84, 091503(R) (2011)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.84.091503</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

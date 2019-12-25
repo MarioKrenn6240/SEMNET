@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-03-01T17:33:15Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1604.08854" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08854</identifier>
+ <datestamp>2016-05-02</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Effects of laser frequency drift in phase-sensitive optical time-domain
+  reflectometry fiber sensors</dc:title>
+ <dc:creator>Zhirnov, Andrey</dc:creator>
+ <dc:creator>Fedorov, Aleksey</dc:creator>
+ <dc:creator>Stepanov, Konstantin</dc:creator>
+ <dc:creator>Nesterov, Evgeny</dc:creator>
+ <dc:creator>Karasik, Valery</dc:creator>
+ <dc:creator>Svelto, Cesare</dc:creator>
+ <dc:creator>Pnev, Alexey</dc:creator>
+ <dc:subject>Physics - Instrumentation and Detectors</dc:subject>
+ <dc:subject>Physics - Data Analysis, Statistics and Probability</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  The present work studies the influence of laser frequency drifts on operating
+of phase-sensitive optical time-domain reflectometry ($\Phi$-OTDR) fiber
+sensors. A mathematical model and numerical simulations are employed to
+highlight the influence of frequency drifts of light sources on two
+characteristic scales: large-time (minutes) and short-time (milliseconds)
+frequency drifts. Numerical simulation results are compared with predictions
+given by the fluctuation ratio coefficient (FRC), and they are in a qualitative
+agreement. In addition to qualitative criteria for light sources given by the
+FRC, quantitive requirements for optimal light sources for $\Phi$-OTDR sensors
+are obtained. Numerical simulation results are verified by comparison with
+experimental data for three significantly different types of light source.
+</dc:description>
+ <dc:description>Comment: 6 pages, 4 figure</dc:description>
+ <dc:date>2016-04-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1604.08854</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

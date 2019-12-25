@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T16:22:50Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1505.00895" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.00895</identifier>
+ <datestamp>2015-05-06</datestamp>
+ <setSpec>cs</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Dynamic Grover Search: Applications in Recommendation systems and
+  Optimization problems</dc:title>
+ <dc:creator>Chakrabarty, Indranil</dc:creator>
+ <dc:creator>Khan, Shahzor</dc:creator>
+ <dc:creator>Singh, Vanshdeep</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Computer Science - Data Structures and Algorithms</dc:subject>
+ <dc:description>  In the recent years we have seen that Grover search algorithm [1] by using
+quantum parallelism has revolutionized the field of solving huge class of NP
+problems in comparison to classical systems. In this work we explore the idea
+of extending the Grover search algorithm to approximate algorithms. Here we try
+to analyze the applicability of Grover search to process an unstructured
+database with dynamic selection function as compared to the static selection
+function in the original work[1]. This allows us to extend the application of
+Grover search to the field of randomized search algorithms. We further use the
+Dynamic Grover search algorithm to define the goals for a recommendation
+system, and define the algorithm for recommendation system for binomial
+similarity distribution space giving us a quadratic speedup over traditional
+unstructured recommendation systems. Finally we see how the Dynamic Grover
+Search can be used to attack a wide range of optimization problems where we
+improve complexity over existing optimization algorithms.
+</dc:description>
+ <dc:description>Comment: 8 pages, 7 figures</dc:description>
+ <dc:date>2015-05-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1505.00895</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

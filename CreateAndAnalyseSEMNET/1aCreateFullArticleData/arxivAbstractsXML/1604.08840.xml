@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T21:15:51Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1604.08840" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08840</identifier>
+ <datestamp>2016-11-03</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Engineering Large Stark Shifts for Control of Individual Clock State
+  Qubits</dc:title>
+ <dc:creator>Lee, Aaron C.</dc:creator>
+ <dc:creator>Smith, Jacob</dc:creator>
+ <dc:creator>Richerme, Philip</dc:creator>
+ <dc:creator>Neyenhuis, Brian</dc:creator>
+ <dc:creator>Hess, Paul W.</dc:creator>
+ <dc:creator>Zhang, Jiehang</dc:creator>
+ <dc:creator>Monroe, Christopher</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In quantum information science, the external control of qubits must be
+balanced with the extreme isolation of the qubits from the environment. Atomic
+qubit systems typically mitigate this balance through the use of gated laser
+fields that can create superpositions and entanglement between qubits. Here we
+propose the use of high-order optical Stark shifts from optical fields to
+manipulate the splitting of atomic qubits that are insensitive to other types
+of fields. We demonstrate a fourth-order AC Stark shift in a trapped atomic ion
+system that does not require extra laser power beyond that needed for other
+control fields. We individually address a chain of tightly-spaced trapped ions
+and show how these controlled shifts can produce an arbitrary product state of
+ten ions as well as generate site-specific magnetic field terms in a simulated
+spin Hamiltonian.
+</dc:description>
+ <dc:date>2016-04-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1604.08840</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.94.042308</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

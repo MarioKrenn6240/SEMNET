@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T10:42:59Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1409.1224" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1409.1224</identifier>
+ <datestamp>2015-03-05</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Entanglement Entropy Scaling Laws and Eigenstate Typicality in Free
+  Fermion Systems</dc:title>
+ <dc:creator>Lai, Hsin-Hua</dc:creator>
+ <dc:creator>Yang, Kun</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We demonstrate that the entanglement entropy area law for free fermion ground
+states and the corresponding volume law for highly excited states are related
+by a position-momentum duality, thus of the same origin. For a typical excited
+state in the thermodynamic limit, we further show that the reduced density
+matrix of a subsystem approaches thermal density matrix, provided the
+subsystem's linear size is small compared to that of the whole system in all
+directions, a property we dub eigenstate typicality. This provides an explicit
+example of thermalization via entanglement, and reveals how statistical physics
+emerges from a single eigenstate by tracing out a large number of degrees of
+freedom.
+</dc:description>
+ <dc:description>Comment: 4.5 pages, 2 figures</dc:description>
+ <dc:date>2014-09-03</dc:date>
+ <dc:date>2015-02-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1409.1224</dc:identifier>
+ <dc:identifier>Phys. Rev. B 91, 081110 (2015)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.91.081110</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

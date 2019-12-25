@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T17:42:15Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1409.1164" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1409.1164</identifier>
+ <datestamp>2014-11-18</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Against Dogma: On Superluminal Propagation in Classical Electromagnetism</dc:title>
+ <dc:creator>Weatherall, James Owen</dc:creator>
+ <dc:subject>Physics - History and Philosophy of Physics</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  It is deeply entrenched dogma that relativity theory prohibits superluminal
+propagation. It is also experimentally well-established that under some
+circumstances, classical electromagnetic fields propagate through a dielectric
+medium with superluminal group velocities and superluminal phase velocities.
+But it is usually claimed that these superluminal velocities do not violate the
+relativistic prohibition. Here I analyze electromagnetic fields in a dielectric
+medium within a framework for understanding superluminal propagation recently
+developed by Geroch(1996, 2011) and elaborated by Earman(2014). I will argue
+that for some parameter values, electromagnetic fields do propagate
+superluminally in the Geroch-Earman sense.
+</dc:description>
+ <dc:description>Comment: 49 pages; forthcoming in Studies in the History and Philosophy of
+  Modern Physics; this version corrects important typos in the previous version</dc:description>
+ <dc:date>2014-08-31</dc:date>
+ <dc:date>2014-11-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1409.1164</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

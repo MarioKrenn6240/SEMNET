@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T20:42:22Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1301.5236" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1301.5236</identifier>
+ <datestamp>2014-03-04</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>BCS-BEC crossover in a quasi-two-dimensional Fermi gas</dc:title>
+ <dc:creator>Fischer, Andrea M.</dc:creator>
+ <dc:creator>Parish, Meera M.</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  We consider a two-component gas of fermionic atoms confined to a
+quasi-two-dimensional (quasi-2D) geometry by a harmonic trapping potential in
+the transverse direction. We construct a mean field theory of the BCS-BEC
+crossover at zero temperature that allows us to extrapolate to an infinite
+number of transverse harmonic oscillator levels. In the extreme BEC limit,
+where the confinement length exceeds the dimer size, we recover 3D dimers
+confined to 2D with weak repulsive interactions. However, even when the
+interactions are weak and the Fermi energy is less than the confinement
+frequency, we find that the higher transverse levels can substantially modify
+fermion pairing. We argue that recent experiments on pairing in quasi-2D Fermi
+gases [Y. Zhang et al., Phys. Rev. Lett. 108, 235302 (2012)] have already
+observed the effects of higher transverse levels.
+</dc:description>
+ <dc:description>Comment: 6 pages, 5 figures</dc:description>
+ <dc:date>2013-01-22</dc:date>
+ <dc:date>2014-03-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1301.5236</dc:identifier>
+ <dc:identifier>Phys. Rev. A 88, 023612 (2013)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.88.023612</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

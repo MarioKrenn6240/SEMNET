@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:10:16Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1409.1187" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1409.1187</identifier>
+ <datestamp>2014-09-04</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Direct above-threshold ionization in intense few-cycle laser pulses:
+  structures in the angle-integrated energy spectra</dc:title>
+ <dc:creator>Chirila, C. C.</dc:creator>
+ <dc:creator>Potvliege, R. M.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  This paper concerns the theory of non-recollisional ionization or detachment
+of atoms or ions by intense few-cycle pulses. It is shown that in certain
+conditions of pulse duration, peak intensity and carrier-envelope phase, the
+ionization probability integrated over ejection angle varies almost
+periodically with energy, with a period roughly equal to the photon energy for
+slow enough outgoing electrons. This modulation is found both in calculations
+based on the strong field approximation (SFA) and in ab initio time-dependent
+calculations. It is explained as resulting from the interference between the
+contributions of different saddle times of the modified classical action.
+Methods for efficiently calculating the SFA ionization amplitude beyond the
+usual saddle point approximation are also discussed.
+</dc:description>
+ <dc:date>2014-09-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1409.1187</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

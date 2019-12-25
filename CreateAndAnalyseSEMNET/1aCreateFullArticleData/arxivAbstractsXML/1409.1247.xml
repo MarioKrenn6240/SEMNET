@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T10:33:51Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1409.1247" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1409.1247</identifier>
+ <datestamp>2014-09-05</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Relativistic decoherence: Efficient numerical simulations of spin 1/2
+  relativistic open quantum systems</dc:title>
+ <dc:creator>Cabrera, Renan</dc:creator>
+ <dc:creator>Bondar, Denys I.</dc:creator>
+ <dc:creator>Campos, Andre G.</dc:creator>
+ <dc:creator>Rabitz, Herschel A.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present a flexible ab initio approach for simulating spin 1/2 relativistic
+open quantum systems undergoing decoherence as well as interaction with an
+external electromagnetic field. The methodology is illustrated on a variety of
+examples. We generally find that decoherence does not suppress
+particle-antiparticle production, whereas it can eliminate zitterbewegung. Our
+computational approach makes accessible open relativistic simulations
+previously thought to be prohibitively expensive.
+</dc:description>
+ <dc:date>2014-09-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1409.1247</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

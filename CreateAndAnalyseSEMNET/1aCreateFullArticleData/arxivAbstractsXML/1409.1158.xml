@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T17:39:35Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1409.1158" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1409.1158</identifier>
+ <datestamp>2015-10-28</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The influence of a power law distribution of cluster size on the light
+  transmission of disordered 1D photonic structures</dc:title>
+ <dc:creator>Bellingeri, Michele</dc:creator>
+ <dc:creator>Scotognella, Francesco</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  A better understanding of the optical properties of random photonic
+structures is beneficial for many applications, such as random lasing, optical
+imaging and photovoltaics. Here we investigated the light transmission
+properties of disordered photonic structures in which the high refractive index
+layers are aggregated in clusters. We sorted the size of the clusters from a
+power law distribution tuning the exponent a of the distribution function. The
+sorted high refractive layer clusters are randomly distributed within the low
+refractive index layers. We studied the total light transmission, within the
+photonic band gap of the corresponding periodic crystal, as a function of the
+exponent in the distribution. We observed that, for a within the interval
+[0,3.5], the trend can be fitted with a sigmoidal function.
+</dc:description>
+ <dc:description>Comment: 9 pages, 7 Figures, 1 Table</dc:description>
+ <dc:date>2014-09-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1409.1158</dc:identifier>
+ <dc:identifier>doi:10.1109/JLT.2015.2460259</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

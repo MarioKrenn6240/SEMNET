@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:13:59Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1107.1288" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1107.1288</identifier>
+ <datestamp>2015-05-28</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Parity nonconservation in ytterbium ion</dc:title>
+ <dc:creator>Sahoo, B. K.</dc:creator>
+ <dc:creator>Das, B. P.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  We consider parity nonconservation (PNC) in singly ionized ytterbium (Yb+)
+arising from the neutral current weak interaction. We calculate the PNC
+electric dipole transition amplitude (E1_PNC) and the properties associated
+with it using the relativistic coupled-cluster theory. E1_PNC for the [4f^{14}]
+^2 6s --&gt; [4f^{14}] ^2 5d_{3/2} transition in Yb+ has been evaluated to within
+an accuracy of 5%. The improvement of this result is possible. It therefore
+appears that this ion is a promising candidate for testing the standard model
+of particle physics.
+</dc:description>
+ <dc:description>Comment: In Press, Phys. Rev. A as Rapid Communication, 1 figure and 3 tables</dc:description>
+ <dc:date>2011-07-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1107.1288</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.84.010502</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

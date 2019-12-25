@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-03-01T15:33:49Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1604.08820" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08820</identifier>
+ <datestamp>2017-11-01</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>BASE - The Baryon Antibaryon Symmetry Experiment</dc:title>
+ <dc:creator>Smorra, C.</dc:creator>
+ <dc:creator>Blaum, K.</dc:creator>
+ <dc:creator>Bojtar, L.</dc:creator>
+ <dc:creator>Borchert, M.</dc:creator>
+ <dc:creator>Franke, K. A.</dc:creator>
+ <dc:creator>Higuchi, T.</dc:creator>
+ <dc:creator>Leefer, N.</dc:creator>
+ <dc:creator>Nagahama, H.</dc:creator>
+ <dc:creator>Matsuda, Y.</dc:creator>
+ <dc:creator>Mooser, A.</dc:creator>
+ <dc:creator>Niemann, M.</dc:creator>
+ <dc:creator>Ospelkaus, C.</dc:creator>
+ <dc:creator>Quint, W.</dc:creator>
+ <dc:creator>Schneider, G.</dc:creator>
+ <dc:creator>Sellner, S.</dc:creator>
+ <dc:creator>Tanaka, T.</dc:creator>
+ <dc:creator>Van Gorp, S.</dc:creator>
+ <dc:creator>Walz, J.</dc:creator>
+ <dc:creator>Yamazaki, Y.</dc:creator>
+ <dc:creator>Ulmer, S.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Physics - Instrumentation and Detectors</dc:subject>
+ <dc:description>  The Baryon Antibaryon Symmetry Experiment (BASE) aims at performing a
+stringent test of the combined charge parity and time reversal (CPT) symmetry
+by comparing the magnetic moments of the proton and the antiproton with high
+precision. Using single particles in a Penning trap, the proton/antiproton
+$g$-factors, i.e. the magnetic moment in units of the nuclear magneton, are
+determined by measuring the respective ratio of the spin-precession frequency
+to the cyclotron frequency. The spin precession frequency is measured by
+non-destructive detection of spin quantum transitions using the continuous
+Stern-Gerlach effect, and the cyclotron frequency is determined from the
+particle's motional eigenfrequencies in the Penning trap using the invariance
+theorem. By application of the double Penning-trap method we expect that in our
+measurements a fractional precision of $\delta g/g$ 10$^{-9}$ can be achieved.
+The successful application of this method to the antiproton will represent a
+factor 1000 improvement in the fractional precision of its magnetic moment. The
+BASE collaboration has constructed and commissioned a new experiment at the
+Antiproton Decelerator (AD) of CERN. This article describes and summarizes the
+physical and technical aspects of this new experiment.
+</dc:description>
+ <dc:description>Comment: This is the presubmission version of this article:
+  http://link.springer.com/article/10.1140%2Fepjst%2Fe2015-02607-4</dc:description>
+ <dc:date>2016-04-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1604.08820</dc:identifier>
+ <dc:identifier>The European Physical Journal Special Topics November 2015, Volume
+  224, Issue 16, pp 3055-3108,</dc:identifier>
+ <dc:identifier>doi:10.1140/epjst/e2015-02336-2</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

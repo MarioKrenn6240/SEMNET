@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T16:30:47Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1505.00774" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.00774</identifier>
+ <datestamp>2015-05-06</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+ <setSpec>q-bio</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Modelling Microtubules in the Brain as n-qudit Quantum Hopfield Network
+  and Beyond</dc:title>
+ <dc:creator>Srivastava, Dayal Pyari</dc:creator>
+ <dc:creator>Sahni, Vishal</dc:creator>
+ <dc:creator>Satsangi, Prem Saran</dc:creator>
+ <dc:subject>Quantitative Biology - Neurons and Cognition</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The scientific approach to understand the nature of consciousness revolves
+around the study of human brain. Neurobiological studies that compare the
+nervous system of different species have accorded highest place to the humans
+on account of various factors that include a highly developed cortical area
+comprising of approximately 100 billion neurons, that are intrinsically
+connected to form a highly complex network. Quantum theories of consciousness
+are based on mathematical abstraction and Penrose-Hameroff Orch-OR Theory is
+one of the most promising ones. Inspired by Penrose-Hameroff Orch-OR Theory,
+Behrman et. al. (Behrman, 2006) have simulated a quantum Hopfield neural
+network with the structure of a microtubule. They have used an extremely
+simplified model of the tubulin dimers with each dimer represented simply as a
+qubit, a single quantum two-state system. The extension of this model to
+n-dimensional quantum states, or n-qudits presented in this work holds
+considerable promise for even higher mathematical abstraction in modelling
+consciousness systems.
+</dc:description>
+ <dc:date>2015-05-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1505.00774</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

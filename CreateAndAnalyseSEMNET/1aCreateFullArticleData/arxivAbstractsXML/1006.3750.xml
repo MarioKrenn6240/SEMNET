@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T11:48:46Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1006.3750" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1006.3750</identifier>
+ <datestamp>2010-10-28</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Doppler-free Yb Spectroscopy with Fluorescence Spot Technique</dc:title>
+ <dc:creator>Nizamani, Altaf H.</dc:creator>
+ <dc:creator>McLoughlin, James J.</dc:creator>
+ <dc:creator>Hensinger, Winfried K.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  We demonstrate a simple technique to measure the resonant frequency of the
+398.9 nm 1S0 - 1P1 transition for the different Yb isotopes. The technique,
+that works by observing and aligning fluorescence spots, has enabled us to
+measure transition frequencies and isotope shifts with an accuracy of 60 MHz.
+We provide wavelength measurements for the transition that differ from
+previously published work. Our technique also allows for the determination of
+Doppler shifted transition frequencies for photoionisation experiments when the
+atomic beam and laser beam are not perpendicular and furthermore allows us to
+determine the average velocity of the atoms along the direction of atomic beam.
+</dc:description>
+ <dc:date>2010-06-18</dc:date>
+ <dc:date>2010-09-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1006.3750</dc:identifier>
+ <dc:identifier>Physical Review A 82, 043408 (2010)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.82.043408</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

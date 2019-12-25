@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:18:10Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1203.1202" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1203.1202</identifier>
+ <datestamp>2012-10-16</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Characterization of Alkali Metal Dispensers and Non-Evaporable Getter
+  Pumps in Ultra-High Vacuum Systems for Cold Atomic Sensors</dc:title>
+ <dc:creator>Scherer, David R.</dc:creator>
+ <dc:creator>Fenner, David B.</dc:creator>
+ <dc:creator>Hensley, Joel M.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Physics - Instrumentation and Detectors</dc:subject>
+ <dc:description>  A glass ultrahigh vacuum chamber with rubidium alkali metal dispensers and
+non-evaporable getter pumps has been developed and used to create a cold atomic
+sample in a chamber that operates with only passive vacuum pumps. The ion-mass
+spectrum of evaporated gases from the alkali metal dispenser has been recorded
+as a function of dispenser current. The efficacy of the non-evaporable getter
+pumps in promoting and maintaining vacuum has been characterized by observation
+of the Rb vapor optical absorption on the D2 transition at 780 nm and vacuum
+chamber pressure rate of rise tests. We have demonstrated a sample of
+laser-cooled Rb atoms in this chamber when isolated and operating without
+active vacuum pumps.
+</dc:description>
+ <dc:date>2012-03-06</dc:date>
+ <dc:date>2012-10-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1203.1202</dc:identifier>
+ <dc:identifier>J. Vac. Sci. Technol. A, Vol. 30, No. 6, Nov/Dec 2012</dc:identifier>
+ <dc:identifier>doi:10.1116/1.4757950</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

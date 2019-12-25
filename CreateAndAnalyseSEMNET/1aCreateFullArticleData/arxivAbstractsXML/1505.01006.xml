@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T16:22:56Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1505.01006" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.01006</identifier>
+ <datestamp>2015-05-06</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Purcell-enhanced optical spin readout of Nitrogen-Vacancy centers in
+  diamond</dc:title>
+ <dc:creator>Wolf, Sigal A.</dc:creator>
+ <dc:creator>Rosenberg, Itamar</dc:creator>
+ <dc:creator>Rapaport, Ronen</dc:creator>
+ <dc:creator>Bar-Gill, Nir</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  Nitrogen-Vacancy (NV) color centers in diamond have emerged as promising
+quantum solid-state systems, with applications ranging from quantum information
+processing to magnetic sensing. One of the most useful properties of NVs is the
+ability to read their ground-state spin projection optically at room
+temperature. This work provides a theoretical analysis of Purcell enhanced NV
+optical coupling, through which we find optimal parameters for maximal Signal
+to Noise Ratio (SNR) of the optical spin-state readout. We conclude that a
+combined increase in spontaneous emission (through Purcell enhancement) and in
+optical excitation could significantly increase the readout SNR.
+</dc:description>
+ <dc:date>2015-05-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1505.01006</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

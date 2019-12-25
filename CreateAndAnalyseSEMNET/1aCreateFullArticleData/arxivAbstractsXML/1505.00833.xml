@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T16:22:47Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1505.00833" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.00833</identifier>
+ <datestamp>2015-09-02</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Breaking Gaussian incompatibility on continuous variable quantum systems</dc:title>
+ <dc:creator>Heinosaari, Teiko</dc:creator>
+ <dc:creator>Kiukas, Jukka</dc:creator>
+ <dc:creator>Schultz, Jussi</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We characterise Gaussian quantum channels that are Gaussian incompatibility
+breaking, that is, transform every set of Gaussian measurements into a set
+obtainable from a joint Gaussian observable via Gaussian postprocessing. Such
+channels represent local noise which renders measurements useless for Gaussian
+EPR-steering, providing the appropriate generalisation of entanglement breaking
+channels for this scenario. Understanding the structure of Gaussian
+incompatibility breaking channels contributes to the resource theory of noisy
+continuous variable quantum information protocols.
+</dc:description>
+ <dc:description>Comment: minor corrections in v2</dc:description>
+ <dc:date>2015-05-04</dc:date>
+ <dc:date>2015-05-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1505.00833</dc:identifier>
+ <dc:identifier>J. Math. Phys. 56, 082202 (2015)</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4928044</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

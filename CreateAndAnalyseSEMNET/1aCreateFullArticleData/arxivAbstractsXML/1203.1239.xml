@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-15T15:03:17Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1203.1239" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1203.1239</identifier>
+ <datestamp>2012-07-02</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Accessible nonlinear entanglement witnesses</dc:title>
+ <dc:creator>Arrazola, Juan Miguel</dc:creator>
+ <dc:creator>Gittsovich, Oleg</dc:creator>
+ <dc:creator>L&#xfc;tkenhaus, Norbert</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Verification of entanglement is an important tool to characterize sources and
+devices for use in quantum computing and communication applications. In a vast
+majority of experiments entanglement witnesses (EW) are used in order to prove
+the presence of entanglement in a quantum state. EWs can be constructed from
+available measurement results and do not require a reconstruction of the whole
+density matrix (full tomography), which is especially valuable for
+high-dimensional systems. We provide a method to construct {\it accessible
+nonlinear EWs}, which incorporate two important properties. First, they improve
+on linear EWs in the sense that each non-linear EW detects more entangled
+states than its linear counterpart and therefore allow the verification of
+entanglement without critical dependence on having found the 'right' linear
+witness. Second, they can be evaluated using exactly the same data as for the
+evaluation of the original linear witness. This allows a reanalysis of
+published experimental data to strengthen statements about entanglement
+verification without the requirement to perform additional measurements. These
+particular properties make the accessible nonlinear EWs attractive for the
+implementations in current experiments, for they can also enhance the
+statistical significance of the entanglement verification.
+</dc:description>
+ <dc:description>Comment: 6 pages, 2 figures</dc:description>
+ <dc:date>2012-03-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1203.1239</dc:identifier>
+ <dc:identifier>Phys. Rev. A 85 062327 (2012)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.85.062327</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>
