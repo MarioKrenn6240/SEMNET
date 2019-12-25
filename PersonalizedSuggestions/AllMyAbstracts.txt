@@ -1,0 +1,254 @@
+Augmenting Genetic Algorithms with Deep Neural Networks for Exploring the Chemical Space
+AkshatKumar Nigam, Pascal Friederich, Mario Krenn, Alán Aspuru-Guzik
+(Submitted on 25 Sep 2019 (v1), last revised 30 Sep 2019 (this version, v2))
+
+    Challenges in natural sciences can often be phrased as optimization problems. Machine learning techniques have recently been applied to solve such problems. One example in chemistry is the design of tailor-made organic materials and molecules, which requires efficient methods to explore the chemical space. We present a genetic algorithm (GA) that is enhanced with a neural network (DNN) based discriminator model to improve the diversity of generated molecules and at the same time steer the GA. We show that our algorithm outperforms other generative models in optimization tasks. We furthermore present a way to increase interpretability of genetic algorithms, which helped us to derive design principles. 
+
+
+Computer-inspired concept for high-dimensional multipartite quantum gates
+Xiaoqin Gao, Manuel Erhard, Anton Zeilinger, Mario Krenn
+(Submitted on 13 Oct 2019)
+
+    An open question in quantum optics is how to manipulate and control complex quantum states in an experimentally feasible way. Here we present concepts for transformations of high-dimensional multi-photonic quantum systems. The proposals rely on two new ideas: (I) a novel high-dimensional quantum non-demolition measurement, (II) the encoding and decoding of the entire quantum transformation in an ancillary state for sharing the necessary quantum information between the involved parties. Many solutions can readily be performed in laboratories around the world, and identify important pathways for experimental research in the near future. The concept has been found using the computer algorithm Melvin for designing computer-inspired quantum experiments. This demonstrates that computer algorithms can inspire new ideas in science, which is a widely unexplored potential. 
+
+Quantum Experiments and Graphs III: High-Dimensional and Multi-Particle Entanglement
+Xuemei Gu, Lijun Chen, Anton Zeilinger, Mario Krenn
+(Submitted on 22 Dec 2018 (v1), last revised 2 Apr 2019 (this version, v2))
+
+    Quantum entanglement plays an important role in quantum information processes, such as quantum computation and quantum communication. Experiments in laboratories are unquestionably crucial to increase our understanding of quantum systems and inspire new insights into future applications. However, there are no general recipes for the creation of arbitrary quantum states with many particles entangled in high dimensions. Here, we exploit a recent connection between quantum experiments and graph theory and answer this question for a plethora of classes of entangled states. We find experimental setups for Greenberger-Horne-Zeilinger states, W states, general Dicke states, and asymmetrically high-dimensional multipartite entangled states. This result sheds light on the producibility of arbitrary quantum states using photonic technology with probabilistic pair sources and allows us to understand the underlying technological and fundamental properties of entanglement. 
+
+Questions on the Structure of Perfect Matchings inspired by Quantum Physics
+Mario Krenn, Xuemei Gu, Daniel Soltész
+(Submitted on 16 Feb 2019 (v1), last revised 13 Jun 2019 (this version, v2))
+
+    We state a number of related questions on the structure of perfect matchings. Those questions are inspired by and directly connected to Quantum Physics. In particular, they concern the constructability of general quantum states using modern photonic technology. For that we introduce a new concept, denoted as inherited vertex coloring. It is a vertex coloring for every perfect matching. The colors are inherited from the color of the incident edge for each perfect matching. First, we formulate the concepts and questions in pure graph-theoretical language, and finally we explain the physical context of every mathematical object that we use. Importantly, every progress towards answering these questions can directly be translated into new understanding in quantum physics. 
+
+Experimental High-Dimensional Entanglement by Path Identity
+Jaroslav Kysela, Manuel Erhard, Armin Hochrainer, Mario Krenn, Anton Zeilinger
+(Submitted on 16 Apr 2019)
+
+    Versatile and high-brightness sources of high-dimensional entangled photon pairs are important for emerging quantum technologies such as secure quantum communication. Here, we experimentally demonstrate a new scalable method to create photon pairs carrying orbital angular momentum that are entangled in arbitrarily high dimensions. Our method relies on indistinguishable photon pairs created coherently in different sources. We demonstrate the creation of three-dimensionally entangled states and show how to incrementally increase the dimensionality of entanglement. The generated states retain their quality even in higher dimensions. In addition, the modular structure of our approach allows for generalization to various degrees of freedom and even implementation in integrated compact devices. We therefore expect that future quantum technologies and fundamental tests of nature in higher dimensions will benefit from this novel approach. 
+
+SELFIES: a robust representation of semantically constrained graphs with an example application in chemistry
+Mario Krenn, Florian Häse, AkshatKumar Nigam, Pascal Friederich, Alán Aspuru-Guzik
+(Submitted on 31 May 2019)
+
+    Graphs are ideal representations of complex, relational information. Their applications span diverse areas of science and engineering, such as Feynman diagrams in fundamental physics, the structures of molecules in chemistry or transport systems in urban planning. Recently, many of these examples turned into the spotlight as applications of machine learning (ML). There, common challenges to the successful deployment of ML are domain-specific constraints, which lead to semantically constrained graphs. While much progress has been achieved in the generation of valid graphs for domain- and model-specific applications, a general approach has not been demonstrated yet. Here, we present a general-purpose, sequence-based, robust representation of semantically constrained graphs, which we call SELFIES (SELF-referencIng Embedded Strings). SELFIES are based on a Chomsky type-2 grammar, augmented with two self-referencing functions. We demonstrate their applicability to represent chemical compound structures and compare them to perhaps the most popular 2D representation, SMILES, and other important baselines. We find stronger robustness against character mutations while still maintaining similar chemical properties. Even entirely random SELFIES produce semantically valid graphs in most of the cases. As feature representation in variational autoencoders, SELFIES provide a substantial improvement in the task of in reconstruction, validity, and diversity. We anticipate that SELFIES allow for direct applications in ML, without the need for domain-specific adaptation of model architectures. SELFIES are not limited to the structures of small molecules, and we show how to apply them to two other examples from the sciences: representations of DNA and interaction graphs for quantum mechanical experiments. 
+
+
+Phenomenology of complex structured light in turbulent air
+Xuemei Gu, Lijun Chen, Mario Krenn
+(Submitted on 9 Jun 2019)
+
+    The study of light propagation can be traced back 24 centuries, to the ancient Chinese philosopher Mo Zi, and it has since been a cornerstone of progress in physics and technology. More recently, advances in control and shaping of light has created a significant interest in the propagation of complex structures of light -- particularly under realistic terrestrial conditions. This research question has been investigated for more than 25 years, and it is, therefore, surprising that an experiment in 2017 has shown that current models do not adequately predict measured results. Inspired by this finding, here we investigate the currently best-tested method for describing complex light propagation in air. We find the unexpected and experimentally observable prediction of the theory that the influence of atmospheric turbulence is basis-dependent. Concretely, light propagating as eigenstate in one complete basis is stronger influenced by atmosphere than light propagating in a different complete basis. We obtain these results by exploiting a family of the continuously adjustable, complete basis of spatial modes -- the Ince-Gauss modes. Finally, we describe an experiment which is feasible today, that can either falsify the currently best theory or can observe -- for the first time -- a new physical phenomenon. 
+
+Predicting Research Trends with Semantic and Neural Networks with an application in Quantum Physics
+Mario Krenn, Anton Zeilinger
+(Submitted on 17 Jun 2019)
+
+    The vast and growing number of publications in all disciplines of science cannot be comprehended by a single human researcher. As a consequence, researchers have to specialize in narrow sub-disciplines, which makes it challenging to uncover scientific connections beyond the own field of research. Thus access to structured knowledge from a large corpus of publications could help pushing the frontiers of science. Here we demonstrate a method to build a semantic network from published scientific literature, which we call SemNet. We use SemNet to predict future trends in research and to inspire new, personalized and surprising seeds of ideas in science. We apply it in the discipline of quantum physics, which has seen an unprecedented growth of activity in recent years. In SemNet, scientific knowledge is represented as an evolving network using the content of 750,000 scientific papers published since 1919. The nodes of the network correspond to physical concepts, and links between two nodes are drawn when two physical concepts are concurrently studied in research articles. We identify influential and prize-winning research topics from the past inside SemNet thus confirm that it stores useful semantic knowledge. We train a deep neural network using states of SemNet of the past, to predict future developments in quantum physics research, and confirm high quality predictions using historic data. With the neural network and theoretical network tools we are able to suggest new, personalized, out-of-the-box ideas, by identifying pairs of concepts which have unique and extremal semantic network properties. Finally, we consider possible future developments and implications of our findings. 
+
+Quantum teleportation in high dimensions
+Yi-Han Luo, Han-Sen Zhong, Manuel Erhard, Xi-Lin Wang, Li-Chao Peng, Mario Krenn, Xiao Jiang, Li Li, Nai-Le Liu, Chao-Yang Lu, Anton Zeilinger, Jian-Wei Pan
+(Submitted on 24 Jun 2019 (v1), last revised 2 Aug 2019 (this version, v2))
+
+    Precise measurement or perfect cloning of unknown quantum states is forbidden by the laws of quantum mechanics. Yet, quantum teleportation in principle allows for a faithful and disembodied transmission of unknown quantum states between distant quantum systems using entanglement. There have been numerous experiments on teleportation of quantum states of single photons, atoms, trapped ions, defects in solid states, and superconducting circuits. However, all demonstrations to date were limited to a two-dimensional subspace-so-called qubit-of the quantized multiple levels of the quantum systems. In general, a quantum particle can naturally possess not only multiple degrees of freedom, but also, many degrees of freedom can have high quantum number beyond the simplified two-level subspace. Here, making use of multiport beam-splitters and ancillary single photons, we propose a resource-efficient and extendable scheme for teleportation of arbitrarily high-dimensional photonic quantum states. We report the first experimental teleportation of a qutrit, which is equivalent to a spin-1 system. Measurements over a complete set of 12 states in mutually unbiased bases yield a teleportation fidelity of 0.75(1), well above the optimal single-copy qutrit-state-estimation limit of 1/2. The fidelity also exceeds the limit of 2/3, the maximum possible for explanation through qubits only. Thus, we strictly prove a genuine three-dimensional, universal, and highly non-classical quantum teleportation. Combining previous methods of teleportation of two-particle composite states and multiple degrees of freedom, our work provides a complete toolbox for teleporting a quantum particle intact. We expect that our results will pave the way for quantum technology applications in high dimensions, since teleportation plays a central role in quantum repeaters and quantum networks. 
+
+Arbitrary d-dimensional Pauli X-Gates of a flying Qudit
+Xiaoqin Gao, Mario Krenn, Jaroslav Kysela, Anton Zeilinger
+(Submitted on 5 Nov 2018)
+
+    High-dimensional degrees of freedom of photons can encode more quantum information than their two-dimensional counterparts. While the increased information capacity has advantages in quantum applications (such as quantum communication), controlling and manipulating these systems has been challenging. Here we show a method to perform lossless arbitrary high-dimensional Pauli-X gates for single photon. The X-gate consists of a cyclic permutation of qudit basis vectors, and, together with the Z gate, forms the basis for performing arbitrary transformations. We propose an implementation of such gates on the orbital angular momentum of photons. The proposed experimental setups only use two basic optical elements such as mode-sorters and mode-shifters -- thus could be implemented in any system where these experimental tools are available. Furthermore the number of involved interferometers scales logarithmically with the dimension, which is important for practical implementation. 
+
+Quantum Experiments and Graphs II: Quantum Interference, Computation and State Generation
+Xuemei Gu, Manuel Erhard, Anton Zeilinger, Mario Krenn
+(Submitted on 28 Mar 2018 (v1), last revised 13 Sep 2018 (this version, v3))
+
+    We present a conceptually new approach to describe state-of-the-art photonic quantum experiments using Graph Theory. The quantum states are given by the coherent superpositions of perfect matchings. The crucial observation is that introducing complex weights in graphs naturally leads to quantum interference. The new viewpoint immediately leads to many interesting results, some of which we present here. Firstly, we identify a new and experimentally completely unexplored multiphoton interference phenomenon. Secondly, we find that predicting the results of such experiments is a classically intractable problem, which lies in the #P-complete complexity class and deals with the computation of a matrix function Permanent and its generalization Hafnian. Thirdly, we explain how a recent no-go result applies generally to linear optical quantum experiments, thus revealing important insights to quantum state generation with current photonic technology. Fourthly, we show how to describe quantum protocols such as entanglement swapping in a graphical way. The uncovered bridge between quantum experiments and Graph Theory offers a novel perspective on a widely used technology, and immediately raises many follow-up questions. 
+
+On Small Beams with Large Topological Charge II: Photons, Electrons and Gravitational Waves
+Mario Krenn, Anton Zeilinger
+(Submitted on 24 Jan 2018 (v1), last revised 7 Jun 2018 (this version, v3))
+
+    Beams of light with a large topological charge significantly change their spatial structure when they are focused strongly. Physically, it can be explained by an emerging electromagnetic field component in the direction of propagation, which is neglected in the simplified scalar wave picture in optics. Here we ask: Is this a specific photonic behavior, or can similar phenomena also be predicted for other species of particles? We show that the same modification of the spatial structure exists for relativistic electrons as well as for focused gravitational waves. However, this is for different physical reasons: For electrons, which are described by the Dirac equation, the spatial structure changes due to a Spin-Orbit coupling in the relativistic regime. In gravitational waves described with linearized general relativity, the curvature of space-time between the transverse and propagation direction leads to the modification of the spatial structure. Thus, this universal phenomenon exists for both massive and massless elementary particles with Spin 1/2, 1 and 2. It would be very interesting whether other types of particles such as composite systems (neutrons or C60) or neutrinos show a similar behaviour and how this phenomenon can be explained in a unified physical way. 
+
+
+Gouy Phase Radial Mode Sorter for Light: Concepts and Experiments
+Xuemei Gu, Mario Krenn, Manuel Erhard, Anton Zeilinger
+(Submitted on 7 Dec 2017 (v1), last revised 29 Aug 2018 (this version, v2))
+
+    We present an in principle lossless sorter for radial modes of light, using accumulated Gouy phases. The experimental setups have been found by a computer algorithm, and can be intuitively understood in a geometric way. Together with the ability to sort angular-momentum modes, we now have access to the complete 2-dimensional transverse plane of light. The device can readily be used in multiplexing classical information. On a quantum level, it is an analog of the Stern-Gerlach experiment -- significant for the discussion of fundamental concepts in quantum physics. As such, it can be applied in high-dimensional and multi-photonic quantum experiments. 
+
+
+Twisted Photons: New Quantum Perspectives in High Dimensions
+Manuel Erhard, Robert Fickler, Mario Krenn, Anton Zeilinger
+(Submitted on 21 Aug 2017)
+
+    Quantum information science and quantum information technology have seen a virtual explosion world-wide. It is all based on the observation that fundamental quantum phenomena on the individual particle or system-level lead to completely novel ways of encoding, processing and transmitting information. Quantum mechanics, a child of the first third of the 20th century, has found numerous realizations and technical applications, much more than was thought at the beginning. Decades later, it became possible to do experiments with individual quantum particles and quantum systems. This was due to technological progress, and for light in particular, the development of the laser. Hitherto, nearly all experiments and also nearly all realizations in the fields have been performed with qubits, which are two-level quantum systems. We suggest that this limitation is again mainly a technological one, because it is very difficult to create, manipulate and measure more complex quantum systems. Here, we provide a specific overview of some recent developments with higher-dimensional quantum systems. We mainly focus on Orbital Angular Momentum (OAM) states of photons and possible applications in quantum information protocols. Such states form discrete higher-dimensional quantum systems, also called qudits. Specifically, we will first address the question what kind of new fundamental properties exist and the quantum information applications which are opened up by such novel systems. Then we give an overview of recent developments in the field by discussing several notable experiments over the past 2-3 years. Finally, we conclude with several important open questions which will be interesting for investigations in the future. 
+
+
+Experimental GHZ Entanglement beyond Qubits
+Manuel Erhard, Mehul Malik, Mario Krenn, Anton Zeilinger
+(Submitted on 13 Aug 2017)
+
+    The Greenberger-Horne-Zeilinger (GHZ) argument provides an all-or-nothing contradiction between quantum mechanics and local-realistic theories. In its original formulation, GHZ investigated three and four particles entangled in two dimensions only. Very recently, higher dimensional contradictions especially in three dimensions and three particles have been discovered but it has remained unclear how to produce such states. In this article we experimentally show how to generate a three-dimensional GHZ state from two-photon orbital-angular-momentum entanglement. The first suggestion for a setup which generates three-dimensional GHZ entanglement from these entangled pairs came from using the computer algorithm Melvin. The procedure employs novel concepts significantly beyond the qubit case. Our experiment opens up the possibility of a truly high-dimensional test of the GHZ-contradiction which, interestingly, employs non-Hermitian operators. 
+
+
+Quantum gate description for induced coherence without induced emission and related phenomena
+Sahar Alipour, Mario Krenn, Anton Zeilinger
+(Submitted on 18 Jul 2017)
+
+    We introduce unitary quantum gates for photon pair creation in spontaneous parametric down-conversion nonlinear crystals (NLs) and for photon path alignment. These are the two key ingredients for the method of "induced coherence without induced emission" and many ensuing variations thereof. The difficulty in doing so stems from an apparent mixing of the mode picture (such as the polarization of photons) and the Fock picture (such as the existence of the photons). We illustrate utility of these gates by obtaining quantum circuits for the experimental setups of the frustrated generation of photon pairs, identification of a point-like object with undetected photons, and creation of a Bell state. We also introduce an effective nonunitary description for the action of NLs in experiments where all the NLs are pumped coherently. As an example, by using this simplifying picture, we show how NLs can be used to create superposition of given quantum states in a modular fashion. 
+
+
+Generation of the Complete Four-dimensional Bell Basis
+Feiran Wang, Manuel Erhard, Amin Babazadeh, Mehul Malik, Mario Krenn, Anton Zeilinger
+(Submitted on 18 Jul 2017)
+
+    The Bell basis is a distinctive set of maximally entangled two-particle quantum states that forms the foundation for many quantum protocols such as teleportation, dense coding and entanglement swapping. While the generation, manipulation, and measurement of two-level quantum states is well understood, the same is not true in higher dimensions. Here we present the experimental generation of a complete set of Bell states in a four-dimensional Hilbert space, comprising of 16 orthogonal entangled Bell-like states encoded in the orbital angular momentum of photons. The states are created by the application of generalized high-dimensional Pauli gates on an initial entangled state. Our results pave the way for the application of high-dimensional quantum states in complex quantum protocols such as quantum dense coding. 
+
+
+Active learning machine learns to create new quantum experiments
+Alexey A. Melnikov, Hendrik Poulsen Nautrup, Mario Krenn, Vedran Dunjko, Markus Tiersch, Anton Zeilinger, Hans J. Briegel
+(Submitted on 2 Jun 2017 (v1), last revised 8 Feb 2018 (this version, v3))
+
+    How useful can machine learning be in a quantum laboratory? Here we raise the question of the potential of intelligent machines in the context of scientific research. A major motivation for the present work is the unknown reachability of various entanglement classes in quantum experiments. We investigate this question by using the projective simulation model, a physics-oriented approach to artificial intelligence. In our approach, the projective simulation system is challenged to design complex photonic quantum experiments that produce high-dimensional entangled multiphoton states, which are of high interest in modern quantum experiments. The artificial intelligence system learns to create a variety of entangled states, and improves the efficiency of their realization. In the process, the system autonomously (re)discovers experimental techniques which are only now becoming standard in modern quantum optical experiments - a trait which was not explicitly demanded from the system but emerged through the process of learning. Such features highlight the possibility that machines could have a significantly more creative role in future research. 
+
+
+Quantum Experiments and Graphs: Multiparty States as coherent superpositions of Perfect Matchings
+Mario Krenn, Xuemei Gu, Anton Zeilinger
+(Submitted on 18 May 2017 (v1), last revised 12 Dec 2017 (this version, v2))
+
+    We show a surprising link between experimental setups to realize high-dimensional multipartite quantum states and Graph Theory. In these setups, the paths of photons are identified such that the photon-source information is never created. We find that each of these setups corresponds to an undirected graph, and every undirected graph corresponds to an experimental setup. Every term in the emerging quantum superposition corresponds to a perfect matching in the graph. Calculating the final quantum state is in the complexity class #P-complete, thus cannot be done efficiently. To strengthen the link further, theorems from Graph Theory -- such as Hall's marriage problem -- are rephrased in the language of pair creation in quantum experiments. We show explicitly how this link allows to answer questions about quantum experiments (such as which classes of entangled states can be created) with graph theoretical methods, and potentially simulate properties of Graphs and Networks with quantum experiments (such as critical exponents and phase transitions). 
+
+
+High-Dimensional Single-Photon Quantum Gates: Concepts and Experiments
+Amin Babazadeh, Manuel Erhard, Feiran Wang, Mehul Malik, Rahman Nouroozi, Mario Krenn, Anton Zeilinger
+(Submitted on 23 Feb 2017)
+
+    Transformations on quantum states form a basic building block of every quantum information system. From photonic polarization to two-level atoms, complete sets of quantum gates for a variety of qubit systems are well known. For multi-level quantum systems beyond qubits, the situation is more challenging. The orbital angular momentum modes of photons comprise one such high-dimensional system for which generation and measurement techniques are well-studied. However, arbitrary transformations for such quantum states are not known. Here we experimentally demonstrate a four-dimensional generalization of the Pauli X-gate and all of its integer powers on single photons carrying orbital angular momentum. Together with the well-known Z-gate, this forms the first complete set of high-dimensional quantum gates implemented experimentally. The concept of the X-gate is based on independent access to quantum states with different parities and can thus be easily generalized to other photonic degrees-of-freedom, as well as to other quantum systems such as ions and superconducting circuits. 
+
+
+Quantum communication with photons
+Mario Krenn, Mehul Malik, Thomas Scheidl, Rupert Ursin, Anton Zeilinger
+(Submitted on 4 Jan 2017)
+
+    The secure communication of information plays an ever increasing role in our society today. Classical methods of encryption inherently rely on the difficulty of solving a problem such as finding prime factors of large numbers and can, in principle, be cracked by a fast enough machine. The burgeoning field of quantum communication relies on the fundamental laws of physics to offer unconditional information security. Here we introduce the key concepts of quantum superposition and entanglement as well as the no-cloning theorem that form the basis of this field. Then, we review basic quantum communication schemes with single and entangled photons and discuss recent experimental progress in ground and space-based quantum communication. Finally, we discuss the emerging field of high-dimensional quantum communication, which promises increased data rates and higher levels of security than ever before. We discuss recent experiments that use the orbital angular momentum of photons for sharing large amounts of information in a secure fashion. 
+
+
+Quantum optical rotatory dispersion
+Nora Tischler, Mario Krenn, Robert Fickler, Xavier Vidal, Anton Zeilinger, Gabriel Molina-Terriza
+(Submitted on 4 Jan 2017)
+
+    The phenomenon of molecular optical activity manifests itself as the rotation of the plane of linear polarization when light passes through chiral media. Measurements of optical activity and its wavelength dependence, optical rotatory dispersion, can reveal information about intricate properties of molecules, such as the 3D arrangement of atoms comprising a molecule. Given a limited probe power, quantum metrology offers the possibility to outperform classical measurements. This holds particular appeal when samples may be damaged by high powers, a potential concern for chiroptical studies. Here we show the first experiment in which multi-wavelength polarization-entangled photon pairs are used to measure the optical activity and optical rotatory dispersion exhibited by a solution of chiral molecules. Our work paves the way for quantum-enhanced measurements of chirality, with potential applications in chemistry, biology, materials science, and the pharmaceutical industry. The scheme we employ for probing the wavelength dependence allows to surpass the information extracted per photon in a classical measurement, and can also be used for more general differential measurements. 
+
+
+Entanglement by Path Identity
+Mario Krenn, Armin Hochrainer, Mayukh Lahiri, Anton Zeilinger
+(Submitted on 3 Oct 2016 (v1), last revised 9 Feb 2017 (this version, v3))
+
+    Quantum entanglement is one of the most prominent features of quantum mechanics and forms the basis of quantum information technologies. Here we present a novel method for the creation of quantum entanglement in multipartite and high-dimensional systems. The two ingredients are 1) superposition of photon pairs with different origins and 2) aligning photons such that their paths are identical. We explain the experimentally feasible creation of various classes of multiphoton entanglement encoded in polarization as well as in high-dimensional Hilbert spaces -- starting only from non-entangled photon pairs. For two photons, arbitrary high-dimensional entanglement can be created. The idea of generating entanglement by path identity could also apply to other quantum entities than photons. We discovered the technique by analyzing the output of a computer algorithm. This shows that computer designed quantum experiments can be inspirations for new techniques. 
+
+
+Orbital angular momentum of photons and the entanglement of Laguerre-Gaussian modes
+Mario Krenn, Mehul Malik, Manuel Erhard, Anton Zeilinger
+(Submitted on 18 Jul 2016 (v1), last revised 14 Sep 2016 (this version, v2))
+
+    The identification of orbital angular momentum (OAM) as a fundamental property of a beam of light nearly twenty-five years ago has led to an extensive body of research around this topic. The possibility that single photons can carry OAM has made this degree of freedom an ideal candidate for the investigation of complex quantum phenomena and their applications. Research in this direction has ranged from experiments on complex forms of quantum entanglement to the interaction between light and quantum states of matter. Furthermore, the use of OAM in quantum information has generated a lot of excitement, as it allows for encoding large amounts of information on a single photon. Here we explain the intuition that led to the first quantum experiment with OAM fifteen years ago. We continue by reviewing some key experiments investigating fundamental questions on photonic OAM and the first steps into applying these properties in novel quantum protocols. In the end, we identify several interesting open questions that could form the subject of future investigations with OAM. 
+
+
+Twisted Light Transmission over 143 kilometers
+Mario Krenn, Johannes Handsteiner, Matthias Fink, Robert Fickler, Rupert Ursin, Mehul Malik, Anton Zeilinger
+(Submitted on 6 Jun 2016)
+
+    Spatial modes of light can potentially carry a vast amount of information, making them promising candidates for both classical and quantum communication. However, the distribution of such modes over large distances remains difficult. Intermodal coupling complicates their use with common fibers, while free-space transmission is thought to be strongly influenced by atmospheric turbulence. Here we show the transmission of orbital angular momentum modes of light over a distance of 143 kilometers between two Canary Islands, which is 50 times greater than the maximum distance achieved previously. As a demonstration of the transmission quality, we use superpositions of these modes to encode a short message. At the receiver, an artificial neural network is used for distinguishing between the different twisted light superpositions. The algorithm is able to identify different mode superpositions with an accuracy of more than 80% up to the third mode order, and decode the transmitted message with an error rate of 8.33%. Using our data, we estimate that the distribution of orbital angular momentum entanglement over more than 100 kilometers of free space is feasible. Moreover, the quality of our free-space link can be further improved by the use of state-of-the-art adaptive optics systems. 
+
+
+Quantifying high dimensional entanglement with two mutually unbiased bases
+Paul Erker, Mario Krenn, Marcus Huber
+(Submitted on 16 Dec 2015 (v1), last revised 26 Jul 2017 (this version, v2))
+
+    We derive a framework for quantifying entanglement in multipartite and high dimensional systems using only correlations in two unbiased bases. We furthermore develop such bounds in cases where the second basis is not characterized beyond being unbiased, thus enabling entanglement quantification with minimal assumptions. Furthermore, we show that it is feasible to experimentally implement our method with readily available equipment and even conservative estimates of physical parameters. 
+
+
+Cyclic transformation of orbital angular momentum modes
+Florian Schlederer, Mario Krenn, Robert Fickler, Mehul Malik, Anton Zeilinger
+(Submitted on 8 Dec 2015)
+
+    The spatial modes of photons are one realization of a QuDit, a quantum system that is described in a D-dimensional Hilbert space. In order to perform quantum information tasks with QuDits, a general class of D-dimensional unitary transformations is needed. Among these, cyclic transformations are an important special case required in many high-dimensional quantum communication protocols. In this paper, we experimentally demonstrate a cyclic transformation in the high-dimensional space of photonic orbital angular momentum (OAM). Using simple linear optical components, we show a successful four-fold cyclic transformation of OAM modes. Interestingly, our experimental setup was found by a computer algorithm. In addition to the four-cyclic transformation, the algorithm also found extensions to higher-dimensional cycles in a hybrid space of OAM and polarization. Besides being useful for quantum cryptography with QuDits, cyclic transformations are key for the experimental production of high-dimensional maximally entangled Bell-states. 
+
+
+On Small Beams with Large Topological Charge
+Mario Krenn, Nora Tischler, Anton Zeilinger
+(Submitted on 3 Nov 2015)
+
+    Light beams can carry a discrete, in principle unbounded amount of angular momentum. Examples of such beams, the Laguerre-Gauss modes, are frequently expressed as solutions of the paraxial wave equation. There, they are eigenstates of the orbital angular momentum (OAM) operator. The paraxial solutions predict that beams with large OAM could be used to resolve arbitrarily small distances - a dubious situation. Here we show how to solve that situation by calculating the properties of beams free from the paraxial approximation. We find the surprising result that indeed one can resolve smaller distances with larger OAM, although with decreased visibility. If the visibility is kept constant (for instance at the Rayleigh criterion, the limit where two points are reasonably distinguishable), larger OAM does not provide an advantage. The drop in visibility is due to a field in the direction of propagation, which is neglected within the paraxial limit. 
+
+
+Physical meaning of the radial index of Laguerre-Gauss beams
+William N. Plick, Mario Krenn
+(Submitted on 23 Sep 2015)
+
+    The Laguerre-Gauss modes are a class of fundamental and well-studied optical fields. These stable, shape-invariant photons - exhibiting circular-cylindrical symmetry - are familiar from laser optics, micro-mechanical manipulation, quantum optics, communication, and foundational studies in both classical optics and quantum physics. They are characterized, chiefly, by two modes numbers: the azimuthal index indicating the orbital angular momentum of the beam - which itself has spawned a burgeoning and vibrant sub-field - and the radial index, which up until recently, has largely been ignored. In this manuscript we develop a differential operator formalism for dealing with the radial modes in both the position and momentum representations, and - more importantly - give for the first time the meaning of this quantum number in terms of a well-defined physical parameter: the "intrinsic hyperbolic momentum charge". 
+
+
+Automated Search for new Quantum Experiments
+Mario Krenn, Mehul Malik, Robert Fickler, Radek Lapkiewicz, Anton Zeilinger
+(Submitted on 9 Sep 2015 (v1), last revised 20 Feb 2016 (this version, v2))
+
+    Quantum mechanics predicts a number of at first sight counterintuitive phenomena. It is therefore a question whether our intuition is the best way to find new experiments. Here we report the development of the computer algorithm Melvin which is able to find new experimental implementations for the creation and manipulation of complex quantum states. And indeed, the discovered experiments extensively use unfamiliar and asymmetric techniques which are challenging to understand intuitively. The results range from the first implementation of a high-dimensional Greenberger-Horne-Zeilinger (GHZ) state, to a vast variety of experiments for asymmetrically entangled quantum states -- a feature that can only exist when both the number of involved parties and dimensions is larger than 2. Additionally, new types of high-dimensional transformations are found that perform cyclic operations. Melvin autonomously learns from solutions for simpler systems, which significantly speeds up the discovery rate of more complex experiments. The ability to automate the design of a quantum experiment can be applied to many quantum systems and allows the physical realization of quantum states previously thought of only on paper. 
+
+
+Multi-photon entanglement in high dimensions
+Mehul Malik, Manuel Erhard, Marcus Huber, Mario Krenn, Robert Fickler, Anton Zeilinger
+(Submitted on 8 Sep 2015)
+
+    Entanglement lies at the heart of quantum mechanics - as a fundamental tool for testing its deep rift with classical physics, while also providing a key resource for quantum technologies such as quantum computation and cryptography. In 1987 Greenberger, Horne, and Zeilinger realized that the entanglement of more than two particles implies a non-statistical conflict between local realism and quantum mechanics. The resulting predictions were experimentally confirmed by entangling three photons in their polarization. Experimental efforts since have singularly focused on increasing the number of particles entangled, while remaining in a two-dimensional space for each particle. Here we show the experimental generation of the first multi-photon entangled state where both - the number of particles and the number of dimensions - are greater than two. Interestingly, our state exhibits an asymmetric entanglement structure that is only possible when one considers multi-particle entangled states in high dimensions. Two photons in our state reside in a three-dimensional space, while the third lives in two dimensions. Our method relies on combining two pairs of photons, high-dimensionally entangled in their orbital angular momentum, in such a way that information about their origin is erased. Additionally, we show how this state enables a new type of "layered" quantum cryptographic protocol where two parties share an additional layer of secure information over that already shared by all three parties. In addition to their application in novel quantum communication protocols, such asymmetric entangled states serve as a manifestation of the complex dance of correlations that can exist within quantum mechanics. 
+
+
+Twisted photon entanglement through turbulent air across Vienna
+Mario Krenn, Johannes Handsteiner, Matthias Fink, Robert Fickler, Anton Zeilinger
+(Submitted on 23 Jul 2015)
+
+    Photons with a twisted phase front can carry a discrete, in principle unbounded amount of orbital angular momentum (OAM). The large state space allows for complex types of entanglement, interesting both for quantum communication and for fundamental tests of quantum theory. However, the distribution of such entangled states over large distances was thought to be infeasible due to influence of atmospheric turbulence, indicating a serious limitation on their usefulness. Here we show that it is possible to distribute quantum entanglement encoded in OAM over a turbulent intra-city link of 3 kilometers. We confirm quantum entanglement of the first two higher-order levels (with OAM=±1? and ±2?). They correspond to four new quantum channels orthogonal to all that have been used in long-distance quantum experiments so far. Therefore a promising application would be quantum communication with a large alphabet. We also demonstrate that our link allows access to up to 11 quantum channels of OAM. The restrictive factors towards higher numbers are technical limitations that can be circumvented with readily available technologies. 
+
+
+Communication with spatially modulated Light through turbulent Air across Vienna
+Mario Krenn, Robert Fickler, Matthias Fink, Johannes Handsteiner, Mehul Malik, Thomas Scheidl, Rupert Ursin, Anton Zeilinger
+(Submitted on 11 Feb 2014 (v1), last revised 12 Nov 2014 (this version, v2))
+
+    The transverse spatial modes of light offer a large state-space with interesting physical properties. For exploiting it in future long-distance experiments, spatial modes will have to be transmitted over turbulent free-space links. Numerous recent lab-scale experiments have found significant degradation in the mode quality after transmission through simulated turbulence and consecutive coherent detection. Here we experimentally analyze the transmission of one prominent class of spatial modes, the orbital-angular momentum (OAM) modes, through 3 km of strong turbulence over the city of Vienna. Instead of performing a coherent phase-dependent measurement, we employ an incoherent detection scheme which relies on the unambiguous intensity patterns of the different spatial modes. We use a pattern recognition algorithm (an artificial neural network) to identify the characteristic mode pattern displayed on a screen at the receiver. We were able to distinguish between 16 different OAM mode superpositions with only ~1.7% error, and use them to encode and transmit small grey-scale images. Moreover, we found that the relative phase of the superposition modes is not affected by the atmosphere, establishing the feasibility for performing long-distance quantum experiments with the OAM of photons. Our detection method works for other classes of spatial modes with unambiguous intensity patterns as well, and can further be improved by modern techniques of pattern recognition. 
+
+
+Generation and Confirmation of a (100x100)-dimensional entangled Quantum System
+Mario Krenn, Marcus Huber, Robert Fickler, Radek Lapkiewicz, Sven Ramelow, Anton Zeilinger
+(Submitted on 1 Jun 2013 (v1), last revised 21 Mar 2014 (this version, v2))
+
+    Entangled quantum systems have properties that have fundamentally overthrown the classical worldview. Increasing the complexity of entangled states by expanding their dimensionality allows the implementation of novel fundamental tests of nature, and moreover also enables genuinely new protocols for quantum information processing. Here we present the creation of a (100x100)-dimensional entangled quantum system, using spatial modes of photons. For its verification we develop a novel nonlinear criterion which infers entanglement dimensionality of a global state by using only information about its subspace correlations. This allows very practical experimental implementation as well as highly efficient extraction of entanglement dimensionality information. Applications in quantum cryptography and other protocols are very promising. 
+
+
+Real-Time Imaging of Quantum Entanglement
+Robert Fickler, Mario Krenn, Radek Lapkiewicz, Sven Ramelow, Anton Zeilinger
+(Submitted on 20 Dec 2012 (v1), last revised 13 Mar 2013 (this version, v2))
+
+    Quantum Entanglement is widely regarded as one of the most prominent features of quantum mechanics and quantum information science. Although, photonic entanglement is routinely studied in many experiments nowadays, its signature has been out of the grasp for real-time imaging. Here we show that modern technology, namely triggered intensified charge coupled device (ICCD) cameras are fast and sensitive enough to image in real-time the effect of the measurement of one photon on its entangled partner. To quantitatively verify the non-classicality of the measurements we determine the detected photon number and error margin from the registered intensity image within a certain region. Additionally, the use of the ICCD camera allows us to demonstrate the high flexibility of the setup in creating any desired spatial-mode entanglement, which suggests as well that visual imaging in quantum optics not only provides a better intuitive understanding of entanglement but will improve applications of quantum science. 
+
+
+Quantum orbital angular momentum of elliptically-symmetric light
+William N. Plick, Mario Krenn, Robert Fickler, Sven Ramelow, Anton Zeilinger
+(Submitted on 9 Aug 2012)
+
+    We present a quantum mechanical analysis of the orbital angular momentum of a class of recently discovered elliptically-symmetric stable light fields --- the so-called Ince-Gauss modes. We study, in a fully quantum formalism, how the orbital angular momentum of these beams varies with their ellipticity and discover several compelling features, including: non-monotonic behavior, stable beams with real continuous (non-integer) orbital angular momenta, and orthogonal modes with the same orbital angular momenta. We explore, and explain in detail, the reasons for this behavior. These features may have application to quantum key distribution, atom trapping, and quantum informatics in general --- as the ellipticity opens up a new way of navigating the photonic Hilbert space. 
+
+
+Quantum Entanglement of High Angular Momenta
+Robert Fickler, Radek Lapkiewicz, William N. Plick, Mario Krenn, Christoph Schaeff, Sven Ramelow, Anton Zeilinger
+(Submitted on 10 Jul 2012 (v1), last revised 6 Jun 2014 (this version, v3))
+
+    Single photons with helical phase structures may carry a quantized amount of orbital angular momentum (OAM) and their entanglement is important for quantum information science and fundamental tests of quantum theory. Because there is no theoretical upper limit on how many quanta of OAM a single photon can carry, it is possible to create entanglement between two particles with an arbitrary high difference in the quantum number. By transferring polarization entanglement to OAM with an interferometric scheme, we generate and verify entanglement up to 600 quanta difference in the orbital angular momentum. The only restrictive factors towards higher numbers are current technical limitations. We also experimentally demonstrate that the entanglement of very high OAM can improve the sensitivity of the angular resolution in remote sensing. 
+
+Entangled Singularity patterns of Photons in Ince-Gauss modes
+Mario Krenn, Robert Fickler, Marcus Huber, Radek Lapkiewicz, William Plick, Sven Ramelow, Anton Zeilinger
+(Submitted on 11 May 2012 (v1), last revised 27 Jan 2013 (this version, v2))
+
+    Photons with complex spatial mode structures open up possibilities for new fundamental high-dimensional quantum experiments and for novel quantum information tasks. Here we show for the first time entanglement of photons with complex vortex and singularity patterns called Ince-Gauss modes. In these modes, the position and number of singularities vary depending on the mode parameters. We verify 2-dimensional and 3-dimensional entanglement of Ince-Gauss modes. By measuring one photon and thereby defining its singularity pattern, we non-locally steer the singularity structure of its entangled partner, while the initial singularity structure of the photons is undefined. In addition we measure an Ince-Gauss specific quantum-correlation function with possible use in future quantum communication protocols. 
