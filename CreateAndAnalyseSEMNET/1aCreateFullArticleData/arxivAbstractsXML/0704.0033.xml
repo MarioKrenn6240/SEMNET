@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:13:54Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0033" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0033</identifier>
+ <datestamp>2008-07-29</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Convergence of the discrete dipole approximation. I. Theoretical
+  analysis</dc:title>
+ <dc:creator>Yurkin, Maxim A.</dc:creator>
+ <dc:creator>Maltsev, Valeri P.</dc:creator>
+ <dc:creator>Hoekstra, Alfons G.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:description>  We performed a rigorous theoretical convergence analysis of the discrete
+dipole approximation (DDA). We prove that errors in any measured quantity are
+bounded by a sum of a linear and quadratic term in the size of a dipole d, when
+the latter is in the range of DDA applicability. Moreover, the linear term is
+significantly smaller for cubically than for non-cubically shaped scatterers.
+Therefore, for small d errors for cubically shaped particles are much smaller
+than for non-cubically shaped. The relative importance of the linear term
+decreases with increasing size, hence convergence of DDA for large enough
+scatterers is quadratic in the common range of d. Extensive numerical
+simulations were carried out for a wide range of d. Finally we discuss a number
+of new developments in DDA and their consequences for convergence.
+</dc:description>
+ <dc:description>Comment: 23 pages, 5 figures</dc:description>
+ <dc:date>2007-03-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0033</dc:identifier>
+ <dc:identifier>J.Opt.Soc.Am.A 23(10): 2578-2591 (2006)</dc:identifier>
+ <dc:identifier>doi:10.1364/JOSAA.23.002578</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>
