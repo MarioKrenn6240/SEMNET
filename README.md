@@ -1,6 +1,6 @@
 # Predicting research trends with semantic and neural networks with an application in quantum physics
 ### Code for the paper: https://arxiv.org/abs/1906.06843
-### by Mario Krenn (mario.krenn@univie.ac.at) and Anton Zeilinger
+### by Mario Krenn (mario.krenn@univie.ac.at) and Anton Zeilinger (anton.zeilinger@univie.ac.at)
 
 ![Image of SemNet](https://github.com/MarioKrenn6240/SEMNET/blob/master/SemNet.png)
 
