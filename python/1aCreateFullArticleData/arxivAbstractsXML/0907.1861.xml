@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T13:29:51Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0907.1861" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0907.1861</identifier>
+ <datestamp>2010-01-08</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Two-photon lasing by a single quantum dot in a high-Q microcavity</dc:title>
+ <dc:creator>del Valle, Elena</dc:creator>
+ <dc:creator>Zippilli, Stefano</dc:creator>
+ <dc:creator>Laussy, Fabrice P.</dc:creator>
+ <dc:creator>Gonzalez-Tudela, Alejandro</dc:creator>
+ <dc:creator>Morigi, Giovanna</dc:creator>
+ <dc:creator>Tejedor, Carlos</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We investigate theoretically two-photon processes in a microcavity containing
+one quantum dot in the strong coupling regime. The cavity mode can be tuned to
+resonantly drive the two-photon transition between the ground and the biexciton
+states, while the exciton states are far-off resonance due to the biexciton
+binding energy. We study the steady state of the quantum dot and cavity field
+in presence of a continuous incoherent pumping. We identify the regime where
+the system acts as two-photon emitter and discuss the feasibility and
+performance of realistic single quantum dot devices for two-photon lasing.
+</dc:description>
+ <dc:description>Comment: 16 pages, 15 figures; one appendix added; version published in PRB</dc:description>
+ <dc:date>2009-07-10</dc:date>
+ <dc:date>2010-01-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0907.1861</dc:identifier>
+ <dc:identifier>Phys. Rev. B 81, 035302 (2010)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.81.035302</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

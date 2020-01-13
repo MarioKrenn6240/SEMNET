@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:14:28Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1577" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1577</identifier>
+ <datestamp>2010-09-14</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Sharp dark-mode resonances in planar metamaterials with broken
+  structural symmetry</dc:title>
+ <dc:creator>Fedotov, V. A.</dc:creator>
+ <dc:creator>Rose, M.</dc:creator>
+ <dc:creator>Prosvirnin, S. L.</dc:creator>
+ <dc:creator>Papasimakis, N.</dc:creator>
+ <dc:creator>Zheludev, N. I.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We report that resonant response with a very high quality factor can be
+achieved in a planar metamaterial by introducing symmetry breaking in the shape
+of its structural elements, which enables excitation of dark modes, i.e. modes
+that are weakly coupled to free space.
+</dc:description>
+ <dc:description>Comment: 4 pages, 3 figures</dc:description>
+ <dc:date>2007-04-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1577</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 99, 147401 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.99.147401</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

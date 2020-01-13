@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:14:27Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1513" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1513</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Compensation of loss in propagating surface plasmon polariton by gain in
+  adjacent dielectric medium</dc:title>
+ <dc:creator>Noginov, M. A.</dc:creator>
+ <dc:creator>Podolskiy, V. A.</dc:creator>
+ <dc:creator>Zhu, G.</dc:creator>
+ <dc:creator>Mayy, M.</dc:creator>
+ <dc:creator>Bahoura, M.</dc:creator>
+ <dc:creator>Adegoke, J. A.</dc:creator>
+ <dc:creator>Ritzo, B. A.</dc:creator>
+ <dc:creator>Reynolds, K.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We report the suppression of loss of surface plasmon polariton propagating at
+the interface between silver film and optically pumped polymer with dye. Large
+magnitude of the effect enables a variety of applications of &quot;active&quot;
+nanoplasmonics. The experimental study is accompanied by the development of the
+analytical description of the phenomenon and the solution of the controversy
+regarding the direction of the wavevector of a wave with a strong evanescent
+component in an active medium.
+</dc:description>
+ <dc:description>Comment: 17 pages, 4 figures</dc:description>
+ <dc:date>2007-04-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1513</dc:identifier>
+ <dc:identifier>M. A. Noginov, V. A. Podolskiy, G. Zhu, M. Mayy, M. Bahoura, J. A.
+  Adegoke, B. A. Ritzo, and K. Reynolds, Opt. Express 16, 1385-1392 (2008)</dc:identifier>
+ <dc:identifier>doi:10.1364/OE.16.001385</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

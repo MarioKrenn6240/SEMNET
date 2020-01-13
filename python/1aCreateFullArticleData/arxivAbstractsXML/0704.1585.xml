@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:16Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1585" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1585</identifier>
+ <datestamp>2007-10-15</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Fixed Phase Quantum Search Algorithm</dc:title>
+ <dc:creator>Younes, Ahmed</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Building quantum devices using fixed operators is a must to simplify the
+hardware construction. Quantum search engine is not an exception. In this
+paper, a fixed phase quantum search algorithm that searches for M matches in an
+unstructured search space of size N will be presented. Selecting phase shifts
+of 1.91684\pi in the standard amplitude amplification will make the technique
+perform better so as to get probability of success at least 99.58% in
+O(sqrt(N/M)) better than any know fixed operator quantum search algorithms. The
+algorithm will be able to handle either a single match or multiple matches in
+the search space. The algorithm will find a match in O(sqrt(N/M)) whether the
+number of matches is known or not in advance.
+</dc:description>
+ <dc:description>Comment: 10 pages, 3 figures</dc:description>
+ <dc:date>2007-04-12</dc:date>
+ <dc:date>2007-10-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1585</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

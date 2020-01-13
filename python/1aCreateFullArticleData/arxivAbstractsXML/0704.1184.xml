@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:47Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1184" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1184</identifier>
+ <datestamp>2015-05-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Sufficiency Criterion for the Validity of the Adiabatic Approximation</dc:title>
+ <dc:creator>Tong, D M</dc:creator>
+ <dc:creator>Singh, K</dc:creator>
+ <dc:creator>Kwek, L C</dc:creator>
+ <dc:creator>OH, C H</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We examine the quantitative condition which has been widely used as a
+criterion for the adiabatic approximation but was recently found insufficient.
+Our results indicate that the usual quantitative condition is sufficient for a
+special class of quantum mechanical systems. For general systems, it may not be
+sufficient, but it along with additional conditions is sufficient. The usual
+quantitative condition and the additional conditions constitute a general
+criterion for the validity of the adiabatic approximation, which is applicable
+to all $N-$dimensional quantum systems. Moreover, we illustrate the use of the
+general quantitative criterion in some physical models.
+</dc:description>
+ <dc:description>Comment: 9 pages, no figure,appearing in PRL98(2007)150402</dc:description>
+ <dc:date>2007-04-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1184</dc:identifier>
+ <dc:identifier>Physical Review Letters 98, 150402, 2007</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.98.150402</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

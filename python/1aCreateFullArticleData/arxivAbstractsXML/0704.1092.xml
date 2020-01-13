@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:40Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1092" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1092</identifier>
+ <datestamp>2007-08-21</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Simplifying additivity problems using direct sum constructions</dc:title>
+ <dc:creator>Fukuda, Motohisa</dc:creator>
+ <dc:creator>Wolf, Michael M.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We study the additivity problems for the classical capacity of quantum
+channels, the minimal output entropy and its convex closure. We show for each
+of them that additivity for arbitrary pairs of channels holds iff it holds for
+arbitrary equal pairs, which in turn can be taken to be unital. In a similar
+sense, weak additivity is shown to imply strong additivity for any convex
+entanglement monotone. The implications are obtained by considering direct sums
+of channels (or states) for which we show how to obtain several information
+theoretic quantities from their values on the summands. This provides a simple
+and general tool for lifting additivity results.
+</dc:description>
+ <dc:description>Comment: 5 pages</dc:description>
+ <dc:date>2007-04-09</dc:date>
+ <dc:date>2007-08-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1092</dc:identifier>
+ <dc:identifier>J. Math. Phys. 48, 072101 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1063/1.2746128</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

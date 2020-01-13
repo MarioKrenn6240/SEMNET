@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:16:24Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0907.1816" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0907.1816</identifier>
+ <datestamp>2015-05-13</datestamp>
+ <setSpec>physics:gr-qc</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Relativistic Quantum Mechanics and Relativistic Entanglement in the
+  Rest-Frame Instant Form of Dynamics</dc:title>
+ <dc:creator>Alba, David</dc:creator>
+ <dc:creator>Crater, Horace</dc:creator>
+ <dc:creator>Lusanna, Luca</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  A new formulation of relativistic quantum mechanics is proposed in the
+framework of the rest-frame instant form of dynamics with its instantaneous
+Wigner 3-spaces and with its description of the particle world-lines by means
+of derived non-canonical predictive coordinates. In it we quantize the frozen
+Jacobi data of the non-local 4-center of mass and the Wigner-covariant relative
+variables in an abstract (frame-independent) internal space whose existence is
+implied by Wigner-covariance. The formalism takes care of the properties of
+both relativistic bound states and scattering ones. There is a natural solution
+to the \textit{relativistic localization problem}. The non-relativistic limit
+leads to standard quantum mechanics but with a frozen Hamilton-Jacobi
+description of the center of mass. Due to the \textit{non-locality} of the
+Poincar\'e generators the resulting theory of relativistic entanglement is both
+\textit{kinematically non-local and spatially non-separable}: these properties,
+absent in the non-relativistic limit, throw a different light on the
+interpretation of the non-relativistic quantum non-locality and of its impact
+on foundational problems.
+</dc:description>
+ <dc:description>Comment: 73 pages, includes revisions</dc:description>
+ <dc:date>2009-07-10</dc:date>
+ <dc:date>2010-05-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0907.1816</dc:identifier>
+ <dc:identifier>J.Math.Phys. 52, 062301 (2011)</dc:identifier>
+ <dc:identifier>doi:10.1063/1.3591131</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

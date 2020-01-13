@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:55:58Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0808.2077" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0808.2077</identifier>
+ <datestamp>2011-10-07</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Bounds of concurrence and their relation with fidelity and frontier
+  states</dc:title>
+ <dc:creator>Ma, Zhihao</dc:creator>
+ <dc:creator>Zhang, Fu-Lin</dc:creator>
+ <dc:creator>Deng, Dong-Ling</dc:creator>
+ <dc:creator>Chen, Jing-Ling</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The bounds of concurrence in [F. Mintert and A. Buchleitner, Phys. Rev. Lett.
+98 (2007) 140505] and [C. Zhang \textit{et. al.}, Phys. Rev. A 78 (2008)
+042308] are proved by using two properties of the fidelity. In two-qubit
+systems, for a given value of concurrence, the states achieving the maximal
+upper bound, the minimal lower bound or the maximal difference upper-lower
+bound are determined analytically.
+</dc:description>
+ <dc:date>2008-08-14</dc:date>
+ <dc:date>2011-10-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0808.2077</dc:identifier>
+ <dc:identifier>Physics Letters A 373 (2009) 1616-1620</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physleta.2009.03.009</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

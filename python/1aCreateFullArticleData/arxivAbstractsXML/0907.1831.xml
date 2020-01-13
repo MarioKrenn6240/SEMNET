@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T13:24:51Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0907.1831" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0907.1831</identifier>
+ <datestamp>2009-12-11</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Qubit Mediated Time Robust Entangling of Oscillators in Thermal
+  Environments</dc:title>
+ <dc:creator>Tufarelli, Tommaso</dc:creator>
+ <dc:creator>Kim, M. S.</dc:creator>
+ <dc:creator>Bose, Sougato</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We consider two separated oscillators initially in equilibrium and
+continuously interacting with thermal environments, and propose a way to
+entangle them using a mediating qubit. An appropriate interaction allows for an
+analytic treatment of the open system, removes the necessity of fine-tuning
+interaction times and results in a high tolerance of the entanglement to finite
+temperature. The entanglement thus produced between the oscillators can be
+verified either through a Bell inequality relying on oscillator parity
+measurements or through conditional extraction of the entanglement on to two
+mutually non-interacting qubits. The latter process also shows that the
+generated mixed entangled state of the oscillators is an useful resource for
+entangling qubits. By allowing for influences from environments, taking
+feasible qubit-oscillator interactions and measurement settings, this scheme
+should be implementable in a variety of experimental setups. The method
+presented for the solution of the master equation can also be adapted to a
+variety of problems involving the same form of qubit-oscillator interaction
+</dc:description>
+ <dc:description>Comment: 6 pages, 3 figures containing 7 pictures</dc:description>
+ <dc:date>2009-07-10</dc:date>
+ <dc:date>2009-12-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0907.1831</dc:identifier>
+ <dc:identifier>Phys. Rev. A 80, 062317 (2009)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.80.062317</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

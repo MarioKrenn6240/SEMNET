@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:30Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1809" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1809</identifier>
+ <datestamp>2007-06-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>All tight multipartite Bell correlation inequalities for an arbitrary
+  number of dichotomic observables per observer</dc:title>
+ <dc:creator>Badziag, Piotr</dc:creator>
+ <dc:creator>Zukowski, Marek</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Derivation of the full set of Bell inequalities involving correlation
+functions, for two parties, with binary observables, and N possible local
+settings is not as easy as it seemed. The proof of v1 is wrong. Additionaly one
+can find a counterexample, which will be presented soon. Thus our thesis is
+dead. Still the series of Bell inequalities discussed in the manuscript (v1)
+form a necessary condition for local realism, and are tight. They are tight and
+complete (sufficient) only for N=3 settings per observer (as shown in
+quant-ph/0611086, fortunately using an entirely different approach).
+</dc:description>
+ <dc:description>Comment: there is a mistake in the proof, and even worse... one can find a
+  counterexample</dc:description>
+ <dc:date>2007-04-13</dc:date>
+ <dc:date>2007-05-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1809</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

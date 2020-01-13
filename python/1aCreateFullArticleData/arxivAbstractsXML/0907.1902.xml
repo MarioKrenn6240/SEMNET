@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T13:24:58Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0907.1902" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0907.1902</identifier>
+ <datestamp>2013-06-27</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Efficient optical quantum state engineering</dc:title>
+ <dc:creator>McCusker, Kevin T.</dc:creator>
+ <dc:creator>Kwiat, Paul G.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We discuss a novel method of efficiently producing multi-photon states using
+repeated spontaneous parametric downconversion. Specifically, by attempting
+downconversion several times, we can pseudo-deterministically add photons to a
+mode, producing various several-photon states. We discuss both expected
+performance and experimental limitations.
+</dc:description>
+ <dc:description>Comment: 4 pages, 4 figures</dc:description>
+ <dc:date>2009-07-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0907.1902</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 103, 163602 (2009)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.103.163602</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

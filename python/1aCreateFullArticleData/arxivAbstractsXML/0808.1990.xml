@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:55:48Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0808.1990" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0808.1990</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Measurement of spatial qubits</dc:title>
+ <dc:creator>Lima, G.</dc:creator>
+ <dc:creator>Torres-Ruiz, F. A.</dc:creator>
+ <dc:creator>Neves, L.</dc:creator>
+ <dc:creator>Delgado, A.</dc:creator>
+ <dc:creator>Saavedra, C.</dc:creator>
+ <dc:creator>Padua, S.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In this paper we study the state determination for composite systems of two
+spatial qubits. We show, theoretically, that one can use the technique of
+quantum tomography to reconstruct the density matrixes of these systems. This
+tomographic reconstruction is based on the free evolution of the spatial qubits
+and a postelection process.
+</dc:description>
+ <dc:description>Comment: To appear in J. Phys. B: At. Mol. Opt. Phys</dc:description>
+ <dc:date>2008-08-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0808.1990</dc:identifier>
+ <dc:identifier>doi:10.1088/0953-4075/41/18/185501</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

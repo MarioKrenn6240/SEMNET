@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:55:56Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0808.2057" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0808.2057</identifier>
+ <datestamp>2009-02-10</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Weighing matrices and optical quantum computing</dc:title>
+ <dc:creator>Flammia, Steven T.</dc:creator>
+ <dc:creator>Severini, Simone</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:description>  Quantum computation in the one-way model requires the preparation of certain
+resource states known as cluster states. We describe how the construction of
+continuous-variable cluster states for optical quantum computing relate to the
+existence of certain families of matrices. The relevant matrices are known as
+weighing matrices, with a few additional constraints. We prove some results
+regarding the structure of these matrices, and their associated graphs.
+</dc:description>
+ <dc:description>Comment: 17 pages, 9 figures. v2: Minor typos fixed, improved discussion</dc:description>
+ <dc:date>2008-08-14</dc:date>
+ <dc:date>2008-12-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0808.2057</dc:identifier>
+ <dc:identifier>J. Phys. A: Math. Theor. 42, 065302 (2009).</dc:identifier>
+ <dc:identifier>doi:10.1088/1751-8113/42/6/065302</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

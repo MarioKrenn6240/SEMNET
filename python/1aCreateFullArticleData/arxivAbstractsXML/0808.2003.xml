@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:55:52Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0808.2003" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0808.2003</identifier>
+ <datestamp>2009-01-19</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Lossless Quantum Prefix Compression for Communication Channels that are
+  Always Open</dc:title>
+ <dc:creator>Mueller, Markus</dc:creator>
+ <dc:creator>Rogers, Caroline</dc:creator>
+ <dc:creator>Nagarajan, Rajagopal</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We describe a method for lossless quantum compression if the output of the
+information source is not known. We compute the best possible compression rate,
+minimizing the expected base length of the output quantum bit string (the base
+length of a quantum string is the maximal length in the superposition). This
+complements work by Schumacher and Westmoreland who calculated the
+corresponding rate for minimizing the output's average length.
+  Our compressed code words are prefix-free indeterminate-length quantum bit
+strings which can be concatenated in the case of multiple sources. Therefore,
+we generalize the known theory of prefix-free quantum codes to the case of
+strings with indeterminate length. Moreover, we describe a communication model
+which allows the lossless transmission of the compressed code words. The
+benefit of compression is then the reduction of transmission errors in the
+presence of noise.
+</dc:description>
+ <dc:description>Comment: 13 pages, 1 figure; published version</dc:description>
+ <dc:date>2008-08-14</dc:date>
+ <dc:date>2009-01-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0808.2003</dc:identifier>
+ <dc:identifier>Phys. Rev. A 79, 012302 (2009)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.79.012302</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

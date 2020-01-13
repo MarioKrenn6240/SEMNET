@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:14:20Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1126" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1126</identifier>
+ <datestamp>2007-09-24</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Negative- and positive-phase-velocity propagation in an isotropic chiral
+  medium moving at constant velocity</dc:title>
+ <dc:creator>Mackay, Tom G.</dc:creator>
+ <dc:creator>Lakhtakia, Akhlesh</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  Analysis of electromagnetic planewave propagation in a medium which is a
+spatiotemporally homogeneous, temporally nonlocal, isotropic, chiral medium in
+a co-moving frame of reference shows that the medium is both spatially and
+temporally nonlocal with respect to all non-co-moving inertial frames of
+reference. Using the Lorentz transformations of electric and magnetic fields,
+we show that plane waves which have positive phase velocity in the co-moving
+frame of reference can have negative phase velocity in certain non-co-moving
+frames of reference. Similarly, plane waves which have negative phase velocity
+in the co-moving frame can have positive phase velocity in certain
+non-co-moving frames.
+</dc:description>
+ <dc:date>2007-04-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1126</dc:identifier>
+ <dc:identifier>Microwave Opt Technol Lett 49, 2640--2643 (2007)</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

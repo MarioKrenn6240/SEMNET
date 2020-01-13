@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:12Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1551" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1551</identifier>
+ <datestamp>2007-06-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum Zeno Effect in the Decoherent Histories</dc:title>
+ <dc:creator>Wallden, Petros</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The quantum Zeno effect arises due to frequent observation. That implies the
+existence of some experimenter and its interaction with the system. In this
+contribution, we examine what happens for a closed system if one considers a
+quantum Zeno type of question, namely: &quot;what is the probability of a system,
+remaining always in a particular subspace&quot;. This has implications to the
+arrival time problem that is also discussed. We employ the decoherent histories
+approach to quantum theory, as this is the better developed formulation of
+closed system quantum mechanics, and in particular, dealing with questions that
+involve time in a non-trivial way. We get a very restrictive decoherence
+condition, that implies that even if we do introduce an environment, there will
+be very few cases that we can assign probabilities to these histories, but in
+those cases, the quantum Zeno effect is still present.
+</dc:description>
+ <dc:description>Comment: 7 pages, To appear in DICE 2006 (Decoherence Information Complexity
+  and Entropy) conference proceedings</dc:description>
+ <dc:date>2007-04-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1551</dc:identifier>
+ <dc:identifier>J. Phys.: Conf. Ser. 67, 012043 (2007).</dc:identifier>
+ <dc:identifier>doi:10.1088/1742-6596/67/1/012043</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

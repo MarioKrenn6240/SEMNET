@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T13:25:01Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0907.1960" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0907.1960</identifier>
+ <datestamp>2009-10-22</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Fermionic entanglement that survives a black hole</dc:title>
+ <dc:creator>Martin-Martinez, E.</dc:creator>
+ <dc:creator>Leon, J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We introduce an arbitrary number of accessible modes when analyzing bipartite
+entanglement degradation due to Unruh effect between two partners Alice and
+Rob. Under the single mode approximation (SMA) a fermion field only had a few
+accessible levels due to Pauli exclusion principle, conversely to bosonic
+fields which had an infinite number of excitable levels. This was argued to
+justify entanglement survival in the fermionic case in the SMA infinite
+acceleration limit. Here we relax SMA. Hence, an infinite number of modes are
+excited as the observer Rob accelerates, even for a fermion field. We will
+prove that, despite this analogy with the bosonic case, entanglement loss is
+limited. We will show that this comes from fermionic statistics through the
+characteristic structure it imposes on the infinite dimensional density matrix
+for Rob. Surprisingly, the surviving entanglement is independent of the
+specific maximally entangled state chosen, the kind of fermionic field
+analyzed, and the number of accessible modes considered. We shall discuss
+whether this surviving entanglement goes beyond the purely statistical
+correlations, giving insight concerning the black hole information paradox.
+</dc:description>
+ <dc:description>Comment: 10 pages, 1 figure, revtex4</dc:description>
+ <dc:date>2009-07-11</dc:date>
+ <dc:date>2009-10-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0907.1960</dc:identifier>
+ <dc:identifier>Phys. Rev. A, 80, 042318 (2009)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.80.042318</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

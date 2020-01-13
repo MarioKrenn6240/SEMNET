@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:13Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1560" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1560</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Generating entanglement of photon-number states with coherent light via
+  cross-Kerr nonlinearity</dc:title>
+ <dc:creator>Zhang, Zhi-Ming</dc:creator>
+ <dc:creator>Yang, Jian</dc:creator>
+ <dc:creator>Yu, Yafei</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We propose a scheme for generating entangled states of light fields. This
+scheme only requires the cross-Kerr nonlinear interaction between coherent
+light-beams, followed by a homodyne detection. Therefore, this scheme is within
+the reach of current technology. We study in detail the generation of the
+entangled states between two modes, and that among three modes. In addition to
+the Bell states between two modes and the W states among three modes, we find
+plentiful new kinds of entangled states. Finally, the scheme can be extend to
+generate the entangled states among more than three modes.
+</dc:description>
+ <dc:description>Comment: 2 figures</dc:description>
+ <dc:date>2007-04-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1560</dc:identifier>
+ <dc:identifier>doi:10.1088/0953-4075/41/2/025502</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

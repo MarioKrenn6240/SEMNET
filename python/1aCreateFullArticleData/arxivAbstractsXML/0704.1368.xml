@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:58Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1368" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1368</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Anisotropy and Magnetic Field Effects on the Genuine Multipartite
+  Entanglement of Multi-Qubit Heisenberg {\it XY} Chains</dc:title>
+ <dc:creator>Kwong, Chang Chi</dc:creator>
+ <dc:creator>Yeo, Ye</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  It has been shown that, for the two-qubit Heisenberg XY model, anisotropy and
+magnetic field may together be used to produce entanglement for any finite
+temperature by adjusting the external magnetic field beyond some finite
+critical strength. This interesting result arises from an analysis employing
+the Wootters concurrence, a computable measure of entanglement for two-qubit
+states. Recently, Mintert {\em et al.} proposed generalizations of Wootters
+concurrence for multipartite states. These MKB concurrences possess a
+mathematical property that enables one to understand the origin of this
+characteristic behavior. Here, we first study the effect of anisotropy and
+magnetic field on the multipartite thermal entanglement of a four-qubit
+Heisenberg XY chain using the MKB concurrences. We show that this model
+exhibits characteristic behavior similar to that of the two-qubit model. In
+addition, we show that this can again be understood using the same mathematical
+property. Next, we show that the six-qubit Heisenberg XY chain possesses
+properties necessary for it to have the characteristic behavior too. Most
+importantly, it is possible to directly measure the multipartite MKB
+concurrences of pure states. This may provide an experimental verification of
+our conjecture that for a Heisenberg XY chain of any even number of qubits, it
+is always possible to obtain non-zero genuine multipartite entanglement at any
+finite temperature by applying a sufficiently large magnetic field.
+</dc:description>
+ <dc:description>Comment: 21 pages, 4 figures</dc:description>
+ <dc:date>2007-04-11</dc:date>
+ <dc:date>2007-05-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1368</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

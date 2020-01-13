@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:59:42Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0808.2096" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0808.2096</identifier>
+ <datestamp>2010-05-28</datestamp>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Fast Scramblers</dc:title>
+ <dc:creator>Sekino, Yasuhiro</dc:creator>
+ <dc:creator>Susskind, Leonard</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We consider the problem of how fast a quantum system can scramble
+(thermalize) information, given that the interactions are between bounded
+clusters of degrees of freedom; pairwise interactions would be an example.
+Based on previous work, we conjecture:
+  1) The most rapid scramblers take a time logarithmic in the number of degrees
+of freedom.
+  2) Matrix quantum mechanics (systems whose degrees of freedom are n by n
+matrices) saturate the bound.
+  3) Black holes are the fastest scramblers in nature.
+  The conjectures are based on two sources, one from quantum information
+theory, and the other from the study of black holes in String Theory.
+</dc:description>
+ <dc:description>Comment: 19 pages, 1 figure</dc:description>
+ <dc:date>2008-08-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0808.2096</dc:identifier>
+ <dc:identifier>JHEP 0810:065,2008</dc:identifier>
+ <dc:identifier>doi:10.1088/1126-6708/2008/10/065</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

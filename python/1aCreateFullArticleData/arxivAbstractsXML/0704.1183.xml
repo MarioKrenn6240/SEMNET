@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:14:23Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1183" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1183</identifier>
+ <datestamp>2007-09-15</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Confirmation of Cylindrical Perfect Invisibility Cloak Using
+  Fourier-Bessel Analysis</dc:title>
+ <dc:creator>Ruan, Zhichao</dc:creator>
+ <dc:creator>Yan, Min</dc:creator>
+ <dc:creator>Neff, Curtis W.</dc:creator>
+ <dc:creator>Qiu, Min</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  A cylindrical wave expansion method is developed to obtain the scattering
+field for an ideal two-dimensional cylindrical invisibility cloak. A near-ideal
+model of the invisibility cloak is set up to solve the boundary problem at the
+inner boundary of the cloak shell. We confirm that a cloak with the ideal
+material parameters is a perfect invisibility cloak by systematically studying
+the change of the scattering coefficients from the near-ideal case to the ideal
+one. However, due to the slow convergence of the zero$^{th}$ order scattering
+coefficients, a tiny perturbation on the cloak would induce a noticeable field
+scattering and penetration.
+</dc:description>
+ <dc:description>Comment: 10 pages, 3 figures</dc:description>
+ <dc:date>2007-04-09</dc:date>
+ <dc:date>2007-07-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1183</dc:identifier>
+ <dc:identifier>Physical Review Letters, 99, 113903 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.99.113903</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

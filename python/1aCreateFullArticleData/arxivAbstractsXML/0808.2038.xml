@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:59:40Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0808.2038" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0808.2038</identifier>
+ <datestamp>2012-04-02</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Resonant nonlinear optics of backward waves in negative-index
+  metamaterials</dc:title>
+ <dc:creator>Popov, Alexander K.</dc:creator>
+ <dc:creator>Myslivets, Sergei A.</dc:creator>
+ <dc:creator>Shalaev, Vladimir M.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The extraordinary properties of resonant four-wave mixing of backward waves
+in doped negative-index materials are investigated. The feasibility of
+independent engineering of negative refractive index and nonlinear optical
+response as well as quantum control of the nonlinear propagation process in
+such composites is shown due to the coherent energy transfer from the control
+to the signal field. Laser-induced transparency, quantum switching,
+frequency-tunable narrow-band filtering, amplification, and realizing a
+miniature mirrorless optical parametric generator of the entangled backward and
+ordinary waves are among the possible applications of the investigated
+processes.
+</dc:description>
+ <dc:description>Comment: 10 pages, 9 figures</dc:description>
+ <dc:date>2008-08-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0808.2038</dc:identifier>
+ <dc:identifier>Applied Physics B, Volume 96, Issue 2-3, pp. 315-323; on-line 13
+  Feb. (2009)</dc:identifier>
+ <dc:identifier>doi:10.1007/s00340-009-3393-3</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

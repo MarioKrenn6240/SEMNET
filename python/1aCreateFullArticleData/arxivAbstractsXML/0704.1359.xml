@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:55Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1359" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1359</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Hamiltonian Quantum Dynamics With Separability Constraints</dc:title>
+ <dc:creator>Buric, Nikola</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Schroedinger equation on a Hilbert space ${\cal H}$, represents a linear
+Hamiltonian dynamical system on the space of quantum pure states, the
+projective Hilbert space $P {\cal H}$. Separable states of a bipartite quantum
+system form a special submanifold of $P {\cal H}$.
+  We analyze the Hamiltonian dynamics that corresponds to the quantum system
+constrained on the manifold of separable states, using as an important example
+the system of two interacting qubits. The constraints introduce nonlinearities
+which render the dynamics nontrivial. We show that the qualitative properties
+of the constrained dynamics clearly manifest the symmetry of the qubits system.
+In particular, if the quantum Hamilton's operator has not enough symmetry, the
+constrained dynamics is nonintegrable, and displays the typical features of a
+Hamiltonian dynamical system with mixed phase space. Possible physical
+realizations of the separability constraints are discussed.
+</dc:description>
+ <dc:date>2007-04-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1359</dc:identifier>
+ <dc:identifier>doi:10.1016/j.aop.2007.04.019</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

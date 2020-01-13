@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:20Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1645" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1645</identifier>
+ <datestamp>2011-03-23</datestamp>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Non-Relativistic Propagators via Schwinger's Method</dc:title>
+ <dc:creator>Aragao, A.</dc:creator>
+ <dc:creator>Boschi-Filho, H.</dc:creator>
+ <dc:creator>Farina, C.</dc:creator>
+ <dc:creator>Barone, F. A.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  In order to popularize the so called Schwinger's method we reconsider the
+Feynman propagator of two non-relativistic systems: a charged particle in a
+uniform magnetic field and a charged harmonic oscillator in a uniform magnetic
+field. Instead of solving the Heisenberg equations for the position and the
+canonical momentum operators, ${\bf R}$ and ${\bf P}$, we apply this method by
+solving the Heisenberg equations for the gauge invariant operators ${\bf R}$
+and $\mathversion{bold}${\pi}$ = {\bf P}-e{\bf A}$, the latter being the
+mechanical momentum operator. In our procedure we avoid fixing the gauge from
+the beginning and the result thus obtained shows explicitly the gauge
+dependence of the Feynman propagator.
+</dc:description>
+ <dc:description>Comment: 9 pages and no figures</dc:description>
+ <dc:date>2007-04-12</dc:date>
+ <dc:date>2011-02-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1645</dc:identifier>
+ <dc:identifier>Braz.J.Phys.37:1260-1268,2007</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

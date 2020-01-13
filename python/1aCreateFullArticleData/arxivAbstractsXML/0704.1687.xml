@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:14:30Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1687" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1687</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Studies on optimizing potential energy functions for maximal intrinsic
+  hyperpolarizability</dc:title>
+ <dc:creator>Zhou, Juefei</dc:creator>
+ <dc:creator>Szafruga, Urszula B.</dc:creator>
+ <dc:creator>Watkins, David S.</dc:creator>
+ <dc:creator>Kuzyk, Mark G.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Physics - Chemical Physics</dc:subject>
+ <dc:description>  We use numerical optimization to study the properties of (1) the class of
+one-dimensional potential energy functions and (2) systems of point charges in
+two-dimensions that yield the largest hyperpolarizabilities, which we find to
+be within 30% of the fundamental limit. We investigate the character of the
+potential energy functions and resulting wavefunctions and find that a broad
+range of potentials yield the same intrinsic hyperpolarizability ceiling of
+0.709.
+</dc:description>
+ <dc:description>Comment: 9 pages, 9 figures</dc:description>
+ <dc:date>2007-04-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1687</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.053831</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

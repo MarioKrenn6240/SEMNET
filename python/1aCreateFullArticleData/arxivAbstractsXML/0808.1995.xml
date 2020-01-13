@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:55:51Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0808.1995" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0808.1995</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Local complementation rule for continuous-variable four-mode unweighted
+  graph states</dc:title>
+ <dc:creator>Zhang, Jing</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The local complementation rule is applied for continuous-variable (CV) graph
+states in the paper, which is an elementary graph transformation rule and
+successive application of which generates the orbit of any graph states. The
+corresponding local Gaussian transformations of local complementation for
+four-mode unweighted graph states were found, which do not mirror the form of
+the local Clifford unitary of qubit exactly. This work is an important step to
+characterize the local Gaussian equivalence classes of CV graph states.
+</dc:description>
+ <dc:description>Comment: 4 pages, 4 figures, appear in Phys. Rev. A</dc:description>
+ <dc:date>2008-08-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0808.1995</dc:identifier>
+ <dc:identifier>Phys. Rev. A 78, 034301 (2008)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.78.034301</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

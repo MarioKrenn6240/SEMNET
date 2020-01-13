@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:48Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1263" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1263</identifier>
+ <datestamp>2009-05-21</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Measurement Calculus</dc:title>
+ <dc:creator>Danos, Vincent</dc:creator>
+ <dc:creator>Kashefi, Elham</dc:creator>
+ <dc:creator>Panangaden, Prakash</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Measurement-based quantum computation has emerged from the physics community
+as a new approach to quantum computation where the notion of measurement is the
+main driving force of computation. This is in contrast with the more
+traditional circuit model which is based on unitary operations. Among
+measurement-based quantum computation methods, the recently introduced one-way
+quantum computer stands out as fundamental.
+  We develop a rigorous mathematical model underlying the one-way quantum
+computer and present a concrete syntax and operational semantics for programs,
+which we call patterns, and an algebra of these patterns derived from a
+denotational semantics. More importantly, we present a calculus for reasoning
+locally and compositionally about these patterns.
+  We present a rewrite theory and prove a general standardization theorem which
+allows all patterns to be put in a semantically equivalent standard form.
+Standardization has far-reaching consequences: a new physical architecture
+based on performing all the entanglement in the beginning, parallelization by
+exposing the dependency structure of measurements and expressiveness theorems.
+  Furthermore we formalize several other measurement-based models:
+Teleportation, Phase and Pauli models and present compositional embeddings of
+them into and from the one-way model. This allows us to transfer all the theory
+we develop for the one-way model to these models. This shows that the framework
+we have developed has a general impact on measurement-based computation and is
+not just particular to the one-way quantum computer.
+</dc:description>
+ <dc:description>Comment: 46 pages, 2 figures, Replacement of quant-ph/0412135v1, the new
+  version also include formalization of several other measurement-based models:
+  Teleportation, Phase and Pauli models and present compositional embeddings of
+  them into and from the one-way model. To appear in Journal of ACM</dc:description>
+ <dc:date>2007-04-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1263</dc:identifier>
+ <dc:identifier>Journal of the ACM, Volume 54, Issue 2 (April 2007)</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

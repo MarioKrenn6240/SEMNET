@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:56:00Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0808.2126" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0808.2126</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Locality, detection efficiencies, and probability polytopes</dc:title>
+ <dc:creator>Wilms, J.</dc:creator>
+ <dc:creator>Disser, Y.</dc:creator>
+ <dc:creator>Alber, G.</dc:creator>
+ <dc:creator>Percival, I. C.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present a detailed investigation of minimum detection efficiencies, below
+which locality cannot be violated by any quantum system of any dimension in
+bipartite Bell experiments. Lower bounds on these minimum detection
+efficiencies are determined with the help of linear programming techniques. Our
+approach is based on the observation that any possible bipartite quantum
+correlation originating from a quantum state in an arbitrary dimensional
+Hilbert space is sandwiched between two probability polytopes, namely the local
+(Bell) polytope and a corresponding nonlocal no-signaling polytope. Numerical
+results are presented demonstrating the dependence of these lower bounds on the
+numbers of inputs and outputs of the bipartite physical system.
+</dc:description>
+ <dc:description>Comment: 8 pages, 5 figures, 1 table</dc:description>
+ <dc:date>2008-08-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0808.2126</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.78.032116</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:24Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1726" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1726</identifier>
+ <datestamp>2009-08-19</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On de Broglie's quantum particle as the soliton solution of linear
+  Schr\&quot;odinger equation</dc:title>
+ <dc:creator>Budiyono, Agung</dc:creator>
+ <dc:subject>Physics - General Physics</dc:subject>
+ <dc:description>  We develop a class of soliton solution of {\it linear} Schr\&quot;odinger equation
+without external potential. The quantum probability density generates its own
+boundary inside which there is internal vibration whose wave number is
+determined by the velocity of the particle as firstly conjectured by de
+Broglie. Assuming resonance of the internal vibration will lead to quantization
+of particle's momentum in term of wave number of the envelope quantum
+probability density. We further show that the linearity of the Schr\&quot;odinger
+equation allows us to have non-interacting many solitons solution through
+superposition, each describing a particle with equal mass.
+</dc:description>
+ <dc:description>Comment: 14 pages, content changed</dc:description>
+ <dc:date>2007-04-13</dc:date>
+ <dc:date>2009-08-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1726</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

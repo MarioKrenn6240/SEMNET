@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:41:08Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1473" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1473</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Existence of Universal Entangler</dc:title>
+ <dc:creator>Chen, Jianxin</dc:creator>
+ <dc:creator>Duan, Runyao</dc:creator>
+ <dc:creator>Ji, Zhengfeng</dc:creator>
+ <dc:creator>Ying, Mingsheng</dc:creator>
+ <dc:creator>Yu, Jun</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  A gate is called entangler if it transforms some (pure) product states to
+entangled states. A universal entangler is a gate which transforms all product
+states to entangled states. In practice, a universal entangler is a very
+powerful device for generating entanglements, and thus provides important
+physical resources for accomplishing many tasks in quantum computing and
+quantum information. This Letter demonstrates that a universal entangler always
+exists except for a degenerated case. Nevertheless, the problem how to find a
+universal entangler remains open.
+</dc:description>
+ <dc:description>Comment: 4 pages</dc:description>
+ <dc:date>2007-04-11</dc:date>
+ <dc:date>2007-05-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1473</dc:identifier>
+ <dc:identifier>doi:10.1063/1.2829895</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

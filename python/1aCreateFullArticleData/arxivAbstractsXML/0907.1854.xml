@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T13:29:49Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0907.1854" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0907.1854</identifier>
+ <datestamp>2009-07-14</datestamp>
+ <setSpec>physics:hep-ph</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>QCD's Partner needed for Mass Spectra and Parton Structure Functions</dc:title>
+ <dc:creator>Kim, Y. S.</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  As in the case of the hydrogen atom, bound-state wave functions are needed to
+generate hadronic spectra. For this purpose, in 1971, Feynman and his students
+wrote down a Lorentz-invariant harmonic oscillator equation. This differential
+equation has one set of solutions satisfying the Lorentz-covariant boundary
+condition. This covariant set generates Lorentz-invariant mass spectra with
+their degeneracies. Furthermore, the Lorentz-covariant wave functions allow us
+to calculate the valence parton distribution by Lorentz-boosting the
+quark-model wave function from the hadronic rest frame. However, this boosted
+wave function does not give an accurate parton distribution. The wave function
+needs QCD corrections to make a contact with the real world. Likewise QCD needs
+the wave function as a starting point for calculating the parton structure
+function.
+</dc:description>
+ <dc:description>Comment: 8 pages, 3 figures, presented at the &quot;Excited QCD&quot; (Zakopane, Poland,
+  February 2009)</dc:description>
+ <dc:date>2009-07-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0907.1854</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

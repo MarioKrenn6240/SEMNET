@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T17:51:46Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0907.1837" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0907.1837</identifier>
+ <datestamp>2009-07-13</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Fractional Equations of Curie-von Schweidler and Gauss Laws</dc:title>
+ <dc:creator>Tarasov, Vasily E.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Physics - Classical Physics</dc:subject>
+ <dc:description>  The dielectric susceptibility of most materials follows a fractional
+power-law frequency dependence that is called the &quot;universal&quot; response. We
+prove that in the time domain this dependence gives differential equations with
+derivatives and integrals of noninteger order. We obtain equations that
+describe &quot;universal&quot; Curie-von Schweidler and Gauss laws for such dielectric
+materials. These laws are presented by fractional differential equations such
+that the electromagnetic fields in the materials demonstrate &quot;universal&quot;
+fractional damping. The suggested fractional equations are common (universal)
+to a wide class of materials, regardless of the type of physical structure,
+chemical composition or of the nature of the polarization.
+</dc:description>
+ <dc:description>Comment: 11 pages, LaTeX</dc:description>
+ <dc:date>2009-07-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0907.1837</dc:identifier>
+ <dc:identifier>Journal of Physics: Condensed Matter 20 (2008) 4145212</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

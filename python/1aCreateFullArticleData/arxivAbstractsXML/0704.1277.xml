@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:49Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1277" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1277</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Discrete phase space and minimum-uncertainty states</dc:title>
+ <dc:creator>Wootters, William K.</dc:creator>
+ <dc:creator>Sussman, Daniel M.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The quantum state of a system of qubits can be represented by a Wigner
+function on a discrete phase space, each axis of the phase space taking values
+in a finite field. Within this framework, we show that one can make sense of
+the notion of a &quot;rotationally invariant state&quot; of any collection of qubits, and
+that any such state is, in a well defined sense, a state of minimum
+uncertainty.
+</dc:description>
+ <dc:description>Comment: Submitted to the proceedings of QCMC06</dc:description>
+ <dc:date>2007-04-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1277</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

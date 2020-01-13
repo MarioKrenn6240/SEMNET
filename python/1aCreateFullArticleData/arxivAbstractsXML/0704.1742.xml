@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:15:11Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1742" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1742</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>nlin</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Surface gap solitons at a nonlinearity interface</dc:title>
+ <dc:creator>Dohnal, Tomas</dc:creator>
+ <dc:creator>Pelinovsky, Dmitry</dc:creator>
+ <dc:subject>Nonlinear Sciences - Pattern Formation and Solitons</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We demonstrate existence of waves localized at the interface of two nonlinear
+periodic media with different coefficients of the cubic nonlinearity via the
+one-dimensional Gross--Pitaevsky equation. We call these waves the surface gap
+solitons (SGS). In the case of smooth symmetric periodic potentials, we study
+analytically bifurcations of SGS's from standard gap solitons and determine
+numerically the maximal jump of the nonlinearity coefficient allowing for the
+SGS existence. We show that the maximal jump vanishes near the thresholds of
+bifurcations of gap solitons. In the case of continuous potentials with a jump
+in the first derivative at the interface, we develop a homotopy method of
+continuation of SGS families from the solution obtained via gluing of parts of
+the standard gap solitons and study existence of SGS's in the photonic band
+gaps. We explain the termination of the SGS families in the interior points of
+the band gaps from the bifurcation of linear bound states in the continuous
+non-smooth potentials.
+</dc:description>
+ <dc:description>Comment: 23 pages, 6 figures, 3 tables corrections in v.2: sign error in the
+  energy functional on p.3; discussion of the symmetries of Bloch functions on
+  p. 5-6 corrected; derivative symbol missing in (3.5) and in the formula for
+  \mu below (3.6)</dc:description>
+ <dc:date>2007-04-13</dc:date>
+ <dc:date>2009-04-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1742</dc:identifier>
+ <dc:identifier>doi:10.1137/060676751</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>
