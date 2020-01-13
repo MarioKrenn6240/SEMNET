@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:41Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410011" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410011</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Electromagnetically induced absorption and transparency in
+  magneto-optical resonances in elliptically polarized field</dc:title>
+ <dc:creator>Brazhnikov, D. V.</dc:creator>
+ <dc:creator>Taichenachev, A. V.</dc:creator>
+ <dc:creator>Tumaikin, A. M.</dc:creator>
+ <dc:creator>Yudin, V. I.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  Using a 1 to 2 transition as an analytically tractable model, we discuss in
+detail magneto-optical resonances of both EIA (electromagnetically induced
+absorption) and EIT (electromagnetically induced transparency) types in the
+Hanle configuration. The analysis is made for arbitrary rate of depolarizing
+collisions in the excited state and arbitrary elliptical field polarization.
+The obtained results clearly show that the main reason for the EIA sub-natural
+resonance is the spontaneous transfer of anisotropy from the excited level to
+the ground one. In the EIA case we predict the negative structures in the
+absortpion resonance at large field detuning. The role of the finite atom-light
+interaction time is briefly discussed. In addition we study non-trivial
+peculiarities of the resonance lineshape related to the velocity spread in a
+gas.
+</dc:description>
+ <dc:description>Comment: version #2; revtex 4; 27 pages, 6 eps figures</dc:description>
+ <dc:date>2004-10-01</dc:date>
+ <dc:date>2006-11-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410011</dc:identifier>
+ <dc:identifier>J. Opt. Soc. Am. B 22(1) (2005) p.57-64</dc:identifier>
+ <dc:identifier>doi:10.1364/JOSAB.22.000057</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

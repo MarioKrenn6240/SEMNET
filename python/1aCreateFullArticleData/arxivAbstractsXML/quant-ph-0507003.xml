@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:09:57Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0507003" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0507003</identifier>
+ <datestamp>2010-11-02</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Monte Carlo techniques for real-time quantum dynamics</dc:title>
+ <dc:creator>Dowling, Mark R.</dc:creator>
+ <dc:creator>Davis, Matthew J.</dc:creator>
+ <dc:creator>Drummond, Peter D.</dc:creator>
+ <dc:creator>Corney, Joel F.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The stochastic-gauge representation is a method of mapping the equation of
+motion for the quantum mechanical density operator onto a set of equivalent
+stochastic differential equations. One of the stochastic variables is termed
+the &quot;weight&quot;, and its magnitude is related to the importance of the stochastic
+trajectory. We investigate the use of Monte Carlo algorithms to improve the
+sampling of the weighted trajectories and thus reduce sampling error in a
+simulation of quantum dynamics. The method can be applied to calculations in
+real time, as well as imaginary time for which Monte Carlo algorithms are
+more-commonly used. The method is applicable when the weight is guaranteed to
+be real, and we demonstrate how to ensure this is the case. Examples are given
+for the anharmonic oscillator, where large improvements over stochastic
+sampling are observed.
+</dc:description>
+ <dc:description>Comment: 28 pages, submitted to J. Comp. Phys</dc:description>
+ <dc:date>2005-07-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0507003</dc:identifier>
+ <dc:identifier>J. Comp. Phys. 220, 549 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1016/j.jcp.2006.05.017</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

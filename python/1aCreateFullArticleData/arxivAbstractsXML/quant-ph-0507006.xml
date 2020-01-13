@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:10:01Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0507006" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0507006</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Properties of Fermion Spherical Harmonics</dc:title>
+ <dc:creator>Hunter, Geoffrey</dc:creator>
+ <dc:creator>Emami-Razavi, Mohsen</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The Fermion Spherical harmonics [$Y_\ell^{m}(\theta,\phi)$ for
+half-odd-integer $\ell$ and $m$ - presented in a previous paper] are shown to
+have the same eigenfunction properties as the well-known Boson Spherical
+Harmonics [$Y_\ell^{m}(\theta,\phi)$ for integer $\ell$ and $m$]. The Fermion
+functions are shown to differ from the Boson functions in so far as the ladder
+operators $M_+$ ($M_-$) that ascend (descend) the sequence of harmonics over
+the values of $m$ for a given value of $\ell$, do not produce the expected
+result {\em in just one case}: when the value of $m$ changes from $\pm{1/2}$ to
+$\mp{1/2}$; i.e. when $m$ changes sign; in all other cases the ladder operators
+produce the usually expected result including anihilation when a ladder
+operator attempts to take $m$ outside the range: $-\ell\le m\le +\ell$.
+  The unexpected result in the one case does not invalidate this scalar
+coordinate representation of spin angular momentum, because the eigenfunction
+property is essential for a valid quantum mechanical state, whereas ladder
+operators relating states with different eigenvalues are not essential, and are
+in fact known only for a few physical systems; that this coordinate
+representation of spin angular momentum differs from the abstract theory of
+angular momentum in this respect, is simply an interesting curiosity. This new
+representation of spin angular momentum is expected to find application in the
+theoretical description of physical systems and experiments in which the
+spin-angular momentum (and associated magnetic moment) of a particle is
+oriented in space, since the orientation is specifiable by the spherical polar
+angles, $\theta$ and $\phi$.
+</dc:description>
+ <dc:description>Comment: 14 Pages - Submitted to J.Physics A</dc:description>
+ <dc:date>2005-07-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0507006</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

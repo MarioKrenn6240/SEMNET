@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:31Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310149" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310149</identifier>
+ <datestamp>2008-11-26</datestamp>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Applications of Partial Supersymmetry</dc:title>
+ <dc:creator>Spector, Donald</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  I examine quantum mechanical Hamiltonians with partial supersymmetry, and
+explore two main applications. First, I analyze a theory with a logarithmic
+spectrum, and show how to use partial supersymmetry to reveal the underlying
+structure of this theory. This method reveals an intriguing equivalence between
+two formulations of this theory, one of which is one-dimensional, and the other
+of which is infinite-dimensional. Second, I demonstrate the use of partial
+supersymmetry as a tool to obtain the asymptotic energy levels in
+non-relativistic quantum mechanics in an exceptionally easy way. In the end, I
+discuss possible extensions of this work, including the possible connections
+between partial supersymmetry and renormalization group arguments.
+</dc:description>
+ <dc:description>Comment: 11 pages, harvmac, no figures; typo corrected in identifying info on
+  title page</dc:description>
+ <dc:date>2003-10-23</dc:date>
+ <dc:date>2003-11-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310149</dc:identifier>
+ <dc:identifier>J.Phys.A37:4861-4870,2004</dc:identifier>
+ <dc:identifier>doi:10.1088/0305-4470/37/17/015</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

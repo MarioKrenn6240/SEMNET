@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:04Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611278" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611278</identifier>
+ <datestamp>2015-06-26</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Constructing Operator Valued Probability Measures in Phase Space</dc:title>
+ <dc:creator>Ellinas, Demosthenes</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Probability measures (quasi probability mass), given in the form of integrals
+of Wigner function over areas of the underlying phase space, give rise to
+operator valued probability measures (OVM). General construction methods of
+OVMs, are investigated in terms of geometric positive trace increasing maps
+(PTI), for general 1D domains, as well as 2D shapes e.g. circles, disks.
+Spectral properties of OVMs and operational implementations of their
+constructing PITs are discussed.
+</dc:description>
+ <dc:description>Comment: 6pages, no figures, to appear in Proceedings of Foundations of
+  Probability and Physics, held at Vaxjo University, Sweden, June 4-9, 2006.
+  Published by the American Institute of Physics</dc:description>
+ <dc:date>2006-11-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611278</dc:identifier>
+ <dc:identifier>doi:10.1063/1.2713469</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

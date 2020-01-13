@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:03:31Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0409207" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0409207</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Classical feedback for quantum channels</dc:title>
+ <dc:creator>Skeen, Andrew</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We investigate whether the use of a noiseless, classical feedback channel
+will increase the capacity of a quantum discrete memoryless channel to transmit
+classical information. This problem has been previously analyzed by Bowen and
+Nagarajan for the case of protocols restricted to product input states. They
+showed that feedback did not increase the information capacity. In this paper
+we introduce a quantum analogue of classical causality and prove a capacity
+theorem (in regularized form) for the transmission of classical information.
+</dc:description>
+ <dc:description>Comment: replaced incorrect definition of directed information and resulting
+  minor changes to proofs</dc:description>
+ <dc:date>2004-09-29</dc:date>
+ <dc:date>2004-11-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0409207</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

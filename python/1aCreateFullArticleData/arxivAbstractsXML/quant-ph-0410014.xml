@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:45Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410014" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410014</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Scaling of success probabilities for linear optics gates</dc:title>
+ <dc:creator>Scheel, Stefan</dc:creator>
+ <dc:creator>Audenaert, Koenraad M. R.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  By using the abstract linear-optical network derived in [S. Scheel and N.
+L\&quot;utkenhaus, New J. Phys. \textbf{6}, 51 (2004)] we show that for the lowest
+possible ancilla photon numbers the probability of success of realizing a
+(single-shot) generalized nonlinear sign shift gate on an ($N+1$)-dimensional
+signal state scales as $1/N^2$. We limit ourselves to single-shot gates without
+conditional feed-forward. We derive our results by using determinants of
+Vandermonde-type over a polynomial basis which is closely related to the
+well-known Jacobi polynomials.
+</dc:description>
+ <dc:description>Comment: 10 pages, RevTeX4, 1 EPS figure</dc:description>
+ <dc:date>2004-10-01</dc:date>
+ <dc:date>2005-08-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410014</dc:identifier>
+ <dc:identifier>New J. Phys. 7, 149 (2005)</dc:identifier>
+ <dc:identifier>doi:10.1088/1367-2630/7/1/149</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:28Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410001" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410001</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optimal two-qubit quantum circuits using exchange interactions</dc:title>
+ <dc:creator>Fan, Heng</dc:creator>
+ <dc:creator>Roychowdhury, Vwani</dc:creator>
+ <dc:creator>Szkopek, Thomas</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The Heisenberg exchange interaction is a natural method to implement
+non-local (i.e., multi-qubit) quantum gates in quantum information processing.
+We consider quantum circuits comprising of $(SWAP)^\alpha $ gates, which are
+realized through the exchange interaction, and single-qubit gates. A universal
+two-qubit quantum circuit is constructed from only three $(SWAP)^\alpha$ gates
+and six single-qubit gates. We further show that three $(SWAP)^\alpha $ gates
+are not only sufficient, but necessary. Since six single-qubit gates are known
+to be necessary, our universal two-qubit circuit is optimal in terms of the
+number of {\em both} $(SWAP)^\alpha $ and single-qubit gates.
+</dc:description>
+ <dc:description>Comment: 4 pages</dc:description>
+ <dc:date>2004-09-30</dc:date>
+ <dc:date>2005-07-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410001</dc:identifier>
+ <dc:identifier>Phys. Rev. A 72, 052323 (2005).</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.72.052323</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

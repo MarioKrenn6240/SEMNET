@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:32Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410004" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410004</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Analytical technique for simplification of the encoder-decoder circuit
+  for a perfect five-qubit error correction</dc:title>
+ <dc:creator>Hsieh, Jin-Yuan</dc:creator>
+ <dc:creator>Li, Che-Ming</dc:creator>
+ <dc:creator>Chuu, Der-San</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Simpler encoding and decoding networks are necessary for more reliable
+quantum error correcting codes (QECCs). The simplification of the
+encoder-decoder circuit for a perfect five-qubit QECC can be derived
+analytically if the QECC is converted from its equivalent one-way entanglement
+purification protocol (1-EPP). In this work, the analytical method to simplify
+the encoder-decoder circuit is introduced and a circuit that is as simple as
+the existent simplest circuits is presented as an example. The encoder-decoder
+circuit presented here involves nine single- and two-qubit unitary operations,
+only six of which are controlled-NOT (CNOT) gates.
+</dc:description>
+ <dc:date>2004-09-30</dc:date>
+ <dc:date>2005-12-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410004</dc:identifier>
+ <dc:identifier>New J. Phys. 8 (2006) 80</dc:identifier>
+ <dc:identifier>doi:10.1088/1367-2630/8/5/080</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:38Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410009" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410009</identifier>
+ <datestamp>2015-06-26</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Group Approach to the Quantization of the P\&quot;oschl-Teller dynamics</dc:title>
+ <dc:creator>Aldaya, V.</dc:creator>
+ <dc:creator>Guerrero, J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Physics - Chemical Physics</dc:subject>
+ <dc:description>  The quantum dynamics of a particle in the Modified P\&quot;oschl-Teller potential
+is derived from the group $SL(2,R)$ by applying a Group Approach to
+Quantization (GAQ). The explicit form of the Hamiltonian as well as the ladder
+operators is found in the enveloping algebra of this basic symmetry group. The
+present algorithm provides a physical realization of the non-unitary,
+finite-dimensional, irreducible representations of the $SL(2,R)$ group. The
+non-unitarity manifests itself in that only half of the states are
+normalizable, in contrast with the representations of SU(2) where all the
+states are physical.
+</dc:description>
+ <dc:description>Comment: 17 pages, LaTeX</dc:description>
+ <dc:date>2004-10-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410009</dc:identifier>
+ <dc:identifier>doi:10.1088/0305-4470/38/31/005</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

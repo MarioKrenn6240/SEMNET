@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:36Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410007" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410007</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Proposal of Quantum Simulation of Pairing Model on an NMR Quantum
+  Computer</dc:title>
+ <dc:creator>Wang, An Min</dc:creator>
+ <dc:creator>Yang, Xiaodong</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Superconductivity</dc:subject>
+ <dc:description>  We give out a proposal of quantum simulation of pairing model on an NMR
+quantum computer. In our proposal, we choose an appropriate initial state which
+can be easily prepared in experiment. Making use of feature of NMR measure and
+the technology of the second (discrete) Fourier transformation, our theoretical
+scheme can obtain the spectrum of paring model in principle. We concretely
+discuss the case in the concerned subspaces of pairing model and then, as an
+example, give out a simple initial state to get the gap of two the lowest
+energy levels in the given subspace. The quantum simulation to get more
+differences of energy levels is able to be discussed similarly.
+</dc:description>
+ <dc:description>Comment: 5 pages, no figures, introducing and conclusion paragraphes are
+  revised</dc:description>
+ <dc:date>2004-10-01</dc:date>
+ <dc:date>2005-04-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410007</dc:identifier>
+ <dc:identifier>Phys. Lett. A,352(2006)p304-308 (there are some revisions in
+  language)</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physleta.2005.12.012</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:23:24Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0506271" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0506271</identifier>
+ <datestamp>2009-11-11</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Some differences between Dirac's hole theory and quantum field theory</dc:title>
+ <dc:creator>Solomon, Dan</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Diracs hole theory (HT) and quantum field theory (QFT) are generally
+considered to be equivalent to each other. However, it has been recently shown
+by several researchers that this is not necessarily the case. When the change
+in the vacuum energy was calculated for a time independent perturbation HT and
+QFT yielded different results. In this paper we extend this discussion to
+include a time dependent perturbation for which the exact solution to the Dirac
+equation is known. It will be shown that for this case, also, HT and QFT yield
+different results. In addition, there will be some discussion of the problem of
+anomalies in QFT.
+</dc:description>
+ <dc:description>Comment: 28 pages</dc:description>
+ <dc:date>2005-06-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0506271</dc:identifier>
+ <dc:identifier>Can. J. Phys. 83: 257-271 (2005)</dc:identifier>
+ <dc:identifier>doi:10.1139/p04-086</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

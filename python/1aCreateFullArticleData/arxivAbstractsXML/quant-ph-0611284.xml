@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:13Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611284" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611284</identifier>
+ <datestamp>2008-03-01</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Finding flows in the one-way measurement model</dc:title>
+ <dc:creator>de Beaudrap, Niel</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The one-way measurement model is a framework for universal quantum
+computation, in which algorithms are partially described by a graph G of
+entanglement relations on a collection of qubits. A sufficient condition for an
+algorithm to perform a unitary embedding between two Hilbert spaces is for the
+graph G, together with input/output vertices I, O \subset V(G), to have a flow
+in the sense introduced by Danos and Kashefi [quant-ph/0506062]. For the
+special case of |I| = |O|, using a graph-theoretic characterization, I show
+that such flows are unique when they exist. This leads to an efficient
+algorithm for finding flows, by a reduction to solved problems in graph theory.
+</dc:description>
+ <dc:description>Comment: 8 pages, 3 figures: somewhat condensed and updated version, to appear
+  in PRA</dc:description>
+ <dc:date>2006-11-29</dc:date>
+ <dc:date>2008-02-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611284</dc:identifier>
+ <dc:identifier>Phys. Rev. A 77, 022328 (2008)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.77.022328</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

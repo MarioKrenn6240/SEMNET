@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:03:32Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0409208" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0409208</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Single-particle entanglement</dc:title>
+ <dc:creator>Can, M. Ali</dc:creator>
+ <dc:creator>Klyachko, Alexander</dc:creator>
+ <dc:creator>Shumovsky, Alexander</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Using the approach to quantum entanglement based on the quantum fluctuations
+of observables, we show the existence of perfect entangled states of a single
+&quot;spin-1&quot; particle. We give physical examples related to the photons, condensed
+matter physics, and particle physics.
+</dc:description>
+ <dc:description>Comment: 7 pages, no figures, submitted to Journal of Optics B</dc:description>
+ <dc:date>2004-09-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0409208</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

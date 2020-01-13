@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:34Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410006" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410006</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A quantum symmetric key cipher(Y-00) and key generation (Quantum stream
+  cipher-Part II)</dc:title>
+ <dc:creator>Hirota, Osamu</dc:creator>
+ <dc:creator>Kato, Kentaro</dc:creator>
+ <dc:creator>Sohma, Masaki</dc:creator>
+ <dc:creator>Fuse, Masaru</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  What obstructs the realization of useful quantum cryptography is single
+photon scheme, or entanglement which is not applicable to the current
+infrastructure of optical communication network. We are concerned with the
+following question: Can we realize the information theoretically secure
+symmetric key cipher under &quot;the finite secret key&quot; based on quantum-optical
+communications? A role of quantum information theory is to give an answer for
+such a question. As an answer for the question, a new quantum cryptography was
+proposed by H.P.Yuen, which can realize a secure symmetric key cipher with high
+speeds(Gbps) and for long distance(1000 Km). Although some researchers claim
+that Yuen protocol(Y-00) is equivalent to the classical cryptography, they are
+all mistaken. Indeed it has no classical analogue, and also provides a
+generalization even in the conventional cryptography.
+  At present, it is proved that a basic model of Y-00 has at least the security
+such as $H(X|Y_E)=H(K|Y_E)=H(K)$, $H(K|Y_E,X)\sim 0$ under the average photon
+number per signal light pulse:$&lt;n&gt; \sim 10000$. Towards our final goal, in this
+paper, we clarify a role of classical randomness(secret key) and quantum
+randomness in Y-00, and give a rigorous quantum mechanical interpretation of
+the security, showing an analysis of quantum collective attack.
+</dc:description>
+ <dc:description>Comment: Proceedings of Quantum Informatics 2004(Moscow, Oct. 2004)</dc:description>
+ <dc:date>2004-10-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410006</dc:identifier>
+ <dc:identifier>doi:10.1117/12.620487</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

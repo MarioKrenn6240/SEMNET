@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:03Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611277" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611277</identifier>
+ <datestamp>2008-10-14</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Efficiency in Quantum Key Distribution Protocols with Entangled Gaussian
+  States</dc:title>
+ <dc:creator>Rod&#xf3;, C.</dc:creator>
+ <dc:creator>Romero-Isart, O.</dc:creator>
+ <dc:creator>Eckert, K.</dc:creator>
+ <dc:creator>Sanpera, A.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Quantum key distribution (QKD) refers to specific quantum strategies which
+permit the secure distribution of a secret key between two parties that wish to
+communicate secretly. Quantum cryptography has proven unconditionally secure in
+ideal scenarios and has been successfully implemented using quantum states with
+finite (discrete) as well as infinite (continuous) degrees of freedom. Here, we
+analyze the efficiency of QKD protocols that use as a resource entangled
+gaussian states and gaussian operations only. In this framework, it has already
+been shown that QKD is possible (M. Navascu\'es et al. Phys. Rev. Lett. 94,
+010502 (2005)) but the issue of its efficiency has not been considered. We
+propose a figure of merit (the efficiency $E$) to quantify the number of
+classical correlated bits that can be used to distill a key from a sample of
+$N$ entangled states. We relate the efficiency of the protocol to the
+entanglement and purity of the states shared between the parties.
+</dc:description>
+ <dc:description>Comment: 13 pages, 2 figures, OSID style, published version</dc:description>
+ <dc:date>2006-11-28</dc:date>
+ <dc:date>2007-03-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611277</dc:identifier>
+ <dc:identifier>Open Syst. Inf. Dyn. 14, 69 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1007/s11080-007-9030-x</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

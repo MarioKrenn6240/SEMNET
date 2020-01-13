@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:10Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611282" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611282</identifier>
+ <datestamp>2007-10-04</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Covariance matrices and the separability problem</dc:title>
+ <dc:creator>G&#xfc;hne, O.</dc:creator>
+ <dc:creator>Hyllus, P.</dc:creator>
+ <dc:creator>Gittsovich, O.</dc:creator>
+ <dc:creator>Eisert, J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We propose a unifying approach to the separability problem using covariance
+matrices of locally measurable observables. From a practical point of view, our
+approach leads to strong entanglement criteria that allow to detect the
+entanglement of many bound entangled states in higher dimensions and which are
+at the same time necessary and sufficient for two qubits. From a fundamental
+perspective, our approach leads to insights into the relations between several
+known entanglement criteria -- such as the computable cross norm and local
+uncertainty criteria -- as well as their limitations.
+</dc:description>
+ <dc:description>Comment: 4 pages, no figures; v3: final version to appear in PRL</dc:description>
+ <dc:date>2006-11-29</dc:date>
+ <dc:date>2007-08-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611282</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 99, 130504 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.99.130504</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

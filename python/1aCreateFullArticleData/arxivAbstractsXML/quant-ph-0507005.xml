@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:10:00Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0507005" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0507005</identifier>
+ <datestamp>2009-11-11</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Surface plasmon modes and the Casimir energy</dc:title>
+ <dc:creator>Intravaia, F.</dc:creator>
+ <dc:creator>Lambrecht, A.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We show the influence of surface plasmons on the Casimir effect between two
+plane parallel metallic mirrors at arbitrary distances. Using the plasma model
+to describe the optical response of the metal, we express the Casimir energy as
+a sum of contributions associated with evanescent surface plasmon modes and
+propagative cavity modes. In contrast to naive expectations, the plasmonic
+modes contribution is essential at all distances in order to ensure the correct
+result for the Casimir energy. One of the two plasmonic modes gives rise to a
+repulsive contribution, balancing out the attractive contributions from
+propagating cavity modes, while both contributions taken separately are much
+larger than the actual value of the Casimir energy. This also suggests
+possibilities to tailor the sign of the Casimir force via surface plasmons.
+</dc:description>
+ <dc:description>Comment: 4 pages, 3 figures, revtex4</dc:description>
+ <dc:date>2005-07-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0507005</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 94, 110404 (2005)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.94.110404</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

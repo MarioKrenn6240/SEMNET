@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:35Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310152" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310152</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A quantitative model for the effective decoherence of a quantum computer
+  with imperfect unitary operations</dc:title>
+ <dc:creator>Bettelli, Stefano</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The problem of the quantitative degradation of the performance of a quantum
+computer due to noisy unitary gates (imperfect external control) is studied. It
+is shown that quite general conclusions on the evolution of the fidelity can be
+reached by using the conjecture that the set of states visited by a quantum
+algorithm can be replaced by the uniform (Haar) ensemble. These general results
+are tested numerically against quantum computer simulations of two particular
+periodically driven quantum systems.
+</dc:description>
+ <dc:description>Comment: 15 pages, 10 figures; only minor corrections, one reference added.
+  This is the version accepted for publication</dc:description>
+ <dc:date>2003-10-24</dc:date>
+ <dc:date>2004-02-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310152</dc:identifier>
+ <dc:identifier>Phys. Rev. A 69, 042310 (2004)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.69.042310</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

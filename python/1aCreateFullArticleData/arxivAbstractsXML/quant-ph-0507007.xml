@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:10:03Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0507007" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0507007</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Maximum likelihood estimation for a group of physical transformations</dc:title>
+ <dc:creator>Chiribella, G.</dc:creator>
+ <dc:creator>D'Ariano, G. M.</dc:creator>
+ <dc:creator>Perinotti, P.</dc:creator>
+ <dc:creator>Sacchi, M. F.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The maximum likelihood strategy to the estimation of group parameters allows
+to derive in a general fashion optimal measurements, optimal signal states, and
+their relations with other information theoretical quantities. These results
+provide a deep insight into the general structure underlying optimal quantum
+estimation strategies. The entanglement between representation spaces and
+multiplicity spaces of the group action appear to be the unique kind of
+entanglement which is really useful for the optimal estimation of group
+parameters.
+</dc:description>
+ <dc:description>Comment: 20 pages, no figures. World Scientific class style. Contribution for
+  the Proceedings of the Workshop on &quot;Quantum entanglement in physical and
+  information sciences&quot;, held in Pisa, December 14-18, 2004</dc:description>
+ <dc:date>2005-07-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0507007</dc:identifier>
+ <dc:identifier>Int. J. Quantum Inf. 4, 453 (2006)</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

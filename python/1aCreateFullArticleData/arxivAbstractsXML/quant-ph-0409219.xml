@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:03:47Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0409219" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0409219</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Surface Acoustic Wave Single-Electron Interferometry</dc:title>
+ <dc:creator>Rodriquez, Roberta</dc:creator>
+ <dc:creator>Oi, Daniel K. L.</dc:creator>
+ <dc:creator>Barnes, Crispin H. W.</dc:creator>
+ <dc:creator>Kataoka, Masaya</dc:creator>
+ <dc:creator>Ohshima, Toshio</dc:creator>
+ <dc:creator>Ekert, Artur K.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We propose an experiment to observe interference of a single electron as it
+is transported along two parallel quasi-one-dimensional channels trapped in a
+single minimum of a travelling periodic electric field. The experimental device
+is a modification of the surface acoustic wave (SAW) based quantum processor.
+Interference is achieved by creating a superposition of spatial wavefunctions
+between the two channels and inducing a relative phase shift via either a
+transverse electric field or a magnetic field. The interference can be used to
+estimate the decoherence time of an electron in this type of solid-state
+device.
+</dc:description>
+ <dc:date>2004-09-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0409219</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.72.085329</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

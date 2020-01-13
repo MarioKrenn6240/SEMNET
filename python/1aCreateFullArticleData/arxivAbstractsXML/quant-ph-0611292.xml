@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:24Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611292" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611292</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Full separability criterion for tripartite quantum systems</dc:title>
+ <dc:creator>Yu, Chang-shui</dc:creator>
+ <dc:creator>Song, He-shan</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In this paper, an intuitive approach is employed to generalize the full
+separability criterion of tripartite quantum states of qubits to the
+higher-dimensional systems (Phys. Rev. A \textbf{72}, 022333 (2005)). A
+distinct characteristic of the present generalization is that less restrictive
+conditions are needed to characterize the properties of full separability.
+Furthermore, the formulation for pure states can be conveniently extended to
+the case of mixed states by utilizing the kronecker product approximate
+technique. As applications, we give the analytic approximation of the criterion
+for weakly mixed tripartite quantum states and investigate the full
+separability of some weakly mixed states.
+</dc:description>
+ <dc:description>Comment: 5 pages. To be published in Europ. J. D</dc:description>
+ <dc:date>2006-11-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611292</dc:identifier>
+ <dc:identifier>Eur. Phys. J. D. 42, 147 (2007).</dc:identifier>
+ <dc:identifier>doi:10.1140/epjd/e2006-00267-y</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

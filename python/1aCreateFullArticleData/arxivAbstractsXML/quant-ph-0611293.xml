@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:25Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611293" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611293</identifier>
+ <datestamp>2010-10-11</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Decohering histories and open quantum systems</dc:title>
+ <dc:creator>Chisolm, Eric D.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  I briefly review the ''decohering histories'' or ''consistent histories''
+formulation of quantum theory, due to Griffiths, Omnes, and Gell-Mann and
+Hartle (and the subject of my graduate work with George Sudarshan). I also sift
+through the many meanings that have been attached to decohering histories, with
+an emphasis on the most basic one: Decoherence of appropriate histories is
+needed to establish that quantum mechanics has the correct classical limit.
+Then I will describe efforts to find physical mechanisms that do this. Since
+most work has focused on density matrix versions of decoherence, I'll consider
+the relation between the two formulations, which historically has not been
+straightforward. Finally, I'll suggest a line of research that would use recent
+results by Sudarshan to illuminate this aspect of the classical limit of
+quantum theory.
+</dc:description>
+ <dc:description>Comment: References added and discussion slightly modified in Section 3</dc:description>
+ <dc:date>2006-11-30</dc:date>
+ <dc:date>2006-12-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611293</dc:identifier>
+ <dc:identifier>Journal of Physics: Conference Series 196, 012025 (2009)</dc:identifier>
+ <dc:identifier>doi:10.1088/1742-6596/196/1/012025</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

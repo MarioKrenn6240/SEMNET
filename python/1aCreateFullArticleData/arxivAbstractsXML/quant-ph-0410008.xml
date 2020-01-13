@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:37Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410008" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410008</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum Hamilton - Jacobi study of wave functions and energy spectrum of
+  solvable and quasi - exactly solvable models</dc:title>
+ <dc:creator>Geojo, K. G.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In this thesis, the quantum Hamilton Jacobi (QHJ) formalism is used to study
+various exactly solvable (ES) and quasi -exactly solvable (QES) models. Using
+this method, we obtain the bound state eigenvalues and the eigenfunctions for
+the models studied. The central entity of this formalism in the logarithmic
+derivative of the wave function, known as the quantum momentum function
+(QMF).It is assumed that the point at infinity is an isolated singular
+point.The kowledge of the singularity structure of the QMF is used to arrive at
+the required solutions. We show that there are marked differences between the
+singularity structures of the ES and QES models.
+</dc:description>
+ <dc:description>Comment: Thesis submitted to University of Hyderabad in December 2003</dc:description>
+ <dc:date>2004-10-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410008</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

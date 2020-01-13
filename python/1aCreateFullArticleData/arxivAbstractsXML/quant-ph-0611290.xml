@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:21Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611290" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611290</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Teleportation of arbitrary $n$-qudit state with multipartite
+  entanglement</dc:title>
+ <dc:creator>Zhang, Zhan-jun</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We propose a protocol ${\cal D}_n$ for faithfully teleporting an arbitrary
+$n$-qudit state with the tensor product state (TPS) of $n$ generalized Bell
+states (GBSs) as the quantum channel. We also put forward explicit protocol
+${\cal D}'_n$ and ${\cal D}''_n$ for faithfully teleporting an arbitrary
+$n$-qudit state with two classes of $2n$-qudit GESs as the quantum channel,
+where the GESs are a kind of genuine entangled states we construct and can not
+be reducible to the TPS of $n$ GBSs.
+</dc:description>
+ <dc:description>Comment: 5 pages</dc:description>
+ <dc:date>2006-11-30</dc:date>
+ <dc:date>2006-12-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611290</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:10:07Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0507010" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0507010</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The quantum adiabatic search with decoherence in the instantaneous
+  energy eigenbasis</dc:title>
+ <dc:creator>&#xc5;berg, Johan</dc:creator>
+ <dc:creator>Kult, David</dc:creator>
+ <dc:creator>Sj&#xf6;qvist, Erik</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In Phys. Rev. A {\bf 71}, 060312(R) (2005) the robustness of the local
+adiabatic quantum search to decoherence in the instantaneous eigenbasis of the
+search Hamiltonian was examined. We expand this analysis to include the case of
+the global adiabatic quantum search. As in the case of the local search the
+asymptotic time complexity for the global search is the same as for the ideal
+closed case, as long as the Hamiltonian dynamics is present. In the case of
+pure decoherence, where the environment monitors the search Hamiltonian, we
+find that the time complexity of the global quantum adiabatic search scales
+like $N^{3/2}$, where $N$ is the list length. We moreover extend the analysis
+to include success probabilities $p&lt;1$ and prove bounds on the run time with
+the same scaling as in the conditions for the $p\to 1$ limit. We supplement the
+analytical results by numerical simulations of the global and local search.
+</dc:description>
+ <dc:description>Comment: Material added, journal reference added</dc:description>
+ <dc:date>2005-07-01</dc:date>
+ <dc:date>2005-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0507010</dc:identifier>
+ <dc:identifier>Phys. Rev. A 72, 042317 (2005)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.72.042317</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:42Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410012" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410012</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Pseudo-Hermitian Description of PT-Symmetric Systems Defined on a
+  Complex Contour</dc:title>
+ <dc:creator>Mostafazadeh, Ali</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  We describe a method that allows for a practical application of the theory of
+pseudo-Hermitian operators to PT-symmetric systems defined on a complex
+contour. We apply this method to study the Hamiltonians $H=p^2+x^2(ix)^\nu$
+with $\nu\in(-2,\infty)$ that are defined along the corresponding anti-Stokes
+lines. In particular, we reveal the intrinsic non-Hermiticity of $H$ for the
+cases that $\nu$ is an even integer, so that $H=p^2\pm x^{2+\nu}$, and give a
+proof of the discreteness of the spectrum of $H$ for all $\nu\in(-2,\infty)$.
+Furthermore, we study the consequences of defining a square-well Hamiltonian on
+a wedge-shaped complex contour. This yields a PT-symmetric system with a finite
+number of real eigenvalues. We present a comprehensive analysis of this system
+within the framework of pseudo-Hermitian quantum mechanics. We also outline a
+direct pseudo-Hermitian treatment of PT-symmetric systems defined on a complex
+contour which clarifies the underlying mathematical structure of the
+formulation of PT-symmetric quantum mechanics based on the charge-conjugation
+operator. Our results provide a conclusive evidence that pseudo-Hermitian
+quantum mechanics provides a complete description of general PT-symmetric
+systems regardless of whether they are defined along the real line or a complex
+contour.
+</dc:description>
+ <dc:description>Comment: 28 pages, 1 figure, revised version, to appear in J. Phys. A</dc:description>
+ <dc:date>2004-10-01</dc:date>
+ <dc:date>2005-02-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410012</dc:identifier>
+ <dc:identifier>J.Phys. A38 (2005) 3213-3234</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

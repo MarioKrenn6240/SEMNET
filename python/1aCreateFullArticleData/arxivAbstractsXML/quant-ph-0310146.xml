@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:27Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310146" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310146</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Canonical Form and Separability of PPT States in 2x2x2xN Composite
+  Quantum Systems</dc:title>
+ <dc:creator>Fei, S. M.</dc:creator>
+ <dc:creator>Gao, X. H.</dc:creator>
+ <dc:creator>Wang, X. H.</dc:creator>
+ <dc:creator>Wang, Z. X.</dc:creator>
+ <dc:creator>Wu, Ke</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We give a canonical form of PPT states in ${\cal C}^2 \otimes {\cal
+C}^2\otimes {\cal C}^2 \otimes {\cal C}^N$ with rank=$N$. From this canonical
+form a necessary separable condition for these states is presented.
+</dc:description>
+ <dc:description>Comment: Latex, 8 pages</dc:description>
+ <dc:date>2003-10-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310146</dc:identifier>
+ <dc:identifier>Commun. Theor. Phys. 40 (2003)515-518</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

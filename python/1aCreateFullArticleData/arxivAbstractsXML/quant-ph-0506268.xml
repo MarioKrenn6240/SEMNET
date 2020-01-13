@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:23:20Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0506268" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0506268</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Feedback stabilization of quantum ensembles: a global convergence
+  analysis on complex flag manifolds</dc:title>
+ <dc:creator>Altafini, Claudio</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In an N-level quantum mechanical system, the problem of unitary feedback
+stabilization of mixed density operators to periodic orbits admits a natural
+Lyapunov-based time-varying feedback design. A global description of the domain
+of attraction of the closed-loop system can be provided based on a
+``root-space''-like structure of the space of density operators. This convex
+set foliates as a complex flag manifold where each leaf is identified with the
+coadjoint orbit of the eigenvalues of the density operator. The converging
+conditions are time-independent but depend from the topology of the flag
+manifold: it is shown that the closed loop must have a number of equilibria at
+least equal to the Euler characteristic of the manifold, thus imposing
+obstructions of topological nature to global stabilizability.
+</dc:description>
+ <dc:description>Comment: 18 pages</dc:description>
+ <dc:date>2005-06-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0506268</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

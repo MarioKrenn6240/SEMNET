@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:42Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310157" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310157</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Low Energy Quantum System Simulation</dc:title>
+ <dc:creator>Cho, Peter</dc:creator>
+ <dc:creator>Berggren, Karl</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  A numerical method for solving Schrodinger's equation based upon a
+Baker-Campbell-Hausdorff (BCH) expansion of the time evolution operator is
+presented herein. The technique manifestly preserves wavefunction norm, and it
+can be applied to problems in any number of spatial dimensions. We also
+identify a particular dimensionless ratio of potential to kinetic energies as a
+key coupling constant. This coupling establishes characteristic length and time
+scales for a large class of low energy quantum states, and it guides the choice
+of step sizes in numerical work. Using the BCH method in conjunction with an
+imaginary time rotation, we compute low energy eigenstates for several quantum
+systems coupled to non-trivial background potentials. The approach is
+subsequently applied to the study of 1D propagating wave packets and 2D bound
+state time development. Failures of classical expectations uncovered by
+simulations of these simple systems help develop quantum intuition.
+  Finally, we investigate the response of a Superconducting Quantum
+Interference Device (SQUID) to a time dependent potential. We discuss how to
+engineer the potential's energy and time scales so that the SQUID acts as a
+quantum NOT gate. The notional simulation we present for this gate provides
+useful insight into the design of one candidate building block for a quantum
+computer.
+</dc:description>
+ <dc:description>Comment: 32 pages, 13 figures</dc:description>
+ <dc:date>2003-10-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310157</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

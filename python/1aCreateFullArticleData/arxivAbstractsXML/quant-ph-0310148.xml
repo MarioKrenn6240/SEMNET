@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:30Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310148" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310148</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Polarization phase gate with a tripod atomic system</dc:title>
+ <dc:creator>Rebic, S.</dc:creator>
+ <dc:creator>Vitali, D.</dc:creator>
+ <dc:creator>Ottaviani, C.</dc:creator>
+ <dc:creator>Tombesi, P.</dc:creator>
+ <dc:creator>Artoni, M.</dc:creator>
+ <dc:creator>Cataliotti, F.</dc:creator>
+ <dc:creator>Corbalan, R.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We analyze the nonlinear optical response of a four-level atomic system
+driven into a tripod configuration. The large cross-Kerr nonlinearities that
+occurr in such a system are shown to produce nonlinear phase shift of order
+$\pi$. Such a substantial shift may be observed in a cold atomic gas in a
+magneto-optical trap where it coupl be fasibly exploited towards the
+realization of a polarization quantum phase gate. The experimental feasibility
+of such a gate is here examined in detail.
+</dc:description>
+ <dc:description>Comment: Corrected version</dc:description>
+ <dc:date>2003-10-23</dc:date>
+ <dc:date>2004-03-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310148</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.70.032317</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

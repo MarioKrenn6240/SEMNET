@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:49Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0410017" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0410017</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>cs</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum seals</dc:title>
+ <dc:creator>Singh, Sudhir Kumar</dc:creator>
+ <dc:creator>Srikanth, R.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Computer Science - Cryptography and Security</dc:subject>
+ <dc:description>  A quantum seal is a way of encoding a message into quantum states, so that
+anybody may read the message with little error, while authorized verifiers can
+detect that the seal has been broken. We present a simple extension to the
+Bechmann-Pasquinucci majority-voting scheme that is impervious to coherent
+attacks, and further, encompasses sealing quantum messages by means of quantum
+encryption. The scheme is relatively easy to implement, requiring neither
+entanglement nor controlled operations during the state preparation, reading or
+verification stages.
+</dc:description>
+ <dc:description>Comment: To appear in Physica Scripta, 4 pages</dc:description>
+ <dc:date>2004-10-03</dc:date>
+ <dc:date>2005-01-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0410017</dc:identifier>
+ <dc:identifier>Physica Scripta, 71, 433 (2005)</dc:identifier>
+ <dc:identifier>doi:10.1238/Physica.Regular.071a00433</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

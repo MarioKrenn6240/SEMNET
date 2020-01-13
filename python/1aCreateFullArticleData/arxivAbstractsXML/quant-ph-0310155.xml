@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:39Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310155" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310155</identifier>
+ <datestamp>2008-01-08</datestamp>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Classifying chemical elements and particles: from the atomic to the
+  sub-atomic world</dc:title>
+ <dc:creator>Kibler, Maurice R.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Physics - Chemical Physics</dc:subject>
+ <dc:subject>Physics - History and Philosophy of Physics</dc:subject>
+ <dc:description>  This paper presents two facets. First, we show that the periodic table of
+chemical elements can be described, understood and modified (as far as its
+format is concerned) on the basis of group theory and more specifically by
+using the group SO(4,2)xSU(2). Second, we show that &quot;periodic tables&quot; also
+exist in the sub-atomic and sub-nuclear worlds and that group theory is of
+paramount importance for these tables. In that sense, this paper may be
+considered as an excursion, for non specialists, into nuclear and particle
+physics.
+</dc:description>
+ <dc:description>Comment: published in the book &quot;The Periodic Table: Into the 21st Century&quot;,
+  edited by D.H. Rouvray and R.B. King (Research Studies Press, Baldock, UK,
+  2004) pp. 297-329</dc:description>
+ <dc:date>2003-10-25</dc:date>
+ <dc:date>2008-01-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310155</dc:identifier>
+ <dc:identifier>Dans The Periodic Table: Into the 21st Century - Second Harry
+  Wiener International Memorial Conference, Banff : Canada (2004)</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

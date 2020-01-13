@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:38Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310154" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310154</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Transmission Spectrum of an Optical Cavity Containing N Atoms</dc:title>
+ <dc:creator>Leslie, Sabrina</dc:creator>
+ <dc:creator>Shenvi, Neil</dc:creator>
+ <dc:creator>Brown, Kenneth R.</dc:creator>
+ <dc:creator>Stamper-Kurn, Dan M.</dc:creator>
+ <dc:creator>Whaley, K. Birgitta</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The transmission spectrum of a high-finesse optical cavity containing an
+arbitrary number of trapped atoms is presented. We take spatial and motional
+effects into account and show that in the limit of strong coupling, the
+important spectral features can be determined for an arbitrary number of atoms,
+N. We also show that these results have important ramifications in limiting our
+ability to determine the number of atoms in the cavity.
+</dc:description>
+ <dc:description>Comment: 7 pages, 4 figures</dc:description>
+ <dc:date>2003-10-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310154</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.69.043805</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

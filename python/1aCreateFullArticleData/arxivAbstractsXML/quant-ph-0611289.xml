@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:19Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0611289" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0611289</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Converse Part of The Theorem for Quantum Hoeffding Bound</dc:title>
+ <dc:creator>Nagaoka, Hiroshi</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We prove the converse part of the theorem for quantum Hoeffding bound on the
+asymptotics of quantum hypothesis testing, essentially based on an argument
+developed by Nussbaum and Szkola in proving the converse part of the quantum
+Chernoff bound. Our result complements Hayashi's proof of the direct
+(achievability) part of the theorem, so that the quantum Hoeffding bound has
+now been established.
+</dc:description>
+ <dc:date>2006-11-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0611289</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

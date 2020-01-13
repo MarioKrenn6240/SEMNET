@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:37Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310153" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310153</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum Feedback Control of Atomic Motion in an Optical Cavity</dc:title>
+ <dc:creator>Steck, Daniel A.</dc:creator>
+ <dc:creator>Jacobs, Kurt</dc:creator>
+ <dc:creator>Mabuchi, Hideo</dc:creator>
+ <dc:creator>Bhattacharya, Tanmoy</dc:creator>
+ <dc:creator>Habib, Salman</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We study quantum feedback cooling of atomic motion in an optical cavity as a
+prototypical nonlinear quantum control problem. We design a feedback algorithm
+that can cool the atom to the ground state of the optical potential with high
+efficiency despite the nonlinear nature of this problem. An important
+ingredient is a simplified state-estimation algorithm, necessary for a
+real-time implementation of the feedback loop. We also describe the critical
+role of parity dynamics in the cooling process and present a simple theory that
+predicts the achievable steady-state atomic energies.
+</dc:description>
+ <dc:description>Comment: 5 pages, 4 figures; v2 includes minor corrections (no content
+  change); v3 includes minor wording/figure changes to match published PRL
+  version</dc:description>
+ <dc:date>2003-10-24</dc:date>
+ <dc:date>2004-06-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310153</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 92 (2004) 223004</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.92.223004</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:03:46Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0409218" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0409218</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Nonclassicality of a photon-subtracted Gaussian field</dc:title>
+ <dc:creator>Kim, M. S.</dc:creator>
+ <dc:creator>Park, E.</dc:creator>
+ <dc:creator>Knight, P. L.</dc:creator>
+ <dc:creator>Jeong, H.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Recently, a non-Gaussian field, which may be a useful basis for entanglement
+distillation and efficient quantum teleportation, has been experimentally
+produced by subtracting a photon from a squeezed Gaussian field. We investigate
+the nonclassicality of such the field using negativity in the Wigner function
+and the existence of positive well-defined $P$ function. We obtain the
+condition to see negativity in the Wigner function for the case including the
+mixed Gaussian incoming field, the threshold photodetection and the inefficient
+homodyne measurement. We show how similar the photon-subtracted state is to a
+superposition of coherent states.
+</dc:description>
+ <dc:description>Comment: Final version uploaded (accepted for Phys.Rev.A)</dc:description>
+ <dc:date>2004-09-30</dc:date>
+ <dc:date>2005-02-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0409218</dc:identifier>
+ <dc:identifier>Phys. Rev. A 71, 043805 (2005)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.71.043805</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

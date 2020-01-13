@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:23:23Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0506270" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0506270</identifier>
+ <datestamp>2013-05-29</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spin-1/2 particles moving on a 2D lattice with nearest-neighbor
+  interactions can realize an autonomous quantum computer</dc:title>
+ <dc:creator>Janzing, Dominik</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  What is the simplest Hamiltonian which can implement quantum computation
+without requiring any control operations during the computation process? In a
+previous paper we have constructed a 10-local finite-range interaction among
+qubits on a 2D lattice having this property. Here we show that
+pair-interactions among qutrits on a 2D lattice are sufficient, too, and can
+also implement an ergodic computer where the result can be read out from the
+time average state after some post-selection with high success probability.
+  Two of the 3 qutrit states are given by the two levels of a spin-1/2 particle
+located at a specific lattice site, the third state is its absence. Usual
+hopping terms together with an attractive force among adjacent particles induce
+a coupled quantum walk where the particle spins are subjected to spatially
+inhomogeneous interactions implementing holonomic quantum computing. The
+holonomic method ensures that the implemented circuit does not depend on the
+time needed for the walk.
+  Even though the implementation of the required type of spin-spin interactions
+is currently unclear, the model shows that quite simple Hamiltonians are
+powerful enough to allow for universal quantum computing in a closed physical
+system.
+</dc:description>
+ <dc:description>Comment: More detailed explanations including description of a programmable
+  version. 44 pages, 12 figures, latex. To appear in PRA</dc:description>
+ <dc:date>2005-06-30</dc:date>
+ <dc:date>2006-12-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0506270</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.75.012307</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

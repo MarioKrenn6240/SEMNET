@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:03:42Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0409215" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0409215</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Ghost imaging schemes: fast and broadband</dc:title>
+ <dc:creator>Bache, M.</dc:creator>
+ <dc:creator>Brambilla, E.</dc:creator>
+ <dc:creator>Gatti, A.</dc:creator>
+ <dc:creator>Lugiato, L. A.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In ghost imaging schemes information about an object is extracted by
+measuring the correlation between a beam that passed the object and a reference
+beam. We present a spatial averaging technique that substantially improves the
+imaging bandwidth of such schemes, which implies that information about
+high-frequency Fourier components can be observed in the reconstructed
+diffraction pattern. In the many-photon regime the averaging can be done in
+parallel and we show that this leads to a much faster convergence of the
+correlations. We also consider the reconstruction of the object image, and
+discuss the differences between a pixel-like detector and a bucket detector in
+the object arm. Finally, it is shown how to non-locally make spatial filtering
+of a reconstructed image. The results are presented using entangled beams
+created by parametric down-conversion, but they are general and can be extended
+also to the important case of using classically correlated thermal-like beams.
+</dc:description>
+ <dc:description>Comment: 15 pages, published in Optics Express. Figures in online version miss
+  some information in axes labels, therefore we have updated the arXiv version
+  to the published version and with the correct axes labels. The movies are
+  available at the Optics Express home page</dc:description>
+ <dc:date>2004-09-30</dc:date>
+ <dc:date>2004-12-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0409215</dc:identifier>
+ <dc:identifier>Opt. Express 12, 6067-6081 (2004),
+  http://www.opticsexpress.org/abstract.cfm?URI=OPEX-12-24-6067</dc:identifier>
+ <dc:identifier>doi:10.1364/OPEX.12.006067</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>
