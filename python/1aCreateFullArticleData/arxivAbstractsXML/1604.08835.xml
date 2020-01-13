@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-03-01T17:32:32Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1604.08835" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08835</identifier>
+ <datestamp>2016-11-23</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A perturbative quantized twist embedded in Minkowski spacetime</dc:title>
+ <dc:creator>Strohaber, James</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  In this article, spatially-structured gravitational waves are investigated.
+Drawing upon analogies between electrodynamics and general relativity, a new
+gauge is found. We investigate the polarization and degrees of freedom of the
+resulting radiation. The waves are found to carry orbital angular momentum that
+cam be transferred to matter.
+</dc:description>
+ <dc:description>Comment: 19 pages, 3 figures</dc:description>
+ <dc:date>2016-04-28</dc:date>
+ <dc:date>2016-10-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1604.08835</dc:identifier>
+ <dc:identifier>doi:10.1088/1054-660X/26/11/116201</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

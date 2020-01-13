@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T20:30:58Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1107.1314" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1107.1314</identifier>
+ <datestamp>2012-03-07</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum criticality of a Bose gas in an optical lattice near the Mott
+  transition</dc:title>
+ <dc:creator>Rancon, A.</dc:creator>
+ <dc:creator>Dupuis, N.</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  We derive the equation of state of bosons in an optical lattice in the
+framework of the Bose-Hubbard model. Near the density-driven Mott transition,
+the expression of the pressure P({\mu},T) versus chemical potential and
+temperature is similar to that of a dilute Bose gas but with renormalized mass
+m^* and scattering length a^*. m^* is the mass of the elementary excitations at
+the quantum critical point governing the transition from the superfluid phase
+to the Mott insulating phase, while a^* is related to their effective
+interaction at low energy. We use a nonperturbative renormalization-group
+approach to compute these parameters as a function of the ratio t/U between
+hopping amplitude and on-site repulsion.
+</dc:description>
+ <dc:description>Comment: v1) 4 pages, 6 figures. v2) Significant rewriting (new title) with
+  more emphasis on the quantum critical behavior near the Mott transition</dc:description>
+ <dc:date>2011-07-07</dc:date>
+ <dc:date>2011-10-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1107.1314</dc:identifier>
+ <dc:identifier>Phys. Rev. A 85, 011602(R) (2012)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.85.011602</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:52:44Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1301.5229" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1301.5229</identifier>
+ <datestamp>2013-04-05</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Majorization relations and entanglement generation in a beam splitter</dc:title>
+ <dc:creator>Gagatsos, C. N.</dc:creator>
+ <dc:creator>Oreshkov, O.</dc:creator>
+ <dc:creator>Cerf, N. J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We prove that a beam splitter, one of the most common optical components,
+fulfills several classes of majorization relations, which govern the amount of
+quantum entanglement that it can generate. First, we show that the state
+resulting from k photons impinging on a beam splitter majorizes the
+corresponding state with any larger photon number k'&gt;k, implying that the
+entanglement monotonically grows with k. Then, we examine parametric
+infinitesimal majorization relations as a function of the beam-splitter
+transmittance, and find that there exists a parameter region where majorization
+is again fulfilled, implying a monotonic increase of entanglement by moving
+towards a balanced beam splitter. We also identify regions with a majorization
+default, where the output states become incomparable. In this latter situation,
+we find examples where catalysis may nevertheless be used in order to recover
+majorization. The catalyst states can be as simple as a path-entangled
+single-photon state or a two-mode vacuum squeezed state.
+</dc:description>
+ <dc:date>2013-01-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1301.5229</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.87.042307</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

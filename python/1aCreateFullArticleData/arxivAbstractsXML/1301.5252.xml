@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:58:47Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1301.5252" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1301.5252</identifier>
+ <datestamp>2013-09-17</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Trapped Atoms in One-Dimensional Photonic Crystals</dc:title>
+ <dc:creator>Hung, C. -L.</dc:creator>
+ <dc:creator>Meenehan, S. M.</dc:creator>
+ <dc:creator>Chang, D. E.</dc:creator>
+ <dc:creator>Painter, O.</dc:creator>
+ <dc:creator>Kimble, H. J.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We describe one-dimensional photonic crystals that support a guided mode
+suitable for atom trapping within a unit cell, as well as a second probe mode
+with strong atom-photon interactions. A new hybrid trap is analyzed that
+combines optical and Casimir-Polder forces to form stable traps for neutral
+atoms in dielectric nanostructures. By suitable design of the band structure,
+the atomic spontaneous emission rate into the probe mode can exceed the rate
+into all other modes by more than tenfold. The unprecedented single-atom
+reflectivity $r_0 \gtrsim 0.9$ for the guided probe field should enable diverse
+investigations of photon-mediated interactions for 1D atom chains and cavity
+QED.
+</dc:description>
+ <dc:description>Comment: 7 pages with 5 figures</dc:description>
+ <dc:date>2013-01-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1301.5252</dc:identifier>
+ <dc:identifier>New Journal of Physics 15 (2013) 083026</dc:identifier>
+ <dc:identifier>doi:10.1088/1367-2630/15/8/083026</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

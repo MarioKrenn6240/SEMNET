@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T16:30:51Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1505.01001" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.01001</identifier>
+ <datestamp>2015-05-06</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Homological codes and abelian anyons</dc:title>
+ <dc:creator>Vrana, P&#xe9;ter</dc:creator>
+ <dc:creator>Farkas, M&#xe1;t&#xe9;</dc:creator>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We study a generalization of Kitaev's abelian toric code model defined on CW
+complexes. In this model qudits are attached to n dimensional cells and the
+interaction is given by generalized star and plaquette operators. These are
+defined in terms of coboundary and boundary maps in the locally finite cellular
+cochain complex and the cellular chain complex. We find that the set of
+energy-minimizing ground states and the types of charges carried by certain
+localized excitations depends only on the proper homotopy type of the CW
+complex. As an application we show that the homological product of a CSS code
+with the infinite toric code has excitations with abelian anyonic statistics.
+</dc:description>
+ <dc:description>Comment: 50 pages, 11 figures</dc:description>
+ <dc:date>2015-05-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1505.01001</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

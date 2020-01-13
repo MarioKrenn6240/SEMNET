@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-03-01T14:24:10Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1604.08747" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08747</identifier>
+ <datestamp>2016-05-02</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Calorimetry of a Bose-Einstein condensed photon gas</dc:title>
+ <dc:creator>Damm, Tobias</dc:creator>
+ <dc:creator>Schmitt, Julian</dc:creator>
+ <dc:creator>Liang, Qi</dc:creator>
+ <dc:creator>Dung, David</dc:creator>
+ <dc:creator>Vewinger, Frank</dc:creator>
+ <dc:creator>Weitz, Martin</dc:creator>
+ <dc:creator>Klaers, Jan</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  Phase transitions, as the condensation of a gas to a liquid, are often
+revealed by a discontinuous behavior of thermodynamic quantities. For liquid
+Helium, for example, a divergence of the specific heat signals the transition
+from the normal fluid to the superfluid state. Apart from liquid helium,
+determining the specific heat of a Bose gas has proven to be a challenging
+task, for example for ultracold atomic Bose gases. Here we examine the
+thermodynamic behavior of a trapped two-dimensional photon gas, a system that
+allows us to spectroscopically determine the specific heat and the entropy of a
+nearly ideal Bose gas from the classical high temperature to the Bose-condensed
+quantum regime. The critical behavior at the phase transition is clearly
+revealed by a cusp singularity of the specific heat. Regarded as a test of
+quantum statistical mechanics, our results demonstrate a quantitative agreement
+with its predictions at the microscopic level.
+</dc:description>
+ <dc:description>Comment: 14 pages, including 3 figures</dc:description>
+ <dc:date>2016-04-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1604.08747</dc:identifier>
+ <dc:identifier>Nature Communications 7, 11340 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1038/ncomms11340</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

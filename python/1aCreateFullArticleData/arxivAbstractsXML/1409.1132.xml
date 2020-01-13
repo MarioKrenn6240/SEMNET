@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T10:33:47Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1409.1132" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1409.1132</identifier>
+ <datestamp>2015-03-24</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Wigner's form of the Leggett-Garg inequality, No-Signalling in Time, and
+  Unsharp Measurements</dc:title>
+ <dc:creator>Saha, Debashis</dc:creator>
+ <dc:creator>Mal, Shiladitya</dc:creator>
+ <dc:creator>Panigrahi, Prasanta K.</dc:creator>
+ <dc:creator>Home, Dipankar</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Wigner's form of the local realist inequality is used to derive its temporal
+version for an oscillating two-level system involving two-time joint
+probabilities. Such an inequality may be regarded as a novel form of the
+Leggett-Garg inequality (LGI) constituting a necessary condition for
+macrorealism. The robustness of its quantum mechanical (QM) violation against
+unsharpness of measurement is investigated by using a suitable model of unsharp
+measurements. It is found that there exists a range of values of the sharpness
+parameter (characterizing precision of the relevant measurements) for which the
+usual LGI is satisfied by QM, but Wigner's form of the LGI (WLGI) is violated.
+This implies that for such unsharp measurements, the QM violation of
+macrorealism cannot be tested using the usual LGI, but can be tested using
+WLGI. In showing this, we take into account the general form of the usual LGI
+involving an arbitrary number of pairs of two-time correlation functions.
+Another recently proposed necessary condition for macrorealism, called
+`no-signalling in time', is also probed, showing that its QM violation persists
+for arbitrarily unsharp measurements.
+</dc:description>
+ <dc:date>2014-09-03</dc:date>
+ <dc:date>2015-03-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1409.1132</dc:identifier>
+ <dc:identifier>Phys. Rev. A 91, 032117 (2015)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.91.032117</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

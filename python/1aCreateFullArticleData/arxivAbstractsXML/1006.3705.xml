@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T11:52:52Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1006.3705" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1006.3705</identifier>
+ <datestamp>2015-05-19</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Solitary waves of Bose-Einstein condensed atoms confined in finite rings</dc:title>
+ <dc:creator>Smyrnakis, J.</dc:creator>
+ <dc:creator>Magiropoulos, M.</dc:creator>
+ <dc:creator>Kavoulakis, G. M.</dc:creator>
+ <dc:creator>Jackson, A. D.</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Motivated by recent progress in trapping Bose-Einstein condensed atoms in
+toroidal potentials, we examine solitary-wave solutions of the nonlinear
+Schr\&quot;odinger equation subject to periodic boundary conditions. When the
+circumference of the ring is much larger than the size of the wave, the density
+profile is well approximated by that of an infinite ring, however the density
+and the velocity of propagation cannot vanish simultaneously. When the size of
+the ring becomes comparable to the size of the wave, the density variation
+becomes sinusoidal and the velocity of propagation saturates to a constant
+value.
+</dc:description>
+ <dc:description>Comment: 6 pages, 2 figures</dc:description>
+ <dc:date>2010-06-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1006.3705</dc:identifier>
+ <dc:identifier>Phys. Rev. A 82 (2010) 023604</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.82.023604</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

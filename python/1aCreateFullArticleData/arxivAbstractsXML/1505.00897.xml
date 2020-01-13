@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T16:22:52Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1505.00897" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.00897</identifier>
+ <datestamp>2015-05-06</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A simple implementation of quantum key distribution based on
+  single-photon Bell state measurement</dc:title>
+ <dc:creator>Liang, Wen-Ye</dc:creator>
+ <dc:creator>Li, Mo</dc:creator>
+ <dc:creator>Yin, Zhen-Qiang</dc:creator>
+ <dc:creator>Chen, Wei</dc:creator>
+ <dc:creator>Wang, Shuang</dc:creator>
+ <dc:creator>An, Xue-Bi</dc:creator>
+ <dc:creator>Guo, Guang-Can</dc:creator>
+ <dc:creator>Han, Zheng-Fu</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Recently some alternatives of the measurement device independent quantum key
+distribution(MDI-QKD) based on the single-photon Bell state measurement (SBSM)
+have been proposed. Although these alternatives are not precisely as secure as
+MDI-QKD, they possess the advantage of high key rate of traditional BB84-like
+protocol and avoid the technical complexity of two-photon interference required
+in the MDI-QKD. However, the setups of these proposed schemes are rather
+complicated compared to commonly used BB84 systems. Here we propose a simple
+implementation of SBSM-based QKD which is directly built on the existing
+realization of BB84 QKD. Our proposal exhibits the hidden connection between
+SBSM-based QKD and traditional phase-coding QKD protocols. This finding
+discloses the physics behind these two different types of QKD protocols. In
+addition, we experimentally demonstrate the feasibility of our protocol.
+</dc:description>
+ <dc:date>2015-05-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1505.00897</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

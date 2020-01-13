@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:58:48Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1301.5339" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1301.5339</identifier>
+ <datestamp>2013-04-22</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Charge conservation protected topological phases</dc:title>
+ <dc:creator>Budich, Jan Carl</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Condensed Matter - Superconductivity</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We discuss the relation between particle number conservation and topological
+phases. In four spatial dimensions, we find that systems belonging to different
+topological phases in the presence of a U(1) charge conservation can be
+connected adiabatically, i.e., without closing the gap, upon intermediately
+breaking this local symmetry by a superconducting term. The time reversal
+preserving topological insulator states in 2D and 3D which can be obtained from
+the 4D parent state by dimensional reduction inherit this protection by charge
+conservation. Hence, all topological insulators can be adiabatically connected
+to a trivial insulating state without breaking time reversal symmetry, provided
+an intermediate superconducting term is allowed during the adiabatic
+deformation. Conversely, in one spatial dimension, non-symmetry-protected
+topological phases occur only in systems that break U(1) charge conservation.
+These results can intuitively be understood by considering a natural embedding
+of the classifying spaces of charge conserving Hamiltonians into the
+corresponding Bogoliubov de Gennes classes.
+</dc:description>
+ <dc:date>2013-01-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1301.5339</dc:identifier>
+ <dc:identifier>Phys. Rev. B 87, 161103(R) (2013)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.87.161103</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

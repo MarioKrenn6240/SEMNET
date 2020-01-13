@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-15T15:09:33Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1203.1259" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1203.1259</identifier>
+ <datestamp>2012-10-17</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Kilohertz-driven Bose-Einstein condensates in optical lattices</dc:title>
+ <dc:creator>Arimondo, Ennio</dc:creator>
+ <dc:creator>Ciampini, Donatella</dc:creator>
+ <dc:creator>Eckardt, Andr&#xe9;</dc:creator>
+ <dc:creator>Holthaus, Martin</dc:creator>
+ <dc:creator>Morsch, Oliver</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We analyze time-of-flight absorption images obtained with dilute
+Bose-Einstein con-densates released from shaken optical lattices, both
+theoretically and experimentally. We argue that weakly interacting, ultracold
+quantum gases in kilohertz-driven optical potentials constitute equilibrium
+systems characterized by a steady-state distri-bution of Floquet-state
+occupation numbers. Our experimental results consistently indicate that a
+driven ultracold Bose gas tends to occupy a single Floquet state, just as it
+occupies a single energy eigenstate when there is no forcing. When the driving
+amplitude is sufficiently high, the Floquet state possessing the lowest mean
+energy does not necessarily coincide with the Floquet state connected to the
+ground state of the undriven system. We observe strongly driven Bose gases to
+condense into the former state under such conditions, thus providing nontrivial
+examples of dressed matter waves.
+</dc:description>
+ <dc:description>Comment: 36 pages, 3 figures, Advance Atomic Molecular Physics in press</dc:description>
+ <dc:date>2012-03-06</dc:date>
+ <dc:date>2012-03-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1203.1259</dc:identifier>
+ <dc:identifier>Advances in Atomic, Molecular, and Optical Physics 61, 515-547
+  (2012)</dc:identifier>
+ <dc:identifier>doi:10.1016/B978-0-12-396482-3.00010-7</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

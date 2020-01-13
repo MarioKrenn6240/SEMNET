@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T20:38:37Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1203.1236" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1203.1236</identifier>
+ <datestamp>2015-06-04</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Strong-coupling solution of the bosonic dynamical mean-field theory</dc:title>
+ <dc:creator>Kauch, Anna</dc:creator>
+ <dc:creator>Byczuk, Krzysztof</dc:creator>
+ <dc:creator>Vollhardt, Dieter</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  We derive an approximate analytical solution of the self-consistency
+equations of the bosonic dynamical mean-field theory (B-DMFT) in the
+strong-coupling limit. The approach is based on a linked-cluster expansion in
+the hybridization function of normal bosons around the atomic limit. The
+solution is used to compute the phase diagram of the bosonic Hubbard model for
+different lattices. We compare our results with numerical solutions of the
+B-DMFT equations and numerically exact methods, respectively. The very good
+agreement with those numerical results demonstrates that our approach captures
+the essential physics of correlated bosons both in the Mott insulator and in
+the superfluid phase. Close to the transition into the superfluid phase the
+momentum distribution function at zero momentum is found to be strongly
+enhanced already in the normal phase. The linked-cluster expansion also allows
+us to compute dynamical properties such as the spectral function of bosons. The
+evolution of the spectral function across the transition from the normal to the
+superfluid phase is seen to be characteristically different for the interaction
+driven and density driven transition, respectively.
+</dc:description>
+ <dc:description>Comment: 8 pages, 6 figures</dc:description>
+ <dc:date>2012-03-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1203.1236</dc:identifier>
+ <dc:identifier>Phys. Rev. B 85, 205115 (2012)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.85.205115</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

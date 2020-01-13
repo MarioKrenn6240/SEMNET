@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:52:52Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1301.5364" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1301.5364</identifier>
+ <datestamp>2013-01-28</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Exploring Quantum Contextuality to Generate True Random Numbers</dc:title>
+ <dc:creator>Deng, D. -L.</dc:creator>
+ <dc:creator>Zu, C.</dc:creator>
+ <dc:creator>Chang, X. -Y.</dc:creator>
+ <dc:creator>Hou, P. -Y.</dc:creator>
+ <dc:creator>Yang, H. -X.</dc:creator>
+ <dc:creator>Wang, Y. -X.</dc:creator>
+ <dc:creator>Duan, L. -M.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Random numbers represent an indispensable resource for many applications. A
+recent remarkable result is the realization that non-locality in quantum
+mechanics can be used to certify genuine randomness through Bell's theorem,
+producing reliable random numbers in a device independent way. Here, we explore
+the contextuality aspect of quantum mechanics and show that true random numbers
+can be generated using only single qutrit (three-state systems) without
+entanglement and non-locality. In particular, we show that any observed
+violation of the Klyachko-Can-Binicioglu-Shumovsky (KCBS) inequality [Phys.
+Rev. Lett. 101, 20403 (2008)] provides a positive lower bound on genuine
+randomness. As a proof-of-concept experiment, we demonstrate with photonic
+qutrits that at least 5246 net true random numbers are generated with a
+confidence level of 99.9%.
+</dc:description>
+ <dc:description>Comment: Paper : 4.5 pages, 4 figures; Supplementary material : 5 pages, 2
+  figures</dc:description>
+ <dc:date>2013-01-22</dc:date>
+ <dc:date>2013-01-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1301.5364</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

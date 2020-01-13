@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:42:03Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1107.1315" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1107.1315</identifier>
+ <datestamp>2011-12-08</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Non-adiabatic optomechanical Hamiltonian of a moving dielectric membrane
+  in a cavity</dc:title>
+ <dc:creator>Cheung, H. K.</dc:creator>
+ <dc:creator>Law, C. K.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We formulate a non-relativistic Hamiltonian in order to describe the
+interaction between a moving dielectric membrane and radiation pressure. Such a
+Hamiltonian is derived without making use of the single-mode adiabatic
+approximation, and hence it enables us to incorporate multi-mode effects in
+cavity optomechanics. By performing second quantization, we show how a set of
+generalized Fock states can be constructed to represent quantum states of the
+membrane and cavity field. In addition, we discuss examples showing how photon
+scattering among different cavity modes would modify the interaction strengths
+and the mechanical frequency of the membrane.
+</dc:description>
+ <dc:date>2011-07-07</dc:date>
+ <dc:date>2011-07-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1107.1315</dc:identifier>
+ <dc:identifier>Phys. Rev. A 84, 023812 (2011)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.84.023812</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

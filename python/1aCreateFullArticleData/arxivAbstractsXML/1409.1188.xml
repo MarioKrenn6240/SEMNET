@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T17:39:37Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1409.1188" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1409.1188</identifier>
+ <datestamp>2016-01-20</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Photo-induced Magnetic Force Between Nanostructures</dc:title>
+ <dc:creator>Guclu, Caner</dc:creator>
+ <dc:creator>Tamma, Venkata Ananth</dc:creator>
+ <dc:creator>Wickramasinghe, Hemantha Kumar</dc:creator>
+ <dc:creator>Capolino, Filippo</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  Photo-induced magnetic force between nanostructures, at optical frequencies,
+is investigated theoretically. Till now optical magnetic effects are not used
+in scanning probe microscopy because of the vanishing natural magnetism with
+increasing frequency. On the other hand, artificial magnetism in engineered
+nanostructures led to the development of measurable optical magnetism. Here,
+two examples of nanoprobes that are able to generate strong magnetic dipolar
+fields at optical frequency are investigated: first an ideal magnetically
+polarizable nanosphere and then a circular cluster of silver nanospheres that
+has a loop-like collective plasmonic resonance equivalent to a magnetic dipole.
+Magnetic forces are evaluated based on nanostructure polarizabilities, i.e.
+induced magnetic dipoles, and magnetic-near field evaluations. As an initial
+assessment on the possibility of a magnetic nanoprobe to detect magnetic
+forces, we consider two identical magnetically polarizable nanoprobes and
+observe magnetic forces in the order of piconewtons thereby bringing it within
+detection limits of conventional atomic force microscopes at ambient pressure
+and temperature. The detection of magnetic force is a promising method in
+studying optical magnetic transitions that can be the basis of innovative
+spectroscopy applications.
+</dc:description>
+ <dc:description>Comment: 9 pages, 10 figures</dc:description>
+ <dc:date>2014-09-03</dc:date>
+ <dc:date>2015-11-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1409.1188</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.92.235111</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

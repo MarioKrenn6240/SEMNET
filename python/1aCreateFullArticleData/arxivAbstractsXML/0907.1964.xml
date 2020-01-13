@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T13:25:02Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0907.1964" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0907.1964</identifier>
+ <datestamp>2015-05-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Entanglement measurement of the quadrature components without the
+  homodyne detection in the spatially multi-mode far-field</dc:title>
+ <dc:creator>Golubeva, T.</dc:creator>
+ <dc:creator>Golubev, Yu.</dc:creator>
+ <dc:creator>Samburskaya, K.</dc:creator>
+ <dc:creator>Fabre, C.</dc:creator>
+ <dc:creator>Treps, N.</dc:creator>
+ <dc:creator>Kolobov, M.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We consider the measuring procedure that in principle allows to avoid the
+homodyne detection for the simultaneous selection of both quadrature components
+in the far-field. The scheme is based on the use of the coherent sources of the
+non-classical light. The possibilities of the procedure are illustrated on the
+basis of the use of pixellised sources, where the phase-locked sub-Poissonian
+lasers or the degenerate optical parametric oscillator generating above
+threshold are chosen as the pixels. The theory of the pixellised source of the
+spatio-temporal squeezed light is elaborated as a part of this investigation.
+</dc:description>
+ <dc:description>Comment: 11 pages, 5 figures, RevTeX4. Submitted to Phys. Rev. A</dc:description>
+ <dc:date>2009-07-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0907.1964</dc:identifier>
+ <dc:identifier>Physical Review A 81, 013831 (2010)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.81.013831</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

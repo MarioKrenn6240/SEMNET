@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:15:57Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1006.3767" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1006.3767</identifier>
+ <datestamp>2015-05-19</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Atomic population distribution in the output ports of cold-atom
+  interferometers with optical splitting and recombination</dc:title>
+ <dc:creator>Ilo-Okeke, Ebubechukwu O.</dc:creator>
+ <dc:creator>Zozulya, Alex A.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  Cold-atom interferometers with optical splitting and recombination use
+off-resonant laser beams to split a cloud of Bose-Einstein condensate (BEC)
+into two clouds that travel along different paths and are then recombined again
+using optical beams. After the recombination, the BEC in general populates both
+the cloud at rest and the moving clouds. Measuring relative number of atoms in
+each of these clouds yields information about the relative phase shift
+accumulated by the atoms in the two moving clouds during the interferometric
+cycle. We derive the expression for the probability of finding any given number
+of atoms in each of the clouds, discuss features of the probability density
+distribution, analyze its dependence on the relative accumulated phase shift as
+a function of the strength of the interatomic interactions, and compare our
+results with experiment.
+</dc:description>
+ <dc:description>Comment: 25 pages, 7 figures</dc:description>
+ <dc:date>2010-06-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1006.3767</dc:identifier>
+ <dc:identifier>Phys. Rev. A 82, 053603 (2010)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.82.053603</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

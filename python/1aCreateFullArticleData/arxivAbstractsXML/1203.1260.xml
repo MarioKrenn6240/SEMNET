@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-15T15:09:35Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1203.1260" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1203.1260</identifier>
+ <datestamp>2012-03-07</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Brownian motion of the electron and the Lamb shift at finite temperature</dc:title>
+ <dc:creator>Kolomeisky, Eugene B.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  By enhancing electron position fluctuations, equilibrium electromagnetic
+radiation modifies the potential for an electron in a Hydrogen atom. This can
+have significant effects for weakly bound states and especially at finite
+temperature. This implies a 2% correction to Bethe's value for 2S-2P Lamb shift
+for weak fluctuations, but the effect is an order of magnitude larger for
+strong fluctuations where it provides direct measure of the proton diameter.
+</dc:description>
+ <dc:description>Comment: 4 pages</dc:description>
+ <dc:date>2012-03-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1203.1260</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

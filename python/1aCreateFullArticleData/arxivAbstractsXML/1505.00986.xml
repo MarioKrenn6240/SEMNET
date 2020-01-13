@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T17:51:07Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1505.00986" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.00986</identifier>
+ <datestamp>2015-05-06</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Breaking the challenge of signal integrity using time-domain spoof
+  surface plasmon polaritons</dc:title>
+ <dc:creator>Zhang, Hao Chi</dc:creator>
+ <dc:creator>Cui, Tie Jun</dc:creator>
+ <dc:creator>Zhang, Qian</dc:creator>
+ <dc:creator>Fan, Yifeng</dc:creator>
+ <dc:creator>Fu, Xiaojian</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  In modern integrated circuits and wireless communication systems/devices,
+three key features need to be solved simultaneously to reach higher performance
+and more compact size: signal integrity, interference suppression, and
+miniaturization. However, the above-mentioned requests are almost contradictory
+using the traditional techniques. To overcome this challenge, here we propose
+time-domain spoof surface plasmon polaritons (SPPs) as the carrier of signals.
+By designing a special plasmonic waveguide constructed by printing two narrow
+corrugated metallic strips on the top and bottom surfaces of a dielectric
+substrate with mirror symmetry, we show that spoof SPPs are supported from very
+low frequency to the cutoff frequency with strong subwavelength effects, which
+can be converted to the time-domain SPPs. When two such plasmonic waveguides
+are tightly packed with deep-subwavelength separation, which commonly happens
+in the integrated circuits and wireless communications due to limited space, we
+demonstrate theoretically and experimentally that SPP signals on such two
+plasmonic waveguides have better propagation performance and much less mutual
+coupling than the conventional signals on two traditional microstrip lines with
+the same size and separation. Hence the proposed method can achieve significant
+interference suppression in very compact space, providing a potential solution
+to break the challenge of signal integrity.
+</dc:description>
+ <dc:date>2015-05-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1505.00986</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

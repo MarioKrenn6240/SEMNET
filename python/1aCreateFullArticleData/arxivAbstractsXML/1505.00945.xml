@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T17:51:06Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1505.00945" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.00945</identifier>
+ <datestamp>2016-01-20</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Selective excitation of plasmons superlocalized at sharp perturbations
+  of metal nanoparticles</dc:title>
+ <dc:creator>Gorkunov, M. V.</dc:creator>
+ <dc:creator>Sturman, B. I.</dc:creator>
+ <dc:creator>Podivilov, E. V.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  Sharp metal corners and tips support plasmons localized on the scale of the
+curvature radius -- superlocalized plasmons. We analyze plasmonic properties of
+nanoparticles with small and sharp corner- and tip-shaped surface perturbations
+in terms of hybridization of the superlocalized plasmons, which frequencies are
+determined by the perturbations shape, and the ordinary plasmons localized on
+the whole particle. When the frequency of a superlocalized plasmon gets close
+to that of the ordinary plasmon, their strong hybridization occurs and
+facilitates excitation of an optical hot-spot near the corresponding
+perturbation apex. The particle is then employed as a nano-antenna that
+selectively couples the free-space light to the nanoscale vicinity of the apex
+providing precise local light enhancement by several orders of magnitude.
+</dc:description>
+ <dc:date>2015-05-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1505.00945</dc:identifier>
+ <dc:identifier>EPL, 110 (2015) 57004</dc:identifier>
+ <dc:identifier>doi:10.1209/0295-5075/110/57004</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

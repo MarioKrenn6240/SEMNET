@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T10:33:53Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1409.1248" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1409.1248</identifier>
+ <datestamp>2015-08-24</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum Key Distribution using Continuous-variable non-Gaussian States</dc:title>
+ <dc:creator>Borelli, L. F. M.</dc:creator>
+ <dc:creator>Aguiar, L. S.</dc:creator>
+ <dc:creator>Roversi, J. A.</dc:creator>
+ <dc:creator>Vidiella-Barranco, A.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In this work we present a quantum key distribution protocol using
+continuous-variable non-Gaussian states, homodyne detection and post-selection.
+The employed signal states are the Photon Added then Subtracted Coherent States
+(PASCS) in which one photon is added and subsequently one photon is subtracted.
+We analyze the performance of our protocol, compared to a coherent state based
+protocol, for two different attacks that could be carried out by the
+eavesdropper (Eve). We calculate the secret key rate transmission in a lossy
+line for a superior channel (beam-splitter) attack, and we show that we may
+increase the secret key generation rate by using the non-Gaussian PASCS rather
+than coherent states. We also consider the simultaneous quadrature measurement
+(intercept-resend) attack and we show that the efficiency of Eve's attack is
+substantially reduced if PASCS are used as signal states.
+</dc:description>
+ <dc:description>Comment: We have included an analysis of the simultaneous quadrature
+  measurement attack plus 2 figures; we have also clarified some points</dc:description>
+ <dc:date>2014-09-03</dc:date>
+ <dc:date>2015-08-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1409.1248</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

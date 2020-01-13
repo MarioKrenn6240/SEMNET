@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T10:43:01Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1409.1242" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1409.1242</identifier>
+ <datestamp>2014-11-13</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Stoner ferromagnetism in a thermal pseudospin-1/2 Bose gas</dc:title>
+ <dc:creator>Radic, Juraj</dc:creator>
+ <dc:creator>Natu, Stefan S.</dc:creator>
+ <dc:creator>Galitski, Victor</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We compute the finite-temperature phase diagram of a pseudospin-$1/2$ Bose
+gas with contact interactions, using two complementary methods: the random
+phase approximation (RPA) and self-consistent Hartree-Fock theory. We show that
+the inter-spin interactions, which break the (pseudo) spin-rotational symmetry
+of the Hamiltonian, generally lead to the appearance of a magnetically ordered
+phase at temperatures above the superfluid transition. In three dimensions, we
+predict a normal easy-axis/easy-plane ferromagnet for sufficiently strong
+repulsive/attractive inter-species interactions respectively. The normal
+easy-axis ferromagnet is the bosonic analog of Stoner ferromagnetism known in
+electronic systems. For the case of inter-spin attraction, we also discuss the
+possibility of a \textit{bosonic} analog of the Cooper paired phase. This state
+is shown to significantly lose in energy to the transverse ferromagnet in three
+dimensions, but is more energetically competitive in lower dimensions.
+Extending our calculations to a spin-orbit-coupled Bose gas with equal Rashba
+and Dresselhaus-type couplings (as recently realized in experiment), we
+investigate the possibility of stripe ordering in the normal phase. Within our
+approximations however, we do not find an instability towards stripe formation,
+suggesting that the stripe order melts below the condensation temperature,
+which is consistent with the experimental observations of Ji \textit{et al.}
+[Ji \textit{et al.}, Nature Physics \textbf{10}, 314 (2014)].
+</dc:description>
+ <dc:description>Comment: 5 pages, 3 figures. published version</dc:description>
+ <dc:date>2014-09-03</dc:date>
+ <dc:date>2014-11-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1409.1242</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 113 185302 (2014)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.113.185302</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

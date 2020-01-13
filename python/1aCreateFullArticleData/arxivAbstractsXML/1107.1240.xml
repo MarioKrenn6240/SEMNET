@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T17:52:27Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1107.1240" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1107.1240</identifier>
+ <datestamp>2015-05-28</datestamp>
+ <setSpec>physics:hep-ph</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Negative Refractive Index in Hydrodynamical Systems</dc:title>
+ <dc:creator>Amariti, Antonio</dc:creator>
+ <dc:creator>Forcella, Davide</dc:creator>
+ <dc:creator>Mariotti, Alberto</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Physics - Plasma Physics</dc:subject>
+ <dc:description>  We discuss the presence of exotic electromagnetic phenomena in systems with
+finite charge density which are described by hydrodynamics. We show that such
+systems generically have negative refractive index for low frequency
+electromagnetic waves, i.e. the energy flux and the phase velocity of the wave
+propagate in opposite directions. We comment on possible phenomenological
+applications, focusing on the Quark Gluon Plasma.
+</dc:description>
+ <dc:description>Comment: 16 pages, 2 figures</dc:description>
+ <dc:date>2011-07-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1107.1240</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP01(2013)105</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

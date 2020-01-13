@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T20:38:36Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1006.3687" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1006.3687</identifier>
+ <datestamp>2010-06-21</datestamp>
+ <setSpec>nlin</setSpec>
+ <setSpec>physics:cond-mat</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Two - dimensional solitons in media with the stripe - shaped
+  nonlinearity modulation</dc:title>
+ <dc:creator>Hung, Nguyen Viet</dc:creator>
+ <dc:creator>Pawe\lZi&#x144;</dc:creator>
+ <dc:creator>Trippenbach, Marek</dc:creator>
+ <dc:creator>Malomed, Boris A.</dc:creator>
+ <dc:subject>Nonlinear Sciences - Pattern Formation and Solitons</dc:subject>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  We introduce a model of media with the cubic attractive nonlinearity
+concentrated along a single or double stripe in the two-dimensional (2D) plane.
+The model can be realized in terms of nonlinear optics (in the spatial and
+temporal domains alike) and BEC. In recent works, it was concluded that search
+for stable 2D solitons in models with a spatially localized self-attractive
+nonlinearity is a challenging problem. We make use of the variational
+approximation (VA) and numerical methods to investigate conditions for the
+existence and stability of solitons in the present setting. The result
+crucially depends on the transverse shape of the stripe: while the rectangular
+profile supports stable 2D solitons, its smooth Gaussian-shaped counterpart
+makes all the solitons unstable. The double stripe with the rectangular profile
+admit stable solitons of three distinct types: symmetric and asymmetric ones
+with a single peak, and double-peak symmetric solitons. The shape and stability
+of single-peak solitons of either type are accurately predicted by the VA.
+Collisions between stable solitons are briefly considered too, by means of
+direct simulations. Depending on the relative velocity we observe excitation,
+decay or catastrophic self focusing.
+</dc:description>
+ <dc:description>Comment: 9 pages, 15 figures</dc:description>
+ <dc:date>2010-06-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1006.3687</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

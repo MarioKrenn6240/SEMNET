@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T10:33:54Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1409.1252" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1409.1252</identifier>
+ <datestamp>2015-05-06</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Many-body localisation implies that eigenvectors are matrix-product
+  states</dc:title>
+ <dc:creator>Friesdorf, M.</dc:creator>
+ <dc:creator>Werner, A. H.</dc:creator>
+ <dc:creator>Brown, W.</dc:creator>
+ <dc:creator>Scholz, V. B.</dc:creator>
+ <dc:creator>Eisert, J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Disordered Systems and Neural Networks</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  The phenomenon of many-body localisation received a lot of attention
+recently, both for its implications in condensed-matter physics of allowing
+systems to be an insulator even at non-zero temperature as well as in the
+context of the foundations of quantum statistical mechanics, providing examples
+of systems showing the absence of thermalisation following out-of-equilibrium
+dynamics. In this work, we establish a novel link between dynamical properties
+- the absence of a group velocity and transport - with entanglement properties
+of individual eigenvectors. Using Lieb-Robinson bounds and filter functions, we
+prove rigorously under simple assumptions on the spectrum that if a system
+shows strong dynamical localisation, all of its many-body eigenvectors have
+clustering correlations. In one dimension this implies directly an entanglement
+area law, hence the eigenvectors can be approximated by matrix-product states.
+We also show this statement for parts of the spectrum, allowing for the
+existence of a mobility edge above which transport is possible.
+</dc:description>
+ <dc:description>Comment: 13 pages, 4 figures</dc:description>
+ <dc:date>2014-09-03</dc:date>
+ <dc:date>2014-11-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1409.1252</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 114, 170505 (2015)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.114.170505</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

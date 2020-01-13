@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:52:50Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1301.5337" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1301.5337</identifier>
+ <datestamp>2013-05-29</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Multi-photon quantum interference with high visibility using multiport
+  beam splitters</dc:title>
+ <dc:creator>Stobi&#x144;ska, M.</dc:creator>
+ <dc:creator>Laskowski, W.</dc:creator>
+ <dc:creator>Wie&#x15b;niak, M.</dc:creator>
+ <dc:creator>&#x17b;ukowski, M.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Multi-photon states can be produced in multiple parametric down conversion
+(PDC) processes. The nonlinear crystal in such a case is pumped with high
+power. In theory, the more populated these states are, the deeper is the
+conflict with local realistic description. However, the interference contrast
+in multi-photon PDC experiments can be quite low for high pumping. We show how
+the contrast can be improved. The idea employs currently accessible optical
+devices, the multiport beam splitters. They are capable of splitting the
+incoming light in one input mode to $M$ output modes. Our scheme works as a
+POVM filter. It may provide a feasible CHSH-Bell inequality test, and thus can
+be useful in e.g. schemes reducing communication complexity.
+</dc:description>
+ <dc:description>Comment: 8 pages, 7 figures</dc:description>
+ <dc:date>2013-01-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1301.5337</dc:identifier>
+ <dc:identifier>Phys. Rev. A 87, 053828 (2013)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.87.053828</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

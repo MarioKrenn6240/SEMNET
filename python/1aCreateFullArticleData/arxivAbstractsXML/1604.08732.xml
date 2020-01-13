@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T21:12:02Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1604.08732" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08732</identifier>
+ <datestamp>2017-03-01</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum Thermal Machines Fuelled by Vacuum Forces</dc:title>
+ <dc:creator>Ter&#xe7;as, Hugo</dc:creator>
+ <dc:creator>Ribeiro, Sofia</dc:creator>
+ <dc:creator>Pezzutto, Marco</dc:creator>
+ <dc:creator>Omar, Yasser</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Other Condensed Matter</dc:subject>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  We propose a quantum thermal machine composed of two nanomechanical
+resonators (NMR) (two membranes suspended over a trench in a substrate), placed
+a few $\mu$m from each other. The quantum thermodynamical cycle is powered by
+the Casimir interaction between the resonators and the working fluid is the
+polariton resulting from the mixture of the flexural (out-of-plane) vibrations.
+With the help of piezoelectric cells, we select and sweep the polariton
+frequency cyclically. We calculate the performance of the proposed quantum
+thermal machines and show that high efficiencies are achieved thanks to (i) the
+strong coupling between the resonators and (ii) the large difference between
+the membrane stiffnesses. Our findings can be of particular importance for
+applications in nanomechanical technologies where a sensitive control of
+temperature is needed.
+</dc:description>
+ <dc:description>Comment: Quantum thermal machines, Casimir effect, mechanical resonators,
+  finite-time thermodynamics</dc:description>
+ <dc:date>2016-04-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1604.08732</dc:identifier>
+ <dc:identifier>Phys. Rev. E 95, 022135 (2017)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevE.95.022135</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

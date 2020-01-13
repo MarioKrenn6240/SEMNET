@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T21:15:50Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1604.08778" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08778</identifier>
+ <datestamp>2016-08-09</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Importance of rotationally inelastic processes in low-energy Penning
+  ionization of CHF$_3$</dc:title>
+ <dc:creator>Jankunas, Justin</dc:creator>
+ <dc:creator>Jachymski, Krzysztof</dc:creator>
+ <dc:creator>Hapka, Micha&#x142;</dc:creator>
+ <dc:creator>Osterwalder, Andreas</dc:creator>
+ <dc:subject>Physics - Chemical Physics</dc:subject>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Low energy reaction dynamics can strongly depend on the internal structure of
+the reactants. The role of rotationally inelastic processes in cold collisions
+involving polyatomic molecules has not been explored so far. Here we address
+this problem performing a merged-beam study of the He*+CHF$_3$ Penning
+ionization reaction in a range of collision energies $E/k_B$=0.5--120 K. The
+experimental cross sections are compared with total reaction cross sections
+calculated within the framework of the quantum defect theory. We find that the
+broad range of collision energies combined with the relatively small rotational
+constants of \chfs makes rotationally inelastic collisions a crucial player in
+the total reaction dynamics. Quantitative agreement between theory and
+experiment is only obtained if the energy-dependent probability for rotational
+excitation is included in the calculations, in stark contrast to previous
+experiments where classical scaling laws were able to describe the results.
+</dc:description>
+ <dc:date>2016-04-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1604.08778</dc:identifier>
+ <dc:identifier>J. Chem. Phys. 144, 221102 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4953908</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

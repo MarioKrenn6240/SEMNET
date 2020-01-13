@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T16:22:49Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1505.00894" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.00894</identifier>
+ <datestamp>2015-06-30</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Nonlinear fluctuations and dissipation in matter revealed by quantum
+  light</dc:title>
+ <dc:creator>Mukamel, Shaul</dc:creator>
+ <dc:creator>Dorfman, Konstantin E.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Physics - Chemical Physics</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  Quantum optical fields offer numerous control knobs which are not available
+with classical light and may be used for monitoring the properties of matter by
+novel types of spectroscopy. It has been recently argued that such quantum
+spectroscopy signals can be obtained by a simple averaging of their classical
+spectroscopy counterparts over the Glauber-Sudarshan quasiprobability
+distribution of the quantum field; the quantum light thus merely provides a
+novel gating window for the classical response functions. We show that this
+argument only applies to the linear response and breaks down in the nonlinear
+regime. The quantum response carries additional valuable information about
+response and spontaneous fluctuations of matter that may not be retrieved from
+the classical response by simple data processing. This is connected to the lack
+of a nonlinear fluctuation-dissipation relation.
+</dc:description>
+ <dc:date>2015-05-05</dc:date>
+ <dc:date>2015-06-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1505.00894</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.91.053844</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T16:30:49Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1505.00912" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.00912</identifier>
+ <datestamp>2015-11-11</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Thermodynamic Equilibrium as a Symmetry of the Schwinger-Keldysh Action</dc:title>
+ <dc:creator>Sieberer, L. M.</dc:creator>
+ <dc:creator>Chiocchetta, A.</dc:creator>
+ <dc:creator>Gambassi, A.</dc:creator>
+ <dc:creator>T&#xe4;uber, U. C.</dc:creator>
+ <dc:creator>Diehl, S.</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The time evolution of an extended quantum system can be theoretically
+described in terms of the Schwinger-Keldysh functional integral formalism,
+whose action conveniently encodes the information about the dynamics. We show
+here that the action of quantum systems evolving in thermal equilibrium is
+invariant under a symmetry transformation which distinguishes them from generic
+open systems. A unitary or dissipative dynamics having this symmetry naturally
+leads to the emergence of a Gibbs thermal stationary state. Moreover, the
+fluctuation-dissipation relations characterizing the linear response of an
+equilibrium system to external perturbations can be derived as the
+Ward-Takahashi identities associated with this symmetry. Accordingly, the
+latter provides an efficient check for the onset of thermodynamic equilibrium
+and it makes testing the validity of fluctuation-dissipation relations
+unnecessary. In the classical limit, this symmetry renders the one which is
+known to characterize equilibrium in the stochastic dynamics of classical
+systems coupled to thermal baths, described by Langevin equations.
+</dc:description>
+ <dc:description>Comment: 24 pages, 1 figure; final published version</dc:description>
+ <dc:date>2015-05-05</dc:date>
+ <dc:date>2015-11-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1505.00912</dc:identifier>
+ <dc:identifier>Phys. Rev. B 92 (2015) 134307</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.92.134307</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

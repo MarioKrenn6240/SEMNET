@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T17:54:23Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1505.00923" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.00923</identifier>
+ <datestamp>2015-07-17</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Speckle intensity correlations of photons scattered by cold atoms</dc:title>
+ <dc:creator>M&#xfc;ller, Cord A.</dc:creator>
+ <dc:creator>Gr&#xe9;maud, Beno&#xee;t</dc:creator>
+ <dc:creator>Miniatura, Christian</dc:creator>
+ <dc:subject>Condensed Matter - Disordered Systems and Neural Networks</dc:subject>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  The irradiation of a dilute cloud of cold atoms with a coherent light field
+produces a random intensity distribution known as laser speckle. Its
+statistical fluctuations contain information about the mesoscopic scattering
+processes at work inside the disordered medium. Following up on earlier work by
+Assaf and Akkermans [Phys.\ Rev.\ Lett.\ \textbf{98}, 083601 (2007)], we
+analyze how static speckle intensity correlations are affected by an internal
+Zeeman degeneracy of the scattering atoms. It is proven on general grounds that
+the speckle correlations cannot exceed the standard Rayleigh law. On the
+contrary, because which-path information is stored in the internal atomic
+states, the intensity correlations suffer from strong decoherence and become
+exponentially small in the diffusive regime applicable to an optically thick
+cloud.
+</dc:description>
+ <dc:description>Comment: 9 pages, 2 figures; v3: corrected typos, published version</dc:description>
+ <dc:date>2015-05-05</dc:date>
+ <dc:date>2015-07-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1505.00923</dc:identifier>
+ <dc:identifier>Phys. Rev. A 92, 013819 (2015)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.92.013819</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T10:33:44Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1409.1106" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1409.1106</identifier>
+ <datestamp>2015-02-27</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Tensor Representation of Spin States</dc:title>
+ <dc:creator>Giraud, O.</dc:creator>
+ <dc:creator>Braun, D.</dc:creator>
+ <dc:creator>Baguette, D.</dc:creator>
+ <dc:creator>Bastin, T.</dc:creator>
+ <dc:creator>Martin, J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We propose a generalization of the Bloch sphere representation for arbitrary
+spin states. It provides a compact and elegant representation of spin density
+matrices in terms of tensors that share the most important properties of Bloch
+vectors. Our representation, based on covariant matrices introduced by Weinberg
+in the context of quantum field theory, allows for a simple parametrization of
+coherent spin states, and a straightforward transformation of density matrices
+under local unitary and partial tracing operations. It enables us to provide a
+criterion for anticoherence, relevant in a broader context such as quantum
+polarization of light.
+</dc:description>
+ <dc:description>Comment: 5 pages + 7 pages of supplementary information</dc:description>
+ <dc:date>2014-09-03</dc:date>
+ <dc:date>2015-02-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1409.1106</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 114, 080401 (2015)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.114.080401</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

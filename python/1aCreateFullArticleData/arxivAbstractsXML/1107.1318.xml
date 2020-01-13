@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T17:50:46Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1107.1318" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1107.1318</identifier>
+ <datestamp>2012-04-19</datestamp>
+ <setSpec>nlin</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Defect Solitons in Parity-Time Symmetric Optical Lattices with Nonlocal
+  Nonlinearity</dc:title>
+ <dc:creator>Hu, Sumei</dc:creator>
+ <dc:creator>Ma, Xuekai</dc:creator>
+ <dc:creator>Lu, Daquan</dc:creator>
+ <dc:creator>Zheng, Yizhou</dc:creator>
+ <dc:creator>Hu, Wei</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Nonlinear Sciences - Pattern Formation and Solitons</dc:subject>
+ <dc:description>  The existence and stability of defect solitons in parity-time (PT) symmetric
+optical lattices with nonlocal nonlinearity are reported. It is found that
+nonlocality can expand the stability region of defect solitons. For positive or
+zero defects, fundamental and dipole solitons can exist stably in the
+semi-infinite gap and the first gap, respectively. For negative defects,
+fundamental solitons can be stable in both the semi-infinite gap and the first
+gap, whereas dipole solitons are unstable in the first gap. There exist a
+maximum degree of nonlocal nonlinearity, above which the fundamental solitons
+in the semi-infinite gap and the dipole solitons in the first gap do not exist
+for negative defects. The influence of the imaginary part of the PT-symmetric
+potentials on soliton stability is given. When the modulation depth of the
+PT-symmetric lattices is small, defect solitons can be stable for positive and
+zero defects, even if the PT-symmetric potential is above the phase transition
+point.
+</dc:description>
+ <dc:description>Comment: 7 pages, 11 Figures, Accepted by Phy.Rev.A</dc:description>
+ <dc:date>2011-07-07</dc:date>
+ <dc:date>2012-04-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1107.1318</dc:identifier>
+ <dc:identifier>Phys. Rev. A 85, 043826 (2012)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.85.043826</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

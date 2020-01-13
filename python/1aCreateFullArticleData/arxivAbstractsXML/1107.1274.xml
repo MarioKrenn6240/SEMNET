@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:48:06Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1107.1274" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1107.1274</identifier>
+ <datestamp>2011-12-06</datestamp>
+ <setSpec>physics:gr-qc</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Polarization rotation, reference frames and Mach's principle</dc:title>
+ <dc:creator>Brodutch, Aharon</dc:creator>
+ <dc:creator>Terno, Daniel R.</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Polarization of light rotates in a gravitational field. The accrued phase is
+operationally meaningful only with respect to a local polarization basis. In
+stationary space-times, we construct local reference frames that allow us to
+isolate the Machian gravimagnetic effect from the geodetic (mass) contribution
+to the rotation. The Machian effect is supplemented by the geometric term that
+arises from the choice of standard polarizations. The phase accrued along a
+close trajectory is gauge-independent and is zero in the Schwarzschild
+space-time. The geometric term may give a dominant contribution to the phase.
+We calculate polarization rotation for several trajectories and find it to be
+more significant than is usually believed, pointing to its possible role as a
+future gravity probe.
+</dc:description>
+ <dc:description>Comment: 4 pages. Final version</dc:description>
+ <dc:date>2011-07-06</dc:date>
+ <dc:date>2011-12-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1107.1274</dc:identifier>
+ <dc:identifier>Phys. Rev. D 84, 121501(R) (2011)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.84.121501</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

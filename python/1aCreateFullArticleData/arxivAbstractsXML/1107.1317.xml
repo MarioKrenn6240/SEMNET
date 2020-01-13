@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T17:50:44Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1107.1317" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1107.1317</identifier>
+ <datestamp>2014-04-16</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Planar-Waveguide External Cavity Laser Stabilization for an Optical Link
+  with 1E-19 Frequency Stability</dc:title>
+ <dc:creator>Clivati, Cecilia</dc:creator>
+ <dc:creator>Mura, Alberto</dc:creator>
+ <dc:creator>Calonico, Davide</dc:creator>
+ <dc:creator>Levi, Filippo</dc:creator>
+ <dc:creator>Costanzo, Giovanni A.</dc:creator>
+ <dc:creator>Calosso, Claudio E.</dc:creator>
+ <dc:creator>Godone, Aldo</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We stabilized the frequency of a compact planar-waveguide external cavity
+laser (ECL) on a Fabry-P\'erot cavity (FPC) through a Pound-Drever-Hall scheme.
+The residual frequency stability of the ECL is 1E-14, comparable to the
+stability achievable with a fiber laser (FL) locked to a FPC through the same
+scheme. We set up an optical link of 100 km, based on fiber spools, that
+reaches 1E-19 relative stability, and we show that its performances using the
+ECL or FL are comparable. Thus ECLs could serve as an excellent replacement for
+FLs in optical links where cost-effectiveness and robustness are important
+considerations.
+</dc:description>
+ <dc:date>2011-07-07</dc:date>
+ <dc:date>2011-12-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1107.1317</dc:identifier>
+ <dc:identifier>IEEE Trans. Ultrason. Ferroel. Freq. Contr. 58, p. 2582-2587
+  (2011)</dc:identifier>
+ <dc:identifier>doi:10.1109/TUFFC.2011.2121</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

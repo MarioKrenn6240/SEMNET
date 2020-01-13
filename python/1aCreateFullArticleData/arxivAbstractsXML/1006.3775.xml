@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T11:48:47Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1006.3775" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1006.3775</identifier>
+ <datestamp>2010-06-21</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Vibration-enhanced energy transfer in living molecules</dc:title>
+ <dc:creator>Vedral, Vlatko</dc:creator>
+ <dc:creator>Farrow, Tristan</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The conversion of an absorbed photon from the exciton energy into the
+reaction centre in the photosynthetic complex has a near unit efficiency. It is
+becoming clear that any classical model, where the exciton hopping is modeled
+by a classical stochastic diffusion equation, cannot explain such a high degree
+of efficiency. A number of different quantum models have been proposed, ranging
+from a purely unitary model with long range exciton interactions to a
+noise-aided stochastic resonance models. Here we propose a very simple
+spin-boson model that captures all the features of the efficient part of energy
+transfer. We show how this model describes a scenario where a donor-acceptor
+system can be brought into resonance by a narrow band of vibrational modes so
+that the excitation transfer between the two can be made arbitrarily high. This
+is then extended to a seven exciton system such as the widely-studied FMO
+photosynthetic complex to show that a high efficiency is also achievable
+therein. Our model encodes a number of readily testable predictions and we
+discuss its generalisations to include the localisation in the reaction centre.
+</dc:description>
+ <dc:description>Comment: 14 pages, 3 figures</dc:description>
+ <dc:date>2010-06-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1006.3775</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

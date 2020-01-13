@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T18:14:04Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1301.5366" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1301.5366</identifier>
+ <datestamp>2013-01-24</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Electromagnetic Wave Source Conditions</dc:title>
+ <dc:creator>Oskooi, Ardavan</dc:creator>
+ <dc:creator>Johnson, Steven G.</dc:creator>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  This chapter discusses the relationships between current sources and the
+resulting electromagnetic waves in FDTD simulations. First, the
+&quot;total-field/scattered-field&quot; approach to creating incident plane waves is
+reviewed and seen to be a special case of the well-known principle of
+equivalence in electromagnetism: this can be used to construct &quot;equivalent&quot;
+current sources for any desired incident field, including waveguide modes. The
+effects of dispersion and discretization are discussed, and a simple technique
+to separate incident and scattered fields is described in order to compensate
+for imperfect equivalent currents. The important concept of the local density
+of states (LDOS) is reviewed, which elucidates the relationship between current
+sources and the resulting fields, including enhancement of the LDOS via mode
+cutoffs (Van Hove singularities) and resonant cavities (Purcell enhancement).
+We also address various other source techniques such as covering a wide range
+of frequencies and incident angles in a small number of simulations for waves
+incident on a periodic surface, sources to excite eigenmodes in rectangular
+supercells of periodic systems, moving sources, and thermal sources via a Monte
+Carlo/Langevin approach.
+</dc:description>
+ <dc:description>Comment: Excerpted from &quot;Advances in FDTD Computational Electrodynamics:
+  Photonics and Nanotechnology,&quot; A. Taflove, A. Oskooi, and S.G. Johnson, eds.,
+  Norwood, MA: Artech House, 2013 (ISBN 978-1-60807-170-8)
+  http://www.artechhouse.com/Main/Books/Advances-in-FDTD-Computational-Electrodynamics-Pho-2011.aspx</dc:description>
+ <dc:date>2013-01-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1301.5366</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

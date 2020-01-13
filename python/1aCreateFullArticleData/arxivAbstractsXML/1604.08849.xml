@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T21:12:03Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1604.08849" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08849</identifier>
+ <datestamp>2016-12-22</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum force estimation in arbitrary non-Markovian Gaussian bath</dc:title>
+ <dc:creator>Latune, Camille Lombard</dc:creator>
+ <dc:creator>Sinayskiy, Ilya</dc:creator>
+ <dc:creator>Petruccione, Francesco</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The force estimation problem in quantum metrology with an arbitrary
+non-Markovian Gaussian bath is considered. No assumptions are made on the bath
+spectrum and coupling strength with the probe. Considering the natural global
+unitary evolution of both bath and probe and assuming initial global Gaussian
+states we are able to solve the main issues of any quantum metrological
+problem: the best achievable precision determined by the quantum Fisher
+information, the best initial state and the best measurement. Studying the
+short time behavior and comparing to regular Markovian dynamics we observe an
+increase of quantum Fisher information. We emphasize that this phenomenon is
+due to the ability to perform measurements below the correlation time of the
+bath, activating non-Markovian effects. This brings huge consequences for the
+sequential preparation-and- measurement scenario as the quantum Fisher
+information becomes unbounded when the initial probe mean energy goes to
+infinity, whereas its Markovian counterpart remains bounded by a constant. The
+long time behavior shows the complexity and potential variety of non-Markovian
+effects, somewhere between the exponential decay characteristic of Markovian
+dynamics and the sinusoidal oscillations characteristic of resonant narrow
+bands.
+</dc:description>
+ <dc:description>Comment: 6 pages of main text and 12 pages of Appendix</dc:description>
+ <dc:date>2016-04-29</dc:date>
+ <dc:date>2016-12-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1604.08849</dc:identifier>
+ <dc:identifier>Phys. Rev. A 94, 052115 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.94.052115</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

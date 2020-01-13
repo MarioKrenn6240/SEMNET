@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:10:15Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1409.1127" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1409.1127</identifier>
+ <datestamp>2015-06-22</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Theoretical and computational study of the energy dependence of the muon
+  transfer rate from hydrogen to higher-Z gases</dc:title>
+ <dc:creator>Bakalov, Dimitar</dc:creator>
+ <dc:creator>Adamczak, Andrzej</dc:creator>
+ <dc:creator>Stoilov, Mihail</dc:creator>
+ <dc:creator>Vacchi, Andrea</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  The recent PSI Lamb shift experiment and the controversy about proton size
+revived the interest in measuring the hyperfine splitting in muonic hydrogen as
+an alternative possibility for comparing ordinary and muonic hydrogen
+spectroscopy data on proton electromagnetic structure. This measurement
+critically depends on the energy dependence of the muon transfer rate to
+heavier gases in the epithermal range. The available data provide only
+qualitative information, and the theoretical predictions have not been
+verified. We propose a new method by measurements of the transfer rate in
+thermalized target at different temperatures, estimate its accuracy and
+investigate the optimal experimental conditions.
+</dc:description>
+ <dc:date>2014-09-03</dc:date>
+ <dc:date>2014-11-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1409.1127</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physleta.2014.11.025</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

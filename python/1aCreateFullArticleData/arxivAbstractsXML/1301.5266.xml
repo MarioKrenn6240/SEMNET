@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T23:52:46Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1301.5266" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1301.5266</identifier>
+ <datestamp>2013-01-23</datestamp>
+ <setSpec>cs</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>General method for the security analysis in a quantum direct
+  communication protocol</dc:title>
+ <dc:creator>Miszczak, Jaros&#x142;aw Adam</dc:creator>
+ <dc:creator>Zawadzki, Piotr</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Computer Science - Cryptography and Security</dc:subject>
+ <dc:subject>81P45</dc:subject>
+ <dc:subject>D.4.6</dc:subject>
+ <dc:subject>H.2.0</dc:subject>
+ <dc:description>  We introduce a general approach for the analysis of a quantum direct
+communication protocol. The method is based on the investigation of the
+superoperator acting on a joint system of the communicating parties and the
+eavesdropper. The introduced method is more versatile than the approaches used
+so far as it permits to incorporate different noise models in a unified way.
+Moreover, it make use of a well grounded theory of quantum discrimination for
+the purpose of estimating the eavesdropper's information gain.
+</dc:description>
+ <dc:description>Comment: 8 pages, 1 plot</dc:description>
+ <dc:date>2013-01-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1301.5266</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

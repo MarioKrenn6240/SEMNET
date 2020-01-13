@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:23:36Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1301.5370" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1301.5370</identifier>
+ <datestamp>2014-02-21</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Existence of ground states for negative ions at the binding threshold</dc:title>
+ <dc:creator>Bellazzini, Jacopo</dc:creator>
+ <dc:creator>Frank, Rupert L.</dc:creator>
+ <dc:creator>Lieb, Elliott H.</dc:creator>
+ <dc:creator>Seiringer, Robert</dc:creator>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>Mathematics - Spectral Theory</dc:subject>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  As the nuclear charge Z is continuously decreased an N-electron atom
+undergoes a binding-unbinding transition at some critical Z_c. We investigate
+whether the electrons remain bound when Z=Z_c and whether the radius of the
+system stays finite as Z_c is approached. Existence of a ground state at Z_c is
+shown under the condition Z_c&lt;N-K, where K is the maximal number of electrons
+that can be removed at Z_c without changing the ground state energy.
+</dc:description>
+ <dc:description>Comment: 17 pages</dc:description>
+ <dc:date>2013-01-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1301.5370</dc:identifier>
+ <dc:identifier>Rev. Math. Phys. 26, 1350021 (2014)</dc:identifier>
+ <dc:identifier>doi:10.1142/S0129055X13500219</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

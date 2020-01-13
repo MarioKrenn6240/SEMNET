@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:42:00Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1107.1294" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1107.1294</identifier>
+ <datestamp>2011-11-17</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Mechanical squeezing via parametric amplification and weak measurement</dc:title>
+ <dc:creator>Szorkovszky, Alex</dc:creator>
+ <dc:creator>Doherty, Andrew C.</dc:creator>
+ <dc:creator>Harris, Glen I.</dc:creator>
+ <dc:creator>Bowen, Warwick P.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Nonlinear forces allow motion of a mechanical oscillator to be squeezed below
+the zero-point motion. Of existing methods, mechanical parametric amplification
+is relatively accessible, but previously thought to be limited to 3dB of
+squeezing in the steady state. We consider the effect of applying continuous
+weak measurement and feedback to this system. If the parametric drive is
+optimally detuned from resonance, correlations between the quadratures of
+motion allow unlimited steady-state squeezing. Compared to back-action evasion,
+we demonstrate that the measurement strength, temperature and efficiency
+requirements for quantum squeezing are significantly relaxed.
+</dc:description>
+ <dc:description>Comment: 4 pages, 3 figures</dc:description>
+ <dc:date>2011-07-07</dc:date>
+ <dc:date>2011-09-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1107.1294</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.107.213603</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

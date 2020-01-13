@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-15T15:03:16Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1203.1231" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1203.1231</identifier>
+ <datestamp>2012-05-08</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Classical Casimir interaction in the plane-sphere geometry</dc:title>
+ <dc:creator>Canaguier-Durand, Antoine</dc:creator>
+ <dc:creator>Ingold, Gert-Ludwig</dc:creator>
+ <dc:creator>Jaekel, Marc-Thierry</dc:creator>
+ <dc:creator>Lambrecht, Astrid</dc:creator>
+ <dc:creator>Neto, Paulo A. Maia</dc:creator>
+ <dc:creator>Reynaud, Serge</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Other Condensed Matter</dc:subject>
+ <dc:description>  We study the Casimir interaction in the plane-sphere geometry in the
+classical limit of high temperatures. In this limit, the finite conductivity of
+the metallic plates needs to be taken into account. For the Drude model, the
+classical Casimir interaction is nevertheless found to be independent of the
+conductivity so that it can be described by a single universal function
+depending only on the aspect ratio $x=L/R$ where $L$ is the interplate distance
+and $R$ the sphere radius. This universal function differs from the one found
+for perfect reflectors and is in principle amenable to experimental tests. The
+asymptotic approach of the exact result to the Proximity Force Approximation
+appears to be well fitted by polynomial expansions in $\ln x$.
+</dc:description>
+ <dc:description>Comment: Updated version with minor modifications and addition of a reference</dc:description>
+ <dc:date>2012-03-06</dc:date>
+ <dc:date>2012-04-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1203.1231</dc:identifier>
+ <dc:identifier>Phys. Rev. A 85 (2012) 052501</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.85.052501</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>
