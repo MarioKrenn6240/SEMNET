@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:01Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0609" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0609</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The effectiveness of quantum operations for eavesdropping on sealed
+  messages</dc:title>
+ <dc:creator>Lopata, Paul A</dc:creator>
+ <dc:creator>Bahder, Thomas B</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  A quantum protocol is described which enables a user to send sealed messages
+and that allows for the detection of active eavesdroppers. We examine a class
+of eavesdropping strategies, those that make use of quantum operations, and we
+determine the information gain versus disturbance caused by these strategies.
+We demonstrate this tradeoff with an example and we compare this protocol to
+quantum key distribution, quantum direct communication, and quantum seal
+protocols.
+</dc:description>
+ <dc:description>Comment: 10 pages, 2 figures. Third Feynman Festival, 25 -- 29 August 2006,
+  University of Maryland, College Park, Maryland, U.S.A</dc:description>
+ <dc:date>2007-04-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0609</dc:identifier>
+ <dc:identifier>doi:10.1088/1742-6596/70/1/012011</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

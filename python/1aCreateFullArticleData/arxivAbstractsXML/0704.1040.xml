@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:33Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.1040" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.1040</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Recent Results on Thermal Casimir Force between Dielectrics and Related
+  Problems</dc:title>
+ <dc:creator>Geyer, B.</dc:creator>
+ <dc:creator>Klimchitskaya, G. L.</dc:creator>
+ <dc:creator>Mostepanenko, V. M.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  We review recent results obtained in the physics of the thermal Casimir force
+acting between two dielectrics, dielectric and metal, and between metal and
+semiconductor. The detailed derivation for the low-temperature behavior of the
+Casimir free energy, pressure and entropy in the configuration of two real
+dielectric plates is presented. For dielectrics with finite static dielectric
+permittivity it is shown that the Nernst heat theorem is satisfied. Hence, the
+Lifshitz theory of the van der Waals and Casimir forces is demonstrated to be
+consistent with thermodynamics. The nonzero dc conductivity of dielectric
+plates is proved to lead to a violation of the Nernst heat theorem and, thus,
+is not related to the phenomenon of dispersion forces. The low-temperature
+asymptotics of the Casimir free energy, pressure and entropy are derived also
+in the configuration of one metal and one dielectric plate. The results are
+shown to be consistent with thermodynamics if the dielectric plate possesses a
+finite static dielectric permittivity. If the dc conductivity of a dielectric
+plate is taken into account this results in the violation of the Nernst heat
+theorem. We discuss both the experimental and theoretical results related to
+the Casimir interaction between metal and semiconductor with different charge
+carrier density. Discussions in the literature on the possible influence of
+spatial dispersion on the thermal Casimir force are analyzed. In conclusion,
+the conventional Lifshitz theory taking into account only the frequency
+dispersion remains the reliable foundation for the interpretation of all
+present experiments.
+</dc:description>
+ <dc:description>Comment: 35 pages, 3 figures, ws-ijmpa.cls is used</dc:description>
+ <dc:date>2007-04-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.1040</dc:identifier>
+ <dc:identifier>Int. J. Mod. Phys. A, v.21, N25, p.5007-5042 (2006)</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

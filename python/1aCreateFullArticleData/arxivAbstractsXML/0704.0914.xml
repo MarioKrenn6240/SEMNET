@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:15:09Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0914" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0914</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Electromagnetic wormholes via handlebody constructions</dc:title>
+ <dc:creator>Greenleaf, Allan</dc:creator>
+ <dc:creator>Kurylev, Yaroslav</dc:creator>
+ <dc:creator>Lassas, Matti</dc:creator>
+ <dc:creator>Uhlmann, Gunther</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  Cloaking devices are prescriptions of electrostatic, optical or
+electromagnetic parameter fields (conductivity $\sigma(x)$, index of refraction
+$n(x)$, or electric permittivity $\epsilon(x)$ and magnetic permeability
+$\mu(x)$) which are piecewise smooth on $\mathbb R^3$ and singular on a
+hypersurface $\Sigma$, and such that objects in the region enclosed by $\Sigma$
+are not detectable to external observation by waves. Here, we give related
+constructions of invisible tunnels, which allow electromagnetic waves to pass
+between possibly distant points, but with only the ends of the tunnels visible
+to electromagnetic imaging. Effectively, these change the topology of space
+with respect to solutions of Maxwell's equations, corresponding to attaching a
+handlebody to $\mathbb R^3$. The resulting devices thus function as
+electromagnetic wormholes.
+</dc:description>
+ <dc:description>Comment: 25 pages, 6 figures (some color)</dc:description>
+ <dc:date>2007-04-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0914</dc:identifier>
+ <dc:identifier>doi:10.1007/s00220-008-0492-7</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

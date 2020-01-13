@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:14:17Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0820" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0820</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Coupling of whispering-gallery modes in size-mismatched microdisk
+  photonic molecules</dc:title>
+ <dc:creator>Boriskina, Svetlana V.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  Mechanisms of whispering-gallery (WG) modes coupling in microdisk photonic
+molecules (PMs) with slight and significant size mismatch are numerically
+investigated. The results reveal two different scenarios of modes interaction
+depending on the degree of this mismatch and offer new insight into how PM
+parameters can be tuned to control and modify WG-modes wavelengths and
+Q-factors. From a practical point of view, these findings offer a way to
+fabricate PM microlaser structures that exhibit low thresholds and directional
+emission, and at the same time are more tolerant to fabrication errors than
+previously explored coupled-cavity structures composed of identical
+microresonators.
+</dc:description>
+ <dc:description>Comment: 3 pages with 5 figures (to appear in Opt. Lett. 2007)</dc:description>
+ <dc:date>2007-04-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0820</dc:identifier>
+ <dc:identifier>Opt. Lett. 32(11) 1557-1559 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1364/OL.32.001557</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

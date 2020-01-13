@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:02Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0639" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0639</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A measure of the non-Gaussian character of a quantum state</dc:title>
+ <dc:creator>Genoni, Marco G.</dc:creator>
+ <dc:creator>Paris, Matteo G. A.</dc:creator>
+ <dc:creator>Banaszek, Konrad</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We address the issue of quantifying the non-Gaussian character of a bosonic
+quantum state and introduce a non-Gaussianity measure based on the
+Hilbert-Schmidt distance between the state under examination and a reference
+Gaussian state. We analyze in details the properties of the proposed measure
+and exploit it to evaluate the non-Gaussianity of some relevant single- and
+multi-mode quantum states. The evolution of non-Gaussianity is also analyzed
+for quantum states undergoing the processes of Gaussification by loss and
+de-Gaussification by photon-subtraction. The suggested measure is easily
+computable for any state of a bosonic system and allows to define a
+corresponding measure for the non-Gaussian character of a quantum operation.
+</dc:description>
+ <dc:description>Comment: revised and enlarged version, 7 pages, 4 figures</dc:description>
+ <dc:date>2007-04-04</dc:date>
+ <dc:date>2007-10-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0639</dc:identifier>
+ <dc:identifier>Phys. Rev. A 76, 042327 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.042327</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

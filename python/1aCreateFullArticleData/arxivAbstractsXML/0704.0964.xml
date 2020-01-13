@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:26Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0964" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0964</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Upper bounds on entangling rates of bipartite Hamiltonians</dc:title>
+ <dc:creator>Bravyi, Sergey</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We discuss upper bounds on the rate at which unitary evolution governed by a
+non-local Hamiltonian can generate entanglement in a bipartite system. Given a
+bipartite Hamiltonian H coupling two finite dimensional particles A and B, the
+entangling rate is shown to be upper bounded by c*log(d)*norm(H), where d is
+the smallest dimension of the interacting particles, norm(H) is the operator
+norm of H, and c is a constant close to 1. Under certain restrictions on the
+initial state we prove analogous upper bound for the ancilla-assisted
+entangling rate with a constant c that does not depend upon dimensions of local
+ancillas. The restriction is that the initial state has at most two distinct
+Schmidt coefficients (each coefficient may have arbitrarily large
+multiplicity). Our proof is based on analysis of a mixing rate -- a functional
+measuring how fast entropy can be produced if one mixes a time-independent
+state with a state evolving unitarily.
+</dc:description>
+ <dc:description>Comment: 14 pages, 4 figures</dc:description>
+ <dc:date>2007-04-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0964</dc:identifier>
+ <dc:identifier>Phys. Rev. A 76, 052319 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.052319</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

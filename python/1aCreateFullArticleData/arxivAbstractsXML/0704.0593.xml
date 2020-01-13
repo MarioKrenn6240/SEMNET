@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:44:33Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0593" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0593</identifier>
+ <datestamp>2007-09-27</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Local-field effects in radiatively broadened magneto-dielectric media:
+  negative refraction and absorption reduction</dc:title>
+ <dc:creator>K&#xe4;stel, J&#xfc;rgen</dc:creator>
+ <dc:creator>Fleischhauer, Michael</dc:creator>
+ <dc:creator>Juzeli&#x16b;nas, Gediminas</dc:creator>
+ <dc:subject>Condensed Matter - Other Condensed Matter</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We give a microscopic derivation of the Clausius-Mossotti relations for a
+homogeneous and isotropic magneto-dielectric medium consisting of radiatively
+broadened atomic oscillators. To this end the diagram series of electromagnetic
+propagators is calculated exactly for an infinite bi-cubic lattice of
+dielectric and magnetic dipoles for a lattice constant small compared to the
+resonance wavelength $\lambda$. Modifications of transition frequencies and
+linewidth of the elementary oscillators are taken into account in a
+selfconsistent way by a proper incorporation of the singular self-interaction
+terms. We show that in radiatively broadened media sufficiently close to the
+free-space resonance the real part of the index of refraction approaches the
+value -2 in the limit of $\rho \lambda^3 \gg 1$, where $\rho$ is the number
+density of scatterers. Since at the same time the imaginary part vanishes as
+$1/\rho$ local field effects can have important consequences for realizing
+low-loss negative index materials.
+</dc:description>
+ <dc:description>Comment: 6 pages, 1 figure</dc:description>
+ <dc:date>2007-04-04</dc:date>
+ <dc:date>2007-09-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0593</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

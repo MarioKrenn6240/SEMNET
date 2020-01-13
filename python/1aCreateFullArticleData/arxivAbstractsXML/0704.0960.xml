@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:24Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0960" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0960</identifier>
+ <datestamp>2011-11-09</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Generating Squeezed States of Nanomechanical Resonator</dc:title>
+ <dc:creator>Huo, Wen Yi</dc:creator>
+ <dc:creator>Long, Gui Lu</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We propose a scheme for generating squeezed states in solid state circuits
+consisting of a nanomechanical resonator (NMR), a superconducting Cooper-pair
+box (CPB) and a superconducting transmission line resonator (STLR). The
+nonlinear interaction between the NMR and the STLR can be implemented by
+setting the external biased flux of the CPB at certain values. The interaction
+Hamiltonian between the NMR and the STLR is derived by performing Fr$\rm\ddot
+o$hlich transformation on the total Hamiltonian of the combined system. Just by
+adiabatically keeping the CPB at the ground state, we get the standard
+parametric down-conversion Hamiltonian. The CPB plays the role of ``nonlinear
+media&quot;, and the squeezed states of the NMR can be easily generated in a manner
+similar to the three-wave mixing in quantum optics. This is the three-wave
+mixing in a solid-state circuit.
+</dc:description>
+ <dc:description>Comment: 4 pages 1 figure. One figure added, squeezing efficiency added. Noise
+  considered</dc:description>
+ <dc:date>2007-04-06</dc:date>
+ <dc:date>2007-06-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0960</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

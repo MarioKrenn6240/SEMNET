@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:11Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0758" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0758</identifier>
+ <datestamp>2008-02-04</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Entangling Independent Photons by Time Measurement</dc:title>
+ <dc:creator>Halder, Matthaeus</dc:creator>
+ <dc:creator>Beveratos, Alexios</dc:creator>
+ <dc:creator>Gisin, Nicolas</dc:creator>
+ <dc:creator>Scarani, Valerio</dc:creator>
+ <dc:creator>Simon, Christoph</dc:creator>
+ <dc:creator>Zbinden, Hugo</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  A quantum system composed of two or more subsystems can be in an entangled
+state, i.e. a state in which the properties of the global system are well
+defined but the properties of each subsystem are not. Entanglement is at the
+heart of quantum physics, both for its conceptual foundations and for
+applications in information processing and quantum communication. Remarkably,
+entanglement can be &quot;swapped&quot;: if one prepares two independent entangled pairs
+A1-A2 and B1-B2, a joint measurement on A1 and B1 (called a &quot;Bell-State
+Measurement&quot;, BSM) has the effect of projecting A2 and B2 onto an entangled
+state, although these two particles have never interacted or shared any common
+past[1,2]. Experiments using twin photons produced by spontaneous parametric
+down-conversion (SPDC) have already demonstrated entanglement swapping[3-6],
+but here we present its first realization using continuous wave (CW) sources,
+as originally proposed[2]. The challenge was to achieve sufficiently sharp
+synchronization of the photons in the BSM. Using narrow-band filters, the
+coherence time of the photons that undergo the BSM is significantly increased,
+exceeding the temporal resolution of the detectors. Hence pulsed sources can be
+replaced by CW sources, which do not require any synchronization[6,7], allowing
+for the first time the use of completely autonomous sources. Our experiment
+exploits recent progress in the time precision of photon detectors, in the
+efficiency of photon pair production by SPDC with waveguides in nonlinear
+crystals[8], and in the stability of narrow-band filters. This approach is
+independent of the form of entanglement; we employed time-bin entangled
+photons[9] at telecom wavelengths. Our setup is robust against thermal or
+mechanical fluctuations in optical fibres thanks to cm-long coherence lengths.
+</dc:description>
+ <dc:description>Comment: 13 pages, 3 figures</dc:description>
+ <dc:date>2007-04-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0758</dc:identifier>
+ <dc:identifier>Nature Physics 3, 692 - 695 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1038/nphys700</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

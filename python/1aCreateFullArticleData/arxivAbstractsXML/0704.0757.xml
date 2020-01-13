@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:09Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0757" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0757</identifier>
+ <datestamp>2007-09-06</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Bounds on Negativity of Superpositions</dc:title>
+ <dc:creator>Ou, Yong-Cheng</dc:creator>
+ <dc:creator>Fan, Heng</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The entanglement quantified by negativity of pure bipartite superposed states
+is studied. We show that if the entanglement is quantified by the concurrence
+two pure states of high fidelity to one another still have nearly the same
+entanglement. Furthermore this conclusion can be guaranteed by our obtained
+inequality, and the concurrence is shown to be a continuous function even in
+infinite dimensions. The bounds on the negativity of superposed states in terms
+of those of the states being superposed are obtained. These bounds can find
+useful applications in estimating the amount of the entanglement of a given
+pure state.
+</dc:description>
+ <dc:description>Comment: 5 pages</dc:description>
+ <dc:date>2007-04-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0757</dc:identifier>
+ <dc:identifier>Physical Review A 76,022320(2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.022320</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

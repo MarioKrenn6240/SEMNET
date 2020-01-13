@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:06Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0678" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0678</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Generation of Large Number-Path Entanglement Using Linear Optics and
+  Feed-Forward</dc:title>
+ <dc:creator>Cable, Hugo</dc:creator>
+ <dc:creator>Dowling, Jonathan P.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We show how an idealised measurement procedure can condense photons from two
+modes into one, and how, by feeding forward the results of the measurement, it
+is possible to generate efficiently superpositions of components for which only
+one mode is populated, commonly called ``N00N states''. For the basic
+procedure, sources of number states leak onto a beam splitter, and the output
+ports are monitored by photodetectors. We find that detecting a fixed fraction
+of the input at one output port suffices to direct the remainder to the same
+port with high probability, however large the initial state. When instead
+photons are detected at both ports, Schr\&quot;{o}dinger cat states are produced. We
+describe a circuit for making the components of such a state orthogonal, and
+another for subsequent conversion to a N00N state. Our approach scales
+exponentially better than existing proposals. Important applications include
+quantum imaging and metrology.
+</dc:description>
+ <dc:date>2007-04-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0678</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 99, 163604 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.99.163604</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

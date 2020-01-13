@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:30Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0984" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0984</identifier>
+ <datestamp>2015-05-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Transfer of a Polaritonic Qubit through a Coupled Cavity Array</dc:title>
+ <dc:creator>Bose, Sougato</dc:creator>
+ <dc:creator>Angelakis, Dimitris G.</dc:creator>
+ <dc:creator>Burgarth, Daniel</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We demonstrate a scheme for quantum communication between the ends of an
+array of coupled cavities. Each cavity is doped with a single two level system
+(atoms or quantum dots) and the detuning of the atomic level spacing and
+photonic frequency is appropriately tuned to achieve photon blockade in the
+array. We show that in such a regime, the array can simulate a dual rail
+quantum state transfer protocol where the arrival of quantum information at the
+receiving cavity is heralded through a fluorescence measurement. Communication
+is also possible between any pair of cavities of a network of connected
+cavities.
+</dc:description>
+ <dc:description>Comment: Contribution to Special Issue in Journal of Modern Optics celebrating
+  the 60th birthday of Peter L. Knight</dc:description>
+ <dc:date>2007-04-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0984</dc:identifier>
+ <dc:identifier>Journ. of Mod. Opt. vol. 54, 2307 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1080/09500340701515120</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:23Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0893" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0893</identifier>
+ <datestamp>2011-07-08</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Topological phase for spin-orbit transformations on a laser beam</dc:title>
+ <dc:creator>Souza, C. E. R.</dc:creator>
+ <dc:creator>Huguenin, J. A. O.</dc:creator>
+ <dc:creator>Milman, P.</dc:creator>
+ <dc:creator>Khoury, A. Z.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We investigate the topological phase associated with the double connectedness
+of the SO(3) representation in terms of maximally entangled states. An
+experimental demonstration is provided in the context of polarization and
+spatial mode transformations of a laser beam carrying orbital angular momentum.
+The topological phase is evidenced through interferometric measurements and a
+quantitative relationship between the concurrence and the fringes visibility is
+derived. Both the quantum and the classical regimes were investigated.
+</dc:description>
+ <dc:description>Comment: 4 pages, 4 figures</dc:description>
+ <dc:date>2007-04-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0893</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 99, 160401 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.99.160401</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

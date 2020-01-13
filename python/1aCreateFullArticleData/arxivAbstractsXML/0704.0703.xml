@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:14:14Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0703" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0703</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Transient behavior of surface plasmon polaritons scattered at a
+  subwavelength groove</dc:title>
+ <dc:creator>Leveque, Gaetan</dc:creator>
+ <dc:creator>Martin, Olivier J. F.</dc:creator>
+ <dc:creator>Weiner, John</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We present a numerical study and analytical model of the optical near-field
+diffracted in the vicinity of subwavelength grooves milled in silver surfaces.
+The Green's tensor approach permits computation of the phase and amplitude
+dependence of the diffracted wave as a function of the groove geometry. It is
+shown that the field diffracted along the interface by the groove is equivalent
+to replacing the groove by an oscillating dipolar line source. An analytic
+expression is derived from the Green's function formalism, that reproduces well
+the asymptotic surface plasmon polariton (SPP) wave as well as the transient
+surface wave in the near-zone close to the groove. The agreement between this
+model and the full simulation is very good, showing that the transient
+&quot;near-zone&quot; regime does not depend on the precise shape of the groove. Finally,
+it is shown that a composite diffractive evanescent wave model that includes
+the asymptotic SPP can describe the wavelength evolution in this transient
+near-zone. Such a semi-analytical model may be useful for the design and
+optimization of more elaborate photonic circuits whose behavior in large part
+will be controlled by surface waves.
+</dc:description>
+ <dc:description>Comment: 12 pages, 10 figures</dc:description>
+ <dc:date>2007-04-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0703</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.76.155418</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

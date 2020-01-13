@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:40:00Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0606" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0606</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Three-dimensional effects in &quot;atom diodes&quot;: atom-optical devices for
+  one-way motion</dc:title>
+ <dc:creator>Ruschhaupt, A.</dc:creator>
+ <dc:creator>Muga, J. G.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The ``atom diode'' is a laser device that lets the ground state atom pass in
+one direction but not in the opposite direction. We examine three-dimensional
+effects of that device for arbitrary atomic incidence angles on flat laser
+sheets and set breakdown limiting angles and velocities. It is found that a
+correct diodic behavior independent of the incident angle can be obtained with
+blue detuned lasers.
+</dc:description>
+ <dc:description>Comment: 10 pages, 8 figures</dc:description>
+ <dc:date>2007-04-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0606</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.013619</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>
