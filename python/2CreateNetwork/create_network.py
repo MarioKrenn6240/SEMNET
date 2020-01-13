@@ -10,6 +10,8 @@ def create_network(all_papers):
            all_KW.append(line[0:-1])
            line = fp.readline()
 
+    #all_KW=all_KW[0:700]
+
     padding_str=''
     for ii in range(1000):
         padding_str=padding_str+' '
@@ -53,7 +55,6 @@ def create_network(all_papers):
         found_KW=list(set(found_KW))
 
         for ii in range(len(found_KW)-1):
-            #print('article ', ii,'/',len(found_KW))
             for jj in range(ii+1,len(found_KW)):
                 network_T[found_KW[ii],found_KW[jj]].append(int(article[0][0:4]))
                 network_T[found_KW[jj],found_KW[ii]].append(int(article[0][0:4]))               
@@ -61,4 +62,4 @@ def create_network(all_papers):
                 nn[found_KW[ii],found_KW[jj]]+=1
                 nn[found_KW[jj],found_KW[ii]]+=1
 
-    return network_T, nn
+    return network_T, nn, all_KW
