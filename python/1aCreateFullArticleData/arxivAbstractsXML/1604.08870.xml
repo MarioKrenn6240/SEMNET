@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-03-01T14:24:15Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1604.08870" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08870</identifier>
+ <datestamp>2016-11-23</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Momentum distribution in the unitary Bose gas from first principles</dc:title>
+ <dc:creator>Comparin, Tommaso</dc:creator>
+ <dc:creator>Krauth, Werner</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  We consider a realistic bosonic N-particle model with unitary interactions
+relevant for Efimov physics. Using quantum Monte Carlo methods, we find that
+the critical temperature for Bose-Einstein condensation is decreased with
+respect to the ideal Bose gas. We also determine the full momentum distribution
+of the gas, including its universal asymptotic behavior, and compare this
+crucial observable to recent experimental data. Similar to the experiments with
+different atomic species, differentiated solely by a three-body length scale,
+our model only depends on a single parameter. We establish a weak influence of
+this parameter on physical observables. In current experiments, the
+thermodynamic instability of our model from the atomic gas towards an Efimov
+liquid could be masked by the dynamical instability due to three-body losses.
+</dc:description>
+ <dc:description>Comment: 6+3 pages, 4+4 figures</dc:description>
+ <dc:date>2016-04-29</dc:date>
+ <dc:date>2016-11-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1604.08870</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 117, 225301 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.117.225301</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

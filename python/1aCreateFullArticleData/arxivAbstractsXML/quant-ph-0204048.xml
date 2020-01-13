@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:26:33Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0204048" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0204048</identifier>
+ <datestamp>2015-06-26</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>General realization of N=4 supersymmetric quantum mechanics and its
+  applications</dc:title>
+ <dc:creator>Ruan, Dong</dc:creator>
+ <dc:creator>Huang, Weicheng</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Based upon the general supercharges which involve not only generators C_j of
+the Clifford algebra C(4,0) with positive metric, but also operators of third
+order, C_j C_k C_l, the general form of N=4 supersymmetric quantum mechanics
+(SSQM), which brings out the richer structures, is realized. Then from them, an
+one-dimensional physical realization and a new multi-dimensional physical
+realization of N=4 SSQM are respectively obtained by solving the constraint
+conditions. As applications, N=4 dynamical superconformal symmetries, which
+possess both the N=4 supersymmetries and the usual dynamical conformal
+symmetries, are studied in detail by considering two simple superpotentials k/x
+and \omega x, and their corresponding superalgebraic structures, which are
+spanned by eight fermionic generators and six bosonic generators, are
+established as well.
+</dc:description>
+ <dc:description>Comment: 25 pages, 3 figures</dc:description>
+ <dc:date>2002-04-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0204048</dc:identifier>
+ <dc:identifier>doi:10.1063/1.1578531</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

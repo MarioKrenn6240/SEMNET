@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:22:44Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0002011" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0002011</identifier>
+ <datestamp>2009-11-06</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Time of arrival in the presence of interactions</dc:title>
+ <dc:creator>Leon, J.</dc:creator>
+ <dc:creator>Julve, J.</dc:creator>
+ <dc:creator>Pitanga, P.</dc:creator>
+ <dc:creator>de Urries, F. J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We introduce a formalism for the calculation of the time of arrival t at a
+space point for particles traveling through interacting media. We develop a
+general formulation that employs quantum canonical transformations from the
+free to the interacting cases to construct t in the context of the Positive
+Operator Valued Measures. We then compute the probability distribution in the
+times of arrival at a point for particles that have undergone reflection,
+transmission or tunneling off finite potential barriers. For narrow Gaussian
+initial wave packets we obtain multimodal time distributions of the reflected
+packets and a combination of the Hartman effect with unexpected retardation in
+tunneling. We also employ explicitly our formalism to deal with arrivals in the
+interaction region for the step and linear potentials.
+</dc:description>
+ <dc:description>Comment: 20 pages including 5 eps figures</dc:description>
+ <dc:date>2000-02-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0002011</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.61.062101</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

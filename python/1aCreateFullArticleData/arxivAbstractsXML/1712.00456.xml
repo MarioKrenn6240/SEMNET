@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T15:07:09Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00456" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00456</identifier>
+ <datestamp>2017-12-05</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Experimental Machine Learning of Quantum States with Partial Information</dc:title>
+ <dc:creator>Gao, Jun</dc:creator>
+ <dc:creator>Qiao, Lu-Feng</dc:creator>
+ <dc:creator>Jiao, Zhi-Qiang</dc:creator>
+ <dc:creator>Ma, Yue-Chi</dc:creator>
+ <dc:creator>Hu, Cheng-Qiu</dc:creator>
+ <dc:creator>Ren, Ruo-Jing</dc:creator>
+ <dc:creator>Yang, Ai-Lin</dc:creator>
+ <dc:creator>Tang, Hao</dc:creator>
+ <dc:creator>Yung, Man-Hong</dc:creator>
+ <dc:creator>Jin, Xian-Min</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Quantum information technologies provide promising applications in
+communication and computation, while machine learning has become a powerful
+technique for extracting meaningful structures in `big data'. A crossover
+between quantum information and machine learning represents a new
+interdisciplinary research area stimulating progresses in both fields. Here we
+experimentally demonstrate an application of machine learning to a task in
+quantum information, namely construction of a quantum-state classifier. We show
+that it is possible to experimentally train an artificial neural network to
+efficiently learn and classify quantum states, without the need of obtaining
+the full information of the states. We also show that a hidden layer of the
+neural network plays a crucial role in boosting the performance of the state
+classifier. These results shed new light on how classification of quantum
+states can be achieved with limited resources, and represent a step towards
+large-scale machine-learning-based applications in quantum information
+processing.
+</dc:description>
+ <dc:description>Comment: 6 pages, 5 figures, comments are welcome</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00456</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

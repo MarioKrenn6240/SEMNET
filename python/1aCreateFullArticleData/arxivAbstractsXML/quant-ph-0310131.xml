@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:07Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310131" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310131</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Understanding Time and Causality is the Key to Understanding Quantum
+  Mechanics</dc:title>
+ <dc:creator>Wharton, William R.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  A new interpretation of quantum mechanics, similar to the Copenhagen
+interpretation, is developed from time-symmetry arguments and commonly held
+principles concerning time and causality. These principles, which are grounded
+in ideas outside of quantum mechanics, suggest that the strange features and
+paradoxes of quantum mechanics come from backward causation, in which future
+events can change the past. Using these principles this paper gives a better
+understanding of (and reasons for) stationary states, tunneling, wave-particle
+duality, the measurement problem with the collapse of the state vector, Hardy's
+paradox, non-locality, and the EPR paradox. These are only a few of the
+interpretational successes, and the model will be contrasted to other popular
+and/or recent interpretations. Unfortunately, this model is metaphysical,
+without any predictive power.
+</dc:description>
+ <dc:description>Comment: 28 pages, no figures, submitted to Physical Review A</dc:description>
+ <dc:date>2003-10-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310131</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

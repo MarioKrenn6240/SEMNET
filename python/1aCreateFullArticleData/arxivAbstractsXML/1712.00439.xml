@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-03-01T16:00:01Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00439" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00439</identifier>
+ <datestamp>2017-12-04</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Capsize of polarization in dilute photonic crystals</dc:title>
+ <dc:creator>Gevorkian, Zhyrair</dc:creator>
+ <dc:creator>Hakhoumian, Arsen</dc:creator>
+ <dc:creator>Gasparian, Vladimir</dc:creator>
+ <dc:creator>Cuevas, Emilio</dc:creator>
+ <dc:subject>Physics - Applied Physics</dc:subject>
+ <dc:subject>Condensed Matter - Other Condensed Matter</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We investigate, experimentally and theoretically, polarization rotation
+effects in dilute photonic crystals with transverse permittivity inhomogeneity
+perpendicular to the traveling direction of waves. A capsize, namely a drastic
+change of polarization to the perpendicular direction is observed in a
+one-dimensional photonic crystal in the frequency range $10\div 140$ GHz. To
+gain more insights into the rotational mechanism, we have developed a
+theoretical model of dilute photonic crystal, based on Maxwell's equations with
+a spatially dependent two dimensional inhomogeneous dielectric permittivity. We
+show that the polarization's rotation can be explained by an optical splitting
+parameter appearing naturally in Maxwell's equations for magnetic or electric
+fields components. This parameter is an optical analogous of Rashba like
+spin-orbit interaction parameter present in quantum waves, introduces a
+correction to the band structure of the two-dimensional Bloch states, creates
+the dynamical phase shift between the waves propagating in the orthogonal
+directions and finally leads to capsizing of the initial polarization.
+Excellent agreement between theory and experiment is found.
+</dc:description>
+ <dc:description>Comment: 11pages,6figures</dc:description>
+ <dc:date>2017-11-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00439</dc:identifier>
+ <dc:identifier>Scientific Reports, 7,16593,(2017)</dc:identifier>
+ <dc:identifier>doi:10.1038/s41598-017-16847-8</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

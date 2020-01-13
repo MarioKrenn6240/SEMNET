@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-03-01T13:36:29Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00365" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00365</identifier>
+ <datestamp>2017-12-04</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Effective self-similar expansion for the Gross-Pitaevskii equation</dc:title>
+ <dc:creator>Modugno, Michele</dc:creator>
+ <dc:creator>Pagnini, Gianni</dc:creator>
+ <dc:creator>Basagoiti, Manuel Angel Valle</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  We consider an effective scaling approach for the free expansion of a
+one-dimensional quantum wave packet, consisting in a self-similar evolution to
+be satisfied on average, i.e. by integrating over the coordinates. A direct
+comparison with the solution of the Gross-Pitaevskii equation shows that the
+effective scaling reproduces with great accuracy the exact evolution - the
+actual wave function is reproduced with a fidelity close to unity - for
+arbitrary values of the interactions. This result represents a proof-of-concept
+of the effectiveness of the scaling ansatz, which has been used in different
+forms in the literature but never compared with the exact evolution.
+</dc:description>
+ <dc:description>Comment: 4 pages, 4 figures</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00365</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

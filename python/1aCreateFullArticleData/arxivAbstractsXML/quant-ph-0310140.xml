@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:19Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310140" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310140</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Bell Inequalities for Position Measurements</dc:title>
+ <dc:creator>Larsson, Jan-Ake</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Bell inequalities for position measurements are derived using the bits of the
+binary expansion of position-measurement results. Violations of these
+inequalities are obtained from the output state of the Non-degenerate Optical
+Parametric Amplifier.
+</dc:description>
+ <dc:description>Comment: revtex4, 2 figures</dc:description>
+ <dc:date>2003-10-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310140</dc:identifier>
+ <dc:identifier>Phys. Rev. A, 70:022102 (2004)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.70.022102</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

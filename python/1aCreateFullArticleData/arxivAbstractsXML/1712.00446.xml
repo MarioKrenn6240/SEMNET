@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T15:07:08Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00446" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00446</identifier>
+ <datestamp>2017-12-04</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Bravyi-Kitaev Superfast simulation of fermions on a quantum computer</dc:title>
+ <dc:creator>Setia, Kanav</dc:creator>
+ <dc:creator>Whitfield, James D.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Present quantum computers often work with distinguishable qubits as their
+computational units. In order to simulate indistinguishable fermionic
+particles, it is first required to map the fermionic state to the state of the
+qubits. The Bravyi-Kitaev Superfast (BKSF) algorithm can be used to accomplish
+this mapping. The BKSF mapping has connections to quantum error correction and
+opens the door to new ways of understanding fermionic simulation in a
+topological context. Here, we present the first detailed exposition of BKSF
+algorithm for molecular simulation. We provide the BKSF transformed qubit
+operators and report on our implementation of the BKSF fermion-to-qubits
+transform in OpenFermion. In this initial study of the hydrogen molecule, we
+have compared BKSF, Jordan-Wigner and Bravyi-Kitaev transforms under the
+Trotter approximation. We considered different orderings of the exponentiated
+terms and found lower Trotter errors than previously reported for Jordan-Wigner
+and Bravyi-Kitaev algorithms. These results open the door to further study of
+the BKSF algorithm for quantum simulation.
+</dc:description>
+ <dc:description>Comment: 13 pages, 5 figures</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00446</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

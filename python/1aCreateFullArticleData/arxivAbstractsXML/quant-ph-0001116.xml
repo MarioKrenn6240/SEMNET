@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:28:00Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0001116" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0001116</identifier>
+ <datestamp>2009-11-06</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On local invariants of pure three-qubit states</dc:title>
+ <dc:creator>Sudbery, Anthony</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We study invariants of three-qubit states under local unitary
+transformations, i.e. functions on the space of entanglement types, which is
+known to have dimension 6. We show that there is no set of six independent
+polynomial invariants of degree less than or equal to 6, and find such a set
+with maximum degree 8. We describe an intrinsic definition of a canonical state
+on each orbit, and discuss the (non-polynomial) invariants associated with it.
+</dc:description>
+ <dc:description>Comment: LateX, 13 pages. Minor typoes corrected. Published version</dc:description>
+ <dc:date>2000-01-31</dc:date>
+ <dc:date>2001-01-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0001116</dc:identifier>
+ <dc:identifier>J.Phys.A 34 (2001), 643-652</dc:identifier>
+ <dc:identifier>doi:10.1088/0305-4470/34/3/323</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

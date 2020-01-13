@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:10Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310133" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310133</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum algorithms in group theory</dc:title>
+ <dc:creator>Batty, Michael</dc:creator>
+ <dc:creator>Braunstein, Samuel L.</dc:creator>
+ <dc:creator>Duncan, Andrew J.</dc:creator>
+ <dc:creator>Rees, Sarah</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present a survey of quantum algorithms, primarily for an intended audience
+of pure mathematicians. We place an emphasis on algorithms involving group
+theory.
+</dc:description>
+ <dc:description>Comment: To appear in &quot;Interactions Between Logic, Group Theory and Computer
+  Science&quot;, AMS Contemporary Math. Replaced with reformated references</dc:description>
+ <dc:date>2003-10-21</dc:date>
+ <dc:date>2003-11-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310133</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

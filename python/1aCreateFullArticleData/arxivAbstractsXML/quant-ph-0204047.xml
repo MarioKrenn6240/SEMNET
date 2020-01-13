@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:26:31Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0204047" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0204047</identifier>
+ <datestamp>2009-11-07</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum Nondemolition State Measurement via Atomic Scattering in Bragg
+  Regime</dc:title>
+ <dc:creator>Khalique, Aeysha</dc:creator>
+ <dc:creator>Saif, Farhan</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We suggest a quantum nondemolition scheme to measure a quantized cavity field
+state using scattering of atoms in general Bragg regime. Our work extends the
+QND measurement of a cavity field from Fock state, based on first order Bragg
+deflection [9], to any quantum state based on Bragg deflection of arbitrary
+order. In addition a set of experimental parameters is provided to perform the
+experiment within the frame work of the presently available technology.
+</dc:description>
+ <dc:description>Comment: 11 pages text, 4 eps figures, to appear in letter section of journal
+  of physical society of Japan</dc:description>
+ <dc:date>2002-04-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0204047</dc:identifier>
+ <dc:identifier>doi:10.1143/JPSJ.71.2587</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

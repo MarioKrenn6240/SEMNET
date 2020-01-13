@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:52Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310120" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310120</identifier>
+ <datestamp>2015-06-26</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>An optimal entropic uncertainty relation in a two-dimensional Hilbert
+  space</dc:title>
+ <dc:creator>Ghirardi, GianCarlo</dc:creator>
+ <dc:creator>Marinatto, Luca</dc:creator>
+ <dc:creator>Romano, Raffaele</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We derive an optimal entropic uncertainty relation for an arbitrary pair of
+observables in a two-dimensional Hilbert space. Such a result, for the simple
+case we are considering, definitively improves all the entropic uncertainty
+relations which have appeared in the literature.
+</dc:description>
+ <dc:description>Comment: 7 pages, Latex, 2 figures</dc:description>
+ <dc:date>2003-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310120</dc:identifier>
+ <dc:identifier>Phys. Lett. A 317 (2003) 32-36</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physleta.2003.08.029</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

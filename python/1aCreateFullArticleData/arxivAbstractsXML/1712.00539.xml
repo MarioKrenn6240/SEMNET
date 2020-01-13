@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T15:18:08Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00539" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00539</identifier>
+ <datestamp>2017-12-06</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Observation of an Optical Spring With a Beamsplitter</dc:title>
+ <dc:creator>Cripe, Jonathan</dc:creator>
+ <dc:creator>Danz, Baylee</dc:creator>
+ <dc:creator>Lane, Benjamin</dc:creator>
+ <dc:creator>Lorio, Mary Catherine</dc:creator>
+ <dc:creator>Falcone, Julia</dc:creator>
+ <dc:creator>Cole, Garrett D.</dc:creator>
+ <dc:creator>Corbitt, Thomas</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present the experimental observation of an optical spring without the use
+of an optical cavity. The optical spring is produced by interference at a
+beamsplitter and, in principle, does not have the damping force associated with
+optical springs created in detuned cavities. The experiment consists of a
+Michelson-Sagnac interferometer (with no recycling cavities) with a partially
+reflective GaAs microresonator as the beamsplitter that produces the optical
+spring. Our experimental measurements at input powers of up to 360 mW show the
+shift of the optical spring frequency as a function of power and are in
+excellent agreement with theoretical predictions. In addition, we show that the
+optical spring is able to keep the interferometer stable and locked without the
+use of external feedback.
+</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:date>2017-12-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00539</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:26:20Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0204039" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0204039</identifier>
+ <datestamp>2009-11-07</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A theorem for the beam splitter entangler</dc:title>
+ <dc:creator>Xiang-bin, Wang</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  It is conjectured that the an entanglement output states from a beam splitter
+requires the nonclassicality in the input state(M.S. Kim, W. Son, V. Buzek and
+P. L. Knight, Phys. Rev. A, 65, 032323(2002)). Here we give a proof for this
+conjecture.
+</dc:description>
+ <dc:description>Comment: Two relevant literatures added. To appear in Phys. Rev. A</dc:description>
+ <dc:date>2002-04-08</dc:date>
+ <dc:date>2002-05-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0204039</dc:identifier>
+ <dc:identifier>Phys. Rev. A, 66, 024303(2002)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.66.024303</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

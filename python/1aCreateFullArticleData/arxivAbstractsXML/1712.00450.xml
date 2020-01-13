@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T15:18:05Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00450" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00450</identifier>
+ <datestamp>2017-12-05</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Learning phase transitions from dynamics</dc:title>
+ <dc:creator>van Nieuwenburg, Evert</dc:creator>
+ <dc:creator>Bairey, Eyal</dc:creator>
+ <dc:creator>Refael, Gil</dc:creator>
+ <dc:subject>Condensed Matter - Disordered Systems and Neural Networks</dc:subject>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We propose the use of recurrent neural networks for classifying phases of
+matter based on the dynamics of experimentally accessible observables. We
+demonstrate this approach by training recurrent networks on the magnetization
+traces of two distinct models of one-dimensional disordered and interacting
+spin chains. The obtained phase diagram for a well-studied model of the
+many-body localization transition shows excellent agreement with previously
+known results obtained from time-independent entanglement spectra. For a
+periodically-driven model featuring an inherently dynamical time-crystalline
+phase, the phase diagram that our network traces in a previously-unexplored
+regime coincides with an order parameter for its expected phases.
+</dc:description>
+ <dc:description>Comment: 5 pages + 3 fig, appendix + 1 fig</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00450</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

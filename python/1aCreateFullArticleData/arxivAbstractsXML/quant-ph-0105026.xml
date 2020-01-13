@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:17:57Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0105026" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0105026</identifier>
+ <datestamp>2009-11-07</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Lossless quantum data compression and variable-length coding</dc:title>
+ <dc:creator>Bostroem, Kim</dc:creator>
+ <dc:creator>Felbinger, Timo</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In order to compress quantum messages without loss of information it is
+necessary to allow the length of the encoded messages to vary. We develop a
+general framework for variable-length quantum messages in close analogy to the
+classical case and show that lossless compression is only possible if the
+message to be compressed is known to the sender. The lossless compression of an
+ensemble of messages is bounded from below by its von-Neumann entropy. We show
+that it is possible to reduce the number of qbits passing through a quantum
+channel even below the von-Neumann entropy by adding a classical side-channel.
+We give an explicit communication protocol that realizes lossless and
+instantaneous quantum data compression and apply it to a simple example. This
+protocol can be used for both online quantum communication and storage of
+quantum data.
+</dc:description>
+ <dc:description>Comment: 16 pages, 5 figures</dc:description>
+ <dc:date>2001-05-08</dc:date>
+ <dc:date>2002-03-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0105026</dc:identifier>
+ <dc:identifier>Phys. Rev. A 65, 032313 (2002)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.65.032313</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

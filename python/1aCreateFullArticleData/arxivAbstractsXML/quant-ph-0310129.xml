@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:04Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310129" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310129</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Critical fluctuations and entanglement in the nondegenerate parametric
+  oscillator</dc:title>
+ <dc:creator>Dechoum, K.</dc:creator>
+ <dc:creator>Drummond, P. D.</dc:creator>
+ <dc:creator>Chaturvedi, S.</dc:creator>
+ <dc:creator>Reid, M. D.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present a fully quantum mechanical treatment of the nondegenerate optical
+parametric oscillator both below and near threshold. This is a non-equilibrium
+quantum system with a critical point phase-transition, that is also known to
+exhibit strong yet easily observed squeezing and quantum entanglement. Our
+treatment makes use of the positive P-representation and goes beyond the usual
+linearized theory. We compare our analytical results with numerical simulations
+and find excellent agreement. We also carry out a detailed comparison of our
+results with those obtained from stochastic electrodynamics, a theory obtained
+by truncating the equation of motion for the Wigner function, with a view to
+locating regions of agreement and disagreement between the two. We calculate
+commonly used measures of quantum behavior including entanglement, squeezing
+and EPR correlations as well as higher order tripartite correlations, and show
+how these are modified as the critical point is approached. In general, the
+critical fluctuations represent an ultimate limit to the possible entanglement
+that can be achieved in a nondegenerate parametric oscillator.
+</dc:description>
+ <dc:date>2003-10-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310129</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.70.053807</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

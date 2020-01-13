@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T15:18:03Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00347" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00347</identifier>
+ <datestamp>2017-12-04</datestamp>
+ <setSpec>physics:gr-qc</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>How can we erase states inside the black hole?</dc:title>
+ <dc:creator>Hwang, Junha</dc:creator>
+ <dc:creator>Park, Hyosub</dc:creator>
+ <dc:creator>Yeom, Dong-han</dc:creator>
+ <dc:creator>Zoe, Heeseung</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We investigate an entangled system, which is analogous to a composite system
+of a black hole and Hawking radiation. If Hawking radiation is well
+approximated by an outgoing particle generated from a pair creation around the
+black hole, such a pair creation increases the total number of states. There
+should be a unitary mechanism to reduce the number of states inside the horizon
+for black hole evaporation. Since the infalling antiparticle has negative
+energy, as long as the infalling antiparticle finds its partner such that two
+particles form a separable state, one can trace out such a zero energy system
+by maintaining unitarity. In this paper, based on some toy model calculations,
+we show that such a unitary tracing-out process is only possible before the
+Page time, while it is impossible after the Page time. Hence, after the Page
+time, if we assume that the process is unitary and the Hawking pair forms a
+separable state, the internal number of states will monotonically increase,
+which is supported by the AMPS argument. In addition, the Hawking particles
+cannot generate randomness of the entire system and hence the entanglement
+entropy cannot reach its maximum. Based on these results, we modify the correct
+form of the Page curve for the remnant picture. The most important conclusion
+is this: if we assume unitarity, semi-classical quantum field theory, and
+general relativity, then the black hole should violate the Bekenstein-Hawking
+entropy bound around the Page time at the latest, and hence, the infinite
+production arguments for remnants might be applied for semi-classical black
+holes, which seems very problematic.
+</dc:description>
+ <dc:description>Comment: 19 pages, 7 figures</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00347</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

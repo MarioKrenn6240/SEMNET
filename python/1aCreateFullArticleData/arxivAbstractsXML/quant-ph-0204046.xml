@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:26:30Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0204046" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0204046</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Center-of-mass motion in many-body theory of BEC</dc:title>
+ <dc:creator>Bialynicki-Birula, Iwo</dc:creator>
+ <dc:creator>Bialynicka-Birula, Zofia</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The method of generating a family of new solutions starting from any wave
+function satisfying the nonlinear Schr\&quot;odinger equation in a harmonic
+potential proposed recently [ J. J. Garc\'{\i}a-Ripoll, V. M.
+P\'erez-Garc\'{\i}a, and V. Vekslerchik, Phys. Rev. E {\bf 64}, 056602 (2001)]
+is extended to many-body theory of mutually interacting particles. Our method
+is based on a generalization of the displacement operator known in quantum
+optics and results in the separation of the center of mass motion from the
+internal dynamics of many-body systems. The center of mass motion is analyzed
+for an anisotropic rotating trap and a region of instability for intermediate
+rotational velocities is predicted.
+</dc:description>
+ <dc:description>Comment: Tutorial on the center of mass motion in rotating traps. 6 pages</dc:description>
+ <dc:date>2002-04-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0204046</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

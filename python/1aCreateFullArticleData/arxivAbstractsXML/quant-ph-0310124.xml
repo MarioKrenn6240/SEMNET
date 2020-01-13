@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:58Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310124" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310124</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Nonlocal resources in the presence of Superselection Rules</dc:title>
+ <dc:creator>Schuch, N.</dc:creator>
+ <dc:creator>Verstraete, F.</dc:creator>
+ <dc:creator>Cirac, J. I.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Superselection rules severely alter the possible operations that can be
+implemented on a distributed quantum system. Whereas the restriction to local
+operations imposed by a bipartite setting gives rise to the notion of
+entanglement as a nonlocal resource, the superselection rule associated with
+particle number conservation leads to a new resource, the \emph{superselection
+induced variance} of local particle number. We show that, in the case of pure
+quantum states, one can quantify the nonlocal properties by only two additive
+measures, and that all states with the same measures can be asymptotically
+interconverted into each other by local operations and classical communication.
+Furthermore we discuss how superselection rules affect the concepts of
+majorization, teleportation and mixed state entanglement.
+</dc:description>
+ <dc:description>Comment: 4 pages</dc:description>
+ <dc:date>2003-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310124</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 92, 087904 (2004)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.92.087904</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

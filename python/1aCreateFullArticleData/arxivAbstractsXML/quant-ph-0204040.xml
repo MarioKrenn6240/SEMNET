@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:26:22Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0204040" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0204040</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Wave packet dynamics and factorization of numbers</dc:title>
+ <dc:creator>Mack, Holger</dc:creator>
+ <dc:creator>Bienert, Marc</dc:creator>
+ <dc:creator>Haug, Florian</dc:creator>
+ <dc:creator>Straub, Frank S.</dc:creator>
+ <dc:creator>Freyberger, Matthias</dc:creator>
+ <dc:creator>Schleich, Wolfgang P.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We connect three phenomena of wave packet dynamics: Talbot images, revivals
+of a particle in a box and fractional revivals. The physical origin of these
+effects is deeply rooted in phase factors which are quadratic in the quantum
+number. We show that the characteristic structures in the time evolution of
+these systems allow us to factorize large integers.
+</dc:description>
+ <dc:date>2002-04-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0204040</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

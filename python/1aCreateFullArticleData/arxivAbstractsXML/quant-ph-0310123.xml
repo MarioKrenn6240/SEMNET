@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:51:56Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310123" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310123</identifier>
+ <datestamp>2009-11-10</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Reversibility of continuous-variable quantum cloning</dc:title>
+ <dc:creator>Filip, R.</dc:creator>
+ <dc:creator>Fiurasek, J.</dc:creator>
+ <dc:creator>Marek, P.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We analyze a reversibility of optimal Gaussian $1\to 2$ quantum cloning of a
+coherent state using only local operations on the clones and classical
+communication between them and propose a feasible experimental test of this
+feature. Performing Bell-type homodyne measurement on one clone and anti-clone,
+an arbitrary unknown input state (not only a coherent state) can be restored in
+the other clone by applying appropriate local unitary displacement operation.
+We generalize this concept to a partial LOCC reversal of the cloning and we
+show that this procedure converts the symmetric cloner to an asymmetric cloner.
+Further, we discuss a distributed LOCC reversal in optimal $1\to M$ Gaussian
+cloning of coherent states which transforms it to optimal $1\to M'$ cloning for
+$M'&lt;M$. Assuming the quantum cloning as a possible eavesdropping attack on
+quantum communication link, the reversibility can be utilized to improve the
+security of the link even after the attack.
+</dc:description>
+ <dc:description>Comment: 7 pages, 5 figures</dc:description>
+ <dc:date>2003-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310123</dc:identifier>
+ <dc:identifier>Phys. Rev. A 69, 012314 (2004).</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.69.012314</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:26:09Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0204031" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0204031</identifier>
+ <datestamp>2008-12-18</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum limits on phase-shift detection using multimode interferometers</dc:title>
+ <dc:creator>Soderholm, Jonas</dc:creator>
+ <dc:creator>Bjork, Gunnar</dc:creator>
+ <dc:creator>Hessmo, Bjorn</dc:creator>
+ <dc:creator>Inoue, Shuichiro</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Fundamental phase-shift detection properties of optical multimode
+interferometers are analyzed. Limits on perfectly distinguishable phase shifts
+are derived for general quantum states of a given average energy. In contrast
+to earlier work, the limits are found to be independent of the number of
+interfering modes. However, the reported bounds are consistent with the
+Heisenberg limit. A short discussion on the concept of well-defined relative
+phase is also included.
+</dc:description>
+ <dc:description>Comment: 6 pages, 3 figures, REVTeX, uses epsf.sty</dc:description>
+ <dc:date>2002-04-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0204031</dc:identifier>
+ <dc:identifier>Phys.Rev.A67:053803,2003</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.67.053803</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

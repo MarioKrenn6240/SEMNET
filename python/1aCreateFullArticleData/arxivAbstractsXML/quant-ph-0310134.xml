@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:11Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310134" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310134</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum Algorithms for the Triangle Problem</dc:title>
+ <dc:creator>Magniez, Frederic</dc:creator>
+ <dc:creator>Santha, Miklos</dc:creator>
+ <dc:creator>Szegedy, Mario</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present two new quantum algorithms that either find a triangle (a copy of
+$K_{3}$) in an undirected graph $G$ on $n$ nodes, or reject if $G$ is triangle
+free. The first algorithm uses combinatorial ideas with Grover Search and makes
+$\tilde{O}(n^{10/7})$ queries. The second algorithm uses $\tilde{O}(n^{13/10})$
+queries, and it is based on a design concept of Ambainis~\cite{amb04} that
+incorporates the benefits of quantum walks into Grover search~\cite{gro96}. The
+first algorithm uses only $O(\log n)$ qubits in its quantum subroutines,
+whereas the second one uses O(n) qubits. The Triangle Problem was first treated
+in~\cite{bdhhmsw01}, where an algorithm with $O(n+\sqrt{nm})$ query complexity
+was presented, where $m$ is the number of edges of $G$.
+</dc:description>
+ <dc:description>Comment: Several typos are fixed, and full proofs are included. Full version
+  of the paper accepted to SODA'05</dc:description>
+ <dc:date>2003-10-21</dc:date>
+ <dc:date>2005-12-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310134</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

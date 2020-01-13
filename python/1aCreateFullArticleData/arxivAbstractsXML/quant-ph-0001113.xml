@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:27:56Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0001113" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0001113</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Actual computational time-cost of the Quantum Fourier Transform in a
+  quantum computer using nuclear spins</dc:title>
+ <dc:creator>Saito, A.</dc:creator>
+ <dc:creator>Kioi, K.</dc:creator>
+ <dc:creator>Akagi, Y.</dc:creator>
+ <dc:creator>Hashizume, N.</dc:creator>
+ <dc:creator>Ohta, K.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We found that the actual computational time-cost of the QFT is O(n 2^n) for
+large n in a quantum computer using nuclear spins. The computational cost of a
+quantum algorithm has usually been estimated as the sum of the universal gates
+required in such ideal mathematical models as the Quantum Turing Machine(QTM)
+and the quantum circuit. This cost is proportional to an actual time-cost in
+the physical implementation where all quantum operations can be achieved in the
+same time. However, if the implementation takes a different time for each
+quantum gate, there is a possibility that the actual time-cost will have a
+different behavior from the ideal cost. So we estimated the actual time-cost of
+the QFT in these implementations by considering the gating time. The actual
+time-cost is drastically different from O(n^2) estimated by complexity
+analysis.
+</dc:description>
+ <dc:description>Comment: 4pages, LaTeX2e file</dc:description>
+ <dc:date>2000-01-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0001113</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

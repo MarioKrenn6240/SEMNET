@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:17:48Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0105020" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0105020</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On Bell's Paradox</dc:title>
+ <dc:creator>Jongejan, Bart</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The correlations between the outcomes of pairs of spin component measurements
+on particles in the singlet state exist and can be observed independently of
+any a priori given frame of reference. We can even construct a frame of
+reference that is based on these correlations. This observation-based frame of
+reference is equivalent to the customary a priori given frame of reference of
+the laboratory when describing real Bohm-Aharonov experiments.
+ J.S. Bell has argued that local hidden parameter theories that reproduce the
+predictions of Quantum Mechanics cannot exist, but the counterfactual reasoning
+leading to Bell's conclusion is physically meaningless if the frame of
+reference that is based on spin component measurements is accepted as the
+backdrop for Bohm-Aharonov experiments.
+ The refutal of Bell's proof opens up for the construction of a viable hidden
+parameter theory. A model of a spin h/2 particle in terms of a non-flat metric
+of space-time is shown to allow the predictions of quantum mechanics in the
+Bohm-Aharonov experiment to be reproduced, without introducing non-locality.
+</dc:description>
+ <dc:description>Comment: 13 pages, TeX, 2 figures (stereograms)</dc:description>
+ <dc:date>2001-05-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0105020</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

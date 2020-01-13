@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:17:58Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0105027" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0105027</identifier>
+ <datestamp>2012-01-04</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>'Beyond quantum theory: a realist psycho-biological interpretation of
+  reality' revisited</dc:title>
+ <dc:creator>Josephson, Brian D.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Physics - General Physics</dc:subject>
+ <dc:description>  It is hypothesised, following Conrad et al. (1988)
+(http://www.tcm.phy.cam.ac.uk/~bdj10/papers/urbino.html) that quantum physics
+is not the ultimate theory of nature, but merely a theoretical account of the
+phenomena manifested in nature under particular conditions. These phenomena
+parallel cognitive phenomena in biosystems in a number of ways and are assumed
+to arise from related mechanisms. Quantum and biological accounts are
+complementary in the sense of Bohr and quantum accounts may be incomplete. In
+particular, following ideas of Stapp, 'the observer' is a system that, while
+lying outside the descriptive capacities of quantum mechanics, creates
+observable phenomena such as wave function collapse through its probing
+activities. Better understanding of such processes may pave the way to new
+science.
+</dc:description>
+ <dc:description>Comment: 6 pages. Invited contribution to the forthcoming issue of BioSystems
+  in memory of Michael Conrad. Now includes links to references on the Web</dc:description>
+ <dc:date>2001-05-08</dc:date>
+ <dc:date>2001-05-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0105027</dc:identifier>
+ <dc:identifier>Biosystems 64 (1-3), pp. 43-45, Jan. 2002</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

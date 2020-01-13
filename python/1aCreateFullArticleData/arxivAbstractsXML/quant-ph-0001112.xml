@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:27:54Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0001112" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0001112</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:gr-qc</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>There is no spooky action-at-a-distance in quantum correlations:
+  Resolution of the EPR nonlocality puzzle</dc:title>
+ <dc:creator>Unnikrishnan, C. S.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:description>  The long-standing puzzle of the nonlocal Einstein-Podolsky-Rosen correlations
+is resolved. The correct quantum mechanical correlations arise for the case of
+entangled particles when strict locality is assumed for the probability
+amplitudes instead of locality for probabilities. Locality of amplitudes
+implies that measurement on one particle does not collapse the companion
+particle to a definite state.
+</dc:description>
+ <dc:description>Comment: 10 pages, LaTeX, Revised for better clarity and precision, same
+  results, some references modified</dc:description>
+ <dc:date>2000-01-31</dc:date>
+ <dc:date>2000-03-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0001112</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

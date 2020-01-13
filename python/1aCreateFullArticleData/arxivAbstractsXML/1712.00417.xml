@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-03-01T16:01:04Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00417" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00417</identifier>
+ <datestamp>2017-12-04</datestamp>
+ <setSpec>physics:nlin</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Stability and Dynamics of Microring Combs: Elliptic function solutions
+  of the Lugiato-Lefever equation</dc:title>
+ <dc:creator>Sun, Chang</dc:creator>
+ <dc:creator>Askham, Travis</dc:creator>
+ <dc:creator>Kutz, J. Nathan</dc:creator>
+ <dc:subject>Nonlinear Sciences - Pattern Formation and Solitons</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We consider a new class of periodic solutions to the Lugiato-Lefever
+equations (LLE) that govern the electromagnetic field in a microresonator
+cavity. Specifically, we rigorously characterize the stability and dynamics of
+the Jacobi elliptic function solutions of LLE and show that the $\dn$ solution
+is stabilized by the pumping of the microresonator. In analogy with soliton
+perturbation theory, we also derive a microcomb perturbation theory that allows
+one to consider the effects of physically realizable perturbations on the comb
+line stability, including effects of Raman scattering and stimulated emission.
+Our results are verified through full numerical simulations of the LLE cavity
+dynamics. The perturbation theory gives a simple analytic platform for
+potentially engineering new resonator designs.
+</dc:description>
+ <dc:description>Comment: 13 pages, 14 figures</dc:description>
+ <dc:date>2017-11-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00417</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

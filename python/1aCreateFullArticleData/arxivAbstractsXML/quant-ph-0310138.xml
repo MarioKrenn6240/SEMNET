@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:17Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310138" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310138</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Revised Iterative Solution for Groundstate of Schroedinger Equation</dc:title>
+ <dc:creator>Wei-Qin, Zhao</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  A revised iterative method based on Green function defined by quadratures
+along a single trajectory is proposed to solve the low-lying quantum wave
+function for Schroedinger equation. Specially a new expression of the perturbed
+energy is obtained, which is much simpler than the traditional one. The method
+is applied to solve the unharmonic oscillator potential. The revised iteration
+procedure gives exactly the same result as those based on the single trajectory
+quadrature method. A comparison of the revised iteration method to the old one
+is made using the example of Stark effect. The obtained results are consistent
+to each other after making power expansion.
+</dc:description>
+ <dc:date>2003-10-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310138</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T18:52:06Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0310130" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0310130</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Dreams versus Reality: Plenary Debate Session on Quantum Computing</dc:title>
+ <dc:creator>Abbott, Derek</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  This is a transcript of a debate on quantum computing that took place at
+6:00pm, Wednesday, 4th June 2003, La Fonda Hotel, Santa Fe, USA. Transcript
+editor: Derek Abbott. Pro Team: Carlton M. Caves, Daniel Lidar, Howard Brandt,
+Alex Hamilton. Con Team: David Ferry, Julio Gea-Banacloche, Sergey Bezrukov,
+Laszlo Kish.
+</dc:description>
+ <dc:description>Comment: 25 pages</dc:description>
+ <dc:date>2003-10-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0310130</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

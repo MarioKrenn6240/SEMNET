@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:22:37Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0002006" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0002006</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum computation by optically coupled steady atoms/quantum-dots
+  inside a quantum electro-dynamic cavity</dc:title>
+ <dc:creator>Pradhan, Prabhakar</dc:creator>
+ <dc:creator>Anantram, M. P.</dc:creator>
+ <dc:creator>Wang, Kang L.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter</dc:subject>
+ <dc:description>  We present a model for quantum computation using n steady 3-level atoms or
+3-level quantum dots, kept inside a quantum electro-dynamics (QED) cavity. Our
+model allows one-qubit operations and the two-qubit controlled-NOT gate as
+required for universal quantum computation. The n quantum bits are described by
+two energy levels of each atom/dot. An external laser and n separate pairs of
+electrodes are used to address a single atom/dot independent of the others, via
+Stark effect. The third level of each system and an additional common-mode
+qubit (a cavity photon) are used for realizing the controlled-NOT operation
+between any pair of qubits. Laser frequency, cavity frequency, and energy
+levels are far off-resonance, and they are brought to resonance by modifying
+the energy-levels of a 3-level system using the Stark effect, only at the time
+of operation.
+</dc:description>
+ <dc:description>Comment: 4 pages, 1 figure</dc:description>
+ <dc:date>2000-02-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0002006</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

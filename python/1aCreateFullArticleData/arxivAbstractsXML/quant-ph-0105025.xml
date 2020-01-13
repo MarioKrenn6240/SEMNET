@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:17:55Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0105025" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0105025</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Electron State Entanglement at Double Ionization</dc:title>
+ <dc:creator>Hnatovsky, V O</dc:creator>
+ <dc:creator>Usenko, C V</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Electron wave function entanglement and spin reconfiguration as source of
+electron correlation are investigated. Properties of correlation function are
+shown to have the best concordance with experimental data under supposition
+that probability of change of electron state to triplet state is about 0.5 or
+more.
+</dc:description>
+ <dc:description>Comment: 6 pages, 6 figures</dc:description>
+ <dc:date>2001-05-07</dc:date>
+ <dc:date>2001-12-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0105025</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

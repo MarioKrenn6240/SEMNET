@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:22:33Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0002003" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0002003</identifier>
+ <datestamp>2008-11-26</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>(Noncanonical) field quantization by means of a single harmonic
+  oscillator</dc:title>
+ <dc:creator>Czachor, Marek</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  The paper is an extension of quant-ph/9912102. The new framework is tested on
+the 2-photon spontaneous emission and blackbody radiation. The new effects are
+rather subtle. The probability of the 2-photon emission is shown to consist of
+a product of several terms: One which is identical to this from standard
+quantum optics and the remaining ones formally resembling detector
+inefficiencies (here arising from nontrivial vacuum structure). The blackbody
+distribution is indistinguishable from the Planck law for T&lt;T_{critical} but
+for T&gt;T_{critical} the maximum of the distribution gets lowered and shifts
+towards higher frequencies. T_{critical} is a parameter that, in principle,
+should be observable. No normal ordering of operators is needed and vacuum
+energy is nonzero but finite. Vacuum is represented by a subspace spanned by
+ground states of the oscillators and is not equivalent to the cyclic vector of
+the GNS construction. The non-CCR algebra is discussed in more detail.
+</dc:description>
+ <dc:description>Comment: revtex, 21 pages, 3 eps figures; the multi-oscillator part is
+  generalized and the non-CCR algebra is appropriately modified; several
+  details are worked out</dc:description>
+ <dc:date>2000-02-01</dc:date>
+ <dc:date>2000-03-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0002003</dc:identifier>
+ <dc:identifier>J.Phys.A33:8081-8104,2000</dc:identifier>
+ <dc:identifier>doi:10.1088/0305-4470/33/45/307</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

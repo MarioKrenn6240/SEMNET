@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T15:18:02Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00329" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00329</identifier>
+ <datestamp>2017-12-04</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:nlin</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Deformed shape invariance symmetry and potentials in curved space with
+  two known eigenstates</dc:title>
+ <dc:creator>Quesne, C.</dc:creator>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Nonlinear Sciences - Exactly Solvable and Integrable Systems</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We consider two families of extensions of the oscillator in a $d$-dimensional
+constant-curvature space and analyze them in a deformed supersymmetric
+framework, wherein the starting oscillator is known to exhibit a deformed shape
+invariance property. We show that the first two members of each extension
+family are also endowed with such a property provided some constraint
+conditions relating the potential parameters are satisfied, in other words they
+are conditionally deformed shape invariant. Since, in the second step of the
+construction of a partner potential hierarchy, the constraint conditions
+change, we impose compatibility conditions between the two sets to build
+potentials with known ground and first excited states. To extend such results
+to any members of the two families, we devise a general method wherein the
+first two superpotentials, the first two partner potentials, and the first two
+eigenstates of the starting potential are built from some generating function
+$W_+(r)$ (and its accompanying function $W_-(r)$).
+</dc:description>
+ <dc:description>Comment: 30 pages, 4 figures</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00329</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T21:12:05Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1604.08901" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08901</identifier>
+ <datestamp>2016-05-04</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Entanglement sharing with separable states</dc:title>
+ <dc:creator>Mi&#x161;ta Jr, Ladislav</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We propose an entanglement sharing protocol based on separable states.
+Initially, two parties, Alice and Bob, share a two-mode separable Gaussian
+state. Alice then splits her mode into two separable modes and distributes them
+between two players. Bob is separable from the players but he can create
+entanglement with either of the players if the other player moves to his
+location and collaborates with him. Any two parties are separable and the
+creation of entanglement is thus mediated by transmission of a mode which is
+separable from individual modes on Alice's and Bob's side. For the state shared
+by the players and Bob one cannot establish entanglement between any two modes
+even with the help of operation on the third mode provided that Bob is
+restricted to Gaussian measurements and the state thus carries a nontrivial
+signature of bound entanglement. The present protocol also demonstrates
+switching between different separability classes of tripartite systems by
+coherent operations on its bipartite parts and complements studies on protocols
+utilizing mixed partially entangled multipartite states.
+</dc:description>
+ <dc:description>Comment: 8 pages, 3 figures</dc:description>
+ <dc:date>2016-04-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1604.08901</dc:identifier>
+ <dc:identifier>Phys. Rev. A 87, 062326 (2013)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.87.062326</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

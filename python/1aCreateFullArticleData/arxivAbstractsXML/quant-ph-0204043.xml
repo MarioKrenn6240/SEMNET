@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:26:26Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0204043" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0204043</identifier>
+ <datestamp>2009-11-07</datestamp>
+ <setSpec>nlin</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Evolution of entanglement under echo dynamics</dc:title>
+ <dc:creator>Prosen, Tomaz</dc:creator>
+ <dc:creator>Seligman, Thomas H.</dc:creator>
+ <dc:creator>Znidaric, Marko</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Nonlinear Sciences - Chaotic Dynamics</dc:subject>
+ <dc:description>  Echo dynamics and fidelity are often used to discuss stability in quantum
+information processing and quantum chaos. Yet fidelity yields no information
+about entanglement, the characteristic property of quantum mechanics. We study
+the evolution of entanglement in echo dynamics. We find qualitatively different
+behavior between integrable and chaotic systems on one hand and between random
+and coherent initial states for integrable systems on the other. For the latter
+the evolution of entanglement is given by a classical time scale. Analytic
+results are illustrated numerically in a Jaynes Cummings model.
+</dc:description>
+ <dc:description>Comment: 5 RevTeX pages, 3 EPS figures (one color) ; v2: considerable revision
+  ;inequality proof omitted</dc:description>
+ <dc:date>2002-04-08</dc:date>
+ <dc:date>2003-04-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0204043</dc:identifier>
+ <dc:identifier>Phys.Rev.A 67, 042112 (2003)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.67.042112</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

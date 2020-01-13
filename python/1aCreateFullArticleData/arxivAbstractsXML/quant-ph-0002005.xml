@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:22:36Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0002005" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0002005</identifier>
+ <datestamp>2009-11-06</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Discrete Phase Measurements and the Bell inequality</dc:title>
+ <dc:creator>Munro, W. J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present a formulation of the Bell inequalities using simple correlated
+photon number states and phase measurements. Such tests generally require
+binning of the information, and this effect is closely examined. Our proposal
+opens up the opportunity for a new novel test of quantum mechanics versus local
+realism. Some insight in entanglement in such systems may be achieved.
+</dc:description>
+ <dc:date>2000-02-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0002005</dc:identifier>
+ <dc:identifier>J. Opt. B: Quantum Semiclass. Opt., Volume 1, 655 (1999)</dc:identifier>
+ <dc:identifier>doi:10.1088/1464-4266/1/6/307</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

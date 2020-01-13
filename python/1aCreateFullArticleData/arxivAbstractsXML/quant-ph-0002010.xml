@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:22:42Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0002010" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0002010</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:physics</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Inverse Time-Dependent Quantum Mechanics</dc:title>
+ <dc:creator>Lemm, J. C.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Physics - Data Analysis, Statistics and Probability</dc:subject>
+ <dc:description>  Using a new Bayesian method for solving inverse quantum problems, potentials
+of quantum systems are reconstructed from coordinate measurements in
+non-stationary states. The approach is based on two basic inputs: 1. a
+likelihood model, providing the probabilistic description of the measurement
+process as given by the axioms of quantum mechanics, and 2. additional &quot;a
+priori&quot; information implemented in form of stochastic processes over
+potentials.
+</dc:description>
+ <dc:description>Comment: 4 pages, 5 figures</dc:description>
+ <dc:date>2000-02-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0002010</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

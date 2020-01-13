@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:26:23Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0204041" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0204041</identifier>
+ <datestamp>2009-11-07</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantify entanglement by concurrence hierarchy</dc:title>
+ <dc:creator>Fan, Heng</dc:creator>
+ <dc:creator>Matsumoto, Keiji</dc:creator>
+ <dc:creator>Imai, Hiroshi</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We define the concurrence hierarchy as d-1 independent invariants under local
+unitary transformations in d-level quantum system. The first one is the
+original concurrence defined by Wootters et al in 2-level quantum system and
+generalized to d-level pure quantum states case. We propose to use this
+concurrence hierarchy as measurement of entanglement. This measurement does not
+increase under local quantum operations and classical communication.
+</dc:description>
+ <dc:description>Comment: Revtex, 6 pages</dc:description>
+ <dc:date>2002-04-08</dc:date>
+ <dc:date>2002-11-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0204041</dc:identifier>
+ <dc:identifier>J.Phys.A:Math.Gen.36(2003)4151-4158.</dc:identifier>
+ <dc:identifier>doi:10.1088/0305-4470/36/14/316</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

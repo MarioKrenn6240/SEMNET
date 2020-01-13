@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T21:15:54Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1604.08906" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08906</identifier>
+ <datestamp>2017-02-01</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Controllable Goos-H\&quot;anchen Shift in Graphene Triangular Double Barrier</dc:title>
+ <dc:creator>Mekkaoui, Miloud</dc:creator>
+ <dc:creator>Jellal, Ahmed</dc:creator>
+ <dc:creator>Bahlouli, Hocine</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We study the Goos-H\&quot;anchen shifts for Dirac fermions in graphene scattered
+by a triangular double barrier potential. The massless Dirac-like equation was
+used to describe the scattered fermions by such potential configuration. Our
+results show that the GHL shifts is affected by the geometrical structure of
+the double barrier. In particular the GHL shifts change sign at the
+transmission zero energies and exhibit enhanced peaks at each bound state
+associated with the double barrier when the incident angle is less than the
+critical angle associated with the total reflection.
+</dc:description>
+ <dc:description>Comment: 14 pages, 7 figures. arXiv admin note: text overlap with
+  arXiv:1306.5679</dc:description>
+ <dc:date>2016-04-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1604.08906</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physe.2016.11.003</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-03-01T16:00:03Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00564" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00564</identifier>
+ <datestamp>2017-12-05</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Phonon-interference resonance effects in nanoparticles embedded in a
+  matrix</dc:title>
+ <dc:creator>Feng, Lei</dc:creator>
+ <dc:creator>Shiga, Takuma</dc:creator>
+ <dc:creator>Han, Haoxue</dc:creator>
+ <dc:creator>Ju, Shenghong</dc:creator>
+ <dc:creator>Kosevich, Yuriy A.</dc:creator>
+ <dc:creator>Shiomi, Junichiro</dc:creator>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We report an unambiguous phonon resonance effect originating from germanium
+nanoparticles embedded in silicon matrix. Our approach features the combination
+of phonon wave-packet method with atomistic dynamics and finite element method
+rooted in continuum theory. We find that multimodal phonon resonance, caused by
+destructive interference of coherent lattice waves propagating through and
+around the nanoparticle, gives rise to sharp and significant transmittance
+dips, blocking the lower-end frequency range of phonon transport that is hardly
+diminished by other nanostructures. The resonance is sensitive to the phonon
+coherent length, where the finiteness of the wave packet width weakens the
+transmittance dip even when coherent length is longer than the particle
+diameter. Further strengthening of transmittance dips are possible by arraying
+multiple nanoparticles that gives rise to the collective vibrational mode.
+Finally, it is demonstrated that these resonance effects can significantly
+reduce thermal conductance in the lower-end frequency range.
+</dc:description>
+ <dc:date>2017-12-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00564</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

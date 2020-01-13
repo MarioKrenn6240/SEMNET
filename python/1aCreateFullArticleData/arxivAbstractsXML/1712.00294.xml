@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2018-02-28T15:07:01Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:1712.00294" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1712.00294</identifier>
+ <datestamp>2017-12-08</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>High-threshold fault-tolerant quantum computation with analog quantum
+  error correction</dc:title>
+ <dc:creator>Fukui, Kosuke</dc:creator>
+ <dc:creator>Tomita, Akihisa</dc:creator>
+ <dc:creator>Okamoto, Atsushi</dc:creator>
+ <dc:creator>Fujii, Keisuke</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  To implement fault-tolerant quantum computation with continuous variables,
+the Gottesman-Kitaev-Preskill (GKP) qubit has been recognized as an important
+technological element. However,it is still challenging to experimentally
+generate the GKP qubit with the required squeezing level, 14.8 dB, of the
+existing fault-tolerant quantum computation. To reduce this requirement, we
+propose a high-threshold fault-tolerant quantum computation with GKP qubits
+using topologically protected measurement-based quantum computation with the
+surface code. By harnessing analog information contained in the GKP qubits, we
+apply analog quantum error correction to the surface code.Furthermore, we
+develop a method to prevent the squeezing level from decreasing during the
+construction of the large scale cluster states for the topologically protected
+measurement based quantum computation. We numerically show that the required
+squeezing level can be relaxed to less than 10 dB, which is within the reach of
+the current experimental technology. Hence, this work can considerably
+alleviate this experimental requirement and take a step closer to the
+realization of large scale quantum computation.
+</dc:description>
+ <dc:description>Comment: 13 pages, 7 figures</dc:description>
+ <dc:date>2017-12-01</dc:date>
+ <dc:date>2017-12-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1712.00294</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

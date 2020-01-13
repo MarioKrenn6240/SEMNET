@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-28T19:26:24Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:quant-ph/0204042" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:quant-ph/0204042</identifier>
+ <datestamp>2009-11-07</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Simple diamagnetic monotonicities for Schroedinger operators with
+  inhomogeneous magnetic fields of constant direction</dc:title>
+ <dc:creator>Leschke, Hajo</dc:creator>
+ <dc:creator>Ruder, Rainer</dc:creator>
+ <dc:creator>Warzel, Simone</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  Under certain simplifying conditions we detect monotonicity properties of the
+ground-state energy and the canonical-equilibrium density matrix of a spinless
+charged particle in the Euclidean plane subject to a perpendicular, possibly
+inhomogeneous magnetic field and an additional scalar potential. Firstly, we
+point out a simple condition warranting that the ground-state energy does not
+decrease when the magnetic field and/or the potential is increased pointwise.
+Secondly, we consider the case in which both the magnetic field and the
+potential are constant along one direction in the plane and give a genuine
+path-integral argument for corresponding monotonicities of the density-matrix
+diagonal and the absolute value of certain off-diagonals. Our results
+complement to some degree results of M. Loss and B. Thaller [Commun. Math.
+Phys. 186 (1997) 95] and L. Erdos [J. Math. Phys. 38 (1997) 1289].
+</dc:description>
+ <dc:date>2002-04-08</dc:date>
+ <dc:date>2002-07-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/quant-ph/0204042</dc:identifier>
+ <dc:identifier>Journal of Physics A: Mathematical and General 35 (2002) 5701-5709</dc:identifier>
+ <dc:identifier>doi:10.1088/0305-4470/35/27/311</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>
