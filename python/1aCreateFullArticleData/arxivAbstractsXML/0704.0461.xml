@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:46Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0461" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0461</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Entanglement increase from local interactions with
+  not-completely-positive maps</dc:title>
+ <dc:creator>Jordan, Thomas F.</dc:creator>
+ <dc:creator>Shaji, Anil</dc:creator>
+ <dc:creator>Sudarshan, E. C. G.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Simple examples are constructed that show the entanglement of two qubits
+being both increased and decreased by interactions on just one of them. One of
+the two qubits interacts with a third qubit, a control, that is never entangled
+or correlated with either of the two entangled qubits and is never entangled,
+but becomes correlated, with the system of those two qubits. The two entangled
+qubits do not interact, but their state can change from maximally entangled to
+separable or from separable to maximally entangled. Similar changes for the two
+qubits are made with a swap operation between one of the qubits and a control;
+then there are compensating changes of entanglement that involve the control.
+When the entanglement increases, the map that describes the change of the state
+of the two entangled qubits is not completely positive. Combination of two
+independent interactions that individually give exponential decay of the
+entanglement can cause the entanglement to not decay exponentially but,
+instead, go to zero at a finite time.
+</dc:description>
+ <dc:description>Comment: 6 Pages, new title, substantially revised</dc:description>
+ <dc:date>2007-04-03</dc:date>
+ <dc:date>2007-05-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0461</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.022102</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

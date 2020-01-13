@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:44:28Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0440" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0440</identifier>
+ <datestamp>2008-11-26</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:hep-th</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Dynamics of a quantum phase transition in a ferromagnetic Bose-Einstein
+  condensate</dc:title>
+ <dc:creator>Damski, Bogdan</dc:creator>
+ <dc:creator>Zurek, Wojciech H.</dc:creator>
+ <dc:subject>Condensed Matter - Other Condensed Matter</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We discuss dynamics of a slow quantum phase transition in a spin-1
+Bose-Einstein condensate. We determine analytically the scaling properties of
+the system magnetization and verify them with numerical simulations in a one
+dimensional model.
+</dc:description>
+ <dc:description>Comment: 4 pages &amp; figures, significantly improved presentation with respect
+  to the first submission</dc:description>
+ <dc:date>2007-04-03</dc:date>
+ <dc:date>2007-06-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0440</dc:identifier>
+ <dc:identifier>Phys.Rev.Lett.99:130402,2007</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.99.130402</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

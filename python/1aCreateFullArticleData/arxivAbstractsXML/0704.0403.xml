@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:41Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0403" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0403</identifier>
+ <datestamp>2015-05-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Review: Semiconductor Quantum Light Sources</dc:title>
+ <dc:creator>Shields, Andrew J</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Lasers and LEDs display a statistical distribution in the number of photons
+emitted in a given time interval. New applications exploiting the quantum
+properties of light require sources for which either individual photons, or
+pairs, are generated in a regulated stream. Here we review recent research on
+single-photon sources based on the emission of a single semiconductor quantum
+dot. In just a few years remarkable progress has been made in generating
+indistinguishable single-photons and entangled photon pairs using such
+structures. It suggests it may be possible to realise compact, robust, LED-like
+semiconductor devices for quantum light generation.
+</dc:description>
+ <dc:description>Comment: preprint version</dc:description>
+ <dc:date>2007-04-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0403</dc:identifier>
+ <dc:identifier>Nature Photonics 1, 215 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1038/nphoton.2007.46</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T20:09:26Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0291" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0291</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Approaching the Heisenberg limit in an atom laser</dc:title>
+ <dc:creator>Jeppesen, M.</dc:creator>
+ <dc:creator>Dugu&#xe9;, J.</dc:creator>
+ <dc:creator>Dennis, G. R.</dc:creator>
+ <dc:creator>Johnsson, M. T.</dc:creator>
+ <dc:creator>Figl, C.</dc:creator>
+ <dc:creator>Robins, N. P.</dc:creator>
+ <dc:creator>Close, J. D.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Condensed Matter - Other Condensed Matter</dc:subject>
+ <dc:description>  We present experimental and theoretical results showing the improved beam
+quality and reduced divergence of an atom laser produced by an optical Raman
+transition, compared to one produced by an RF transition. We show that Raman
+outcoupling can eliminate the diverging lens effect that the condensate has on
+the outcoupled atoms. This substantially improves the beam quality of the atom
+laser, and the improvement may be greater than a factor of ten for experiments
+with tight trapping potentials. We show that Raman outcoupling can produce atom
+lasers whose quality is only limited by the wavefunction shape of the
+condensate that produces them, typically a factor of 1.3 above the Heisenberg
+limit.
+</dc:description>
+ <dc:description>Comment: Corrected analysis, added figure</dc:description>
+ <dc:date>2007-04-03</dc:date>
+ <dc:date>2007-10-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0291</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.77.063618</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

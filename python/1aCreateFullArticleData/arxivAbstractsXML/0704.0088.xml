@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:14:00Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0088" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0088</identifier>
+ <datestamp>2007-05-23</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Some new experimental photonic flame effect features</dc:title>
+ <dc:creator>Tcherniega, N. V.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  The results of the spectral, energetical and temporal characteristics of
+radiation in the presence of the photonic flame effect are presented.
+Artificial opal posed on Cu plate at the temperature of liquid nitrogen boiling
+point (77 K) being irradiated by nanosecond ruby laser pulse produces long-
+term luminiscence with a duration till ten seconds with a finely structured
+spectrum in the the antistocks part of the spectrum. Analogous visible
+luminescence manifesting time delay appeared in other samples of the artificial
+opals posed on the same plate. In the case of the opal infiltrated with
+different nonlinear liquids the threshold of the luminiscence is reduced and
+the spatial disribution of the bright emmiting area on the opal surface is
+being changed. In the case of the putting the frozen nonlinear liquids on the
+Cu plate long-term blue bright luminiscence took place in the frozen species of
+the liquids. Temporal characteristics of this luminiscence are nearly the same
+as in opal matrixes.
+</dc:description>
+ <dc:description>Comment: 9 pages, 10 figures, accepted for publication in JRLR</dc:description>
+ <dc:date>2007-04-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0088</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:53Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0511" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0511</identifier>
+ <datestamp>2011-11-09</datestamp>
+ <setSpec>math</setSpec>
+ <setSpec>physics:math-ph</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A unified approach to SIC-POVMs and MUBs</dc:title>
+ <dc:creator>Albouy, O.</dc:creator>
+ <dc:creator>Kibler, M. R.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  A unified approach to (symmetric informationally complete) positive operator
+valued measures and mutually unbiased bases is developed in this article. The
+approach is based on the use of operator equivalents expanded in the enveloping
+algebra of SU(2). Emphasis is put on similarities and differences between
+SIC-POVMs and MUBs.
+</dc:description>
+ <dc:description>Comment: 15 pages</dc:description>
+ <dc:date>2007-04-04</dc:date>
+ <dc:date>2007-09-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0511</dc:identifier>
+ <dc:identifier>Journal of Russian Laser Research 28 (2007) 429-438</dc:identifier>
+ <dc:identifier>doi:10.1007/s10946-007-0032-5</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

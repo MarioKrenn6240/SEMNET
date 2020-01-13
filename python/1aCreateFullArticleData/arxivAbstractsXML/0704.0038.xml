@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:13:58Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0038" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0038</identifier>
+ <datestamp>2009-09-29</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The discrete dipole approximation: an overview and recent developments</dc:title>
+ <dc:creator>Yurkin, Maxim A.</dc:creator>
+ <dc:creator>Hoekstra, Alfons G.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:description>  We present a review of the discrete dipole approximation (DDA), which is a
+general method to simulate light scattering by arbitrarily shaped particles. We
+put the method in historical context and discuss recent developments, taking
+the viewpoint of a general framework based on the integral equations for the
+electric field. We review both the theory of the DDA and its numerical aspects,
+the latter being of critical importance for any practical application of the
+method. Finally, the position of the DDA among other methods of light
+scattering simulation is shown and possible future developments are discussed.
+</dc:description>
+ <dc:description>Comment: 36 pages, 1 figure</dc:description>
+ <dc:date>2007-03-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0038</dc:identifier>
+ <dc:identifier>J.Quant.Spectrosc.Radiat.Transf. 106, 558-589 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1016/j.jqsrt.2007.01.034</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

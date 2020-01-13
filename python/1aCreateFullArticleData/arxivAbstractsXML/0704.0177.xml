@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:14:01Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0177" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0177</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Robust manipulation of electron spin coherence in an ensemble of singly
+  charged quantum dots</dc:title>
+ <dc:creator>Greilich, A.</dc:creator>
+ <dc:creator>Wiemann, M.</dc:creator>
+ <dc:creator>Hernandez, F. G. G.</dc:creator>
+ <dc:creator>Yakovlev, D. R.</dc:creator>
+ <dc:creator>Yugova, I. A.</dc:creator>
+ <dc:creator>Shabaev, A.</dc:creator>
+ <dc:creator>Efros, Al. L.</dc:creator>
+ <dc:creator>Reuter, D.</dc:creator>
+ <dc:creator>Wieck, A. D.</dc:creator>
+ <dc:creator>Bayer, M.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  Using the recently reported mode locking effect we demonstrate a highly
+robust control of electron spin coherence in an ensemble of (In,Ga)As quantum
+dots during the single spin coherence time. The spin precession in a transverse
+magnetic field can be fully controlled up to 25 K by the parameters of the
+exciting pulsed laser protocol such as the pulse train sequence, leading to
+adjustable quantum beat bursts in Faraday rotation. Flipping of the electron
+spin precession phase was demonstrated by inverting the polarization within a
+pulse doublet sequence.
+</dc:description>
+ <dc:description>Comment: 5 Pages, 3 figures</dc:description>
+ <dc:date>2007-04-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0177</dc:identifier>
+ <dc:identifier>Phys. Rev. B 75, 233301 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.75.233301</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

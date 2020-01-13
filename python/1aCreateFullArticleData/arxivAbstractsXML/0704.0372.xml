@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:34Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0372" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0372</identifier>
+ <datestamp>2015-05-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Levy-Lieb constrained-search formulation as a minimization of the
+  correlation functional</dc:title>
+ <dc:creator>Site, L. Delle</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The constrained-search formulation of Levy and Lieb, which formally defines
+the exact Hohenberg-Kohn functional for any N-representable electron density,
+is here shown to be equivalent to the minimization of the correlation
+functional with respect to the N-1 conditional probability density, where N is
+number of electrons of the system. The consequences and implications of such a
+result are here analyzed and discussed via a practical example.
+</dc:description>
+ <dc:description>Comment: 9 pages, no figures</dc:description>
+ <dc:date>2007-04-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0372</dc:identifier>
+ <dc:identifier>Journal of Physics A:Math.Theor.40, 2787 (2007)</dc:identifier>
+ <dc:identifier>doi:10.1088/1751-8113/40/11/013</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

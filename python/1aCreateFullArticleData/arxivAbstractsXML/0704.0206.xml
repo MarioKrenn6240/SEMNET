@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:14:04Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0206" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0206</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Resonant activation in bistable semiconductor lasers</dc:title>
+ <dc:creator>Lepri, Stefano</dc:creator>
+ <dc:creator>Giacomelli, Giovanni</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We theoretically investigate the possibility of observing resonant activation
+in the hopping dynamics of two-mode semiconductor lasers. We present a series
+of simulations of a rate-equations model under random and periodic modulation
+of the bias current. In both cases, for an optimal choice of the modulation
+time-scale, the hopping times between the stable lasing modes attain a minimum.
+The simulation data are understood by means of an effective one-dimensional
+Langevin equation with multiplicative fluctuations. Our conclusions apply to
+both Edge Emitting and Vertical Cavity Lasers, thus opening the way to several
+experimental tests in such optical systems.
+</dc:description>
+ <dc:description>Comment: Submitted to Phys. Rev. A</dc:description>
+ <dc:date>2007-04-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0206</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.76.023815</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:21Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0117" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0117</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Lower ground state due to counter-rotating wave interaction in trapped
+  ion system</dc:title>
+ <dc:creator>Liu, T.</dc:creator>
+ <dc:creator>Wang, K. L.</dc:creator>
+ <dc:creator>Feng, M.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We consider a single ion confined in a trap under radiation of two traveling
+waves of lasers. In the strong-excitation regime and without the restriction of
+Lamb-Dicke limit, the Hamiltonian of the system is similar to a driving
+Jaynes-Cummings model without rotating wave approximation (RWA). The approach
+we developed enables us to present a complete eigensolutions, which makes it
+available to compare with the solutions under the RWA. We find that, the ground
+state in our non-RWA solution is energically lower than the counterpart under
+the RWA. If we have the ion in the ground state, it is equivalent to a spin
+dependent force on the trapped ion. Discussion is made for the difference
+between the solutions with and without the RWA, and for the relevant
+experimental test, as well as for the possible application in quantum
+information processing.
+</dc:description>
+ <dc:description>Comment: Complete solution of a trapped ion in both strong and weak excitation
+  regimes and beyond Lamb-Dicke limit. Also applicable to JC model relevant
+  problems</dc:description>
+ <dc:date>2007-04-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0117</dc:identifier>
+ <dc:identifier>doi:10.1088/0953-4075/40/11/002</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

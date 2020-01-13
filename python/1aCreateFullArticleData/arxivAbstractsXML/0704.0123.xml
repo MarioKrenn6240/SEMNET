@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:15:08Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0123" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0123</identifier>
+ <datestamp>2009-06-25</datestamp>
+ <setSpec>nlin</setSpec>
+ <setSpec>physics:cond-mat</setSpec>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Nonlinear Dynamics of the Phonon Stimulated Emission in Microwave
+  Solid-State Resonator of the Nonautonomous Phaser Generator</dc:title>
+ <dc:creator>Makovetskii, D. N.</dc:creator>
+ <dc:subject>Nonlinear Sciences - Chaotic Dynamics</dc:subject>
+ <dc:subject>Condensed Matter - Other Condensed Matter</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  The microwave phonon stimulated emission (SE) has been experimentally and
+numerically investigated in a nonautonomous microwave acoustic quantum
+generator, called also microwave phonon laser or phaser (see previous works
+arXiv:cond-mat/0303188 ; arXiv:cond-mat/0402640 ; arXiv:nlin.CG/0703050)
+Phenomena of branching and long-time refractority (absence of the reaction on
+the external pulses) for deterministic chaotic and regular processes of SE were
+observed in experiments with various levels of electromagnetic pumping. At the
+pumping level growth, the clearly depined increasing of the number of
+coexisting SE states has been observed both in real physical experiments and in
+computer simulations. This confirms the analytical estimations of the branching
+density in the phase space. The nature of the refractority of SE pulses is
+closely connected with the pointed branching and reflects the crises of strange
+attractors, i.e. their collisions with unstable periodic components of the
+higher branches of SE states in the nonautonomous microwave phonon laser.
+</dc:description>
+ <dc:description>Comment: 15 pages, 5 figures. Translated from Russian. Originally published
+  in: Radiofizika i Elektronika (Kharkov), 2001, vol.6, no.1, pp.124-134</dc:description>
+ <dc:date>2007-04-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0123</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-02-09T19:14:07Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0414" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0414</identifier>
+ <datestamp>2009-09-29</datestamp>
+ <setSpec>physics:physics</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Leaky modes of a left-handed slab</dc:title>
+ <dc:creator>Moreau, Antoine</dc:creator>
+ <dc:creator>Felbacq, Didier</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  Using complex plane analysis we show that left-handed slab may support either
+leaky slab waves, which are backward because of negative refraction, or leaky
+surface waves, which are backward or forward depending on the propagation
+direction of the surface wave itself. Moreover, there is a general connection
+between the reflection coefficient of the left-handed slab and the one of the
+corresponding right-handed slab (with opposite permittivity and permeability)
+so that leaky slab modes are excited for the same angle of incidence of the
+impinging beam for both structures. Many negative giant lateral shifts can be
+explained by the excitation of these leaky modes.
+</dc:description>
+ <dc:date>2007-04-03</dc:date>
+ <dc:date>2008-09-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0414</dc:identifier>
+ <dc:identifier>journal of the european optical society : rapid publications 3
+  (2008) 08032</dc:identifier>
+ <dc:identifier>doi:10.2971/jeos.2008.08032</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

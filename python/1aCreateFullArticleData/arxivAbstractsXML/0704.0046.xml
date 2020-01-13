@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:39:19Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0046" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0046</identifier>
+ <datestamp>2009-11-13</datestamp>
+ <setSpec>cs</setSpec>
+ <setSpec>math</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A limit relation for entropy and channel capacity per unit cost</dc:title>
+ <dc:creator>Csiszar, I.</dc:creator>
+ <dc:creator>Hiai, F.</dc:creator>
+ <dc:creator>Petz, D.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:description>  In a quantum mechanical model, Diosi, Feldmann and Kosloff arrived at a
+conjecture stating that the limit of the entropy of certain mixtures is the
+relative entropy as system size goes to infinity. The conjecture is proven in
+this paper for density matrices. The first proof is analytic and uses the
+quantum law of large numbers. The second one clarifies the relation to channel
+capacity per unit cost for classical-quantum channels. Both proofs lead to
+generalization of the conjecture.
+</dc:description>
+ <dc:description>Comment: LATEX file, 11 pages</dc:description>
+ <dc:date>2007-04-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0046</dc:identifier>
+ <dc:identifier>J. Math. Phys. 48(2007), 092102.</dc:identifier>
+ <dc:identifier>doi:10.1063/1.2779138</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>

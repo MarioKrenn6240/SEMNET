@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2015-12-08T15:44:25Z</responseDate>
+<request verb="GetRecord" identifier="oai:arXiv.org:0704.0353" metadataPrefix="oai_dc">http://export.arxiv.org/oai2</request>
+<GetRecord>
+<record>
+<header>
+ <identifier>oai:arXiv.org:0704.0353</identifier>
+ <datestamp>2008-11-26</datestamp>
+ <setSpec>physics:nucl-th</setSpec>
+ <setSpec>physics:quant-ph</setSpec>
+</header>
+<metadata>
+ <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spin and pseudospin symmetries and the equivalent spectra of
+  relativistic spin-1/2 and spin-0 particles</dc:title>
+ <dc:creator>Alberto, P.</dc:creator>
+ <dc:creator>de Castro, A. S.</dc:creator>
+ <dc:creator>Malheiro, M.</dc:creator>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We show that the conditions which originate the spin and pseudospin
+symmetries in the Dirac equation are the same that produce equivalent energy
+spectra of relativistic spin-1/2 and spin-0 particles in the presence of vector
+and scalar potentials. The conclusions do not depend on the particular shapes
+of the potentials and can be important in different fields of physics. When
+both scalar and vector potentials are spherical, these conditions for
+isospectrality imply that the spin-orbit and Darwin terms of either the upper
+component or the lower component of the Dirac spinor vanish, making it
+equivalent, as far as energy is concerned, to a spin-0 state. In this case,
+besides energy, a scalar particle will also have the same orbital angular
+momentum as the (conserved) orbital angular momentum of either the upper or
+lower component of the corresponding spin-1/2 particle. We point out a few
+possible applications of this result.
+</dc:description>
+ <dc:description>Comment: 5 pages, uses revtex macros</dc:description>
+ <dc:date>2007-04-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/0704.0353</dc:identifier>
+ <dc:identifier>Phys.Rev.C75:047303,2007</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevC.75.047303</dc:identifier>
+ </oai_dc:dc>
+</metadata>
+</record>
+</GetRecord>
+</OAI-PMH>
