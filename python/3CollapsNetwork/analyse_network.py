@@ -13,7 +13,7 @@ def collaps_network(network_T_full,nn_full,all_KW_full):
     nn_s1=nn_full[0,:]
     while ii<orig_size:
         if ii%500==0:
-            print('Progress (vertical): ',ii, '/', orig_size,'(', len(network_T_s1),')')
+            print('collaps_network: Progress (vertical): ',ii, '/', orig_size,'(', len(network_T_s1),')')
         if degree[ii]>0:
             network_T_s1=np.vstack([network_T_s1, network_T_full[ii,:]])
             nn_s1=np.vstack([nn_s1, nn_full[ii,:]])
@@ -30,7 +30,7 @@ def collaps_network(network_T_full,nn_full,all_KW_full):
     all_KW_s2=[]
     while ii<orig_size:
         if ii%500==0:
-            print('Progress (horizontal): ',ii, '/', orig_size,'(', len(network_T_s2),')')
+            print('collaps_network: Progress (horizontal): ',ii, '/', orig_size,'(', len(network_T_s2),')')
         if degree[ii]>0:
             network_T_s2=np.vstack([network_T_s2, network_T_s1[ii,:]])
             nn_s2=np.vstack([nn_s2, nn_s1[ii,:]])
