@@ -1,5 +1,4 @@
 import numpy as np
-
 def remove_blacklist_words(network_T,nn,all_KW):
     # TODO: remove words that have degree>max_degree, for instance degree>100.000
     return network_T,nn,all_KW
@@ -12,8 +11,9 @@ def create_ancient_networks(network_T,nn,all_KW,y_start,y_end):
     ancient_nums=[]
     
     # probably quite inefficient method
-    for year in range(y_start,y_end):
+    for year in range(y_start,y_end+1):
         curr_nn=np.zeros(network_T.shape)
+        all_id_coll=[]
         for ccx in range(len(network_T)):
             all_ids=[]
             for ccy in range(len(network_T)):
@@ -23,14 +23,12 @@ def create_ancient_networks(network_T,nn,all_KW,y_start,y_end):
                     # curr_entry[ccn] is a number in the form: YYYY.paper_id, see create_network()
                     if curr_entry[ccn]<year+1: 
                         count+=1
-                    all_ids.append(curr_entry[ccn])
+                        all_ids.append(curr_entry[ccn])
                 curr_nn[ccx,ccy]=count
+            all_id_coll.append(len(set(all_ids)))
         ancient_nns.append(curr_nn)
+        ancient_nums.append(all_id_coll)
         
-        ancient_nums=len(set(all_ids))
         print('create_ancient_networks: Finished year ', year)
         
     return(all_KW,ancient_nns,ancient_nums)
-        
-    
-                

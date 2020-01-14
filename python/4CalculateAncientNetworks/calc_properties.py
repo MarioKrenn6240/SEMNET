@@ -43,7 +43,8 @@ def calculate_all_network_properties_per_year(single_net,single_netYM1,single_ne
     # distance (TODO: use two alternative distances)
     # Those properties have been used based on heuristic tests, probably there is a lot of room for improvements
     
-    all_properties=[evolving_nums]
+    all_properties=[]
+    all_properties.append(np.array(evolving_nums))
     
     degrees=np.count_nonzero(single_net,axis=0)
     all_properties.append(degrees)
@@ -63,8 +64,9 @@ def calculate_all_network_properties_per_year(single_net,single_netYM1,single_ne
 
 def calculate_all_network_properties(evolving_nets,evolving_nums):
     all_properties_years=[]
-    for ii in range(2,len(evolving_nets)):        
-        current_all_properties=calculate_all_network_properties_per_year(evolving_nets[ii],evolving_nets[ii-1],evolving_nets[ii-2],evolving_nums)
+    for ii in range(2,len(evolving_nets)):  
+        print('calculate_all_network_properties - ',ii,'/',len(evolving_nets))
+        current_all_properties=calculate_all_network_properties_per_year(evolving_nets[ii],evolving_nets[ii-1],evolving_nets[ii-2],evolving_nums[ii])
         all_properties_years.append(current_all_properties)
     
     return all_properties_years
