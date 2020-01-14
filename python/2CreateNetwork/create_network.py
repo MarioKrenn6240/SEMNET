@@ -10,7 +10,7 @@ def create_network(all_papers):
            all_KW.append(line[0:-1])
            line = fp.readline()
 
-    #all_KW=all_KW[0:700]
+    all_KW=all_KW[0:2000] # this helps reducing the process for debugging...
 
     padding_str=''
     for ii in range(1000):
