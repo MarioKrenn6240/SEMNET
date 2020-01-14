@@ -1,3 +1,5 @@
+import numpy as np
+
 def prepare_training_for_curr_year(semnet_now,semnet_future,all_properties_now):
     delta_semnet=semnet_future-semnet_now
 
@@ -21,6 +23,8 @@ def prepare_training_for_curr_year(semnet_now,semnet_future,all_properties_now):
                 else:
                     data_1.append(property_vector) # cases were a connection has been made
     
+    data_0=np.array(data_0)
+    data_1=np.array(data_1)
     return data_0, data_1
 
 
