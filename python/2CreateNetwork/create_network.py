@@ -1,4 +1,4 @@
-import time
+import random
 import numpy as np
 
 def create_network(all_papers):    
@@ -22,6 +22,11 @@ def create_network(all_papers):
     nn=np.zeros((len(all_KW),len(all_KW)))
     cc_papers=0
     for article in all_papers:
+        # quasi-unique paper identifier:
+        # this number between (0,1) will be added to the year in SemNet
+        # such that one number carries both the year-info and the paper id
+        paper_id=random.random()
+        
         if cc_papers%10==0:
             print('Paper ',cc_papers,'/',len(all_papers))    
             print('Title: ',article[1])
@@ -56,8 +61,8 @@ def create_network(all_papers):
 
         for ii in range(len(found_KW)-1):
             for jj in range(ii+1,len(found_KW)):
-                network_T[found_KW[ii],found_KW[jj]].append(int(article[0][0:4]))
-                network_T[found_KW[jj],found_KW[ii]].append(int(article[0][0:4]))               
+                network_T[found_KW[ii],found_KW[jj]].append(int(article[0][0:4])+paper_id)
+                network_T[found_KW[jj],found_KW[ii]].append(int(article[0][0:4])+paper_id)
                 
                 nn[found_KW[ii],found_KW[jj]]+=1
                 nn[found_KW[jj],found_KW[ii]]+=1
