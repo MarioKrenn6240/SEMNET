@@ -1,8 +1,10 @@
 # Predicting research trends with semantic and neural networks with an application in quantum physics
-### Code for the paper: https://arxiv.org/abs/1906.06843
+### Code for the paper: https://www.pnas.org/content/early/2020/01/13/1914370116/tab-article-info / https://arxiv.org/abs/1906.06843
 ### by Mario Krenn (mario.krenn@univie.ac.at) and Anton Zeilinger (anton.zeilinger@univie.ac.at)
 
 ![Image of SemNet](https://github.com/MarioKrenn6240/SEMNET/blob/master/SemNet.png)
+
+We show an implementation in MATLAB and in python for creating a semantic network from data, and making predictions into the future.
 
 ## CreateAndAnalyseSEMNET
 Contains a simple example, how to start from APS and arXiv files to create a Semantic Networks, calculate network theoretic properties, and make predictions
