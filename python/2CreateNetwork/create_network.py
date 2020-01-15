@@ -43,10 +43,25 @@ def create_network(all_papers):
         full_text=full_text.replace('\\','')
         full_text=full_text.lower()
 
-        # ToDo: one can also remove brackets
-        # such as "Greenberger-Horne-Zeilinger (GHZ) state", GHZ
-        # Thus have two abstracts that can be disaminated
+        if full_text.find('(')>=0: # Remove brakets, for example: Clauser-Horne (CH) inequality, in a separate string. Thus have two abstracts that can be disaminated
+            idx=full_text.find('(')+1
+            new_full_text=full_text[0:idx-1]    
+            bracket_count=1
+            while idx<len(full_text):
+                if bracket_count==0:
+                    new_full_text+=full_text[idx]
+                    
+                if full_text[idx]=='(':
+                    bracket_count+=1
+                if full_text[idx]==')':
+                    bracket_count-=1            
+        
+                idx+=1
+                
+            full_text=full_text+" "+new_full_text.replace('  ',' ')
+        
 
+            
         found_KW=[]
         kw_idx=0
         for kw in all_KW:
