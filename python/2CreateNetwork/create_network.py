@@ -1,10 +1,13 @@
 import random
 import numpy as np
+import time
 
 def create_network(all_papers):    
     keyword_list = '2CreateNetwork\\keyword_list.lst'
     all_KW=[]
     KW_length=[]
+    print('create_network - For debugging reasons, only 1500 KWs are used')
+    time.sleep(3)
     with open(keyword_list) as fp:
         line = fp.readline()
         while line:
