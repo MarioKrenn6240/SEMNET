@@ -1,12 +1,6 @@
 import numpy as np
-def remove_blacklist_words(network_T,nn,all_KW):
-    # TODO: remove words that have degree>max_degree, for instance degree>100.000
-    return network_T,nn,all_KW
-
 
 def create_ancient_networks(network_T,nn,all_KW,y_start,y_end):
-    network_T,nn,all_KW=remove_blacklist_words(network_T,nn,all_KW)
-    
     ancient_nns=[]
     ancient_nums=[]
     
