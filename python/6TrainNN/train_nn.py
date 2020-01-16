@@ -16,7 +16,7 @@ class ff_network(nn.Module):
         super(ff_network, self).__init__()
 
         self.semnet = nn.Sequential(
-            nn.Linear(15, 50), # 15 properties
+            nn.Linear(17, 50), # 17 properties
             nn.ReLU(),
             nn.Linear(50, 10), # very small network for tests
             nn.ReLU(),            
@@ -111,7 +111,6 @@ def train_model(data_train0, data_test0, data_train1, data_test1, lr_enc, batch_
 
         info_str='epoch: '+str(epoch)+' - totalloss: ',np.mean(real_loss_train_num0)+np.mean(real_loss_train_num1) ,'; l1/l2: '+str(np.mean(real_loss_train_num0))+'/'+str(np.mean(real_loss_train_num1))+'; total: ',np.mean(real_loss_test_num0)+np.mean(real_loss_test_num1) ,' ts1/ts2: '+str(np.mean(real_loss_test_num0))+'/'+str(np.mean(real_loss_test_num1))
         model_semnet.train()
-        print(info_str)
         
         if epoch%10==0:
             plt.plot(test_loss_total)
@@ -157,7 +156,20 @@ def train_nn_one_instance(data_0,data_1,model_semnet):
 
 def calculate_ROC(data_0,data_1,model_semnet):
     # TODO!
-    return 0, 0 # tmp
+    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+
+    model_semnet.eval()
+    data_0=torch.tensor(data_0, dtype=torch.float).to(device)
+    data_1=torch.tensor(data_1, dtype=torch.float).to(device)
+    future_data_0=model_semnet(data_0).detach().cpu().numpy()
+    future_data_1=model_semnet(data_1).detach().cpu().numpy()
+    
+    print(future_data_0.shape)
+    print(future_data_1.shape)
+    
+    print(future_data_1)
+    
+    return future_data_0, future_data_1   
 
 
 
@@ -171,7 +183,7 @@ def train_nn(all_data_0, all_data_1, prediction_distance, start_year):
         print('Calculate ROC & AUC')
         
         # TODO calculate ROC & AUC
-        if y+prediction_distance<len(all_data_0):
-            future_data_0, future_data_1 = calculate_ROC(all_data_0[y+prediction_distance],all_data_1[y+prediction_distance],model_semnet)
+        #if y+prediction_distance<len(all_data_0):
+        #    future_data_0, future_data_1 = calculate_ROC(all_data_0[y+prediction_distance],all_data_1[y+prediction_distance],model_semnet)
             
     return True 
