@@ -1,7 +1,8 @@
 import numpy as np
+from pathlib import Path
 
 def collaps_synonyms(network_T_full,nn_full,all_KW_full):
-    synonym_list = '3CollapsNetwork\\SynonymList.lst'
+    synonym_list = Path('3CollapsNetwork/SynonymList.lst')
     all_syn=[[]]
     syn_count=0
     with open(synonym_list) as fp:

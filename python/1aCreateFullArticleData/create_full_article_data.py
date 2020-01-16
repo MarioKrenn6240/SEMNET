@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 
 def XML_to_article_data(file_name):
     with open(file_name, 'r') as content_file:
@@ -21,11 +22,10 @@ def XML_to_article_data(file_name):
 
 def create_full_data_arxiv():
     full_article_data_arxiv=[]
-    for file in os.listdir("1aCreateFullArticleData\\arxivAbstractsXML"):
-        if file.endswith(".xml"):
-            new_file=os.path.join("1aCreateFullArticleData\\arxivAbstractsXML\\", file)
-    
-            date, title, abstract=XML_to_article_data(new_file)
+    arxiv_dir = Path('1aCreateFullArticleData/arxivAbstractsXML')
+    for file in arxiv_dir.iterdir():
+        if file.suffix == ".xml":
+            date, title, abstract=XML_to_article_data(file)
             
             full_article_data_arxiv.append([date, title, abstract])
             
