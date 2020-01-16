@@ -4,13 +4,16 @@ import numpy as np
 def create_network(all_papers):    
     keyword_list = '2CreateNetwork\\keyword_list.lst'
     all_KW=[]
+    KW_length=[]
     with open(keyword_list) as fp:
-       line = fp.readline()
-       while line:
-           all_KW.append(line[0:-1])
-           line = fp.readline()
+        line = fp.readline()
+        while line:
+            if len(all_KW)<1500: # this helps reducing the time for debugging...
+                all_KW.append(line[0:-1])
+                KW_length.append(len(line[0:-1]))
+            line = fp.readline()
 
-    all_KW=all_KW[0:2000] # this helps reducing the process for debugging...
+    sorted_KW_idx=np.argsort(KW_length)[::-1] # indices of KWs from largest to smallest
 
     padding_str=''
     for ii in range(1000):
@@ -24,7 +27,7 @@ def create_network(all_papers):
     for article in all_papers:
         # quasi-unique paper identifier:
         # this number between (0,1) will be added to the year in SemNet
-        # such that one number carries both the year-info and the paper id
+        # such that one number carries both the year-info and the paper id in the for YYYY.IDIDID
         paper_id=random.random()
         
         if cc_papers%10==0:
@@ -60,16 +63,13 @@ def create_network(all_papers):
                 
             full_text=full_text+" "+new_full_text.replace('  ',' ')
         
-
-            
         found_KW=[]
         kw_idx=0
-        for kw in all_KW:
-            if full_text.find(kw)>=0:
-                found_KW.append(kw_idx)            
-                #   ToDo: padd this part of the text. in that way, other KWs dont use part of this KW anymore (idea is: this KW is more specific than smaller ones)   
-                #   full_text.replace(kw,padding_str[0:len(kw)]) 
-                #   However for this the KWs should be sorted by size
+        for kw_idx in sorted_KW_idx:
+            if full_text.find(all_KW[kw_idx])>=0:
+                found_KW.append(kw_idx)
+                pos_of_kw=full_text.find(all_KW[kw_idx])
+                full_text=full_text[0:pos_of_kw]+full_text[pos_of_kw+len(all_KW[kw_idx]):]
             kw_idx+=1
 
         found_KW=list(set(found_KW))
