@@ -66,5 +66,3 @@ print('Finished preparing training data for neural network')
 train_nn(all_data_0, all_data_1, prediction_distance, start_year) # Here we train the neural network, and calculate the ROC & AUC
 print('Finished training neural networks')
 
-# ROC calculation is on TODO list
-
