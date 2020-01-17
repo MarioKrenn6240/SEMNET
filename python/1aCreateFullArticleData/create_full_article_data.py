@@ -2,6 +2,9 @@ import os
 from pathlib import Path
 
 def XML_to_article_data(file_name):
+    # Reads content of XLM file from arXiv, and extracts
+    # publication date (which will be added to the node-information of the semantic network)
+    # title and abstract (which are combined, and used to find co-occurances of key-concepts)
     with open(file_name, 'r') as content_file:
         content = content_file.read()
         
