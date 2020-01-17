@@ -1,10 +1,8 @@
-
 import torch
 from torch import nn
 from random import shuffle
 import numpy as np
 import matplotlib.pyplot as plt
-import time
 
 
 class ff_network(nn.Module):
@@ -49,7 +47,7 @@ def train_model(data_train0, data_test0, data_train1, data_test1, lr_enc, batch_
     data_test1=torch.tensor(data_test1, dtype=torch.float).to(device)
 
     test_loss_total=[]
-    for epoch in range(21): # should be much larger, with good early stopping criteria
+    for epoch in range(500): # should be much larger, with good early stopping criteria
         small_train_len=min(len(data_train0),len(data_train1))
         for batch_iteration in range(int(small_train_len/batch_size)): 
             idx = torch.randint(0, len(data_train0), (batch_size,))
@@ -79,7 +77,7 @@ def train_model(data_train0, data_test0, data_train1, data_test1, lr_enc, batch_
         # calculate train set
         model_semnet.eval()
         
-        calc_properties0 = model_semnet(data_train0[1:1000])        
+        calc_properties0 = model_semnet(data_train0[1:3000])        
         criterion = torch.nn.MSELoss()
 
         curr_pred=torch.tensor([0] * len(data_train0), dtype=torch.float).to(device)
@@ -95,7 +93,7 @@ def train_model(data_train0, data_test0, data_train1, data_test1, lr_enc, batch_
         real_loss_train_num1=real_loss1.detach().cpu().numpy()        
 
         # calculate test set
-        calc_properties0 = model_semnet(data_test0[1:1000])
+        calc_properties0 = model_semnet(data_test0[1:3000])
         criterion = torch.nn.MSELoss()
         curr_pred=torch.tensor([0] * len(data_test0), dtype=torch.float).to(device)
         real_loss0 = criterion(calc_properties0, curr_pred)
@@ -109,22 +107,26 @@ def train_model(data_train0, data_test0, data_train1, data_test1, lr_enc, batch_
 
         test_loss_total.append(np.mean(real_loss_test_num0)+np.mean(real_loss_test_num1))
 
-        info_str='epoch: '+str(epoch)+' - totalloss: ',np.mean(real_loss_train_num0)+np.mean(real_loss_train_num1) ,'; l1/l2: '+str(np.mean(real_loss_train_num0))+'/'+str(np.mean(real_loss_train_num1))+'; total: ',np.mean(real_loss_test_num0)+np.mean(real_loss_test_num1) ,' ts1/ts2: '+str(np.mean(real_loss_test_num0))+'/'+str(np.mean(real_loss_test_num1))
+        if epoch%10==0:
+            info_str='epoch: '+str(epoch)+' - totalloss: ',np.mean(real_loss_train_num0)+np.mean(real_loss_train_num1) ,'; l1/l2: '+str(np.mean(real_loss_train_num0))+'/'+str(np.mean(real_loss_train_num1))+'; total: ',np.mean(real_loss_test_num0)+np.mean(real_loss_test_num1) ,' ts1/ts2: '+str(np.mean(real_loss_test_num0))+'/'+str(np.mean(real_loss_test_num1))
+            print('train_model: ',info_str)
         model_semnet.train()
         
-        if epoch%10==0:
-            plt.plot(test_loss_total)
-            plt.pause(0.05)
-            plt.show
-
         
+        if len(test_loss_total)>30: # early stopping
+            if (test_loss_total[-10]-test_loss_total[-1])<=0 and (test_loss_total[-11]-test_loss_total[-1])<=0 and (test_loss_total[-12]-test_loss_total[-1])<=0:
+                break
+
+    plt.plot(test_loss_total)
+    plt.pause(0.05)
+    plt.show
 
     return True
     
     
 
 def train_nn_one_instance(data_0,data_1,model_semnet):
-    batch_size=20
+    batch_size=100
     lr_enc=0.01
 
     model_semnet.train()
@@ -167,14 +169,42 @@ def calculate_ROC(data_0,data_1,model_semnet):
     print(future_data_0.shape)
     print(future_data_1.shape)
     
-    print(future_data_1)
+    all_pred=np.concatenate([future_data_0,future_data_1])
+    corr_answers=np.array([0] * len(future_data_0) + [1] * len(future_data_1))
+    idx1=np.flip(np.argsort(all_pred,axis=0)) # indices from strongest predicted connection to shortest one
     
+    print(corr_answers.shape)
+    corr_answers_sorted=corr_answers[idx1]
+    
+    xpos=[0]
+    ypos=[0]
+    ROC_vals=[]
+    for ii in range(len(corr_answers_sorted)):
+        if corr_answers_sorted[ii]==1:
+            xpos.append(xpos[-1])
+            ypos.append(ypos[-1]+1)
+        if corr_answers_sorted[ii]==0:
+            xpos.append(xpos[-1]+1)
+            ypos.append(ypos[-1])      
+            ROC_vals.append(ypos[-1])
+    
+    ROC_vals=np.array(ROC_vals)/max(ypos)
+    ypos=np.array(ypos)/max(ypos)
+    xpos=np.array(xpos)/max(xpos)
+    
+    
+    plt.plot(xpos, ypos)
+    plt.show()
+        
+    AUC=sum(ROC_vals)/len(ROC_vals)
+    print('Area Under Curve: ', AUC,'\n\n\n')
+            
     return future_data_0, future_data_1   
 
 
 
 def train_nn(all_data_0, all_data_1, prediction_distance, start_year):
-    for y in range(len(all_data_0)):
+    for y in range(len(all_data_0[1:3])):
         print('train_nn - year ',start_year+y+2)  
     
         model_semnet = ff_network()
@@ -182,8 +212,7 @@ def train_nn(all_data_0, all_data_1, prediction_distance, start_year):
         print('train_nn - finished - year ',start_year+y+2)
         print('Calculate ROC & AUC')
         
-        # TODO calculate ROC & AUC
-        #if y+prediction_distance<len(all_data_0):
-        #    future_data_0, future_data_1 = calculate_ROC(all_data_0[y+prediction_distance],all_data_1[y+prediction_distance],model_semnet)
+        if y+prediction_distance<len(all_data_0):
+            future_data_0, future_data_1 = calculate_ROC(all_data_0[y+prediction_distance],all_data_1[y+prediction_distance],model_semnet)
             
     return True 
