@@ -157,7 +157,6 @@ def train_nn_one_instance(data_0,data_1,model_semnet):
 
 
 def calculate_ROC(data_0,data_1,model_semnet):
-    # TODO!
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
     model_semnet.eval()
