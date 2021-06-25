@@ -1,7 +1,3 @@
-
-
-
-
 This directory contains a simple arxiv crawler and some paper/month analysis for AI, quantum physics, and chemistry.
 by Mario Krenn (mario.krenn@univie.ac.at)
  
