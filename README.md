@@ -1,5 +1,6 @@
 # Predicting research trends with semantic and neural networks with an application in quantum physics
 ### Code for the paper: https://www.pnas.org/content/early/2020/01/13/1914370116/tab-article-info / https://arxiv.org/abs/1906.06843
+### A followup competition in the domain of Machine Learning and Aritificial Intelligence: [Science4Cast](https://github.com/iarai/science4cast)
 ### by Mario Krenn (mario.krenn@univie.ac.at) and Anton Zeilinger (anton.zeilinger@univie.ac.at)
 
 ![Image of SemNet](https://github.com/MarioKrenn6240/SEMNET/blob/master/SemNet.png)
