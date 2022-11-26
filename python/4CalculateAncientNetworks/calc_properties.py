@@ -38,7 +38,9 @@ def distance_between_nodes_weighted(mat):
 
 def cos_similarity(mtx):    
     single_net=np.heaviside(mtx, 0.0)
-    cos_sim=dot(single_net, single_net)/(norm(single_net)*norm(single_net))
+    cos_sim=dot(single_net, single_net)/(
+            norm(single_net, axis=1)@norm(single_net, axis=0)  # (n, n)
+    )
     return cos_sim
 
 
